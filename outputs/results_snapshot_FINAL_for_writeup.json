@@ -1,0 +1,169 @@
+{
+  "sample_period": [
+    "2010-01-01",
+    "2025-12-28"
+  ],
+  "n_obs_panel": 5841,
+  "n_event_days": 135,
+  "Table1_rows": [
+    {
+      "var": "surp_target",
+      "coef": -0.515972777438296,
+      "se": 0.6670046359938537,
+      "t": -0.773567003277996,
+      "p": 0.43918689134774835,
+      "p_wild_bootstrap_NULL": 0.5203520352035204
+    },
+    {
+      "var": "surp_path_next",
+      "coef": 1.4489873712461276,
+      "se": 0.5132196161763933,
+      "t": 2.8233281144657405,
+      "p": 0.004752790327324664,
+      "p_wild_bootstrap_NULL": 0.00020002000200020003
+    },
+    {
+      "var": "VIX_lag1",
+      "coef": -0.00042470451158828425,
+      "se": 0.0009336431057719623,
+      "t": -0.4548895707178458,
+      "p": 0.6491886863499918,
+      "p_wild_bootstrap_NULL": NaN
+    },
+    {
+      "var": "EPU_lag1",
+      "coef": -6.531062977894608e-05,
+      "se": 6.881189108186768e-05,
+      "t": -0.9491183682373148,
+      "p": 0.3425604132788026,
+      "p_wild_bootstrap_NULL": NaN
+    },
+    {
+      "var": "term_slope_lag1",
+      "coef": -0.0027923971428243143,
+      "se": 0.0204191224067186,
+      "t": -0.13675402337102982,
+      "p": 0.8912252261444804,
+      "p_wild_bootstrap_NULL": NaN
+    }
+  ],
+  "Robust_inference_summary": [
+    {
+      "var": "surp_path_next",
+      "HC1_t": 2.8233281144657405,
+      "HC1_p": 0.004752790327324664,
+      "WB_null_p": 0.00020002000200020003,
+      "WB_unrestricted_p": 0.5332533253325332,
+      "Perm_p": 0.0032,
+      "Perm_beta": 1.4489873712461276
+    },
+    {
+      "var": "surp_target",
+      "HC1_t": -0.773567003277996,
+      "HC1_p": 0.43918689134774835,
+      "WB_null_p": 0.5203520352035204,
+      "WB_unrestricted_p": 0.5956595659565956,
+      "Perm_p": 0.3046,
+      "Perm_beta": -0.515972777438296
+    }
+  ],
+  "Robust_path_ffavg": null,
+  "Robust_add_spret": [
+    {
+      "var": "surp_target",
+      "coef": -0.3059628052565128,
+      "se": 0.3541534054072407,
+      "t": -0.8639273280591118,
+      "p": 0.3876278133453406
+    },
+    {
+      "var": "surp_path_next",
+      "coef": 0.0854186581592537,
+      "se": 0.3717289683316609,
+      "t": 0.2297874673115122,
+      "p": 0.8182569238008689
+    },
+    {
+      "var": "sp_ret_same",
+      "coef": -6.994403583040419,
+      "se": 1.9989476947414948,
+      "t": -3.4990428221009253,
+      "p": 0.0004669315845197
+    }
+  ],
+  "Robust_interaction_unsched": [
+    {
+      "var": "surp_target",
+      "coef": -0.5161384887311968,
+      "se": 0.6685329244286228,
+      "t": -0.772046476502749,
+      "p": 0.4400869010975772
+    },
+    {
+      "var": "surp_path_next",
+      "coef": 1.4382919296558467,
+      "se": 0.5242238613870668,
+      "t": 2.7436597903998634,
+      "p": 0.0060758469896312
+    },
+    {
+      "var": "target_x_unsched",
+      "coef": 0.9666867413806012,
+      "se": 4.657804285904285,
+      "t": 0.2075412967234463,
+      "p": 0.8355871445629912
+    },
+    {
+      "var": "path_x_unsched",
+      "coef": 0.7484026384892726,
+      "se": 3.606042027802002,
+      "t": 0.2075412967234461,
+      "p": 0.8355871445629913
+    }
+  ],
+  "Top15_SHAP_eventdays": [
+    {
+      "feature": "surp_path_next",
+      "mean_abs_shap": 0.03731102407880785
+    },
+    {
+      "feature": "dlogVIX_lag1",
+      "mean_abs_shap": 0.016551743001061374
+    },
+    {
+      "feature": "EPU_lag1",
+      "mean_abs_shap": 0.016312986655958917
+    },
+    {
+      "feature": "VIX_lag1",
+      "mean_abs_shap": 0.013213714754231049
+    },
+    {
+      "feature": "surp_target",
+      "mean_abs_shap": 0.011083445818141989
+    },
+    {
+      "feature": "term_slope_lag1",
+      "mean_abs_shap": 0.009619557074951726
+    },
+    {
+      "feature": "PC",
+      "mean_abs_shap": 0.003802026415682191
+    },
+    {
+      "feature": "SEP",
+      "mean_abs_shap": 0.0005108960316217839
+    },
+    {
+      "feature": "Unscheduled",
+      "mean_abs_shap": 0.00015033162733815071
+    }
+  ],
+  "notes": {
+    "VIX_source": "FRED VIXCLS (Cboe VIX via FRED)",
+    "dlogVIX_definition": "panel[\"dlogVIX\"] = np.log(panel[\"VIX\"]).diff()",
+    "baseline": "Event-day regression with both target and path surprises + lagged state controls",
+    "inference": "HC1 + studentized wild bootstrap under NULL + unrestricted + permutation",
+    "shap_usage": "Interpretation only (no forecasting claims)"
+  }
+}
