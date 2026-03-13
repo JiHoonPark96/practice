@@ -1,0 +1,256 @@
+{
+  "config": {
+    "n_folds": 2,
+    "n_replications": 50,
+    "n": 1000,
+    "p": 20,
+    "theta_true": 1.0,
+    "clip_quantiles": [
+      0.95,
+      0.97,
+      0.99,
+      0.995,
+      0.999
+    ],
+    "winsor_limits": [
+      0.01,
+      0.01
+    ],
+    "alpha": 0.05,
+    "learners": [
+      "lasso"
+    ]
+  },
+  "design_grid": {
+    "tail_type": [
+      "normal",
+      "t5",
+      "t3"
+    ],
+    "contamination": [
+      0.0,
+      0.05
+    ],
+    "overlap": [
+      "strong",
+      "weak"
+    ],
+    "nuisance": [
+      "linear",
+      "nonlinear"
+    ]
+  },
+  "overall_rows": 9600,
+  "summary_rows": 192,
+  "best_rows_severe_cases": [
+    {
+      "tail_type": "t5",
+      "learner": "lasso",
+      "best_estimator": "score_clipped_dml",
+      "clip_quantile": 0.95,
+      "rmse": 0.1399216115229055,
+      "bias": -0.12598152126103485,
+      "sd": 0.061500901535803815,
+      "coverage": 0.44,
+      "mean_ci_length": 0.23826168255013871,
+      "mean_share_top1pct": 0.10029434574726015,
+      "mean_share_top0_5pct": 0.050147172873630075
+    },
+    {
+      "tail_type": "t3",
+      "learner": "lasso",
+      "best_estimator": "score_clipped_dml",
+      "clip_quantile": 0.95,
+      "rmse": 0.14717500839592032,
+      "bias": -0.1367722076927627,
+      "sd": 0.054901082655275886,
+      "coverage": 0.28,
+      "mean_ci_length": 0.22069094471741565,
+      "mean_share_top1pct": 0.09982076277748174,
+      "mean_share_top0_5pct": 0.04991038138874087
+    }
+  ],
+  "severe_threshold_ranking": [
+    {
+      "tail_type": "t3",
+      "clip_quantile": 0.95,
+      "bias": -0.1367722076927627,
+      "sd": 0.054901082655275886,
+      "rmse": 0.14717500839592032,
+      "coverage": 0.28,
+      "mean_ci_length": 0.22069094471741565,
+      "mean_share_top1pct": 0.09982076277748174,
+      "mean_share_top0_5pct": 0.04991038138874087
+    },
+    {
+      "tail_type": "t3",
+      "clip_quantile": 0.97,
+      "bias": -0.18355880880286246,
+      "sd": 0.06555328872275076,
+      "rmse": 0.19469238628730906,
+      "coverage": 0.14,
+      "mean_ci_length": 0.2579996130796237,
+      "mean_share_top1pct": 0.12522240075688934,
+      "mean_share_top0_5pct": 0.06261120037844467
+    },
+    {
+      "tail_type": "t3",
+      "clip_quantile": 0.99,
+      "bias": -0.24978478736198417,
+      "sd": 0.07511281453484053,
+      "rmse": 0.2606176053275567,
+      "coverage": 0.02,
+      "mean_ci_length": 0.299562923921379,
+      "mean_share_top1pct": 0.16950514692390584,
+      "mean_share_top0_5pct": 0.08526893398806273
+    },
+    {
+      "tail_type": "t3",
+      "clip_quantile": 0.995,
+      "bias": -0.2715973334906724,
+      "sd": 0.07608874913106835,
+      "rmse": 0.28184893001160666,
+      "coverage": 0.02,
+      "mean_ci_length": 0.3087663100344842,
+      "mean_share_top1pct": 0.19124971254147538,
+      "mean_share_top0_5pct": 0.10095203739821124
+    },
+    {
+      "tail_type": "t3",
+      "clip_quantile": 0.999,
+      "bias": -0.2904113312043529,
+      "sd": 0.07711864607457881,
+      "rmse": 0.3002783394665906,
+      "coverage": 0.02,
+      "mean_ci_length": 0.3130890754258655,
+      "mean_share_top1pct": 0.2120236494551481,
+      "mean_share_top0_5pct": 0.12252895475319808
+    },
+    {
+      "tail_type": "t5",
+      "clip_quantile": 0.95,
+      "bias": -0.12598152126103485,
+      "sd": 0.061500901535803815,
+      "rmse": 0.1399216115229055,
+      "coverage": 0.44,
+      "mean_ci_length": 0.23826168255013871,
+      "mean_share_top1pct": 0.10029434574726015,
+      "mean_share_top0_5pct": 0.050147172873630075
+    },
+    {
+      "tail_type": "t5",
+      "clip_quantile": 0.97,
+      "bias": -0.18335344129481126,
+      "sd": 0.07187680033862764,
+      "rmse": 0.1966759603333116,
+      "coverage": 0.26,
+      "mean_ci_length": 0.28668310615055675,
+      "mean_share_top1pct": 0.1298743418890921,
+      "mean_share_top0_5pct": 0.06493717094454605
+    },
+    {
+      "tail_type": "t5",
+      "clip_quantile": 0.99,
+      "bias": -0.2602922320897043,
+      "sd": 0.07964267966633247,
+      "rmse": 0.2719708502435249,
+      "coverage": 0.1,
+      "mean_ci_length": 0.33521466705666164,
+      "mean_share_top1pct": 0.1720273940033283,
+      "mean_share_top0_5pct": 0.0861605512156107
+    },
+    {
+      "tail_type": "t5",
+      "clip_quantile": 0.995,
+      "bias": -0.28570263596972884,
+      "sd": 0.08361318756047831,
+      "rmse": 0.2974514044871778,
+      "coverage": 0.06,
+      "mean_ci_length": 0.3419252252036791,
+      "mean_share_top1pct": 0.19276366686018112,
+      "mean_share_top0_5pct": 0.09962029512802607
+    },
+    {
+      "tail_type": "t5",
+      "clip_quantile": 0.999,
+      "bias": -0.3052665600867998,
+      "sd": 0.08188158439163422,
+      "rmse": 0.31584517519262884,
+      "coverage": 0.02,
+      "mean_ci_length": 0.34426087541623107,
+      "mean_share_top1pct": 0.2091018737165893,
+      "mean_share_top0_5pct": 0.11597343615420982
+    }
+  ],
+  "top_level_summary": {
+    "mean_rmse_by_estimator": {
+      "covariate_winsorized_dml": 0.27021915648151473,
+      "outcome_winsorized_dml": 0.3028865559819431,
+      "score_clipped_dml": 0.2061208950591865,
+      "standard_dml": 0.2680766488859515
+    },
+    "mean_coverage_by_estimator": {
+      "covariate_winsorized_dml": 0.38083333333333336,
+      "outcome_winsorized_dml": 0.24750000000000003,
+      "score_clipped_dml": 0.5211666666666667,
+      "standard_dml": 0.3933333333333333
+    },
+    "mean_bias_by_estimator": {
+      "covariate_winsorized_dml": -0.248421316444451,
+      "outcome_winsorized_dml": -0.2865744214239736,
+      "score_clipped_dml": -0.18125075801557702,
+      "standard_dml": -0.2474324623661901
+    },
+    "mean_top1pct_score_share_by_estimator": {
+      "covariate_winsorized_dml": 0.17488664527550768,
+      "outcome_winsorized_dml": 0.18032119989053066,
+      "score_clipped_dml": 0.14089348500260804,
+      "standard_dml": 0.17488560976876236
+    },
+    "mean_top0_5pct_score_share_by_estimator": {
+      "covariate_winsorized_dml": 0.10186180181617205,
+      "outcome_winsorized_dml": 0.11018393708056166,
+      "score_clipped_dml": 0.0757785619880225,
+      "standard_dml": 0.10184384666147783
+    }
+  },
+  "empirical_401k_preview": {
+    "n": 9915,
+    "outcome": "net_tfa",
+    "treatment": "e401",
+    "standard_dml": {
+      "theta_hat": 4878.500016042124,
+      "se_hat": 1757.3750735052706,
+      "ci_low": 1434.1081646433636,
+      "ci_high": 8322.891867440885,
+      "share_top1pct": 0.19442919251615398
+    },
+    "best_clipped_by_smallest_se": {
+      "clip_quantile": 0.95,
+      "theta_hat": 5421.449354659689,
+      "se_hat": 667.4250206297899,
+      "ci_low": 4113.320351844398,
+      "ci_high": 6729.578357474979,
+      "share_top1pct": 0.03979786383172481
+    }
+  },
+  "output_files": {
+    "replication_results_csv": "results_dml_heavytail\\tables\\simulation_replication_level_results.csv",
+    "summary_table_csv": "results_dml_heavytail\\tables\\simulation_summary_table.csv",
+    "paper_focus_table_csv": "results_dml_heavytail\\tables\\paper_focus_table.csv",
+    "threshold_sensitivity_table_csv": "results_dml_heavytail\\tables\\threshold_sensitivity_table.csv",
+    "severe_case_compare_table_csv": "results_dml_heavytail\\tables\\severe_case_compare_table.csv",
+    "figure_rmse_threshold_t5": "results_dml_heavytail\\figures\\figure_rmse_threshold_t5.png",
+    "figure_rmse_threshold_t3": "results_dml_heavytail\\figures\\figure_rmse_threshold_t3.png",
+    "figure_bias_threshold_t5": "results_dml_heavytail\\figures\\figure_bias_threshold_t5.png",
+    "figure_bias_threshold_t3": "results_dml_heavytail\\figures\\figure_bias_threshold_t3.png",
+    "figure_coverage_threshold_t5": "results_dml_heavytail\\figures\\figure_coverage_threshold_t5.png",
+    "figure_coverage_threshold_t3": "results_dml_heavytail\\figures\\figure_coverage_threshold_t3.png",
+    "figure_top1share_threshold_t5": "results_dml_heavytail\\figures\\figure_top1share_threshold_t5.png",
+    "figure_top1share_threshold_t3": "results_dml_heavytail\\figures\\figure_top1share_threshold_t3.png",
+    "empirical_401k_snapshot_json": "results_dml_heavytail\\empirical_401k_snapshot.json",
+    "empirical_401k_results_csv": "results_dml_heavytail\\tables\\empirical_401k_results.csv",
+    "figure_401k_threshold_path": "results_dml_heavytail\\figures\\figure_401k_threshold_path.png",
+    "figure_401k_score_concentration": "results_dml_heavytail\\figures\\figure_401k_score_concentration.png"
+  }
+}
