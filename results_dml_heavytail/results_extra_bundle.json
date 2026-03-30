@@ -1,0 +1,134 @@
+{
+  "simulation_design_info": {
+    "n": 1500,
+    "p": 10,
+    "theta0": 0.5,
+    "tail_distributions": [
+      "normal",
+      "t5",
+      "t3"
+    ],
+    "contamination_grid": [
+      0.0,
+      0.05
+    ],
+    "overlap_grid": {
+      "False": "strong overlap",
+      "True": "weak overlap"
+    },
+    "weak_overlap_implementation": "m_latent is multiplied by 2.0 before the logistic link",
+    "nonlinear_grid": {
+      "False": "linear nuisance",
+      "True": "nonlinear nuisance"
+    },
+    "contamination_implementation": "For a contamination share c, Y_i receives an additive shock N(20, 5^2) for randomly selected contaminated observations.",
+    "outcome_learner": "Pipeline(StandardScaler + LassoCV(cv=5, n_alphas=50, max_iter=20000))",
+    "treatment_learner": "Pipeline(StandardScaler + LogisticRegressionCV(cv=5, penalty='l2', solver='lbfgs', scoring='neg_log_loss', max_iter=5000))",
+    "crossfit_folds": 5,
+    "simulation_reps": 20,
+    "clipping_grid": [
+      0.95,
+      0.97,
+      0.99,
+      0.995,
+      0.999
+    ],
+    "winsorization_quantiles": [
+      0.01,
+      0.99
+    ],
+    "random_state": 20260321
+  },
+  "simulation_design_markdown": "\n## Simulation Design\n\n- n = 1500\n- p = 10\n- theta0 = 0.5\n- Tail distributions = ['normal', 't5', 't3']\n- Contamination grid = [0.0, 0.05]\n- Overlap grid = {'False': 'strong overlap', 'True': 'weak overlap'}\n- Weak overlap implementation = m_latent is multiplied by 2.0 before the logistic link\n- Nonlinear grid = {'False': 'linear nuisance', 'True': 'nonlinear nuisance'}\n- Contamination implementation = For a contamination share c, Y_i receives an additive shock N(20, 5^2) for randomly selected contaminated observations.\n- Outcome learner = Pipeline(StandardScaler + LassoCV(cv=5, n_alphas=50, max_iter=20000))\n- Treatment learner = Pipeline(StandardScaler + LogisticRegressionCV(cv=5, penalty='l2', solver='lbfgs', scoring='neg_log_loss', max_iter=5000))\n- Cross-fitting folds = 5\n- Simulation reps = 20\n- Clipping grid = [0.95, 0.97, 0.99, 0.995, 0.999]\n- Winsorization quantiles = [0.01, 0.99]\n- Random state = 20260321\n",
+  "nuisance_perf_401k": {
+    "g_hat_mse": 3117420419.6143665,
+    "m_hat_logloss": 0.5877066777557952,
+    "m_hat_auc": 0.7300928814261809
+  },
+  "nuisance_perf_sim_hostile_example": {
+    "design": "hostile example (t3, contamination=0.05, weak_overlap=True, nonlinear=True)",
+    "g_hat_mse": 22.071304035481948,
+    "m_hat_logloss": 0.5588249787307454,
+    "m_hat_auc": 0.7860370814992663
+  },
+  "runtime_records": [
+    {
+      "estimator": "standard_dml",
+      "runtime_seconds": 0.8917731999990792
+    },
+    {
+      "estimator": "outcome_winsorized_dml",
+      "runtime_seconds": 0.9770615000015823
+    },
+    {
+      "estimator": "covariate_winsorized_dml",
+      "runtime_seconds": 0.8804916999997658
+    },
+    {
+      "estimator": "score_clipped_dml_q0.95",
+      "runtime_seconds": 0.016816999999718973
+    },
+    {
+      "estimator": "score_clipped_dml_q0.97",
+      "runtime_seconds": 0.01677949999975681
+    },
+    {
+      "estimator": "score_clipped_dml_q0.99",
+      "runtime_seconds": 0.01598039999953471
+    },
+    {
+      "estimator": "score_clipped_dml_q0.995",
+      "runtime_seconds": 0.018901499999628868
+    },
+    {
+      "estimator": "score_clipped_dml_q0.999",
+      "runtime_seconds": 0.0201522000006662
+    }
+  ],
+  "score_distribution_summary_records": [
+    {
+      "index": "count",
+      "abs_psi_standard": 9915.0,
+      "abs_psi_clipped_q095": 9915.0
+    },
+    {
+      "index": "mean",
+      "abs_psi_standard": 9820.439620156056,
+      "abs_psi_clipped_q095": 7769.087055277731
+    },
+    {
+      "index": "std",
+      "abs_psi_standard": 27562.441201087444,
+      "abs_psi_clipped_q095": 8365.947881186125
+    },
+    {
+      "index": "min",
+      "abs_psi_standard": 0.5718524619268576,
+      "abs_psi_clipped_q095": 0.39896530886095
+    },
+    {
+      "index": "25%",
+      "abs_psi_standard": 1774.7135741830618,
+      "abs_psi_clipped_q095": 1772.7939836451765
+    },
+    {
+      "index": "50%",
+      "abs_psi_standard": 4491.489429662969,
+      "abs_psi_clipped_q095": 4491.108875252934
+    },
+    {
+      "index": "75%",
+      "abs_psi_standard": 10641.531366729982,
+      "abs_psi_clipped_q095": 10652.059274772855
+    },
+    {
+      "index": "max",
+      "abs_psi_standard": 1028544.7751373993,
+      "abs_psi_clipped_q095": 30938.083929315162
+    }
+  ],
+  "saved_figures": [
+    "results_dml_heavytail/figure_401k_abs_score_hist.png",
+    "results_dml_heavytail/figure_401k_score_concentration_curve.png"
+  ]
+}
