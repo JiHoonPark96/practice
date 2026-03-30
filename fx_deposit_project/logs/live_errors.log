@@ -1,0 +1,8 @@
+[2026-03-23 15:19:48] scrape_live_bank_once FAILED | shinhan | None | It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[2026-03-23 15:32:41] scrape_live_bank_once FAILED | woori | None | It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[2026-03-23 15:46:19] scrape_live_bank_once FAILED | hana_keb | None | It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[2026-03-23 16:00:15] scrape_live_bank_once FAILED | kdb | None | It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
