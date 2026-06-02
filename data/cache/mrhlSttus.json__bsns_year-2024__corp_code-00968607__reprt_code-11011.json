@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "se": "소액주주",
+      "shrholdr_co": "85,422",
+      "shrholdr_tot_co": "85,425",
+      "shrholdr_rate": "99.996%",
+      "hold_stock_co": "3,585,858",
+      "stock_tot_co": "14,657,120",
+      "hold_stock_rate": "24.465%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

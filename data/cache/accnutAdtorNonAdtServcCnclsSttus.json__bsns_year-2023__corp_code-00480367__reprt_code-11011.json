@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000346",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제28기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000346",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제28기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000346",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제27기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000346",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제27기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000346",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제26기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000346",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제26기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001372",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "보고기간 말 이후\n \"코로나바이러스감염증-19\"의 확산에 \n따른 경영실적의 불확실성 증대(주1)",
+      "core_adt_matter": "영업권의 손상평가(주1)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001372",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001372",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

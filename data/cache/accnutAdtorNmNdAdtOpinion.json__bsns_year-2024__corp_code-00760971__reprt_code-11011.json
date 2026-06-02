@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자(Unknown Worlds Entertainment, Inc.) 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위(Unknown Worlds Entertainment, Inc.) 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자(Unknown Worlds Entertainment, Inc.) 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위(Unknown Worlds Entertainment, Inc.) 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자(Unknown Worlds Entertainment, Inc.) 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위(Unknown Worlds Entertainment, Inc.) 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

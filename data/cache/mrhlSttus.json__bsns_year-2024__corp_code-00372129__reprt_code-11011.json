@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "se": "소액주주",
+      "shrholdr_co": "27,212",
+      "shrholdr_tot_co": "27,214",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "2,888,289",
+      "stock_tot_co": "14,522,520",
+      "hold_stock_rate": "19.4%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

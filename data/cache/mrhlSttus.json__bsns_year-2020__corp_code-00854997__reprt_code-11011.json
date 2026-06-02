@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210514001634",
+      "corp_cls": "Y",
+      "corp_code": "00854997",
+      "corp_name": "에스디바이오센서",
+      "se": "소액주주",
+      "shrholdr_co": "246",
+      "shrholdr_tot_co": "270",
+      "shrholdr_rate": "91.48%",
+      "hold_stock_co": "10,051,308",
+      "stock_tot_co": "93,317,753",
+      "hold_stock_rate": "10.77%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

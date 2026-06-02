@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "제1기(당기)",
+      "cntrct_cncls_de": "2023.08.01",
+      "servc_cn": "2023년 세무조정 업무 수임",
+      "servc_exc_pd": "2023.08.01~\n2024.03.31",
+      "servc_mendng": "8.5백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "제1기(당기)",
+      "cntrct_cncls_de": "2023.10.25",
+      "servc_cn": "법인세 경정청구 업무 수임",
+      "servc_exc_pd": " 2023.10.25~ 법인세 환급일",
+      "servc_mendng": "(주1)",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

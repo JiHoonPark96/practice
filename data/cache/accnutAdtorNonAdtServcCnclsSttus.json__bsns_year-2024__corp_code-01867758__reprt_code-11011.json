@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "제1기(당기)",
+      "cntrct_cncls_de": "2024.09.26",
+      "servc_cn": "지주사 설립시 자문용역",
+      "servc_exc_pd": "24.09.26~24.09.30",
+      "servc_mendng": "600 만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "제1기(당기)",
+      "cntrct_cncls_de": "2024.09.13",
+      "servc_cn": "개시재무제표에 대한 감사",
+      "servc_exc_pd": "-",
+      "servc_mendng": "5,000 만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

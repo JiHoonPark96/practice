@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240411004116",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

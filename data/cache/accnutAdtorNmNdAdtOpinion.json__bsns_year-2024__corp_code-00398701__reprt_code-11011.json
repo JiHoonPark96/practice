@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주3)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주4)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주5)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주6)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

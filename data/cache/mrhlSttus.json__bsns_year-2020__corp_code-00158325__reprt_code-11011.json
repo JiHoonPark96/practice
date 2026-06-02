@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000949",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "se": "소액주주",
+      "shrholdr_co": "11,305",
+      "shrholdr_tot_co": "11,314",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "23,795,928",
+      "stock_tot_co": "60,714,820",
+      "hold_stock_rate": "39.19%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

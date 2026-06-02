@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331000895",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "se": "소액주주",
+      "shrholdr_co": "3,078",
+      "shrholdr_tot_co": "3,091",
+      "shrholdr_rate": "99.6%",
+      "hold_stock_co": "1,620,324",
+      "stock_tot_co": "6,894,208",
+      "hold_stock_rate": "23.5%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

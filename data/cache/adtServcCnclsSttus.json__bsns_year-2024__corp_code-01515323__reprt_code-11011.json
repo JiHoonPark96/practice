@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제5기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "2024년 별도 및 연결재무제표에 대한 감사\n(감사기간)\n별도재무제표: 2025.01.15~2025.03.05\n연결재무제표: 2025.01.15~2025.03.05",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,900 ",
+      "adt_cntrct_dtls_time": "19,000시간",
+      "real_exc_dtls_mendng": "1,900 ",
+      "real_exc_dtls_time": "19,000시간\n(영문보고서검토 시간 포함)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제4기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "2023년 별도 및 연결재무제표에 대한 감사\n(감사기간)\n별도재무제표: 2024.01.02~2024.03.07\n연결재무제표: 2024.01.02~2024.03.07",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,800 ",
+      "adt_cntrct_dtls_time": "18,470시간",
+      "real_exc_dtls_mendng": "1,800 ",
+      "real_exc_dtls_time": "18,470시간\n(영문보고서검토 시간 포함)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제3기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "2022년 별도 및 연결재무제표에 대한 감사\n(감사기간)\n별도재무제표: 2023.01.17~2023.03.08\n연결재무제표: 2023.01.17~2023.03.08",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,500 ",
+      "adt_cntrct_dtls_time": "15,000시간",
+      "real_exc_dtls_mendng": "1,500 ",
+      "real_exc_dtls_time": "15,000시간\n(영문보고서검토 시간 포함)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

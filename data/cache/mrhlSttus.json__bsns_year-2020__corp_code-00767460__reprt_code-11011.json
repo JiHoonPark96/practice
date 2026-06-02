@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000048",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "se": "소액주주",
+      "shrholdr_co": "27,702",
+      "shrholdr_tot_co": "27,727",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "11,008,831",
+      "stock_tot_co": "29,366,322",
+      "hold_stock_rate": "37.49%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

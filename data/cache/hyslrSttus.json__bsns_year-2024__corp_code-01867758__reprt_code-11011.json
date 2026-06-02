@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "stock_knd": "보통주",
+      "nm": "(주)한화",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "17,141,530",
+      "bsis_posesn_stock_qota_rt": "33.95",
+      "trmend_posesn_stock_co": "17,141,530",
+      "trmend_posesn_stock_qota_rt": "33.95",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "stock_knd": "보통주",
+      "nm": "안순홍",
+      "relate": "특수관계",
+      "bsis_posesn_stock_co": "3,201",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "3,201",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "17,144,731",
+      "bsis_posesn_stock_qota_rt": "33.96",
+      "trmend_posesn_stock_co": "17,144,731",
+      "trmend_posesn_stock_qota_rt": "33.96",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001261",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_knd": "보통주",
+      "nm": "포스코홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "99,403,282",
+      "bsis_posesn_stock_qota_rt": "65.38",
+      "trmend_posesn_stock_co": "99,403,282",
+      "trmend_posesn_stock_qota_rt": "65.38",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001261",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_knd": "보통주",
+      "nm": "포항공과대학교",
+      "relate": "최대주주의 비영리법인",
+      "bsis_posesn_stock_co": "666,595",
+      "bsis_posesn_stock_qota_rt": "0.44",
+      "trmend_posesn_stock_co": "666,595",
+      "trmend_posesn_stock_qota_rt": "0.44",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001261",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_knd": "보통주",
+      "nm": "정덕균",
+      "relate": "대표이사 사장",
+      "bsis_posesn_stock_co": "18,008",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "18,008",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001261",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "100,087,885",
+      "bsis_posesn_stock_qota_rt": "65.83",
+      "trmend_posesn_stock_co": "100,087,885",
+      "trmend_posesn_stock_qota_rt": "65.83",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001261",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

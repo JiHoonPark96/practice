@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000991",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제28기(당기)",
+      "adtor": "선진회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000991",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제27기(전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "보고기간 후 사건",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000991",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제26기(전전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

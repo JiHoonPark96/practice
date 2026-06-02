@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240618000197",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제35기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기,반기,년도 회계감사(별도/연결), 내부통제",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "599백만원",
+      "adt_cntrct_dtls_time": "5,842시간",
+      "real_exc_dtls_mendng": "599백만원",
+      "real_exc_dtls_time": "5,642시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240618000197",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제34기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기,반기,년도 회계감사(별도/연결), 내부통제",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "555백만원",
+      "adt_cntrct_dtls_time": "6,203시간",
+      "real_exc_dtls_mendng": "555백만원",
+      "real_exc_dtls_time": "5,790시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240618000197",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기,반기,년도 회계감사(별도/연결), 내부통제",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "539백만원",
+      "adt_cntrct_dtls_time": "5,982시간",
+      "real_exc_dtls_mendng": "539백만원",
+      "real_exc_dtls_time": "5,976시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

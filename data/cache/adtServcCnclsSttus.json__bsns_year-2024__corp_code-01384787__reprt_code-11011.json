@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제12기 (당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 기말 재무제표 감사\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,320",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,543",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 3분기 재무제표 감사\n- 기말 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290",
+      "adt_cntrct_dtls_time": "1,650",
+      "real_exc_dtls_mendng": "290",
+      "real_exc_dtls_time": "1,276",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "한성회계법인",
+      "cn": "- 기말 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "20",
+      "adt_cntrct_dtls_time": "250",
+      "real_exc_dtls_mendng": "20",
+      "real_exc_dtls_time": "424",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

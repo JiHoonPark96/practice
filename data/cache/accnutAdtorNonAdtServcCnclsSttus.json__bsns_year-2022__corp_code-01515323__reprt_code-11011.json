@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2021년 12월\n2022년 5월",
+      "servc_cn": "신규 인수법인 이전가격 Planning\n위기관리체계 벤치마킹 용역 ",
+      "servc_exc_pd": "2022.03~2022.05\n2022.03~2022.05",
+      "servc_mendng": "40 \n120 ",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제2기(전기)",
+      "cntrct_cncls_de": "2021년 11월\n2021년 12월",
+      "servc_cn": "감사인 확인서 발행(영문)\n감사인 확인서 발행(국문)",
+      "servc_exc_pd": "2021.11~2022.01\n2021.12~2022.01",
+      "servc_mendng": "180 \n30 ",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재화매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재화매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 현금흐름표 표시\n-해외매출 수익인식\n-이연법인세",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 현금흐름표 표시\n- 해외매출 수익인식\n-이연법인세",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 해외매출 수익인식\n- 대손충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 해외매출 수익인식\n- 대손충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

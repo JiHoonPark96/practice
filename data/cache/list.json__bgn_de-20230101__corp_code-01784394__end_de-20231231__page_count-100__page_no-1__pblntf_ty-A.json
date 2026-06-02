@@ -1,0 +1,32 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 2,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "stock_code": "465770",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20231115000113",
+      "flr_nm": "STX그린로지스",
+      "rcept_dt": "20231115",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "stock_code": "465770",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114001578",
+      "flr_nm": "STX그린로지스",
+      "rcept_dt": "20231114",
+      "rm": "정"
+    }
+  ]
+}

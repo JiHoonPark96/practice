@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000820",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "se": "소액주주",
+      "shrholdr_co": "179,233",
+      "shrholdr_tot_co": "179,238",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "112,637,623",
+      "stock_tot_co": "193,859,610",
+      "hold_stock_rate": "58.10%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 2,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "stock_code": "457190",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002962",
+      "flr_nm": "이수스페셜티케미컬",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "stock_code": "457190",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814003042",
+      "flr_nm": "이수스페셜티케미컬",
+      "rcept_dt": "20230814",
+      "rm": ""
+    }
+  ]
+}

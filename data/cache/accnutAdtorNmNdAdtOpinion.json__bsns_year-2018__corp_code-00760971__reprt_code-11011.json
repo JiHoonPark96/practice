@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003881",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제 12기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200330003881",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제 11기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "(*)",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200330003881",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제 10기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

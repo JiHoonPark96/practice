@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114000644",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814002100",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240618000197",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20240618",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.03)",
+      "rcept_no": "20240516001435",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516000118",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20240516",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240313001522",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20240313",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "stock_code": "022100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240313000904",
+      "flr_nm": "포스코DX",
+      "rcept_dt": "20240313",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제31기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "1,690",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "1,634",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제30기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,250",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,397",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "참회계법인",
+      "cn": "재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "984",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "1,075",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

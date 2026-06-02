@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314000894",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "4",
+      "apnt": "4",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

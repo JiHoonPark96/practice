@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001304",
+      "corp_cls": "Y",
+      "corp_code": "01760738",
+      "corp_name": "OCI",
+      "se": "소액주주",
+      "shrholdr_co": "44,035",
+      "shrholdr_tot_co": "44,060",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "3,784,393",
+      "stock_tot_co": "8,952,495",
+      "hold_stock_rate": "42.27%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

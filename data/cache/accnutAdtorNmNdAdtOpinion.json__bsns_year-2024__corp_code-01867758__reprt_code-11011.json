@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에 영향을 미치지 않는 사항으로서 이용자는 주석 20에 주의를 기울여야 할 필요가 있습니다. 주석20에 기술하고 있는 바와 같이 회사는 한화에어로스페이스 주식회사로 부터 2024년 9월 1일자로 인적분할되어 설립되었습니다. 분할기일인 2024년 9월 1일 이후 거래는 분할된 회사의 재무제표에 반영되었습니다.",
+      "core_adt_matter": "종속기업투자 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에 영향을 미치지 않는 사항으로서 이용자는 주석 37에 주의를 기울여야 할필요가 있습니다. 주석37에 기술하고 있는 바와 같이 연결회사는 한화에어로스페이스 주식회사로 부터 2024년 9월 1일자로 인적분할되어 설립되었습니다. 분할기일인 2024년 9월 1일 이후 거래는 분할된 연결회사의 연결재무제표에 반영되었습니다.",
+      "core_adt_matter": "산업용장비부문 현금창출단위 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

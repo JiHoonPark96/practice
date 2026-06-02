@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230828000596",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "se": "소액주주",
+      "shrholdr_co": "173,902",
+      "shrholdr_tot_co": "173,923",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "23,604,632",
+      "stock_tot_co": "36,018,316",
+      "hold_stock_rate": "65.54%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

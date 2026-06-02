@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "stock_knd": "보통주",
+      "nm": "일진다이아몬드(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "2,525,883",
+      "bsis_posesn_stock_qota_rt": "86.95",
+      "trmend_posesn_stock_co": "21,627,500",
+      "trmend_posesn_stock_qota_rt": "59.56",
+      "rm": "액면분할,구주매출로 \n인한 보유주식감소",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "stock_knd": "보통주",
+      "nm": "도레이첨단소재(주)",
+      "relate": "주주",
+      "bsis_posesn_stock_co": "379,170",
+      "bsis_posesn_stock_qota_rt": "13.05",
+      "trmend_posesn_stock_co": "3,791,700",
+      "trmend_posesn_stock_qota_rt": "10.44",
+      "rm": "액면분할",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,905,053",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "25,419,200",
+      "trmend_posesn_stock_qota_rt": "70.00",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

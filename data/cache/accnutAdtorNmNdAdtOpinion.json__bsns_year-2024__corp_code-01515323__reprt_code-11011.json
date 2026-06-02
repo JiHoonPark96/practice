@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제5기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 판매보증충당부채\n(2) 고객보상금의 수익인식 시기",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제5기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 판매보증충당부채\n(2) 고객보상금의 수익인식 시기",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제4기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "GM 리콜 충당부채",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제4기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "GM 리콜 충당부채",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제3기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) GM 리콜 충당부채\n(2) 종속기업 투자주식 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000405",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제3기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) GM 리콜 충당부채\n(2) 종속기업 투자주식 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 2 기\n(당기)",
+      "cntrct_cncls_de": "2020.06.01",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2020.06.01 ~ 환급시",
+      "servc_mendng": "환급액의 5%",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 1 기\n(전기)",
+      "cntrct_cncls_de": "2020.06.01",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2020.06.01 ~ 환급시",
+      "servc_mendng": "환급액의 5%",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 1 기\n(전기)",
+      "cntrct_cncls_de": "2023.10.01",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2023.10.01 ~ 2023.10.31",
+      "servc_mendng": "15,000,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

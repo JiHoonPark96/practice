@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000767",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "bsns_year": "제24기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "결산 감사 및 보고서 작성",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280,800",
+      "adt_cntrct_dtls_time": "2,700",
+      "real_exc_dtls_mendng": "280,800",
+      "real_exc_dtls_time": "3,189",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323000767",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "bsns_year": "제23기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "결산 감사 및 보고서 작성",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "1,800",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323000767",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "결산 감사 및 보고서 작성",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175,000",
+      "adt_cntrct_dtls_time": "1,750",
+      "real_exc_dtls_mendng": "175,000",
+      "real_exc_dtls_time": "2,061",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000185",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "bsns_year": "제 3 기\n(당기)",
+      "adtor": "한울회계법인",
+      "cn": "- 반기 별도재무제표 검토\n- 기말 별도재무제표에 대한 감사\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135 ",
+      "adt_cntrct_dtls_time": "1,312 ",
+      "real_exc_dtls_mendng": "135 ",
+      "real_exc_dtls_time": "1,325 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000185",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "bsns_year": "제 2 기\n(전기)",
+      "adtor": "한울회계법인",
+      "cn": "- 반기 별도재무제표 검토\n- 기말 별도재무제표에 대한 감사\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110 ",
+      "adt_cntrct_dtls_time": "1,200 ",
+      "real_exc_dtls_mendng": "110 ",
+      "real_exc_dtls_time": "1,203 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000185",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "bsns_year": "제 1 기\n(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "- 반기 별도재무제표 검토\n- 기말 별도재무제표에 대한 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80 ",
+      "adt_cntrct_dtls_time": "1,000 ",
+      "real_exc_dtls_mendng": "80 ",
+      "real_exc_dtls_time": "804 ",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

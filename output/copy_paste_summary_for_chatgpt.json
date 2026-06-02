@@ -1,0 +1,33 @@
+{
+  "sample_info": {
+    "number_of_firms": 50,
+    "number_of_firm_years": 350,
+    "start_year": 2018,
+    "end_year": 2024,
+    "number_of_sectors": 33
+  },
+  "missing_rates": {
+    "NonAuditFeeRatio": 0.9285714285714286,
+    "AuditFee": 0.9285714285714286,
+    "NonAuditFee": 0.5057142857142857,
+    "LogAuditFee": 0.9285714285714286,
+    "Big4Auditor": 0.5057142857142857,
+    "CleanOpinion": 0.5057142857142857,
+    "OutsideDirectorRatio": 0.5914285714285714,
+    "BoardSize": 0.58,
+    "OutsideDirectorCount": 0.5914285714285714,
+    "LargestShareholderOwnership": 0.5057142857142857,
+    "MinorityShareholderRatio": 0.5371428571428571,
+    "MinorityShareholderCount": 0.5371428571428571,
+    "Assets": 0.5485714285714286,
+    "LogAssets": 0.5485714285714286,
+    "Leverage": 0.5485714285714286,
+    "ROA": 1.0,
+    "Loss": 0.5485714285714286,
+    "CorrectionDummy": 0.0,
+    "CorrectionCount": 0.0,
+    "MaterialCorrectionDummy": 0.0,
+    "MaterialCorrectionCount": 0.0,
+    "MaterialKeywordHits": 0.0
+  }
+}

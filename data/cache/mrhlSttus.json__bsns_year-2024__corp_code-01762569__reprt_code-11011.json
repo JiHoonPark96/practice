@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "se": "소액주주",
+      "shrholdr_co": "52,509",
+      "shrholdr_tot_co": "52,518",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "19,229,705",
+      "stock_tot_co": "29,938,465",
+      "hold_stock_rate": "64.23%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

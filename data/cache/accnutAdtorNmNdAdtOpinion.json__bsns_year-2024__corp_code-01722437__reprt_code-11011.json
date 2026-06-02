@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 2 기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위별 \n자산 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 2 기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위별 \n자산 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 1 기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서,\n이용자는 다음 사항에 주의를 기울여야 할 \n필요가 있습니다.\n\n재무제표에 대한 주석36에서 설명하고 있는\n바와 같이, 회사는 2023년 3월 1일을 분할기일로\n한화솔루션 주식회사에서 인적분할되어\n백화점 사업 및 도ㆍ소매업 사업 등을 주 사업목적으로\n신규 설립되었으며, 2023년 3월 31일에 한국거래소 \n코스피시장에 주권을 재상장하였습니다.",
+      "core_adt_matter": "현금창출단위별 \n자산 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "제 1 기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서, \n이용자는 다음 사항에 주의를 기울여야 할 \n필요가 있습니다.\n\n연결재무제표에 대한 주석36에서 설명하고 있는 \n바와 같이, 한화갤러리아 주식회사는 2023년 3월 1일을\n분할기일로 한화솔루션 주식회사에서 인적분할되어 \n백화점 사업 및 도ㆍ소매업 사업 등을 주 사업목적으로\n신규 설립되었으며, 2023년 3월 31일에 한국거래소\n코스피시장에 주권을 재상장하였습니다.",
+      "core_adt_matter": "현금창출단위별 \n자산 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000838",
+      "corp_cls": "Y",
+      "corp_code": "01722437",
+      "corp_name": "한화갤러리아",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001207",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "2022.03.17",
+      "servc_cn": "독립경영인정 신청 서류에 기재된\n  재무정보 검증에 대한 합의된 절차수행",
+      "servc_exc_pd": "계약체결일로부터 1주일",
+      "servc_mendng": "0",
+      "rm": "- 재무정보 대상기간 : 2021년\n- 용역보수는 2020년 계약 단가에 포함되어 있음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001207",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "bsns_year": "제23기(전기)",
+      "cntrct_cncls_de": "2021.12.28",
+      "servc_cn": "독립경영인정 신청 서류에 기재된\n  재무정보 검증에 대한 합의된 절차수행",
+      "servc_exc_pd": "계약체결일로부터 1주일",
+      "servc_mendng": "3",
+      "rm": "- 재무정보 대상기간 : 2019~2020년",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001207",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "bsns_year": "제22기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

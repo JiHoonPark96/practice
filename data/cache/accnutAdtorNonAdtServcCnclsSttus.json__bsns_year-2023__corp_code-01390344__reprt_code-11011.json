@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제5기\n(당기)",
+      "cntrct_cncls_de": "2021.06",
+      "servc_cn": "- 해외법인 과거사업연도 TP 자문 및 MAP 지원",
+      "servc_exc_pd": "2021.06 ~",
+      "servc_mendng": "250",
+      "rm": "진행 중",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제5기\n(당기)",
+      "cntrct_cncls_de": "2023.03",
+      "servc_cn": "- 해외공사현장에 대한 특정목적감사(*)",
+      "servc_exc_pd": "2023.03 ~\n2023.04",
+      "servc_mendng": "12",
+      "rm": "완료",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전기)",
+      "cntrct_cncls_de": "2021.06",
+      "servc_cn": "- 해외법인 과거사업연도 TP 자문 및 MAP 지원",
+      "servc_exc_pd": "2021.06 ~",
+      "servc_mendng": "250",
+      "rm": "진행 중",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전기)",
+      "cntrct_cncls_de": "2022.03",
+      "servc_cn": "- 해외공사현장에 대한 특정목적감사(*)",
+      "servc_exc_pd": "2022.03 ~\n2022.04",
+      "servc_mendng": "12",
+      "rm": "완료",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전기)",
+      "cntrct_cncls_de": "2022.05",
+      "servc_cn": "- 2022년 2월말 임의감사(*)\n   (HD현대 연결 Reporting 목적)",
+      "servc_exc_pd": "2022.05 ~\n2022.08",
+      "servc_mendng": "290",
+      "rm": "완료",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전기)",
+      "cntrct_cncls_de": "2022.09",
+      "servc_cn": "- 블록 품목분류 관세청 유권해석 취득 \n   (세무자문)",
+      "servc_exc_pd": "2022.09 ~\n2022.10",
+      "servc_mendng": "10",
+      "rm": "완료",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전기)",
+      "cntrct_cncls_de": "2022.09",
+      "servc_cn": "- Joint Venture Project 매출 확인 용역",
+      "servc_exc_pd": "2022.09 ~\n2022.10",
+      "servc_mendng": "12",
+      "rm": "완료",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000459",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제3기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

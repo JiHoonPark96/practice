@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "분할합병(주1)",
+      "core_adt_matter": "수출 매출의 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할을 통한 설립(주2)",
+      "core_adt_matter": "매출의 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001543",
+      "corp_cls": "Y",
+      "corp_code": "01762569",
+      "corp_name": "이수스페셜티케미컬",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

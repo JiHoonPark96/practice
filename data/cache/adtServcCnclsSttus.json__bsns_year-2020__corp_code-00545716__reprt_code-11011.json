@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210707000505",
+      "corp_cls": "Y",
+      "corp_code": "00545716",
+      "corp_name": "롯데렌탈",
+      "bsns_year": "제16기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기검토, 반기검토, 결산감사, 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "428 ",
+      "adt_cntrct_dtls_time": "4,200 ",
+      "real_exc_dtls_mendng": "458 ",
+      "real_exc_dtls_time": "4,410",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210707000505",
+      "corp_cls": "Y",
+      "corp_code": "00545716",
+      "corp_name": "롯데렌탈",
+      "bsns_year": "제15기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기검토, 반기검토, 결산감사, 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "317 ",
+      "adt_cntrct_dtls_time": "3,330 ",
+      "real_exc_dtls_mendng": "377 ",
+      "real_exc_dtls_time": "4,282",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210707000505",
+      "corp_cls": "Y",
+      "corp_code": "00545716",
+      "corp_name": "롯데렌탈",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기검토, 반기검토, 결산감사, 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "265 ",
+      "adt_cntrct_dtls_time": "3,110 ",
+      "real_exc_dtls_mendng": "296 ",
+      "real_exc_dtls_time": "2,784 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

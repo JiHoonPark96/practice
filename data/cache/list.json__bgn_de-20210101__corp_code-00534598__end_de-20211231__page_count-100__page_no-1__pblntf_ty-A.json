@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "stock_code": "372910",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211112000645",
+      "flr_nm": "한컴라이프케어",
+      "rcept_dt": "20211112",
+      "rm": ""
+    }
+  ]
+}

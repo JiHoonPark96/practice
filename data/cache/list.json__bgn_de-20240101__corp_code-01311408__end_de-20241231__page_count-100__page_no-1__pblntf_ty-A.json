@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002112",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20241114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814001351",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20240814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240514001494",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20240514",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240417000528",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20240417",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240319000789",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20240319",
+      "rm": "정"
+    }
+  ]
+}

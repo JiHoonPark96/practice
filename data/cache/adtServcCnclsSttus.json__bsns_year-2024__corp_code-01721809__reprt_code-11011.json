@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제2기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 검토\n중간감사(내부통제의 이해 및 유효성 평가)\n기말감사(중요 계정잔액 및 공시내용에 대하여질문,\n분석적절차, 표본테스트 등 수행)\n내부회계관리제도 설계/운영평가\n재고실사, 금융자산 실사\n연결감사(연결조정, 내부거래 제거 확인 등)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "491백만원",
+      "adt_cntrct_dtls_time": "4,460시간",
+      "real_exc_dtls_mendng": "491백만원",
+      "real_exc_dtls_time": "4,263시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제1기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 검토\n\n중간감사(내부통제의 이해 및 유효성 평가)\n\n기말감사(중요 계정잔액 및 공시내용에 대하여질문,\n\n분석적절차, 표본테스트 등 수행)\n\n내부회계관리제도 설계/운영평가\n\n재고실사, 금융자산 실사\n\n연결감사(연결조정, 내부거래 제거 확인 등)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "498백만원",
+      "adt_cntrct_dtls_time": "4,531시간",
+      "real_exc_dtls_mendng": "498백만원",
+      "real_exc_dtls_time": "4,486시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

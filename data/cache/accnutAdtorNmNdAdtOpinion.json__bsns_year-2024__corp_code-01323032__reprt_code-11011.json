@@ -1,0 +1,75 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000964",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제8기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000964",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제8기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000964",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제7기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000964",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제7기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000964",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제6기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000964",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제6기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

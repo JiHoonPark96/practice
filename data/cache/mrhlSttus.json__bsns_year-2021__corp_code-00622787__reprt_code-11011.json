@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331002923",
+      "corp_cls": "Y",
+      "corp_code": "00622787",
+      "corp_name": "바이오노트",
+      "se": "소액주주",
+      "shrholdr_co": "156",
+      "shrholdr_tot_co": "164",
+      "shrholdr_rate": "95.12%",
+      "hold_stock_co": "3,995,200",
+      "stock_tot_co": "93,556,048",
+      "hold_stock_rate": "4.27%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

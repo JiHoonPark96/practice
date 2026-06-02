@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "제1기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "상품매출의 발생 사실에 대한 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "제1기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "상품매출의 발생 사실에 대한 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

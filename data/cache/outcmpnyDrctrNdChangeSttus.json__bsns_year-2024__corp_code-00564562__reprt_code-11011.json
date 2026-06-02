@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001032",
+      "corp_cls": "Y",
+      "corp_code": "00564562",
+      "corp_name": "엠씨넥스",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "3",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

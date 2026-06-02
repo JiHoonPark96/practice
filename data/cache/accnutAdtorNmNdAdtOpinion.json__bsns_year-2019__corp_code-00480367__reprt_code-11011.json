@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003171",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제24기(당기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 유동부채가 유동자산보다 162,272백만원 많음",
+      "core_adt_matter": "- 투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003171",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제23기(전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 유동부채가 유동자산보다 102,756백만원 많음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 예정원가에 대한 추정의 불확실성\n- 산정된 진행률의 적정성\n- 계약자산 회수가능성에 대한 평가\n- 공사변경에 대한 회계처리의 적절성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003171",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 투입법에 따른 수익인식\n- 추정총계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 미청구공사 회수가능성에 대한 평가\n- 공사변경에 대한 회계처리\n- 유동부채가 유동자산보다 97,556백만원 많음",
+      "core_adt_matter": "- 해당사항없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

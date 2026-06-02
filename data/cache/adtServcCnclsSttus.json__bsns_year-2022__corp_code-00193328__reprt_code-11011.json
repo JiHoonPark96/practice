@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001537",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제40기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결재무제표의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,857",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001537",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제39기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "별도 및 연결재무제표의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160백만원",
+      "adt_cntrct_dtls_time": "826",
+      "real_exc_dtls_mendng": "160백만원",
+      "real_exc_dtls_time": "826",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001537",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결재무제표의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "97백만원",
+      "adt_cntrct_dtls_time": "780",
+      "real_exc_dtls_mendng": "97백만원",
+      "real_exc_dtls_time": "780",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

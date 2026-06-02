@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000841",
+      "corp_cls": "Y",
+      "corp_code": "00564562",
+      "corp_name": "엠씨넥스",
+      "se": "소액주주",
+      "shrholdr_co": "74,123",
+      "shrholdr_tot_co": "74,127",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "12,533,611",
+      "stock_tot_co": "17,973,432",
+      "hold_stock_rate": "69.73%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

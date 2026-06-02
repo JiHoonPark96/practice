@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001653",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "솔루션 구축 및 개발 용역에 대한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001653",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "솔루션 구축 및 개발 용역에 대한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001653",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "솔루션 구축 및 개발 용역에 대한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001653",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "솔루션 구축 및 개발 용역에 대한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001653",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "유의적인 종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001653",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "유의적인 종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 2,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.09)",
+      "rcept_no": "20211119000324",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20211119",
+      "rm": ""
+    },
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211117000008",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20211117",
+      "rm": "정"
+    }
+  ]
+}

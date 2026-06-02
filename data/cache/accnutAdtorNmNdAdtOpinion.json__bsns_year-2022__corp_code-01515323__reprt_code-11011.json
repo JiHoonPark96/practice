@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제3기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) GM 리콜 충당부채\n(2) 종속기업 투자주식 손상검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제2기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "SK온(주)의 물적분할 전 회사인 SK이노베이션(주)과 체결한 합의 계약에 따라 SK온(주)으로부터\n수령하기로 한 일시금 1조원(현재가치 기준 992,233백만원)을 영업수익으로 인식",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제1기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "물적분할설립 및 COVID-19(코로나)바이러스가 기업의 생산능력과\n고객에 대한 주문 이행능력에 미칠 수 있는 영향 등",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

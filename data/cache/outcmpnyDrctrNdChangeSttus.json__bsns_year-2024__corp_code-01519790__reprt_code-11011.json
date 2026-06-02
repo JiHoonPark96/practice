@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "3",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "2",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

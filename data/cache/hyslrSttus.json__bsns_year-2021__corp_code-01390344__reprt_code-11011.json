@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "stock_knd": "보통주",
+      "nm": "한국조선해양㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "70,773,116",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "70,773,116",
+      "trmend_posesn_stock_qota_rt": "79.72",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "stock_knd": "보통주",
+      "nm": "이상균",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,107",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "70,773,116",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "70,774,223",
+      "trmend_posesn_stock_qota_rt": "79.72",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "stock_knd": "합계",
+      "nm": "계",
+      "bsis_posesn_stock_co": "70,773,116",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "70,774,223",
+      "trmend_posesn_stock_qota_rt": "79.72",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

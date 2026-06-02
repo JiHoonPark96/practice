@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000084",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "stock_knd": "보통주",
+      "nm": "(주)코리아피아이홀딩스",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "15,877,400",
+      "bsis_posesn_stock_qota_rt": "54.07",
+      "trmend_posesn_stock_co": "15,877,400",
+      "trmend_posesn_stock_qota_rt": "54.07",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000084",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "stock_knd": "보통주",
+      "nm": "김태림",
+      "relate": "발행회사 임원",
+      "bsis_posesn_stock_co": "24,390",
+      "bsis_posesn_stock_qota_rt": "0.08",
+      "trmend_posesn_stock_co": "24,390",
+      "trmend_posesn_stock_qota_rt": "0.08",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000084",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "15,901,790",
+      "bsis_posesn_stock_qota_rt": "54.15",
+      "trmend_posesn_stock_co": "15,901,790",
+      "trmend_posesn_stock_qota_rt": "54.15",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000084",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

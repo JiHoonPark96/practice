@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "stock_code": "092790",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231123000335",
+      "flr_nm": "넥스틸",
+      "rcept_dt": "20231123",
+      "rm": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001059",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "se": "소액주주",
+      "shrholdr_co": "46,638",
+      "shrholdr_tot_co": "46,646",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "9,504,776",
+      "stock_tot_co": "16,264,300",
+      "hold_stock_rate": "58.44%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

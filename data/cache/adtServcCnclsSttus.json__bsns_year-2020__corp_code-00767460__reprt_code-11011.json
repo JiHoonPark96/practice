@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000048",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "bsns_year": "제13기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간감사, 반기검토,내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "136,000",
+      "adt_cntrct_dtls_time": "1,355",
+      "real_exc_dtls_mendng": "136,000",
+      "real_exc_dtls_time": "1,270",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000048",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간감사, 반기검토,내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "123,300",
+      "adt_cntrct_dtls_time": "1,236",
+      "real_exc_dtls_mendng": "123,300",
+      "real_exc_dtls_time": "1,236",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000048",
+      "corp_cls": "Y",
+      "corp_code": "00767460",
+      "corp_name": "PI첨단소재",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간감사, 반기검토,내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75,000",
+      "adt_cntrct_dtls_time": "1,370",
+      "real_exc_dtls_mendng": "75,000",
+      "real_exc_dtls_time": "1,370",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001576",
+      "corp_cls": "Y",
+      "corp_code": "01210677",
+      "corp_name": "씨케이솔루션",
+      "bsns_year": "제21기\n(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001576",
+      "corp_cls": "Y",
+      "corp_code": "01210677",
+      "corp_name": "씨케이솔루션",
+      "bsns_year": "제21기\n(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001576",
+      "corp_cls": "Y",
+      "corp_code": "01210677",
+      "corp_name": "씨케이솔루션",
+      "bsns_year": "제20기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001576",
+      "corp_cls": "Y",
+      "corp_code": "01210677",
+      "corp_name": "씨케이솔루션",
+      "bsns_year": "제20기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001576",
+      "corp_cls": "Y",
+      "corp_code": "01210677",
+      "corp_name": "씨케이솔루션",
+      "bsns_year": "제19기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001576",
+      "corp_cls": "Y",
+      "corp_code": "01210677",
+      "corp_name": "씨케이솔루션",
+      "bsns_year": "제19기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

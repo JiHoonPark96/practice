@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001421",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "se": "소액주주",
+      "shrholdr_co": "26,952",
+      "shrholdr_tot_co": "26,957",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "8,914,414",
+      "stock_tot_co": "48,086,533",
+      "hold_stock_rate": "18.55%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

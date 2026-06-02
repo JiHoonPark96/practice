@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000716",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "ㆍ별도: 푸드서비스부문 현금창출단위집단에 배부된 영업권 손상 회계처리\n\nㆍ연결: \n푸드서비스부문 현금창출단위집단에 배부된 영업권 손상 회계처리",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000716",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "전기",
+      "adtor": "해당사항없음",
+      "adt_opinion": "해당사항없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000716",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "전전기",
+      "adtor": "해당사항없음",
+      "adt_opinion": "해당사항없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

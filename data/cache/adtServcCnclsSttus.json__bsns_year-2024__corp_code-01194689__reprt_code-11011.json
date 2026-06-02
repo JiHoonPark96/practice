@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250509000499",
+      "corp_cls": "Y",
+      "corp_code": "01194689",
+      "corp_name": "HD현대마린솔루션",
+      "bsns_year": "제9기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결.별도재무제표 분반기 검토\n기말 연결.별도재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "2,500",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "2,601",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250509000499",
+      "corp_cls": "Y",
+      "corp_code": "01194689",
+      "corp_name": "HD현대마린솔루션",
+      "bsns_year": "제8기(전기)\n3분기 및 연간",
+      "adtor": "삼일회계법인",
+      "cn": "3분기 연결.별도재무제표 감사\n기말 연결.별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "2,554",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250509000499",
+      "corp_cls": "Y",
+      "corp_code": "01194689",
+      "corp_name": "HD현대마린솔루션",
+      "bsns_year": "제7기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "기말 연결.별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "121",
+      "adt_cntrct_dtls_time": "1,214",
+      "real_exc_dtls_mendng": "121",
+      "real_exc_dtls_time": "1,189",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

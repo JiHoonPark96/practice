@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "se": "소액주주",
+      "shrholdr_co": "73,551",
+      "shrholdr_tot_co": "73,556",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "11,309,019",
+      "stock_tot_co": "58,334,720",
+      "hold_stock_rate": "19.39%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

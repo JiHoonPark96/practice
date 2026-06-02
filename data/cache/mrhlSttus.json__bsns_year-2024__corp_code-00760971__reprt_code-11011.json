@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001121",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "se": "소액주주",
+      "shrholdr_co": "95,738",
+      "shrholdr_tot_co": "95,780",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "20,232,932",
+      "stock_tot_co": "45,462,100",
+      "hold_stock_rate": "44.51%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

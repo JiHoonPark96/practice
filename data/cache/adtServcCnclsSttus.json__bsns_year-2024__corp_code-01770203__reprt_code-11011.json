@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311000815",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "bsns_year": "제2기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "296,000",
+      "adt_cntrct_dtls_time": "2,840",
+      "real_exc_dtls_mendng": "296,000",
+      "real_exc_dtls_time": "2,217",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000815",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "bsns_year": "제1기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "236,000",
+      "adt_cntrct_dtls_time": "2,270",
+      "real_exc_dtls_mendng": "236,000",
+      "real_exc_dtls_time": "1,840",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000815",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

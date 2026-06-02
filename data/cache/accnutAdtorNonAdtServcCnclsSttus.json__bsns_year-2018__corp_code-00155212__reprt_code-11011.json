@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003165",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제30기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003165",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제29기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003165",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제28기(전전기)",
+      "cntrct_cncls_de": "'16.4",
+      "servc_cn": "제28기 세무조정료",
+      "servc_exc_pd": "'16.4~'17.3",
+      "servc_mendng": "26백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

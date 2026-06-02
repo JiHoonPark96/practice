@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000520",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 및 검토(내부회계 검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "186,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "186,000",
+      "real_exc_dtls_time": "2,425",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000520",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제37기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 및 검토(내부회계 검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "164,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "164,000",
+      "real_exc_dtls_time": "2,162",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000520",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 및 검토(내부회계 검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "145,000",
+      "real_exc_dtls_time": "2,418",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

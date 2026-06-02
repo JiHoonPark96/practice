@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001366",
+      "corp_cls": "Y",
+      "corp_code": "00367710",
+      "corp_name": "동인기연",
+      "stock_knd": "보통주",
+      "nm": "정인수",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "4,096,600",
+      "bsis_posesn_stock_qota_rt": "66.85",
+      "trmend_posesn_stock_co": "4,096,600",
+      "trmend_posesn_stock_qota_rt": "66.85",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001366",
+      "corp_cls": "Y",
+      "corp_code": "00367710",
+      "corp_name": "동인기연",
+      "stock_knd": "보통주",
+      "nm": "정윤석",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "51,000",
+      "bsis_posesn_stock_qota_rt": "0.83",
+      "trmend_posesn_stock_co": "51,000",
+      "trmend_posesn_stock_qota_rt": "0.83",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001366",
+      "corp_cls": "Y",
+      "corp_code": "00367710",
+      "corp_name": "동인기연",
+      "stock_knd": "보통주",
+      "nm": "정윤환",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "40,000",
+      "bsis_posesn_stock_qota_rt": "0.65",
+      "trmend_posesn_stock_co": "42,000",
+      "trmend_posesn_stock_qota_rt": "0.69",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001366",
+      "corp_cls": "Y",
+      "corp_code": "00367710",
+      "corp_name": "동인기연",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "4,187,600",
+      "bsis_posesn_stock_qota_rt": "68.33",
+      "trmend_posesn_stock_co": "4,189,600",
+      "trmend_posesn_stock_qota_rt": "68.37",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001366",
+      "corp_cls": "Y",
+      "corp_code": "00367710",
+      "corp_name": "동인기연",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

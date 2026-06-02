@@ -1,0 +1,32 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 2,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "stock_code": "126720",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.09)",
+      "rcept_no": "20221130001938",
+      "flr_nm": "수산인더스트리",
+      "rcept_dt": "20221130",
+      "rm": ""
+    },
+    {
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "stock_code": "126720",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114002208",
+      "flr_nm": "수산인더스트리",
+      "rcept_dt": "20221114",
+      "rm": "정"
+    }
+  ]
+}

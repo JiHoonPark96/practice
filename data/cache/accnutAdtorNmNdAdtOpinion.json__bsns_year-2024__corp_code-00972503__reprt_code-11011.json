@@ -1,0 +1,75 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제13기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제13기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제12기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제12기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제11기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제11기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

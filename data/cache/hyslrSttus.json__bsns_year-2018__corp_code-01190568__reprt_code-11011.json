@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200924000286",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_knd": "보통주",
+      "nm": "김병훈",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "2,603,720",
+      "bsis_posesn_stock_qota_rt": "44.19",
+      "trmend_posesn_stock_co": "2,546,322",
+      "trmend_posesn_stock_qota_rt": "37.50",
+      "rm": "유상증자, 주식매도",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200924000286",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_knd": "보통주",
+      "nm": "이주광",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "2,603,720",
+      "bsis_posesn_stock_qota_rt": "44.19",
+      "trmend_posesn_stock_co": "1,518,575",
+      "trmend_posesn_stock_qota_rt": "22.36",
+      "rm": "유상증자, 주식매도",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200924000286",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_knd": "보통주",
+      "nm": "신재하",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "112,000",
+      "bsis_posesn_stock_qota_rt": "1.90",
+      "trmend_posesn_stock_co": "105,610",
+      "trmend_posesn_stock_qota_rt": "1.56",
+      "rm": "유상증자, 주식매도",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200924000286",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,319,440",
+      "bsis_posesn_stock_qota_rt": "90.28",
+      "trmend_posesn_stock_co": "4,170,507",
+      "trmend_posesn_stock_qota_rt": "61.42",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200924000286",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

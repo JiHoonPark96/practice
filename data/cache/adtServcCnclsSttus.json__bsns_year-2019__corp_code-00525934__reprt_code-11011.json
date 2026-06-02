@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002510",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "bsns_year": "제21기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분,반기 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "200",
+      "tot_reqre_time": "2,587",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002510",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "bsns_year": "제20기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분,반기 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "165",
+      "tot_reqre_time": "1,783",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002510",
+      "corp_cls": "Y",
+      "corp_code": "00525934",
+      "corp_name": "LX세미콘",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분,반기 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "105",
+      "tot_reqre_time": "1,174",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

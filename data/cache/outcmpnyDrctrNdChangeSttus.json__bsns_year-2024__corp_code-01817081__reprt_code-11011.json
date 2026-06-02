@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

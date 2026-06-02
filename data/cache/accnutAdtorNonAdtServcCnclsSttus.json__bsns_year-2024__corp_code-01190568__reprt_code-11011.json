@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제11기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제11기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제10기(전기)",
+      "cntrct_cncls_de": "2023.12.18",
+      "servc_cn": "회계감사인의 재무확인서",
+      "servc_exc_pd": "2023년 12월",
+      "servc_mendng": "40,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제10기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제9기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제9기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

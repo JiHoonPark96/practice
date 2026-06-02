@@ -1,0 +1,80 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814000446",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제29기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000446",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제29기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000446",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제28기\n(전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000446",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제28기\n(전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000446",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제27기\n(전전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "보고기간 후 사건",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000446",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제27기\n(전전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "보고기간 후 사건",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331002907",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출액의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002907",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출액의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002907",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "국외매출과 관련된 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002907",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "국외매출과 관련된 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002907",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002907",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

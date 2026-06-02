@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

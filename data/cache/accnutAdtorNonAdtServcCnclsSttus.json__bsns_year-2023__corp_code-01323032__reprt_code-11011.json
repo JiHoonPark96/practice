@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240424000584",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2023.03.21\n2023.03.30\n2023.04.01",
+      "servc_cn": "세무 컨설팅 용역\n세무 컨설팅 용역\n법인세 세무조정 및 지방소득세 신고",
+      "servc_exc_pd": "2023.03.21~2023.04.22\n2023.03.30~2023.07.07\n2023.04.01~2024.04.30",
+      "servc_mendng": "100\n250\n45",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240424000584",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2022.04.01",
+      "servc_cn": "법인세 세무조정 및\n 지방소득세 신고",
+      "servc_exc_pd": "2022.04.01~2023.04.30",
+      "servc_mendng": "42 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240424000584",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제5기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제24기\n (당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제24기\n (당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제23기\n (전기)",
+      "cntrct_cncls_de": "2021.06.30",
+      "servc_cn": "기업공개 관련 회계감사인의\n 재무확인서(IPO) 발행업무",
+      "servc_exc_pd": "2021.06.24 ~ 2021.07.07",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제23기\n (전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제22기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제22기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

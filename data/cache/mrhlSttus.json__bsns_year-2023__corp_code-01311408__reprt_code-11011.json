@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240417000528",
+      "corp_cls": "Y",
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "se": "소액주주",
+      "shrholdr_co": "138,512",
+      "shrholdr_tot_co": "138,521",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "13,085,653",
+      "stock_tot_co": "68,985,218",
+      "hold_stock_rate": "18.97%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328001653",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제26 기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001653",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제26 기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001653",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제25 기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익의 발생사실과\n\n기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001653",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제25 기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익의 발생사실과\n\n기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001653",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제24 기\n(전전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001653",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제24 기\n(전전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계약원가 추정의\n\n불확실성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

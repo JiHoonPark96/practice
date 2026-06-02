@@ -1,0 +1,81 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "bsns_year": "제5기\n(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "bsns_year": "제5기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "bsns_year": "제4기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "부품정비 및 개발용역 수익인식",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "bsns_year": "제4기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "부품정비 및 개발용역 수익인식",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "bsns_year": "제3기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "부품정비 및 개발용역 수익인식",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "bsns_year": "제3기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "부품정비 및 개발용역 수익인식",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

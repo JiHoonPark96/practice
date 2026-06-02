@@ -1,0 +1,35 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001110",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "stock_knd": "보통주",
+      "nm": "㈜LG화학",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "191,500,000",
+      "bsis_posesn_stock_qota_rt": "81.84",
+      "trmend_posesn_stock_co": "191,500,000",
+      "trmend_posesn_stock_qota_rt": "81.84",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001110",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "191,500,000",
+      "bsis_posesn_stock_qota_rt": "81.84",
+      "trmend_posesn_stock_co": "191,500,000",
+      "trmend_posesn_stock_qota_rt": "81.84",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

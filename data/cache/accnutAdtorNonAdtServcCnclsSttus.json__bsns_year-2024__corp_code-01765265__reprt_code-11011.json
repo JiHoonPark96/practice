@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2023년 12월 9일",
+      "servc_cn": "소유주식 명세서 확인 용역",
+      "servc_exc_pd": "2023년 10월 19일 ~ 2023년 12월 31일",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

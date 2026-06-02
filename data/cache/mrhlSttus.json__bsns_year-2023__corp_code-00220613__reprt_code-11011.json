@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001898",
+      "corp_cls": "Y",
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "se": "소액주주",
+      "shrholdr_co": "12,804",
+      "shrholdr_tot_co": "12,811",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "7,535,480",
+      "stock_tot_co": "26,002,000",
+      "hold_stock_rate": "28.98%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

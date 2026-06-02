@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000658",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "bsns_year": "제 1기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(*1)",
+      "core_adt_matter": "- \n인적분할로 이전된 자산과 부채의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000658",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000658",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

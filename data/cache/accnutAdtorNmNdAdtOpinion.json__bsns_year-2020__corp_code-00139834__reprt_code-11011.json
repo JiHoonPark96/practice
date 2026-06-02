@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331001781",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제34기",
+      "adtor": "안진 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가\n추정의 변경",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331001781",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제33기",
+      "adtor": "안진 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가\n추정의 변경",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331001781",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제32기",
+      "adtor": "안진 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가\n추정의 변경",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260317000759",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "2",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

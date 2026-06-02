@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000525",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "se": "소액주주",
+      "shrholdr_co": "152,836",
+      "shrholdr_tot_co": "152,839",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "9,789,233",
+      "stock_tot_co": "36,313,190",
+      "hold_stock_rate": "26.96%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

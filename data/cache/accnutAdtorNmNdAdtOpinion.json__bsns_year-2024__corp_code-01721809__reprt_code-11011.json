@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "푸드서비스부문 현금창출단위집단에 배부된 영업권 손상 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "푸드서비스부문 현금창출단위집단에 배부된 영업권 손상 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할을 통한 회사의 설립",
+      "core_adt_matter": "푸드서비스부문 현금창출단위집단에 배부된 영업권 손상 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할을 통한 회사의 설립",
+      "core_adt_matter": "푸드서비스부문 현금창출단위집단에 배부된 영업권 손상 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

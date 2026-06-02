@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240618000197",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제35기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 프로젝트 자료 및 데이터 간 정합성 검토\n- 매출채권 회수가능성 검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240618000197",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제34기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 공사변경으로 인한 회계처리의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240618000197",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 미청구공사금액 회수가능성\n- 공사손실충당금 설정 검토\n- 법인세 및 이연법인세 적정성 검토",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

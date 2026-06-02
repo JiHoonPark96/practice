@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000801",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "se": "소액주주",
+      "shrholdr_co": "28,893",
+      "shrholdr_tot_co": "28,905",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "7,428,607",
+      "stock_tot_co": "32,725,652",
+      "hold_stock_rate": "22.70%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

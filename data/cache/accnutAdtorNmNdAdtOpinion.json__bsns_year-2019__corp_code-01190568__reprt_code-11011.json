@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200924000296",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제6기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200924000296",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼일회계법인\n한영회계법인",
+      "adt_opinion": "적정\n검토",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200924000296",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

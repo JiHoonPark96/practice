@@ -1,0 +1,64 @@
+{
+  "sample": {
+    "n_firms": 50,
+    "n_firm_years": 350,
+    "start_year": 2018,
+    "end_year": 2024,
+    "correction_dummy_mean": 0.09142857142857143,
+    "correction_count_mean": 0.15428571428571428,
+    "material_correction_dummy_mean": 0.04
+  },
+  "missing_rates": {
+    "NonAuditFeeRatio": 0.9285714285714286,
+    "AuditFee": 0.9285714285714286,
+    "OutsideDirectorRatio": 0.5914285714285714,
+    "LargestShareholderOwnership": 0.5057142857142857,
+    "MinorityShareholderRatio": 0.5371428571428571,
+    "Assets": 0.5485714285714286,
+    "ROA": 1.0
+  },
+  "yearly_correction_rate": [
+    {
+      "year": 2018,
+      "n_firm_years": 50,
+      "correction_rate": 0.12,
+      "correction_count_mean": 0.18
+    },
+    {
+      "year": 2019,
+      "n_firm_years": 50,
+      "correction_rate": 0.08,
+      "correction_count_mean": 0.24
+    },
+    {
+      "year": 2020,
+      "n_firm_years": 50,
+      "correction_rate": 0.04,
+      "correction_count_mean": 0.16
+    },
+    {
+      "year": 2021,
+      "n_firm_years": 50,
+      "correction_rate": 0.08,
+      "correction_count_mean": 0.14
+    },
+    {
+      "year": 2022,
+      "n_firm_years": 50,
+      "correction_rate": 0.06,
+      "correction_count_mean": 0.06
+    },
+    {
+      "year": 2023,
+      "n_firm_years": 50,
+      "correction_rate": 0.12,
+      "correction_count_mean": 0.12
+    },
+    {
+      "year": 2024,
+      "n_firm_years": 50,
+      "correction_rate": 0.14,
+      "correction_count_mean": 0.18
+    }
+  ]
+}

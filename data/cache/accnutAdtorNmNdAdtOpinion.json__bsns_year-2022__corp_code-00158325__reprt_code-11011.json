@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000824",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제39기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 유의적인 종속기업투자주식 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000824",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제38기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 종속기업 현금흐름창출단위 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000824",
+      "corp_cls": "Y",
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "bsns_year": "제37기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 솔루션 구축 및 개발 용역에 대한 수익 인식",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

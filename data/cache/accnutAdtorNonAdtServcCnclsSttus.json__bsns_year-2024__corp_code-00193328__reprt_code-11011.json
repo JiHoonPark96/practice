@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제42기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제41기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제40기(전전기)",
+      "cntrct_cncls_de": "2022년 6월 17일",
+      "servc_cn": "재무정보 확인서",
+      "servc_exc_pd": "2022.06.17~2022.06.22",
+      "servc_mendng": "15백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "stock_code": "079900",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114001484",
+      "flr_nm": "전진건설로봇",
+      "rcept_dt": "20241114",
+      "rm": ""
+    }
+  ]
+}

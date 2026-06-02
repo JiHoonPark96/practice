@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000466",
+      "corp_cls": "Y",
+      "corp_code": "01649204",
+      "corp_name": "달바글로벌",
+      "stock_knd": "보통주",
+      "nm": "반성연",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "1,605,645",
+      "bsis_posesn_stock_qota_rt": "14.30",
+      "trmend_posesn_stock_co": "1,994,780",
+      "trmend_posesn_stock_qota_rt": "17.40",
+      "rm": "(주1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000466",
+      "corp_cls": "Y",
+      "corp_code": "01649204",
+      "corp_name": "달바글로벌",
+      "stock_knd": "보통주",
+      "nm": "유명한",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "122,437",
+      "trmend_posesn_stock_qota_rt": "1.10",
+      "rm": "(주2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000466",
+      "corp_cls": "Y",
+      "corp_code": "01649204",
+      "corp_name": "달바글로벌",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,605,645",
+      "bsis_posesn_stock_qota_rt": "14.30",
+      "trmend_posesn_stock_co": "2,117,217",
+      "trmend_posesn_stock_qota_rt": "18.50",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000466",
+      "corp_cls": "Y",
+      "corp_code": "01649204",
+      "corp_name": "달바글로벌",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

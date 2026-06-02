@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000082",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "se": "소액주주",
+      "shrholdr_co": "47,329",
+      "shrholdr_tot_co": "47,337",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "42,900,329",
+      "stock_tot_co": "90,942,672",
+      "hold_stock_rate": "47.19%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

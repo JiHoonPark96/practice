@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00366438",
+      "corp_name": "산일전기",
+      "stock_code": "062040",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002566",
+      "flr_nm": "산일전기",
+      "rcept_dt": "20241114",
+      "rm": ""
+    }
+  ]
+}

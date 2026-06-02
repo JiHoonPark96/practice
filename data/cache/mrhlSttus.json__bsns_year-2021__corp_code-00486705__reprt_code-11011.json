@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000673",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "se": "소액주주",
+      "shrholdr_co": "138,156",
+      "shrholdr_tot_co": "138,161",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "8,634,999",
+      "stock_tot_co": "26,452,189",
+      "hold_stock_rate": "32.64%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250402002504",
+      "corp_cls": "Y",
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "bsns_year": "제8기\n(당기)",
+      "adtor": "대주회계법인",
+      "cn": "분반기 검토, 연 감사 등(연결 및 개별)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "260",
+      "real_exc_dtls_time": "2,141",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250402002504",
+      "corp_cls": "Y",
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "bsns_year": "제7기\n(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분반기 검토, 연 감사 등(연결 및 개별)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190",
+      "adt_cntrct_dtls_time": "1,300",
+      "real_exc_dtls_mendng": "190",
+      "real_exc_dtls_time": "1,418",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250402002504",
+      "corp_cls": "Y",
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "bsns_year": "제6기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "분반기 검토, 연 감사 등(연결 및 개별)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100",
+      "adt_cntrct_dtls_time": "800",
+      "real_exc_dtls_mendng": "100",
+      "real_exc_dtls_time": "831",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

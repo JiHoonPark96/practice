@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제2기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품/상품 내수 매출 발생 사실의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제2기(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제1기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할을 통한 회사의 설립",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제1기(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

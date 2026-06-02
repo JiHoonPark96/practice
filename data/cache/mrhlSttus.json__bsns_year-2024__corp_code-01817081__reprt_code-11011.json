@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "se": "소액주주",
+      "shrholdr_co": "47,388",
+      "shrholdr_tot_co": "47,393",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "15,181,660",
+      "stock_tot_co": "33,691,895",
+      "hold_stock_rate": "45.06%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

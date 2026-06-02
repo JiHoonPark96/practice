@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2024.06.30",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "2024.06.30 ~ 2025.03.31",
+      "servc_mendng": "8",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2023.11.01",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "2023.11.01 ~ 2024.03.31",
+      "servc_mendng": "9",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

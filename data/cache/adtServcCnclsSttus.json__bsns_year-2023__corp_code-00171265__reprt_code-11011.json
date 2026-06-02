@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000746",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분기ㆍ반기재무제표 검토, 개별ㆍ연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500,000",
+      "adt_cntrct_dtls_time": "5,000",
+      "real_exc_dtls_mendng": "500,000",
+      "real_exc_dtls_time": "4,340",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000746",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "bsns_year": "제52기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분기ㆍ반기재무제표 검토, 개별ㆍ연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500,000",
+      "adt_cntrct_dtls_time": "5,000",
+      "real_exc_dtls_mendng": "500,000",
+      "real_exc_dtls_time": "4,740",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000746",
+      "corp_cls": "Y",
+      "corp_code": "00171265",
+      "corp_name": "파라다이스",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기ㆍ반기재무제표 검토, 개별ㆍ연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500,000",
+      "adt_cntrct_dtls_time": "5,400",
+      "real_exc_dtls_mendng": "500,000",
+      "real_exc_dtls_time": "4,665",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

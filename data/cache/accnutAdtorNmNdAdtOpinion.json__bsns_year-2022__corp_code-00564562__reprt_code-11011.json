@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000700",
+      "corp_cls": "Y",
+      "corp_code": "00564562",
+      "corp_name": "엠씨넥스",
+      "bsns_year": "제19기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식 실재성과 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000700",
+      "corp_cls": "Y",
+      "corp_code": "00564562",
+      "corp_name": "엠씨넥스",
+      "bsns_year": "제18기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식 실재성과 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000700",
+      "corp_cls": "Y",
+      "corp_code": "00564562",
+      "corp_name": "엠씨넥스",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가 손실충당금 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

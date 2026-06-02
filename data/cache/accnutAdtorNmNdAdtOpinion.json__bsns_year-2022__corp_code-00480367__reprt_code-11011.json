@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230831000707",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제27기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성에 따른 회계처리",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831000707",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제26기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성에 따른 회계처리",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831000707",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "bsns_year": "제25기(전전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001261",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "se": "소액주주",
+      "shrholdr_co": "228,149",
+      "shrholdr_tot_co": "228,155",
+      "shrholdr_rate": "99.997%",
+      "hold_stock_co": "46,222,623",
+      "stock_tot_co": "152,034,729",
+      "hold_stock_rate": "30.41%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

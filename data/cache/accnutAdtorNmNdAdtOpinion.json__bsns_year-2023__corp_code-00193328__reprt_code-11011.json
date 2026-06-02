@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000834",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제41기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1.원가기준 투입법에 따른 수익인식\n2.영업권 손상평가\n(별도재무제표)\n1.원가기준 투입법에 따른 수익인식\n2.종속기업투자 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000834",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제40기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1.원가기준 투입법에 따른 수익인식\n2.영업권 손상평가\n(별도재무제표)\n1.원가기준 투입법에 따른 수익인식\n2.종속기업투자 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000834",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

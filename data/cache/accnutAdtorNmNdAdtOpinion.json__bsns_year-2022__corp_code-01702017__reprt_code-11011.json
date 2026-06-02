@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000303",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "bsns_year": "제1기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할 신설",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000303",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000303",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

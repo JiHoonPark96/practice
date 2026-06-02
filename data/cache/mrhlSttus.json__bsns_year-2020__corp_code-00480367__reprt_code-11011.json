@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000211",
+      "corp_cls": "Y",
+      "corp_code": "00480367",
+      "corp_name": "SK오션플랜트",
+      "se": "소액주주",
+      "shrholdr_co": "39,348",
+      "shrholdr_tot_co": "39,352",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "22,030,735",
+      "stock_tot_co": "35,092,674",
+      "hold_stock_rate": "62.77%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

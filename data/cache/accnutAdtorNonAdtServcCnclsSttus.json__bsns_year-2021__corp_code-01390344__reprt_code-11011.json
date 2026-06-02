@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제3기\n (2021년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제2기\n (2020년)",
+      "cntrct_cncls_de": "2020.04",
+      "servc_cn": "해외공사현장에 대한 특정목적 감사",
+      "servc_exc_pd": "2020.04",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제1기\n (2019년)",
+      "cntrct_cncls_de": "2019.06",
+      "servc_cn": "2019년 6월 분할개시재무상태표 검토",
+      "servc_exc_pd": "2019.06",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

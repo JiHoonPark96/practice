@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260317000759",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제26기(당기)",
+      "adtor": "선진회계법인",
+      "cn": "1. 연결 및 별도 재무제표 검토 및 감사\n2. 1분기 연결 및 별도 재무제표 검토\n3. 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90",
+      "adt_cntrct_dtls_time": "944",
+      "real_exc_dtls_mendng": "90",
+      "real_exc_dtls_time": "1,326",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20260317000759",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제25기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "1. 연결 및 별도 재무제표 검토 및 감사\n2. 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "195",
+      "real_exc_dtls_time": "2,038",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20260317000759",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "1. 연결 및 별도 재무제표 검토 및 감사\n2. 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "1,700",
+      "real_exc_dtls_mendng": "175",
+      "real_exc_dtls_time": "1,793",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

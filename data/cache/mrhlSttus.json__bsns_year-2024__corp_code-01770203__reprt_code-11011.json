@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311000815",
+      "corp_cls": "Y",
+      "corp_code": "01770203",
+      "corp_name": "조선내화",
+      "se": "소액주주",
+      "shrholdr_co": "8,295",
+      "shrholdr_tot_co": "8,300",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "2,210,865",
+      "stock_tot_co": "11,855,168",
+      "hold_stock_rate": "18.65%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

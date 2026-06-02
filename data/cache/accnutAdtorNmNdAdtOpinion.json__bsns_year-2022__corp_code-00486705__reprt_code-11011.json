@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제24기\n (당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계약원가 추정의\n불확실성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제23기\n (전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " COVID-19(코로나바이러스감염증-19)으로 인한 영업환경\n 및  영업성과 등에 미칠 수 있는 영향의 불확실성이 존재",
+      "core_adt_matter": "영업권이 배부된\n 현금창출단위의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제22기\n (전전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " COVID-19(코로나바이러스감염증-19)으로 인한 영업환경 및\n 영업성과 등에 미칠 수 있는 영향의 불확실성이 존재",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

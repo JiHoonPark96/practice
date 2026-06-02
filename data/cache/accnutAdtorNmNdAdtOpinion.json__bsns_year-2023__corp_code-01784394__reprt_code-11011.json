@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001878",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼정KPMG",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "리스자산/부채 회계처리의 정확성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001878",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제0기(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001878",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제0기(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

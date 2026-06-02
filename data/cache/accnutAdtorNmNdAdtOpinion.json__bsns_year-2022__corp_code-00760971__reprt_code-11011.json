@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000728",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제16기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "Unknown Worlds Entertainment, Inc. 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000728",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제15기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "게임매출 수익의 발생사실과 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000728",
+      "corp_cls": "Y",
+      "corp_code": "00760971",
+      "corp_name": "크래프톤",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

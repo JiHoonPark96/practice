@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000653",
+      "corp_cls": "Y",
+      "corp_code": "01519790",
+      "corp_name": "엠앤씨솔루션",
+      "se": "소액주주",
+      "shrholdr_co": "18,788",
+      "shrholdr_tot_co": "18,791",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "2,101,869",
+      "stock_tot_co": "9,153,900",
+      "hold_stock_rate": "22.96%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

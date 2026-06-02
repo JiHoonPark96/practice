@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "stock_knd": "의결권있는 주식",
+      "nm": " 모트렉스전진1호주식회사",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "13,751,724",
+      "bsis_posesn_stock_qota_rt": "89.50",
+      "trmend_posesn_stock_co": "11,444,870",
+      "trmend_posesn_stock_qota_rt": "78.40",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "stock_knd": "의결권있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "13,751,724",
+      "bsis_posesn_stock_qota_rt": "89.50",
+      "trmend_posesn_stock_co": "11,444,870",
+      "trmend_posesn_stock_qota_rt": "78.40",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000567",
+      "corp_cls": "Y",
+      "corp_code": "00372129",
+      "corp_name": "전진건설로봇",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

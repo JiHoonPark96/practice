@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000303",
+      "corp_cls": "Y",
+      "corp_code": "01702017",
+      "corp_name": "유니드비티플러스",
+      "se": "소액주주",
+      "shrholdr_co": "15,479",
+      "shrholdr_tot_co": "15,493",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "5,180,960",
+      "stock_tot_co": "10,611,215",
+      "hold_stock_rate": "48.83%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

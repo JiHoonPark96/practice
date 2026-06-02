@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001817",
+      "corp_cls": "Y",
+      "corp_code": "01105153",
+      "corp_name": "두산로보틱스",
+      "stock_knd": "보통주식",
+      "nm": "(주)두산",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "44,200,000",
+      "bsis_posesn_stock_qota_rt": "68.20",
+      "trmend_posesn_stock_co": "44,200,000",
+      "trmend_posesn_stock_qota_rt": "68.20",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001817",
+      "corp_cls": "Y",
+      "corp_code": "01105153",
+      "corp_name": "두산로보틱스",
+      "stock_knd": "보통주식",
+      "nm": "박성민",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "27",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "27",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001817",
+      "corp_cls": "Y",
+      "corp_code": "01105153",
+      "corp_name": "두산로보틱스",
+      "stock_knd": "보통주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "44,200,027",
+      "bsis_posesn_stock_qota_rt": "68.20",
+      "trmend_posesn_stock_co": "44,200,027",
+      "trmend_posesn_stock_qota_rt": "68.20",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001817",
+      "corp_cls": "Y",
+      "corp_code": "01105153",
+      "corp_name": "두산로보틱스",
+      "stock_knd": "종류주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

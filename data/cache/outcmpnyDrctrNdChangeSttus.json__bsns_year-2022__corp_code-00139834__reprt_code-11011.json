@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230331004072",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "-",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

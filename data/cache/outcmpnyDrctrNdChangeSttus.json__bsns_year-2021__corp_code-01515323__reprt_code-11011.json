@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001026",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "4",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

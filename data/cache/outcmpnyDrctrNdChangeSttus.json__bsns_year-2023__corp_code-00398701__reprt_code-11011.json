@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001260",
+      "corp_cls": "Y",
+      "corp_code": "00398701",
+      "corp_name": "엘앤에프",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "5",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

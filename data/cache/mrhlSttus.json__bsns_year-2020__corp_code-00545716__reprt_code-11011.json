@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210707000505",
+      "corp_cls": "Y",
+      "corp_code": "00545716",
+      "corp_name": "롯데렌탈",
+      "se": "소액주주",
+      "shrholdr_co": "-",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "-",
+      "hold_stock_co": "-",
+      "stock_tot_co": "11,769,200",
+      "hold_stock_rate": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

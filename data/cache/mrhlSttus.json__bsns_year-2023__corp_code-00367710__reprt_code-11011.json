@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000011",
+      "corp_cls": "Y",
+      "corp_code": "00367710",
+      "corp_name": "동인기연",
+      "se": "소액주주",
+      "shrholdr_co": "12,032",
+      "shrholdr_tot_co": "12,033",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "2,026,041",
+      "stock_tot_co": "6,122,641",
+      "hold_stock_rate": "33.09%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

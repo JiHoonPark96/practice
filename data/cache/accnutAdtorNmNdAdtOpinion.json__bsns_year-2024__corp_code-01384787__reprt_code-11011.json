@@ -1,0 +1,70 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "라이선스 매출의 \n기간귀속에 대한 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "한성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000952",
+      "corp_cls": "Y",
+      "corp_code": "01384787",
+      "corp_name": "시프트업",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

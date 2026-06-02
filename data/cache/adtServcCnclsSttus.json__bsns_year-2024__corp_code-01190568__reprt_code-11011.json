@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제11기(당기)",
+      "adtor": "현대회계법인",
+      "cn": "별도 및 연결 재무제표 감사\n반기 별도\n 및 연결 재무제표 검토\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,805",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,844",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제10기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 재무제표 감사\n반기/3분기 별도\n 및 연결 재무제표 검토\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "586",
+      "adt_cntrct_dtls_time": "4,560",
+      "real_exc_dtls_mendng": "586",
+      "real_exc_dtls_time": "4800",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001576",
+      "corp_cls": "Y",
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "현대회계법인",
+      "cn": "별도 및 연결 재무제표 감사\n\n반기 별도 및 연결 재무제표 검토\n\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "112",
+      "adt_cntrct_dtls_time": "1,239",
+      "real_exc_dtls_mendng": "112",
+      "real_exc_dtls_time": "1,293",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

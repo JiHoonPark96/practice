@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "기초잔액 검토1분기 별도, 연결재무제표 등에 대한 검토\n반기 별도, 연결재무제표 등에 대한 검토3분기 별도, 연결재무제표 등에 대한 검토\n제1기 별도, 연결재무제표 등에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "190",
+      "real_exc_dtls_time": "2,251",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

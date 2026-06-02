@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2024.07월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.07~2025.03",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2024.12월",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2024.12~2026.06",
+      "servc_mendng": "10백만원",
+      "rm": "글로벌최저한세 관련",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2024.12월",
+      "servc_cn": "Robotic Application 이용\n(Smart Reviewer, DSD Wizard)",
+      "servc_exc_pd": "2024.12~2027.12",
+      "servc_mendng": "18백만원",
+      "rm": "저작물 이용",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2023.07월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.07~2024.04",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000805",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

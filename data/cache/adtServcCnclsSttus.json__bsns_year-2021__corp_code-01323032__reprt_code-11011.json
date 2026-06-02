@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001421",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제5기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "반기검토, 연간감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450",
+      "adt_cntrct_dtls_time": "4,034",
+      "real_exc_dtls_mendng": "405",
+      "real_exc_dtls_time": "4,155",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001421",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제4기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "92",
+      "adt_cntrct_dtls_time": "951",
+      "real_exc_dtls_mendng": "92",
+      "real_exc_dtls_time": "1,118",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001421",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제3기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "82",
+      "adt_cntrct_dtls_time": "910",
+      "real_exc_dtls_mendng": "95",
+      "real_exc_dtls_time": "1,265",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

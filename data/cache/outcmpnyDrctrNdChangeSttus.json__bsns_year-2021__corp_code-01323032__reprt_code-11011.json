@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001421",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "8",
+      "rlsofc": "-",
+      "mdstrm_resig": "5",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

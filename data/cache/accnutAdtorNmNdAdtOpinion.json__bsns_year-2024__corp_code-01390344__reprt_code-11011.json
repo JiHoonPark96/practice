@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제6기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "- 총 계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 공사변경에 따른 회계처리의 적절성\n- 계약자산금액의 회수가능성에 대한 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제6기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "- 총 계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 공사변경에 따른 회계처리의 적절성\n- 계약자산금액의 회수가능성에 대한 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제5기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해\n당사항\n없음",
+      "core_adt_matter": "- 총 계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 공사변경에 따른 회계처리의 적절성\n- 계약자산금액의 회수가능성에 대한 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제5기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "- 총 계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 공사변경에 따른 회계처리의 적절성\n- 계약자산금액의 회수가능성에 대한 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "- 총 계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 공사변경에 따른 회계처리의 적절성\n- 계약자산금액의 회수가능성에 대한 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제4기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "- 총 계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률의 적정성\n- 공사변경에 따른 회계처리의 적절성\n- 계약자산금액의 회수가능성에 대한 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001168",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "bsns_year": "제13기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "분·반기 재무제표 검토\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300,000",
+      "adt_cntrct_dtls_time": "2,713",
+      "real_exc_dtls_mendng": "300,000",
+      "real_exc_dtls_time": "2,715",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001168",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분·반기 재무제표 검토\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "369,000",
+      "adt_cntrct_dtls_time": "2,977",
+      "real_exc_dtls_mendng": "369,000",
+      "real_exc_dtls_time": "2,977",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001168",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분·반기 재무제표 검토\n별도 및 연결 재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300,000",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "351,250",
+      "real_exc_dtls_time": "2,817",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

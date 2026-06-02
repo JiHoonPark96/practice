@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "drctr_co": "2",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

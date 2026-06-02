@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000543",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "se": "소액주주",
+      "shrholdr_co": "70,652",
+      "shrholdr_tot_co": "70,660",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "25,850,132",
+      "stock_tot_co": "49,608,017",
+      "hold_stock_rate": "52.11%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제2기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "연간 재무제표 감사 및 내부회계관리제도에 대한 감사\n분 , 반기 재무제표에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "664",
+      "adt_cntrct_dtls_time": "5,814",
+      "real_exc_dtls_mendng": "664",
+      "real_exc_dtls_time": "5,558",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "제1기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "연간 재무제표 감사 및 내부회계관리제도에 대한 검토\n분 , 반기 재무제표에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "503",
+      "adt_cntrct_dtls_time": "4,472",
+      "real_exc_dtls_mendng": "503",
+      "real_exc_dtls_time": "4,626",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000722",
+      "corp_cls": "Y",
+      "corp_code": "01765265",
+      "corp_name": "동국제강",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

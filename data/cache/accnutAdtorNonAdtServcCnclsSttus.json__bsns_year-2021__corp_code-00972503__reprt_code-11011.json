@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": " 2021.7. 23",
+      "servc_cn": "증권신고서\n재무확인서",
+      "servc_exc_pd": "2021.7.23 ~\n2021.8.13",
+      "servc_mendng": "20,000",
+      "rm": "반기",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": " 2021. 7. 1",
+      "servc_cn": "증권신고서\n재무확인서",
+      "servc_exc_pd": "2021.7.5 ~\n2021.8.3",
+      "servc_mendng": "20,000",
+      "rm": "1분기",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000848",
+      "corp_cls": "Y",
+      "corp_code": "00972503",
+      "corp_name": "일진하이솔루스",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

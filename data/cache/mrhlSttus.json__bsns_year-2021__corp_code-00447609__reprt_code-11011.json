@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000686",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "se": "소액주주",
+      "shrholdr_co": "45,883",
+      "shrholdr_tot_co": "45,887",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "22,872,984",
+      "stock_tot_co": "31,223,584",
+      "hold_stock_rate": "73.25%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

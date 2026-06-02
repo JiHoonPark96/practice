@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "stock_code": "403550",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221110000347",
+      "flr_nm": "쏘카",
+      "rcept_dt": "20221110",
+      "rm": ""
+    }
+  ]
+}

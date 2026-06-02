@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "삼정KPMG",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "삼정KPMG",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- STX썬에이스해운 지분 취득거래 인수가격배분의 적정성\n- 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼정KPMG",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "- 리스자산/부채 회계처리의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼정KPMG",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "- 리스자산/부채 회계처리의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001570",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

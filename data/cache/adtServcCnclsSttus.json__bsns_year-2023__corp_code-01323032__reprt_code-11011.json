@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240424000584",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제7기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기검토, 연간감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350",
+      "adt_cntrct_dtls_time": "3,200 ",
+      "real_exc_dtls_mendng": "350",
+      "real_exc_dtls_time": "3,178",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240424000584",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제6기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기검토, 연간감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "3,200 ",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "3,462",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240424000584",
+      "corp_cls": "Y",
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "반기검토, 연간감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450",
+      "adt_cntrct_dtls_time": "4,034",
+      "real_exc_dtls_mendng": "405",
+      "real_exc_dtls_time": "4,155",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

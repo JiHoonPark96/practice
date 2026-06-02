@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000557",
+      "corp_cls": "Y",
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "se": "소액주주",
+      "shrholdr_co": "49,530",
+      "shrholdr_tot_co": "49,534",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "8,263,397",
+      "stock_tot_co": "27,674,406",
+      "hold_stock_rate": "29.86%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

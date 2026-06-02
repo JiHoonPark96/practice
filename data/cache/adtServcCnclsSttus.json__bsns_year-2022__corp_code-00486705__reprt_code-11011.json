@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제24기\n (당기)",
+      "adtor": "정인회계법인",
+      "cn": " 반기 별도/연결 재무제표 검토\n 기말 별도/연결 재무제표 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290",
+      "adt_cntrct_dtls_time": "2,418",
+      "real_exc_dtls_mendng": "290",
+      "real_exc_dtls_time": "2,156",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제23기\n (전기)",
+      "adtor": "정인회계법인",
+      "cn": " 1분기/반기 재무제표 검토\n 중간감사 및 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "2,100",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "2,230",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001066",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제22기\n (전전기)",
+      "adtor": "정인회계법인",
+      "cn": "중간감사 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240",
+      "adt_cntrct_dtls_time": "2,058",
+      "real_exc_dtls_mendng": "257",
+      "real_exc_dtls_time": "2,229",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제3기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도 및 연결재무제표 임의감사,반기 별도 및 연결재무제표 검토,3분기 별도 및 연결재무제표 검토,기말 별도 및 연결재무제표 감사,내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,705",
+      "adt_cntrct_dtls_time": "15,500",
+      "real_exc_dtls_mendng": "1,705",
+      "real_exc_dtls_time": "16,404",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제2기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결감사, 연결분반기검토,\n 기말감사, 분반기검토\n 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "909",
+      "adt_cntrct_dtls_time": "3,894\n (분반기검토)\n 6,206\n (감사 등)",
+      "real_exc_dtls_mendng": "909",
+      "real_exc_dtls_time": "4,113\n (분반기검토)\n 6,280\n (감사 등)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000704",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "bsns_year": "제1기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "813",
+      "adt_cntrct_dtls_time": "2,832\n (분반기검토)\n 6,429\n (감사 등)",
+      "real_exc_dtls_mendng": "813",
+      "real_exc_dtls_time": "2,379\n (반기검토)\n 8,006\n (감사 등)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

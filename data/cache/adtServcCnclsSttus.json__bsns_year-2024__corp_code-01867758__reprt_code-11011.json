@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 별도 및 연결 분/반기 재무제표에 대한 감사- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130",
+      "adt_cntrct_dtls_time": "1,200",
+      "real_exc_dtls_mendng": "60",
+      "real_exc_dtls_time": "1,137",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000812",
+      "corp_cls": "Y",
+      "corp_code": "01867758",
+      "corp_name": "한화비전",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

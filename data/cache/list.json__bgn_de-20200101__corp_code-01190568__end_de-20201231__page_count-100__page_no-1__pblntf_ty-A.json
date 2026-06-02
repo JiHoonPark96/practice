@@ -1,0 +1,197 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 17,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116000737",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2020.06)",
+      "rcept_no": "20200924000303",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200924000299",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200924000296",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20200924000294",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2019.06)",
+      "rcept_no": "20200924000290",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20200924000289",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20200924000286",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.09)",
+      "rcept_no": "20200924000284",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2018.06)",
+      "rcept_no": "20200924000282",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.03)",
+      "rcept_no": "20200924000279",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20200924000275",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200924",
+      "rm": ""
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001744",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200814001681",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200814",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20200814001663",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001006",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01190568",
+      "corp_name": "에이피알",
+      "stock_code": "278470",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200513000126",
+      "flr_nm": "에이피알",
+      "rcept_dt": "20200513",
+      "rm": "정연"
+    }
+  ]
+}

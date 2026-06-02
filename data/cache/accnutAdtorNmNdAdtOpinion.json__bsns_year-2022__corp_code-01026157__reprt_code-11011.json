@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000801",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자 손상검사",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000801",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나바이러스감염증-19의 확산이 기업의 생산 능력과 고객에 대한 주문 이행능력에 미칠 수 있는 영향과 관련한 불확실성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000801",
+      "corp_cls": "Y",
+      "corp_code": "01026157",
+      "corp_name": "쏘카",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "선급금 및 전환사채의 유동성 분류 오류를 수정하여 재작성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000676",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "물적분할설립 및 COVID-19(코로나)바이러스가 기업의 생산능력과\n고객에 대한 주문 이행능력에 미칠 수 있는 영향 등",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000676",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000676",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

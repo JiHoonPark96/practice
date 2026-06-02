@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001878",
+      "corp_cls": "Y",
+      "corp_code": "01784394",
+      "corp_name": "STX그린로지스",
+      "se": "소액주주",
+      "shrholdr_co": "28,113",
+      "shrholdr_tot_co": "28,114",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "3,868,414",
+      "stock_tot_co": "7,171,032",
+      "hold_stock_rate": "53.94%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

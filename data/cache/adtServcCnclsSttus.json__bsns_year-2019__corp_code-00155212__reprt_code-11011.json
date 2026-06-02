@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200325000784",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제31기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,년도 회계감사(별도/연결), 내부통제",
+      "mendng": "390백만원",
+      "tot_reqre_time": "4,431시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000784",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제30기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,년도 회계감사(별도/연결), 내부통제",
+      "mendng": "405백만원",
+      "tot_reqre_time": "4,389시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000784",
+      "corp_cls": "Y",
+      "corp_code": "00155212",
+      "corp_name": "포스코DX",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,년도 회계감사(별도/연결), 내부통제",
+      "mendng": "405백만원",
+      "tot_reqre_time": "4,236시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

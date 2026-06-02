@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "stock_knd": "보통주",
+      "nm": "SK디스커버리㈜",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "8,713,188",
+      "bsis_posesn_stock_qota_rt": "34.09",
+      "trmend_posesn_stock_co": "10,455,825",
+      "trmend_posesn_stock_qota_rt": "31.03",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "stock_knd": "보통주",
+      "nm": "김도현",
+      "relate": "계열사 임원",
+      "bsis_posesn_stock_co": "7,487",
+      "bsis_posesn_stock_qota_rt": "0.03",
+      "trmend_posesn_stock_co": "8,984",
+      "trmend_posesn_stock_qota_rt": "0.03",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "stock_knd": "보통주",
+      "nm": "김해중",
+      "relate": "발행회사 임원",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "6,000",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "8,720,675",
+      "bsis_posesn_stock_qota_rt": "34.12",
+      "trmend_posesn_stock_co": "10,470,809",
+      "trmend_posesn_stock_qota_rt": "31.08",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000875",
+      "corp_cls": "Y",
+      "corp_code": "01817081",
+      "corp_name": "SK이터닉스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

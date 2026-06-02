@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "stock_code": "092790",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241128001094",
+      "flr_nm": "넥스틸",
+      "rcept_dt": "20241128",
+      "rm": ""
+    },
+    {
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "stock_code": "092790",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240828000976",
+      "flr_nm": "넥스틸",
+      "rcept_dt": "20240828",
+      "rm": ""
+    },
+    {
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "stock_code": "092790",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.03)",
+      "rcept_no": "20240529000375",
+      "flr_nm": "넥스틸",
+      "rcept_dt": "20240529",
+      "rm": ""
+    },
+    {
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "stock_code": "092790",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240528000367",
+      "flr_nm": "넥스틸",
+      "rcept_dt": "20240528",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00220613",
+      "corp_name": "넥스틸",
+      "stock_code": "092790",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240321001898",
+      "flr_nm": "넥스틸",
+      "rcept_dt": "20240321",
+      "rm": "연"
+    }
+  ]
+}

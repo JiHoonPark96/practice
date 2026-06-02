@@ -1,0 +1,80 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제31기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가맹점 재화공급 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제31기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가맹점 재화공급 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제30기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제30기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제29기\n(전전기)",
+      "adtor": "참회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000574",
+      "corp_cls": "Y",
+      "corp_code": "00968607",
+      "corp_name": "더본코리아",
+      "bsns_year": "제29기\n(전전기)",
+      "adtor": "참회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

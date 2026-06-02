@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004162",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "se": "소액주주",
+      "shrholdr_co": "4,999",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "10,448,503",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "11.97%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

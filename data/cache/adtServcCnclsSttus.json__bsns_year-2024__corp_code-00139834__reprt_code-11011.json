@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001270",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 분,반기 검토 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "968",
+      "adt_cntrct_dtls_time": "8,795",
+      "real_exc_dtls_mendng": "968",
+      "real_exc_dtls_time": "8,531",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001270",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제37기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 분,반기 검토 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "979",
+      "adt_cntrct_dtls_time": "8,900",
+      "real_exc_dtls_mendng": "979",
+      "real_exc_dtls_time": "8,715",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001270",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 분,반기 검토 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,127",
+      "adt_cntrct_dtls_time": "9,800",
+      "real_exc_dtls_mendng": "1,127",
+      "real_exc_dtls_time": "9,520",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

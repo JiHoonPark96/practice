@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190620000077",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "bsns_year": "제20기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190620000077",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "bsns_year": "제19기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190620000077",
+      "corp_cls": "Y",
+      "corp_code": "00447609",
+      "corp_name": "비에이치",
+      "bsns_year": "제18기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

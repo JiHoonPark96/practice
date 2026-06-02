@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제3기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "2022년 별도 및 연결재무제표에 대한 감사\n (감사기간)\n 별도재무제표: 2023.01.17~2023.03.08\n 연결재무제표: 2023.01.17~2023.03.08",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,500 ",
+      "adt_cntrct_dtls_time": "15,000시간",
+      "real_exc_dtls_mendng": "1,500 ",
+      "real_exc_dtls_time": "15,000시간\n (영문보고서검토 시간 포함)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제2기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "2021년 별도 및 연결재무제표에 대한 감사(감사기간)\n별도재무제표 : 2022.01.18~2022.03.07\n연결재무제표 : 2022.01.27~2022.03.07",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,200 ",
+      "adt_cntrct_dtls_time": "20,000시간",
+      "real_exc_dtls_mendng": "2,200 ",
+      "real_exc_dtls_time": "17,580시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001342",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제1기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "2020년 별도 및 연결재무제표에 대한 감사(영문포함)\n(감사기간)\n별도재무제표 : 2021.01.19~2021.02.26\n연결재무제표 : 2021.01.19~2021.02.26",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320 ",
+      "adt_cntrct_dtls_time": "3,200시간",
+      "real_exc_dtls_mendng": "320 ",
+      "real_exc_dtls_time": "3,300시간\n(영문보고서작성 등 추정시간 포함)",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

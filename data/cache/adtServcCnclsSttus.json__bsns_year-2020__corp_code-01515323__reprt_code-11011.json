@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000676",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "2020년 별도 및 연결재무제표에 대한 감사(영문포함)(감사기간)\n별도재무제표 : 2021.01.19~2021.02.26\n연결재무제표 : 2021.01.19~2021.02.26",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320",
+      "adt_cntrct_dtls_time": "3,200시간",
+      "real_exc_dtls_mendng": "320",
+      "real_exc_dtls_time": "3,300시간\n(영문보고서작성 등 추정시간 포함)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000676",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000676",
+      "corp_cls": "Y",
+      "corp_code": "01515323",
+      "corp_name": "LG에너지솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

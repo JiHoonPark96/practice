@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220405002309",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "se": "소액주주",
+      "shrholdr_co": "5,813",
+      "shrholdr_tot_co": "5,818",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "10,692,450",
+      "stock_tot_co": "87,197,353",
+      "hold_stock_rate": "12.25%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

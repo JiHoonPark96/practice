@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000673",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제23기\n (당기)",
+      "adtor": "정인회계법인",
+      "cn": "1분기, 반기 별도 및 연결재무제표 검토, 연차 별도 및 연결재무제표 감사, 별도 내부회계관리제도 검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "2,100",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "2,230",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000673",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제22기\n (전기)",
+      "adtor": "정인회계법인",
+      "cn": "중간감사 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240",
+      "adt_cntrct_dtls_time": "2,058",
+      "real_exc_dtls_mendng": "257",
+      "real_exc_dtls_time": "2,229",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000673",
+      "corp_cls": "Y",
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "bsns_year": "제21기\n (전전기)",
+      "adtor": "안경회계법인",
+      "cn": "기초 잔액 검토 및 내부통제에 대한 이해, 계정과목에 대한\n 입증절차 수행, 연결계정과목에 대한 입증절차 수행",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "45",
+      "adt_cntrct_dtls_time": "846",
+      "real_exc_dtls_mendng": "45",
+      "real_exc_dtls_time": "930",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

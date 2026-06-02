@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.원가기준 투입법에 따른 수익인식\n2.종속기업투자(수산이앤에스) 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.원가기준 투입법에 따른 수익인식\n2.영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.원가기준 투입법에 따른 수익인식\n2.종속기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.원가기준 투입법에 따른 수익인식\n2.영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.원가기준 투입법에 따른 수익인식\n2.종속기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003023",
+      "corp_cls": "Y",
+      "corp_code": "00193328",
+      "corp_name": "수산인더스트리",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.원가기준 투입법에 따른 수익인식\n2.영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

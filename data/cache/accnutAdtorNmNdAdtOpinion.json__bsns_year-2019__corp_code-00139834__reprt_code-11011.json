@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003747",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제33기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가\n추정의 변경",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003747",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제32기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가\n추정의 변경",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003747",
+      "corp_cls": "Y",
+      "corp_code": "00139834",
+      "corp_name": "LG씨엔에스",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 투입법에 따른 수익인식 및 공사진행율의 적절성\n2. 총계약원가에 대한 추정의 불확실성 및 공사변경에\n따른 회계처리의 적절성\n3. 미청구공사금액 회수가능성 및 계약손실충당부채 \n설정의 적절성",
+      "core_adt_matter": "총계약원가\n추정의 변경",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000897",
+      "corp_cls": "Y",
+      "corp_code": "01390344",
+      "corp_name": "HD현대중공업",
+      "se": "소액주주",
+      "shrholdr_co": "171,800",
+      "shrholdr_tot_co": "171,803",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "15,104,528",
+      "stock_tot_co": "88,773,116",
+      "hold_stock_rate": "17.01%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000618",
+      "corp_cls": "Y",
+      "corp_code": "00108612",
+      "corp_name": "DS단석",
+      "se": "소액주주",
+      "shrholdr_co": "68,372",
+      "shrholdr_tot_co": "68,383",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "1,464,129",
+      "stock_tot_co": "5,861,404",
+      "hold_stock_rate": "24.98%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

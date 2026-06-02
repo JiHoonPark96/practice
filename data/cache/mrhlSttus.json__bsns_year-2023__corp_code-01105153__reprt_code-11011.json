@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001860",
+      "corp_cls": "Y",
+      "corp_code": "01105153",
+      "corp_name": "두산로보틱스",
+      "se": "소액주주",
+      "shrholdr_co": "286,126",
+      "shrholdr_tot_co": "286,129",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "18,188,265",
+      "stock_tot_co": "64,819,980",
+      "hold_stock_rate": "28.06%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

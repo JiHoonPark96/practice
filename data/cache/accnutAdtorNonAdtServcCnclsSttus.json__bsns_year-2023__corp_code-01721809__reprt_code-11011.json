@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000716",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "제1기(당기)",
+      "cntrct_cncls_de": "2023.07월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.07~2024.04",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000716",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "전기",
+      "cntrct_cncls_de": "해당사항없음",
+      "servc_cn": "해당사항없음",
+      "servc_exc_pd": "해당사항없음",
+      "servc_mendng": "해당사항없음",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000716",
+      "corp_cls": "Y",
+      "corp_code": "01721809",
+      "corp_name": "현대그린푸드",
+      "bsns_year": "전전기",
+      "cntrct_cncls_de": "해당사항없음",
+      "servc_cn": "해당사항없음",
+      "servc_exc_pd": "해당사항없음",
+      "servc_mendng": "해당사항없음",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}
