@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000528",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 수출매출 기간귀속의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000528",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 수출매출 기간귀속의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000528",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 제품 판매로 인한 수익 인식\n- 매출원가 계산의 적정성",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

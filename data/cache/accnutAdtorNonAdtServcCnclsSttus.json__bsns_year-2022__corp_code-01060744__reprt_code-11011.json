@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001205",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제8기(당기)",
+      "cntrct_cncls_de": "2022.03.28",
+      "servc_cn": "2022년 한솔제지 지속가능경영보고서 작성 프로젝트",
+      "servc_exc_pd": "2022.07 15",
+      "servc_mendng": "119백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001205",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제7기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001205",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제6기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

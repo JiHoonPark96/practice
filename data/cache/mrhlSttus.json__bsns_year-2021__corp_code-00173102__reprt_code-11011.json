@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221114000745",
+      "corp_cls": "Y",
+      "corp_code": "00173102",
+      "corp_name": "모나리자",
+      "se": "소액주주",
+      "shrholdr_co": "21,676",
+      "shrholdr_tot_co": "21,677",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "17,925,260",
+      "stock_tot_co": "36,571,255",
+      "hold_stock_rate": "49.01%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

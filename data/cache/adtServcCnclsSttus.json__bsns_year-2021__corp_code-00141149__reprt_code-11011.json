@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000145",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제60기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도재무제표 감사\n중간감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165백만원",
+      "adt_cntrct_dtls_time": "1,900시간",
+      "real_exc_dtls_mendng": "165백만원",
+      "real_exc_dtls_time": "2,099시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000145",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제59기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도재무제표 감사\n중간감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "259백만원",
+      "adt_cntrct_dtls_time": "2,556시간",
+      "real_exc_dtls_mendng": "259백만원",
+      "real_exc_dtls_time": "2,622시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000145",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도재무제표 감사\n중간감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "227백만원",
+      "adt_cntrct_dtls_time": "2,556시간",
+      "real_exc_dtls_mendng": "227백만원",
+      "real_exc_dtls_time": "2,544시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

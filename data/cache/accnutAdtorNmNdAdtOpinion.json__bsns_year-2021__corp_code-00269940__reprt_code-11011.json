@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001007",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제29기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성,\nCOVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001007",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제28기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성,\nCOVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "[연결재무제표] 현금창출단위의 손상\n[별도재무제표] 종속기업투자주식의 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001007",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제27기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "국제관광 알선수익의 실재성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210609000312",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제44기(당기)",
+      "adtor": "이촌회계법인",
+      "cn": "반기재무제표 검토,\n개별 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230,000천원",
+      "adt_cntrct_dtls_time": "2,112.00",
+      "real_exc_dtls_mendng": "230,000천원",
+      "real_exc_dtls_time": "2,112.00",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210609000312",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기,반기재무제표 검토,\n개별 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175,000천원",
+      "adt_cntrct_dtls_time": "2,233.00",
+      "real_exc_dtls_mendng": "175,000천원",
+      "real_exc_dtls_time": "2,233.00",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210609000312",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기,반기재무제표 검토,\n개별 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000천원",
+      "adt_cntrct_dtls_time": "2,081.00",
+      "real_exc_dtls_mendng": "110,000천원",
+      "real_exc_dtls_time": "2,081.00",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

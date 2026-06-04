@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001478",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제12기당기)",
+      "cntrct_cncls_de": "2021-09-14",
+      "servc_cn": "- 국제거래정보통합보고서 관련 용역\n- 지급보증수수료 용역",
+      "servc_exc_pd": "4개월",
+      "servc_mendng": " 50,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001478",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제12기당기)",
+      "cntrct_cncls_de": "2021-03-24",
+      "servc_cn": "- AEO 종합심사 준비 및 대응 관련 용역",
+      "servc_exc_pd": "10개월",
+      "servc_mendng": " 90,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001478",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제11기(전기)",
+      "cntrct_cncls_de": "2020-08-18",
+      "servc_cn": "- 국제거래정보통합보고서 관련 용역\n- 지급보증수수료 용역",
+      "servc_exc_pd": "4개월",
+      "servc_mendng": " 40,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001478",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제10기(전전기)",
+      "cntrct_cncls_de": "2019-06-17",
+      "servc_cn": "- 국제거래정보통합보고서 관련 용역\n- 지급보증수수료 용역",
+      "servc_exc_pd": "6개월",
+      "servc_mendng": " 40,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

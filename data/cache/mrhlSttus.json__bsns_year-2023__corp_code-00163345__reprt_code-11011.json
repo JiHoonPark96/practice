@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000561",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "se": "소액주주",
+      "shrholdr_co": "20,703",
+      "shrholdr_tot_co": "20,724",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "69,972,345",
+      "stock_tot_co": "201,173,933",
+      "hold_stock_rate": "34.78%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

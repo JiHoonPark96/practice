@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003200",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "bsns_year": "제40기(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재고자산 손실사고기타영업외손실 인식",
+      "core_adt_matter": "기말 재고자산",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003200",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003200",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

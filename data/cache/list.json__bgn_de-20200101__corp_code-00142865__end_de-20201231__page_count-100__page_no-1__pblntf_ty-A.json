@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "stock_code": "024070",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201113000659",
+      "flr_nm": "WISCOM",
+      "rcept_dt": "20201113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "stock_code": "024070",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814000615",
+      "flr_nm": "WISCOM",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "stock_code": "024070",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515000637",
+      "flr_nm": "WISCOM",
+      "rcept_dt": "20200515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "stock_code": "024070",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200330002728",
+      "flr_nm": "WISCOM",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "stock_code": "024070",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330001492",
+      "flr_nm": "WISCOM",
+      "rcept_dt": "20200330",
+      "rm": "정연"
+    }
+  ]
+}

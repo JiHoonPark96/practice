@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001156",
+      "corp_cls": "Y",
+      "corp_code": "00135111",
+      "corp_name": "수산세보틱스",
+      "se": "소액주주",
+      "shrholdr_co": "28,716",
+      "shrholdr_tot_co": "28,726",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "29,470,967",
+      "stock_tot_co": "53,986,183",
+      "hold_stock_rate": "54.59%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

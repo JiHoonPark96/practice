@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003054",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제21기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 감사보고서 및  반기검토보고서",
+      "mendng": "69.5백만원",
+      "tot_reqre_time": "1,130시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003054",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제20기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 감사보고서 및  반기검토보고서",
+      "mendng": "59.5백만원",
+      "tot_reqre_time": "1,127시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003054",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 감사보고서 및  반기검토보고서",
+      "mendng": "59.5백만원",
+      "tot_reqre_time": "1,118시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230222002549",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

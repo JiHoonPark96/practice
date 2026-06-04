@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000881",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "bsns_year": "제4기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "반환제품회수권과\n환불부채 추정의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000881",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "bsns_year": "제3기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "반환제품회수권과환불부채 추정의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000881",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "bsns_year": "제2기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

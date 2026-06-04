@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000938",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "se": "소액주주",
+      "shrholdr_co": "26,351",
+      "shrholdr_tot_co": "26,360",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "123,949,947",
+      "stock_tot_co": "213,945,956",
+      "hold_stock_rate": "57.94%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

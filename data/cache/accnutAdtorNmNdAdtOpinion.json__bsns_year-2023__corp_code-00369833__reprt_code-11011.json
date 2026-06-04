@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001765",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제24기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "페라이트 현금창출단위 및 유니온머티리얼베트남(유) 종속기업투자주식에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001765",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제23기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 영향",
+      "core_adt_matter": "페라이트 및 세라믹\n현금창출단위에 대한 손상평가 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001765",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 영향",
+      "core_adt_matter": "페라이트 및 세라믹\n현금창출단위에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

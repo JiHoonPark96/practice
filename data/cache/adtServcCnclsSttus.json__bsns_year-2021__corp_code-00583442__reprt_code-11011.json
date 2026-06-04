@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000703",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제 16기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기 연결 및 별도 재무제표 검토, 연간 연결 및 별도 \n재무제표 감사, 내부회계관리제도 운영실태보고서 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "319,000,000",
+      "adt_cntrct_dtls_time": "3,400",
+      "real_exc_dtls_mendng": "319,000,000",
+      "real_exc_dtls_time": "3,168",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000703",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제 15 기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기 연결 및 별도 재무제표 검토, 연간 연결 및 별도\n 재무제표 감사, 내부회계관리제도 운영실태보고서 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290,000,000",
+      "adt_cntrct_dtls_time": "3,250",
+      "real_exc_dtls_mendng": "290,000,000",
+      "real_exc_dtls_time": "3,273",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000703",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제 14 기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기 연결 및 별도 재무제표 검토, 연간 연결 및 별도\n 재무제표 감사, 내부회계관리제도 운영실태보고서 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000,000",
+      "adt_cntrct_dtls_time": "2,868",
+      "real_exc_dtls_mendng": "195,000,000",
+      "real_exc_dtls_time": "2,868",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

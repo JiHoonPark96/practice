@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "se": "소액주주",
+      "shrholdr_co": "25,232",
+      "shrholdr_tot_co": "25,255",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "11,863,599",
+      "stock_tot_co": "31,778,880",
+      "hold_stock_rate": "37.33%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

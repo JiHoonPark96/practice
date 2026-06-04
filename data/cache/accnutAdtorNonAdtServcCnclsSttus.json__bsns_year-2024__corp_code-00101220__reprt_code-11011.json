@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814004193",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제71기(당기)",
+      "cntrct_cncls_de": "2024.07.18.",
+      "servc_cn": "세무조사지원업무 용역계약",
+      "servc_exc_pd": "2024.07.18-2024.11.14",
+      "servc_mendng": "200백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004193",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2023.05.01",
+      "servc_cn": "세무조정 용역계약",
+      "servc_exc_pd": "2023.05.01-2024.03.31",
+      "servc_mendng": "7백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004193",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003706",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "bsns_year": "제48기(당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003706",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "bsns_year": "제47기(전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003706",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

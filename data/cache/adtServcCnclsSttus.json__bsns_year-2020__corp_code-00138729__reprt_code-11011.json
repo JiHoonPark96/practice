@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001209",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제65기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "- 중간 재무제표 검토 \n- 별도 재무제표 감사\n- 연결 재무제표 감사\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "354",
+      "adt_cntrct_dtls_time": "3,543",
+      "real_exc_dtls_mendng": "354",
+      "real_exc_dtls_time": "3,543",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001209",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제64기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 중간 재무제표 검토 \n- 별도 재무제표 감사\n- 연결 재무제표 감사\n- 내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "227",
+      "adt_cntrct_dtls_time": "2,819",
+      "real_exc_dtls_mendng": "227",
+      "real_exc_dtls_time": "2,819",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001209",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 중간 재무제표 검토 \n- 별도 재무제표 감사\n- 연결 재무제표 감사\n- 내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "2,674",
+      "real_exc_dtls_mendng": "175",
+      "real_exc_dtls_time": "2,674",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

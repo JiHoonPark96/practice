@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000742",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

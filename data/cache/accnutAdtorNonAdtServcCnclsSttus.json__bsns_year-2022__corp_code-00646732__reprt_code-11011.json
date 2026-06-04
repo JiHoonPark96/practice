@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000841",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제15기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000841",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제14기(전기)",
+      "cntrct_cncls_de": "2022.02.28",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.03.02~\n2022.03.25",
+      "servc_mendng": "6,000,000원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000841",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제13기(전전기)",
+      "cntrct_cncls_de": "2020.11.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.03.02~\n2021.03.26",
+      "servc_mendng": "4,600,000원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

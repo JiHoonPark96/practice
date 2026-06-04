@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210422000308",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "se": "소액주주",
+      "shrholdr_co": "12,573",
+      "shrholdr_tot_co": "12,582",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "17,573,631",
+      "stock_tot_co": "37,858,601",
+      "hold_stock_rate": "46.42%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

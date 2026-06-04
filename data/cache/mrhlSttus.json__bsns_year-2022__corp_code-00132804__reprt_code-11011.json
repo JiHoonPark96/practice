@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001035",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "se": "소액주주",
+      "shrholdr_co": "25,336",
+      "shrholdr_tot_co": "25,353",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "13,348,476",
+      "stock_tot_co": "25,251,718",
+      "hold_stock_rate": "52.9%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001309",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제8기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수주품매출의\n기간귀속 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001309",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제8기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수주품매출의\n기간귀속 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001309",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제7기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수주품 매출의\n기간귀속 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001309",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제7기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수주품 매출의\n기간귀속 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001309",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제6기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "이연법인세자산의\n자산성검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001309",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제6기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "이연법인세자산의\n자산성검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

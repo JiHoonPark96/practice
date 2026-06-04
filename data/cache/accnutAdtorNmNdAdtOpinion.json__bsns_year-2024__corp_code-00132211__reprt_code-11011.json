@@ -1,0 +1,80 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001205",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식에 대한 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001205",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001205",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 1) 생활공간사업부 생산중단에 따른 유무형자산 손상인식 \n 2) 생활공간사업부 생산중단에 따른 구조조정충당부채 인식 \n 3) 생활뷰티사업부 영업권 손상인식 ",
+      "core_adt_matter": "종속기업투자주식에 대한 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001205",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 1) 생활공간사업부 생산중단에 따른 유무형자산 손상인식\n 2) 생활공간사업부 생산중단에 따른 구조조정충당부채 인식 \n 3) 국내 인테리어 사업(㈜선앤엘인테리어)의 소송충당부채 인식",
+      "core_adt_matter": "주요부문 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001205",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식에 대한 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001205",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주요부문 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

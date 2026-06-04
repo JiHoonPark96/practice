@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제30기",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분, 반기검토",
+      "mendng": "235,000",
+      "tot_reqre_time": "3,673",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제29기",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분, 반기검토",
+      "mendng": "235,000",
+      "tot_reqre_time": "3,743",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제28기",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분, 반기검토",
+      "mendng": "235,000",
+      "tot_reqre_time": "3,632",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

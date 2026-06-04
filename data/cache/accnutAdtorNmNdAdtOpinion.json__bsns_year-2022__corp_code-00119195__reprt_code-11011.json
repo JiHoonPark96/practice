@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001100",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제94기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 영업권 손상 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001100",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제93기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-메디쎄이 영업권 손상 평가\n-종속기업투자주식 손상 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001100",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제92기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 메디쎄이 영업권 ",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

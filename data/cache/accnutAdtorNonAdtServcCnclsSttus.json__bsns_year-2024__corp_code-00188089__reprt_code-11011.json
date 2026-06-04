@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250829000928",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제38기\n(당기)",
+      "cntrct_cncls_de": "2024.08",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.08 ~ 2025.03",
+      "servc_mendng": "19,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829000928",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제37기\n(전기)",
+      "cntrct_cncls_de": "2023.05",
+      "servc_cn": "경정청구",
+      "servc_exc_pd": "2023.05 ~ 종료시점",
+      "servc_mendng": "-",
+      "rm": "환급세액의 7%",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829000928",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제37기\n(전기)",
+      "cntrct_cncls_de": "2023.06",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.06 ~ 2024.03",
+      "servc_mendng": "19,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829000928",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제36기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

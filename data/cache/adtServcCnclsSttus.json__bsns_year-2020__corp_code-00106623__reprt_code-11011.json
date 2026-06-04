@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000797",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "2020년(제45기)\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "개별 및 연결 분ㆍ반기재무제표 검토\n개별 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "815백만원",
+      "adt_cntrct_dtls_time": "9,150시간",
+      "real_exc_dtls_mendng": "815백만원",
+      "real_exc_dtls_time": "9,494시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000797",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "2019년(제44기)\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별 및 연결 분ㆍ반기재무제표 검토\n개별 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "795백만원",
+      "adt_cntrct_dtls_time": "8,952시간",
+      "real_exc_dtls_mendng": "795백만원",
+      "real_exc_dtls_time": "8,952시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000797",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "2018년(제43기)\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별 및 연결 분ㆍ반기재무제표 검토\n개별 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "576백만원",
+      "adt_cntrct_dtls_time": "7,565시간",
+      "real_exc_dtls_mendng": "576백만원",
+      "real_exc_dtls_time": "7,565시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

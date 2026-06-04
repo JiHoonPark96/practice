@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제79기(당기)",
+      "cntrct_cncls_de": "'22.10월\n'22.9월\n'22.8월\n'22.7월\n'21.11월\n'17.1월",
+      "servc_cn": "미래 유망기술 선정및 개발 구체화 자문\nBEPS 문서화 지원\nFTA 원산지 인증 자문(본사 및 인도)\n세무조사 대응 자문\n경정청구 등 세무자문 업무\n이전가격 세무자문 업무",
+      "servc_exc_pd": "'22.10 ~ '23.중순\n'22.9 ~ '22.12\n'22.8 ~ '23. 6\n'22.7 ~ '22.10\n'21.11 ~ '22.03\n'17.1 ~ 종료시점",
+      "servc_mendng": "200백만원\n60백만원\n본사 :87백만원(인도 : $35,000) \n1,000백만원\n195백만원\n40백만원",
+      "rm": "-\n-\n-\n-\n-\n-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제78기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제77기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

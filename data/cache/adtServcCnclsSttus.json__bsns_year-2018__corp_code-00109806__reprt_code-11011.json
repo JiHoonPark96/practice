@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003660",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제53기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "140",
+      "tot_reqre_time": "2,342h",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003660",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제52기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "91",
+      "tot_reqre_time": "2,186h",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003660",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "89",
+      "tot_reqre_time": "1,311h",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

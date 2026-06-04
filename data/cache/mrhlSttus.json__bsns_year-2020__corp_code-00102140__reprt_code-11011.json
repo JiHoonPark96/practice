@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "se": "소액주주",
+      "shrholdr_co": "1,216",
+      "shrholdr_tot_co": "1,232",
+      "shrholdr_rate": "98.70%",
+      "hold_stock_co": "233,055",
+      "stock_tot_co": "1,570,797",
+      "hold_stock_rate": "14.84%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 55 (당) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 55 (당) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 54 (전) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 54 (전) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 53 (전전) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 53 (전전) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

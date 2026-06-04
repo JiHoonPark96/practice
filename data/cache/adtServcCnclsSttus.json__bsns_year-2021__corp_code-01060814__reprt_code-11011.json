@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001102",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제8기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235,000",
+      "adt_cntrct_dtls_time": "2,282",
+      "real_exc_dtls_mendng": "235,000",
+      "real_exc_dtls_time": "2,751",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001102",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제7기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215,000",
+      "adt_cntrct_dtls_time": "2,150",
+      "real_exc_dtls_mendng": "215,000",
+      "real_exc_dtls_time": "2,582",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001102",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150,000",
+      "adt_cntrct_dtls_time": "1,630",
+      "real_exc_dtls_mendng": "150,000",
+      "real_exc_dtls_time": "2,083",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2023.02.17",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2023.02 ~ 2023.03",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2023.05.23",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2023.05 ~ 2023.11",
+      "servc_mendng": "18",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2023.08.11",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2023.08 ~ 현재",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2023.09.08",
+      "servc_cn": "해외사채 발행 Comfort Letter 업무",
+      "servc_exc_pd": "2023.09 ~ 2023.11",
+      "servc_mendng": "171",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2023.11.24",
+      "servc_cn": "ESG 자율공시 및 전략 자문",
+      "servc_exc_pd": "2023.11 ~ 현재",
+      "servc_mendng": "315",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2022.05.22",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.05 ~ 2023.03",
+      "servc_mendng": "75",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2022.06.29",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.06 ~ 2023.02",
+      "servc_mendng": "35",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2021.03.22",
+      "servc_cn": "해외사채 발행 Comfort Letter 업무",
+      "servc_exc_pd": "2021.02 ~ 2021.03",
+      "servc_mendng": "120",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000844",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2021.07.26",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.07 ~ 2022.04",
+      "servc_mendng": "60",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

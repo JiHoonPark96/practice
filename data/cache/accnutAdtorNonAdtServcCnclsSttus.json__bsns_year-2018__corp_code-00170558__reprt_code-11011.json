@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제30기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제30기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제29기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제29기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제28기",
+      "cntrct_cncls_de": "2016년 2월 25일",
+      "servc_cn": "코웨이2015 온실가스 배출량 검증 및 환경성과평가 용역",
+      "servc_exc_pd": "2016년 3월 1일 ~\n2016년 4월 30일",
+      "servc_mendng": "28,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001347",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제28기",
+      "cntrct_cncls_de": "2016년 11월 2일",
+      "servc_cn": "EHS법규조사",
+      "servc_exc_pd": "2016년 11월 2일 ~\n2017년 1월 20일",
+      "servc_mendng": "45,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

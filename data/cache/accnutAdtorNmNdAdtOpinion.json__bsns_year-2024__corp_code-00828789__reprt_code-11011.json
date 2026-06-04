@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001121",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "bsns_year": "제15기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자자산 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001121",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "bsns_year": "제15기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001121",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "bsns_year": "제14기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "석유가스사업부 수익인식의 기간 귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001121",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "bsns_year": "제14기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "석유가스사업부 수익인식의 기간 귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001121",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "bsns_year": "제13기\n(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001121",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "bsns_year": "제13기\n(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

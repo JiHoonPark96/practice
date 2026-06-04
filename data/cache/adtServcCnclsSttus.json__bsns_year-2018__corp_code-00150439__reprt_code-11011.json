@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001557",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "bsns_year": "제56기(당기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토,중간감사, 기말감사, 재고실사",
+      "mendng": "31,500,000",
+      "tot_reqre_time": "894시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001557",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "bsns_year": "제55기(전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 재고실사",
+      "mendng": "31,500,000",
+      "tot_reqre_time": "900시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001557",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 재고실사",
+      "mendng": "31,500,000",
+      "tot_reqre_time": "1,044시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

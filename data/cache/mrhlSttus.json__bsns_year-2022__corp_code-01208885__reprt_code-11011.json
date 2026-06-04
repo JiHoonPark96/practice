@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001158",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "se": "소액주주",
+      "shrholdr_co": "8,460",
+      "shrholdr_tot_co": "8,484",
+      "shrholdr_rate": "99.72%",
+      "hold_stock_co": "2,007,386",
+      "stock_tot_co": "5,895,406",
+      "hold_stock_rate": "34.05%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000670",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "㈜코우홀딩스",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "2,567,248",
+      "bsis_posesn_stock_qota_rt": "14.63",
+      "trmend_posesn_stock_co": "6,080,362",
+      "trmend_posesn_stock_qota_rt": "16.52",
+      "rm": "유상증자 참여로 인한 보유 주식 증가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000670",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "더블유글로벌4호조합",
+      "relate": "특별관계자",
+      "bsis_posesn_stock_co": "91,407",
+      "bsis_posesn_stock_qota_rt": "0.52",
+      "trmend_posesn_stock_co": "216,491",
+      "trmend_posesn_stock_qota_rt": "0.59",
+      "rm": "유상증자 참여로 인한 보유 주식 증가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000670",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "더블유글로벌3호조합",
+      "relate": "특별관계자",
+      "bsis_posesn_stock_co": "23,891",
+      "bsis_posesn_stock_qota_rt": "0.14",
+      "trmend_posesn_stock_co": "56,583",
+      "trmend_posesn_stock_qota_rt": "0.14",
+      "rm": "유상증자 참여로 인한 보유 주식 증가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000670",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,682,546",
+      "bsis_posesn_stock_qota_rt": "15.29",
+      "trmend_posesn_stock_co": "6,353,436",
+      "trmend_posesn_stock_qota_rt": "17.25",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000670",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "stock_code": "008350",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2024.06)",
+      "rcept_no": "20241224000367",
+      "flr_nm": "남선알미늄",
+      "rcept_dt": "20241224",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "stock_code": "008350",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002484",
+      "flr_nm": "남선알미늄",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "stock_code": "008350",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814003360",
+      "flr_nm": "남선알미늄",
+      "rcept_dt": "20240814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "stock_code": "008350",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240604000282",
+      "flr_nm": "남선알미늄",
+      "rcept_dt": "20240604",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "stock_code": "008350",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516000400",
+      "flr_nm": "남선알미늄",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "stock_code": "008350",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240321001379",
+      "flr_nm": "남선알미늄",
+      "rcept_dt": "20240321",
+      "rm": "정연"
+    }
+  ]
+}

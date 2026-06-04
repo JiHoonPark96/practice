@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250801000425",
+      "corp_cls": "Y",
+      "corp_code": "00163716",
+      "corp_name": "한창",
+      "se": "소액주주",
+      "shrholdr_co": "16,785",
+      "shrholdr_tot_co": "16,791",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "14,430,711",
+      "stock_tot_co": "18,606,407",
+      "hold_stock_rate": "77.58%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

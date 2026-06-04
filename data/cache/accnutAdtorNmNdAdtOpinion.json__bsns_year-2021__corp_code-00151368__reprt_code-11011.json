@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제66기\n(2021년 기말)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스\n영향으로 인한 불확실성 존재",
+      "core_adt_matter": "(연결재무제표)\n 1. 현금창출단위 손상평가\n (별도재무제표)\n 1. 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제65기\n(2020년 기말)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스\n영향으로 인한 불확실성 존재",
+      "core_adt_matter": "(연결재무제표)\n 1. 현금창출단위 손상평가\n (별도재무제표)\n 1. 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제64기\n(2019년 기말)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n 1. 특수관계자 거래 공시\n 2. 현금창출단위 손상평가\n(별도재무제표)\n 1. 특수관계자 거래 공시\n 2. 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

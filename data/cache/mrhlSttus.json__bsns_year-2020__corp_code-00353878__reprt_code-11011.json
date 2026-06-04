@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001150",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "se": "소액주주",
+      "shrholdr_co": "6,360",
+      "shrholdr_tot_co": "6,368",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "7,728,364",
+      "stock_tot_co": "15,400,000",
+      "hold_stock_rate": "50.18%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

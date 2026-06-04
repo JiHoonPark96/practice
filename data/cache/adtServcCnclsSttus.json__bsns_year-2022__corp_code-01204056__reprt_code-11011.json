@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230403004275",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토/별도 및 연결 재무제표에 대한 감사, 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "780",
+      "adt_cntrct_dtls_time": "8,000",
+      "real_exc_dtls_mendng": "780",
+      "real_exc_dtls_time": "8,272",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230403004275",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토/별도 및 연결 재무제표에 대한 감사, 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "510",
+      "adt_cntrct_dtls_time": "5,100",
+      "real_exc_dtls_mendng": "510",
+      "real_exc_dtls_time": "9,170",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230403004275",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제16기(전전기)",
+      "adtor": " 한영회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 검토\n반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370",
+      "adt_cntrct_dtls_time": "2,745",
+      "real_exc_dtls_mendng": "370",
+      "real_exc_dtls_time": "2,745",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

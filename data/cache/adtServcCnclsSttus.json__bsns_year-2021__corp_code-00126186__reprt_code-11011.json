@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000737",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제37기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도/연결 분/반기 재무제표 검토 및\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,439",
+      "adt_cntrct_dtls_time": "14,680",
+      "real_exc_dtls_mendng": "1,439",
+      "real_exc_dtls_time": "14,092",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000737",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제36기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도/연결 분/반기 재무제표 검토 및\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,283",
+      "adt_cntrct_dtls_time": "13,500",
+      "real_exc_dtls_mendng": "1,283",
+      "real_exc_dtls_time": "14,408",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000737",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도/연결 분/반기 재무제표 검토 및\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,143",
+      "adt_cntrct_dtls_time": "12,700",
+      "real_exc_dtls_mendng": "1,143",
+      "real_exc_dtls_time": "16,183",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

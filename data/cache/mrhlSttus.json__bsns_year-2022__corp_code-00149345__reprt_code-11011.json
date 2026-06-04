@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000626",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "se": "소액주주",
+      "shrholdr_co": "1,270",
+      "shrholdr_tot_co": "1,285",
+      "shrholdr_rate": "98.83%",
+      "hold_stock_co": "123,646",
+      "stock_tot_co": "600,000",
+      "hold_stock_rate": "20.61%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

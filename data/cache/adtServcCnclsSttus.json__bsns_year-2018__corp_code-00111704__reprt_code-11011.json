@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제19기 (당기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기,반기,3분기,기말, 재고실사,연결",
+      "mendng": "1,800",
+      "tot_reqre_time": "17,215",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제18기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기,반기,3분기,기말, 재고실사,연결,임의감사",
+      "mendng": "1,800",
+      "tot_reqre_time": "13,588",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기,반기,3분기,기말, 재고실사,연결",
+      "mendng": "1,450",
+      "tot_reqre_time": "14,660",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

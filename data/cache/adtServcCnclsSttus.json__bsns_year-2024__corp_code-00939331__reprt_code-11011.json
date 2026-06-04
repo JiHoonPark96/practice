@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제13기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "560",
+      "adt_cntrct_dtls_time": "4,519",
+      "real_exc_dtls_mendng": "560",
+      "real_exc_dtls_time": "4,337",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제12기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550",
+      "adt_cntrct_dtls_time": "5,209",
+      "real_exc_dtls_mendng": "550",
+      "real_exc_dtls_time": "4,764",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제11기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480",
+      "adt_cntrct_dtls_time": "4,605",
+      "real_exc_dtls_mendng": "480",
+      "real_exc_dtls_time": "3,961",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

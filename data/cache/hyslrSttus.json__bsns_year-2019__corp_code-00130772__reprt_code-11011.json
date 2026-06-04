@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002425",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "stock_knd": "보통주",
+      "nm": "SBS미디어홀딩스\n(주)",
+      "relate": "최대주주 법인",
+      "bsis_posesn_stock_co": "6,738,017",
+      "bsis_posesn_stock_qota_rt": "36.92",
+      "trmend_posesn_stock_co": "6,738,017",
+      "trmend_posesn_stock_qota_rt": "36.92",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002425",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,738,017",
+      "bsis_posesn_stock_qota_rt": "36.92",
+      "trmend_posesn_stock_co": "6,738,017",
+      "trmend_posesn_stock_qota_rt": "36.92",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002425",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "stock_knd": "보통주 외",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

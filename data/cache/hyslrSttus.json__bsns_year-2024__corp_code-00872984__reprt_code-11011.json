@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000688",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "stock_knd": "보통주",
+      "nm": "정용진",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "5,172,911",
+      "bsis_posesn_stock_qota_rt": "18.56",
+      "trmend_posesn_stock_co": "5,172,911",
+      "trmend_posesn_stock_qota_rt": "18.56",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000688",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "stock_knd": "보통주",
+      "nm": "이명희",
+      "relate": "최대주주 친인척",
+      "bsis_posesn_stock_co": "2,787,582",
+      "bsis_posesn_stock_qota_rt": "10.00",
+      "trmend_posesn_stock_co": "2,787,582",
+      "trmend_posesn_stock_qota_rt": "10.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000688",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,960,493",
+      "bsis_posesn_stock_qota_rt": "28.56",
+      "trmend_posesn_stock_co": "7,960,493",
+      "trmend_posesn_stock_qota_rt": "28.56",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000688",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

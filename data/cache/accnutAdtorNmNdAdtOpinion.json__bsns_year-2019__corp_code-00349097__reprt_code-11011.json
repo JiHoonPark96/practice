@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003670",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "bsns_year": "제19기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "계약체결증분원가 및 계약이행원가의 인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003670",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "bsns_year": "제18기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003670",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "se": "소액주주",
+      "shrholdr_co": "8,333",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.70%",
+      "hold_stock_co": "1,184,920",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "30.60%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

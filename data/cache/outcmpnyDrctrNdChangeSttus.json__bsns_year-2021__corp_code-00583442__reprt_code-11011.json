@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000703",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "2",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

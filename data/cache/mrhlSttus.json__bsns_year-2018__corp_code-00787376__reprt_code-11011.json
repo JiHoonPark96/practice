@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000882",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "se": "소액주주",
+      "shrholdr_co": "4,526",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "7,039,293",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "25.60%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000701",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

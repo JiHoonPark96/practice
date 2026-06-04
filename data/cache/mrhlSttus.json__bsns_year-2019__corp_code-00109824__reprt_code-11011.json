@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002810",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "se": "소액주주",
+      "shrholdr_co": "1,413",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.44%",
+      "hold_stock_co": "1,648,822",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "10.83%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

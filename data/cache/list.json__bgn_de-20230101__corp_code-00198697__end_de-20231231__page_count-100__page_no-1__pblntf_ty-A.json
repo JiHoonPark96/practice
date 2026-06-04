@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "stock_code": "020760",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114001410",
+      "flr_nm": "일진디스플",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "stock_code": "020760",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814002441",
+      "flr_nm": "일진디스플",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "stock_code": "020760",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230714000395",
+      "flr_nm": "일진디스플",
+      "rcept_dt": "20230714",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "stock_code": "020760",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001746",
+      "flr_nm": "일진디스플",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "stock_code": "020760",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230327000330",
+      "flr_nm": "일진디스플",
+      "rcept_dt": "20230327",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "stock_code": "020760",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230322000375",
+      "flr_nm": "일진디스플",
+      "rcept_dt": "20230322",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220802000337",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제21기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "- 종속기업 재고자산 평가\n- 종속기업의 유형자산 및 사용권자산 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220802000337",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제20기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "- 종속기업투자주식의 손상평가\n- 종속기업 재고자산 평가\n- 종속기업 유형자산 및 사용권자산 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220802000337",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "- 종속기업투자주식의 손상평가\n- 종속기업 재고자산 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

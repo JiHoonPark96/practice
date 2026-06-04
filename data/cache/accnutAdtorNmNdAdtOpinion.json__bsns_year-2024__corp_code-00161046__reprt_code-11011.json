@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000222",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업 투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000222",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업 투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000222",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식 및 관계기업 투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000222",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식 및 관계기업 투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000222",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 및 관계기업 투자주식의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000222",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업 및 공동기업 투자주식의 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000810",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "24년 3월 31일",
+      "servc_cn": "내부탄소가격제도",
+      "servc_exc_pd": "24-04-01 ~\n24-06-30",
+      "servc_mendng": "158백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000810",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000810",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "22년 3월 4일",
+      "servc_cn": "금호석유화학디지털 트랜스포메이션(DX) 과제\n추진을 위한 PMO 구성 운영",
+      "servc_exc_pd": "22-03-07 ~\n22-12-31",
+      "servc_mendng": "898백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

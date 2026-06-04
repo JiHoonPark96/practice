@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001533",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "se": "소액주주",
+      "shrholdr_co": "6,397",
+      "shrholdr_tot_co": "6,402",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "2,984,100",
+      "stock_tot_co": "9,422,739",
+      "hold_stock_rate": "31.67%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

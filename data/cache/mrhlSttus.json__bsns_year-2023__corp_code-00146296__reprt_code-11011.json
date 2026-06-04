@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001230",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "se": "소액주주",
+      "shrholdr_co": "30,516",
+      "shrholdr_tot_co": "30,517",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "45,452,790",
+      "stock_tot_co": "77,456,610",
+      "hold_stock_rate": "58.68%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인천검단현장 사고에 따른 영향",
+      "core_adt_matter": "①투입법에 따른 건설계약 수익인식\n②총계약원가(또는 공사예정원가) 추정의 불확실성\n③공사진행률 산정\n④미청구공사금액의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인천검단현장 사고에 따른 영향",
+      "core_adt_matter": "①투입법에 따른 건설계약 수익인식\n②총계약원가(또는 공사예정원가) 추정의 불확실성\n③공사진행률 산정\n④미청구공사금액의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인천검단현장 사고에 따른 영향",
+      "core_adt_matter": "①투입법에 따른 수익인식\n②총계약원가(또는 공사예정원가) 추정의 불확실성\n③공사진행률 산정\n④미청구공사금액의 회수가능성\n⑤공사변경에 대한 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인천검단현장 사고에 따른 영향",
+      "core_adt_matter": "①투입법에 따른 수익인식\n②총계약원가(또는 공사예정원가) 추정의 불확실성\n③공사진행률 산정\n④미청구공사금액의 회수가능성\n⑤공사변경에 대한 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "①투입법에 따른 수익인식\n②총계약원가(또는 공사예정원가) 추정의 불확실성\n③공사진행률 산정\n④미청구공사금액의 회수가능성\n⑤공사변경에 대한 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "①투입법에 따른 수익인식\n②총계약원가(또는 공사예정원가) 추정의 불확실성\n③공사진행률 산정\n④미청구공사금액의 회수가능성\n⑤공사변경에 대한 회계처리",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

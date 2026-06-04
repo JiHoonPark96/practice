@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제49기(당기)",
+      "adtor": "한길회계법인",
+      "cn": "반기검토, 중간감사 및 내부회계검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000",
+      "adt_cntrct_dtls_time": "1,062HR",
+      "real_exc_dtls_mendng": "110,000,000",
+      "real_exc_dtls_time": "1,062HR",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제48기(전기)",
+      "adtor": "한길회계법인",
+      "cn": "반기검토, 중간감사 및 내부회계검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000",
+      "adt_cntrct_dtls_time": "1,213HR",
+      "real_exc_dtls_mendng": "110,000,000",
+      "real_exc_dtls_time": "1,213HR",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "한길회계법인",
+      "cn": "반기검토, 중간감사 및 내부회계검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000",
+      "adt_cntrct_dtls_time": "1,330HR",
+      "real_exc_dtls_mendng": "110,000,000",
+      "real_exc_dtls_time": "1,330HR",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

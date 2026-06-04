@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003979",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제49기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기검토(연결 및 별도재무제표)\n별도 및 연결 재무제표 감사\n내부회계관리제도 검토\n중간감사(전산감사)\n영문보고서 검토 및 감사",
+      "mendng": "710/년",
+      "tot_reqre_time": "7,364",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003979",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제48기 (전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기검토(연결 및 별도재무제표)\n별도 및 연결 재무제표 감사\n내부회계관리제도 검토\n중간감사(전산감사)\n영문보고서 검토 및 감사",
+      "mendng": "640/년",
+      "tot_reqre_time": "7,526",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003979",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제47기 (전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기검토(연결 및 별도재무제표)\n별도 및 연결 재무제표 감사\n내부회계관리제도 검토\n중간감사(전산감사)\n영문보고서 검토 및 감사",
+      "mendng": "640/년",
+      "tot_reqre_time": "8,088",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

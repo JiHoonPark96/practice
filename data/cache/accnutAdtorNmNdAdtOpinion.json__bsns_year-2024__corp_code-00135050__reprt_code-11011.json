@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "태일회계법인\n (구, 회계법인 세일원)",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 당기인식 및 기타포괄공정가치 금융자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "태일회계법인\n (구, 회계법인 세일원)",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 당기인식 및 기타포괄공정가치 금융자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 매출의 수익인식\n(2) 종속 및 관계기업투자주식 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 매출의 수익인식\n(2) 종속 및 관계기업투자주식 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 매출의 수익인식\n(2) 관계기업투자주식의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 매출의 수익인식\n(2) 관계기업투자주식의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

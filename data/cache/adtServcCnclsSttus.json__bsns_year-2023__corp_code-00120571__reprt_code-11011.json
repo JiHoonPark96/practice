@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제57기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토/별도 및 연결 재무제표에 대한 감사,\n별도 및 연결 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "995 ",
+      "adt_cntrct_dtls_time": "9,140 ",
+      "real_exc_dtls_mendng": "995 ",
+      "real_exc_dtls_time": "9,041 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제56기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토/별도 및 연결 재무제표에 대한 감사,\n별도 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "850 ",
+      "adt_cntrct_dtls_time": "8,200 ",
+      "real_exc_dtls_mendng": "850 ",
+      "real_exc_dtls_time": "7,843 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토/별도 및 연결 재무제표에 대한 감사,\n별도 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "840 ",
+      "adt_cntrct_dtls_time": "8,100 ",
+      "real_exc_dtls_mendng": "840 ",
+      "real_exc_dtls_time": "8,302 ",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

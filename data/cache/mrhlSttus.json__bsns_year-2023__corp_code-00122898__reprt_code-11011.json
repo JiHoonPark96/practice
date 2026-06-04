@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001583",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "se": "소액주주",
+      "shrholdr_co": "18,655",
+      "shrholdr_tot_co": "18,673",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "33,498,651",
+      "stock_tot_co": "55,045,902",
+      "hold_stock_rate": "60.86%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

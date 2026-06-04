@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210325000723",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "se": "소액주주",
+      "shrholdr_co": "6,342",
+      "shrholdr_tot_co": "6,350",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "21,387,712",
+      "stock_tot_co": "32,446,151",
+      "hold_stock_rate": "65.92%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

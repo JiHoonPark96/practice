@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001319",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001319",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001319",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001319",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001319",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "사업결합에 따른 이전대가 배분",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001319",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

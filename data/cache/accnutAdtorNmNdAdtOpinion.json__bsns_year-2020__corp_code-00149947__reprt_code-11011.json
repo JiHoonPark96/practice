@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000866",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제65기(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유의적 감사위험 요인 파악 및 중간·기말감사 업무수행계획 수립",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000866",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상품 및 제품 매출에 대한 수익인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000866",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제32기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제31기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

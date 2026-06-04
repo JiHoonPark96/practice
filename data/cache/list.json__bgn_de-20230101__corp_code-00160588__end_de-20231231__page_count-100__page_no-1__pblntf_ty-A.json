@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20231229000246",
+      "flr_nm": "한화",
+      "rcept_dt": "20231229",
+      "rm": ""
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002929",
+      "flr_nm": "한화",
+      "rcept_dt": "20231114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.06)",
+      "rcept_no": "20230926000509",
+      "flr_nm": "한화",
+      "rcept_dt": "20230926",
+      "rm": ""
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.06)",
+      "rcept_no": "20230814001059",
+      "flr_nm": "한화",
+      "rcept_dt": "20230814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811002536",
+      "flr_nm": "한화",
+      "rcept_dt": "20230811",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.03)",
+      "rcept_no": "20230630000757",
+      "flr_nm": "한화",
+      "rcept_dt": "20230630",
+      "rm": ""
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002754",
+      "flr_nm": "한화",
+      "rcept_dt": "20230515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230321001313",
+      "flr_nm": "한화",
+      "rcept_dt": "20230321",
+      "rm": "정연"
+    }
+  ]
+}

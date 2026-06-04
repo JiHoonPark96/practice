@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000467",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "bsns_year": "제20기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 수익인식\n- 관계기업투자자산",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000467",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "bsns_year": "제19기(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재화판매 중 수출매출의 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000467",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재고자산의\n평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

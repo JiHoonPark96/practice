@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001179",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

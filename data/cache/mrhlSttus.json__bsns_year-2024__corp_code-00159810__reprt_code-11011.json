@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001650",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "se": "소액주주",
+      "shrholdr_co": "16,058",
+      "shrholdr_tot_co": "16,065",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "9,775,292",
+      "stock_tot_co": "168,999,996",
+      "hold_stock_rate": "5.78%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

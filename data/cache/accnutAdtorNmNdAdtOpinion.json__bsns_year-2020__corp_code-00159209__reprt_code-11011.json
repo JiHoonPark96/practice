@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000901",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "bsns_year": "제46기(2020년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1) 산출법에 따른 프로젝트 진행률 산정2) 총계약원가 추정의 불확실성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000901",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "bsns_year": "제45기(2019년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1) 산출법에 따른 프로젝트 진행률 산정\n2) 총계약원가 추정의 불확실성\n3) 미청구공사금액의 회수가능성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000901",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "bsns_year": "제44기(2018년)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

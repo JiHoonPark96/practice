@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제43기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 무선 통신 서비스 수익 및 무선 단말기 수익의 발생사실 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제43기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 무선 통신 서비스 수익 및 무선 단말기 수익의 발생사실 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제42기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 무선 통신 서비스 수익 및 무선 단말기 수익의 발생사실 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제42기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 무선 통신 서비스 수익 및 무선 단말기 수익의 발생사실 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제41기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 지배회사의 현금창출 단위 자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제41기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 지배회사의 현금창출 단위 자산 손상검토\n2. 영업권손상검토 - ㈜현대에이치씨엔(연결)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

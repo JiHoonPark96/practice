@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "ㆍ(주)GS홈쇼핑 합병관련 강조사항",
+      "core_adt_matter": "ㆍ식별가능 무형자산의 인식과 측정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ손상징후가 발생한 현금창출단위에 대한 손상검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ손상징후가 발생한 현금창출단위에 대한 손상검토\nㆍ리스회계처리의 완전성과 정확성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

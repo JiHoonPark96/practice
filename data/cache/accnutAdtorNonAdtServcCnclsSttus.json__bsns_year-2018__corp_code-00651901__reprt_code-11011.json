@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240731000521",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제12(당)기",
+      "cntrct_cncls_de": "2018.11.19",
+      "servc_cn": " 재무관련 기재사항 확인 용역",
+      "servc_exc_pd": "-",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20240731000521",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제12(당)기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20240731000521",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제11(전)기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20240731000521",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제11(전)기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20240731000521",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제10(전전)기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20240731000521",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제10(전전)기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

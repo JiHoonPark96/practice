@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000429",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) Amorepacific US Investment, Inc. 종속기업투자주식 손상검사 - 회수가능액 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000429",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) Tata's Natural Alchemy, LLC 현금창출단위 손상검사 - 회수가능액 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000429",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) AMOREPACIFIC Global Operations Limited. 종속기업 투자주식 손상검사 - 회수가능액 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000429",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) AMOREPACIFIC Trading Co.,Ltd. 현금창출단위 손상검사 - 회수가능액 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000429",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) AMOREPACIFIC Global Operations Limited. 종속기업 투자주식 손상검사 - 회수가능액 추정\n(2) DB(Daily Beauty) 사업부문의 국내 e커머스 경로 매출액 - 발생사실 및 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000429",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) AMOREPACIFIC Trading Co.,Ltd. 현금창출단위 손상검사 - 회수가능액 추정\n(2) DB(Daily Beauty) 사업부문의 국내 e커머스 경로 매출액 - 발생사실 및 측정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

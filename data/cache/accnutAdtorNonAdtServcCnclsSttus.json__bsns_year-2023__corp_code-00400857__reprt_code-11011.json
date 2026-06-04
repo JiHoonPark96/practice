@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001776",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "2023.10.17",
+      "servc_cn": "이전가격",
+      "servc_exc_pd": "수행완료까지",
+      "servc_mendng": "90,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001776",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "2023.07.08",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "신고완료까지",
+      "servc_mendng": "31,500",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001776",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "2023.03.08",
+      "servc_cn": "APA심사",
+      "servc_exc_pd": "최종승인까지",
+      "servc_mendng": "150,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001776",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제23기(전기)",
+      "cntrct_cncls_de": "2022.06.10",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "신고완료까지",
+      "servc_mendng": "30,500",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001776",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제22기(전전기)",
+      "cntrct_cncls_de": "2022.05.19",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "신고완료까지",
+      "servc_mendng": "26,650",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

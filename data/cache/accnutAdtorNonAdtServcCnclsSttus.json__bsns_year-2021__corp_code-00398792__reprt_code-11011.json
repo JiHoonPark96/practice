@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220218001046",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제20기(당기)",
+      "cntrct_cncls_de": "2021.09.27",
+      "servc_cn": "재무제표 검토",
+      "servc_exc_pd": "2021.09.27 ~ 2021.10.08",
+      "servc_mendng": "40",
+      "rm": "대주회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220218001046",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제19기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220218001046",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제18기(전전기)",
+      "cntrct_cncls_de": "2019.10.14",
+      "servc_cn": "이전가격 위험진단 및 정책 점검",
+      "servc_exc_pd": "2019.10.14 ~ 2019.12.16",
+      "servc_mendng": "27",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

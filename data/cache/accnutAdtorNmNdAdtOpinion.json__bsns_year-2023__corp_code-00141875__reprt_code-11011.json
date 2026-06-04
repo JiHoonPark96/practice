@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001533",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001533",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자주식 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001533",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자주식 손상검사",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

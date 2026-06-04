@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331002835",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간재무제표 검토\n개별재무제표에대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "158백만원",
+      "adt_cntrct_dtls_time": "1,550",
+      "real_exc_dtls_mendng": "158백만원",
+      "real_exc_dtls_time": "1,650",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331002835",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "bsns_year": "제52기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간재무제표 검토\n개별재무제표에대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "158백만원",
+      "adt_cntrct_dtls_time": "1,820",
+      "real_exc_dtls_mendng": "158백만원",
+      "real_exc_dtls_time": "1,761",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331002835",
+      "corp_cls": "Y",
+      "corp_code": "00141875",
+      "corp_name": "사조오양",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간재무제표 검토\n개별재무제표에대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130백만원",
+      "adt_cntrct_dtls_time": "1,542",
+      "real_exc_dtls_mendng": "130백만원",
+      "real_exc_dtls_time": "2,040",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

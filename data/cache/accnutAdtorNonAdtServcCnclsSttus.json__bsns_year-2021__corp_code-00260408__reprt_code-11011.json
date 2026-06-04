@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230228005108",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "bsns_year": "제23기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20230228005108",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "bsns_year": "제22기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20230228005108",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "bsns_year": "제21기(전전기)",
+      "cntrct_cncls_de": "2019.10.14",
+      "servc_cn": "경정청구업무",
+      "servc_exc_pd": "본 계약 체결일부터 관련 세액의\n환급 결정서 수령일까지",
+      "servc_mendng": "70,000,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

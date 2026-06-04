@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000920",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제56기",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,결산 재무제표 및\n연결재무제표 검토등 회계감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000",
+      "adt_cntrct_dtls_time": "2,800",
+      "real_exc_dtls_mendng": "250,000",
+      "real_exc_dtls_time": "3,110",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000920",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제55기",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,결산 재무제표 및\n연결재무제표 검토등 회계감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230,000",
+      "adt_cntrct_dtls_time": "3,050",
+      "real_exc_dtls_mendng": "230,000",
+      "real_exc_dtls_time": "3,317",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000920",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제54기",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,결산 재무제표 및\n연결재무제표 검토등 회계감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,000",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "140,000",
+      "real_exc_dtls_time": "1,965",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

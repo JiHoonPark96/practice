@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000940",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "se": "소액주주",
+      "shrholdr_co": "5,618",
+      "shrholdr_tot_co": "5,624",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "5,540,222",
+      "stock_tot_co": "12,447,744",
+      "hold_stock_rate": "44.50%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

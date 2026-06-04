@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "2",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

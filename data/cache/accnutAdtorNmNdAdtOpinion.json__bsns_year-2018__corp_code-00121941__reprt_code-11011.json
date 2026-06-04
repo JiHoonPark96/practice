@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002441",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "bsns_year": "제65기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002441",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "bsns_year": "제64기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002441",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

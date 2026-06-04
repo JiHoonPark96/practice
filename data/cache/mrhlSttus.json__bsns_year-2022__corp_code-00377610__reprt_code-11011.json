@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001040",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "2,146",
+      "shrholdr_tot_co": "2,166",
+      "shrholdr_rate": "99.08%",
+      "hold_stock_co": "208,045",
+      "stock_tot_co": "4,000,000",
+      "hold_stock_rate": "5.20%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

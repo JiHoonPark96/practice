@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000580",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "bsns_year": "제44기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "(별도, 연결)기말감사보고서\n(별도, 연결)반기검토보고서\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "250",
+      "real_exc_dtls_time": "2,509",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000580",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "bsns_year": "제43기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "(별도, 연결)기말감사보고서\n(별도, 연결)반기검토보고서\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "318",
+      "adt_cntrct_dtls_time": "2,483",
+      "real_exc_dtls_mendng": "318",
+      "real_exc_dtls_time": "2,502",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000580",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "(별도, 연결)기말감사보고서\n(별도, 연결)반기검토보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "275",
+      "adt_cntrct_dtls_time": "1,910",
+      "real_exc_dtls_mendng": "275",
+      "real_exc_dtls_time": "1,911",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

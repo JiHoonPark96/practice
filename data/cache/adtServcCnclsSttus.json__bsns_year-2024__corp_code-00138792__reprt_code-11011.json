@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제37기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기재무제표에 대한 검토\n별도재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,680",
+      "adt_cntrct_dtls_time": "13,200",
+      "real_exc_dtls_mendng": "1,680",
+      "real_exc_dtls_time": "12,494",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제36기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기재무제표에 대한 검토\n별도재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,650",
+      "adt_cntrct_dtls_time": "13,900",
+      "real_exc_dtls_mendng": "1,650",
+      "real_exc_dtls_time": "11,827",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기재무제표에 대한 검토\n별도재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,490",
+      "adt_cntrct_dtls_time": "12,500",
+      "real_exc_dtls_mendng": "1,490",
+      "real_exc_dtls_time": "11,802",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220311000529",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제34기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결재무제표 감사\n(반기 검토,연도 감사)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "262,500",
+      "adt_cntrct_dtls_time": "2,802",
+      "real_exc_dtls_mendng": "262,500",
+      "real_exc_dtls_time": "3,054",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220311000529",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제33기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결재무제표 감사\n(반기 검토,연도 감사)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000",
+      "adt_cntrct_dtls_time": "2,802",
+      "real_exc_dtls_mendng": "250,000",
+      "real_exc_dtls_time": "3,031",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220311000529",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제32기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결재무제표 감사\n(반기 검토,연도 감사)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "2,333",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "2,802",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

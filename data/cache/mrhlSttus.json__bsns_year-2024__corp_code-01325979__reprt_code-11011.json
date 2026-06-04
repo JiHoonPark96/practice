@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "se": "소액주주",
+      "shrholdr_co": "9,844",
+      "shrholdr_tot_co": "9,866",
+      "shrholdr_rate": "99.8%",
+      "hold_stock_co": "911,203",
+      "stock_tot_co": "2,800,100",
+      "hold_stock_rate": "32.5%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

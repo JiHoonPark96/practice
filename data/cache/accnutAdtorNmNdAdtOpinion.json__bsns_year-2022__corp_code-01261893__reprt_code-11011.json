@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001167",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제6기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "공사예정원가 추정의 불확실성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001167",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "공사예정원가 추정의 불확실성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001167",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "공사예정원가 추정의 불확실성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

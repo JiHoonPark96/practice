@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001512",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제58기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "분ㆍ반기재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "249",
+      "adt_cntrct_dtls_time": "2,840",
+      "real_exc_dtls_mendng": "249",
+      "real_exc_dtls_time": "2,916",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001512",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제57기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "분ㆍ반기재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "2,914",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001512",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "분ㆍ반기재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370",
+      "adt_cntrct_dtls_time": "2,940",
+      "real_exc_dtls_mendng": "370",
+      "real_exc_dtls_time": "2,846",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

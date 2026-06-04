@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240325000966",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "se": "소액주주",
+      "shrholdr_co": "81,033",
+      "shrholdr_tot_co": "81,040",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "35,075,035",
+      "stock_tot_co": "92,313,000",
+      "hold_stock_rate": "38.00%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

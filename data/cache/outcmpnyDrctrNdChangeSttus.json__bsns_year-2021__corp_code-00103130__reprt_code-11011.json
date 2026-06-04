@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000756",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

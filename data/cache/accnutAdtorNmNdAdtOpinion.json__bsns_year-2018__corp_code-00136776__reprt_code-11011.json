@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20191031000400",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제47기(당기)",
+      "adtor": "새시대\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20191031000400",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제46기(전기)",
+      "adtor": "새시대\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20191031000400",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "새시대\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

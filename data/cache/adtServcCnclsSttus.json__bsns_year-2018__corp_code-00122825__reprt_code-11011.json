@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002590",
+      "corp_cls": "Y",
+      "corp_code": "00122825",
+      "corp_name": "인스코비",
+      "bsns_year": "제49기(당기)",
+      "adtor": "현대회계법인",
+      "cn": "2018년도 반기검토 및 기말 K-IFRS에 의한 별도 및 연결 감사",
+      "mendng": "120백만원",
+      "tot_reqre_time": "796시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002590",
+      "corp_cls": "Y",
+      "corp_code": "00122825",
+      "corp_name": "인스코비",
+      "bsns_year": "제48기(전기)",
+      "adtor": "현대회계법인",
+      "cn": "2017년도 반기검토 및 기말 K-IFRS에 의한 별도 및 연결 감사",
+      "mendng": "90백만원",
+      "tot_reqre_time": "706시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002590",
+      "corp_cls": "Y",
+      "corp_code": "00122825",
+      "corp_name": "인스코비",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "현대회계법인",
+      "cn": "2016년도 반기검토 및 기말 K-IFRS에 의한 별도 및 연결 감사",
+      "mendng": "95백만원",
+      "tot_reqre_time": "732시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

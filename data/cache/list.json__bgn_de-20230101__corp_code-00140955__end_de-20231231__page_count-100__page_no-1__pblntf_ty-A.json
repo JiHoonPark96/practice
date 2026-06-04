@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "stock_code": "014680",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231110000571",
+      "flr_nm": "한솔케미칼",
+      "rcept_dt": "20231110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "stock_code": "014680",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811002358",
+      "flr_nm": "한솔케미칼",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "stock_code": "014680",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001223",
+      "flr_nm": "한솔케미칼",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "stock_code": "014680",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230313000732",
+      "flr_nm": "한솔케미칼",
+      "rcept_dt": "20230313",
+      "rm": "연"
+    }
+  ]
+}

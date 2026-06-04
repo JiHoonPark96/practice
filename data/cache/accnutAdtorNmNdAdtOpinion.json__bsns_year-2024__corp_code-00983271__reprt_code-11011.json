@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업, 관계기업 및 공동기업 투자주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위의 회수가능액 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업, 관계기업 및 공동기업 투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위의 회수가능액 측정,\n사업결합으로 식별한 무형자산의 공정가치 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "게임서비스 수익 인식,\n종속기업, 관계기업 및 공동기업투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "게임서비스 수익 인식,\n\n현금창출단위의 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

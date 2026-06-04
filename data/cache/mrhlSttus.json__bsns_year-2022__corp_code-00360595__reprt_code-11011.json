@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001449",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "se": "소액주주",
+      "shrholdr_co": "60,406",
+      "shrholdr_tot_co": "60,470",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "14,037,288",
+      "stock_tot_co": "37,500,000",
+      "hold_stock_rate": "37.43%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

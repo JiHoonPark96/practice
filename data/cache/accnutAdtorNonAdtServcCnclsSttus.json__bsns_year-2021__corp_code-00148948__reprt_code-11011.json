@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000340",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제67기(당)기",
+      "cntrct_cncls_de": "21.03.15",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "21.03.15\n~21.03.31",
+      "servc_mendng": "5,000,000원",
+      "rm": "(전)기, (전전)기 감사인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000340",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제66기\n(전기)",
+      "cntrct_cncls_de": "20.03.15",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "20.03.15\n~20.03.31",
+      "servc_mendng": "5,000,000원",
+      "rm": "(전)기, (전전)기 감사인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000340",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제65기\n(전전기)",
+      "cntrct_cncls_de": "19.03.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "19.03.12\n~19.03.31",
+      "servc_mendng": "3,000,000원",
+      "rm": "(전)기, (전전)기 감사인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

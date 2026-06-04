@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001693",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제16기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 내부회계관리제도의 운영실태보고서",
+      "mendng": "350백만원",
+      "tot_reqre_time": "3,086",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001693",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제15기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 내부회계관리제도의 운영실태보고서",
+      "mendng": "470백만원",
+      "tot_reqre_time": "3,661",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001693",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제14기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 내부회계관리제도의 운영실태보고서",
+      "mendng": "470백만원",
+      "tot_reqre_time": "3,074",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

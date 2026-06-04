@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001138",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. \nDUAL USA LLC 종속기업투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001138",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. DUAL BORGSTENA SWEDEN AB 사업결합 시 인식한 영업권이 배분된 현금창출단위의 손상평가2. \nDUAL BORGSTENA TRIM MEXICO, S. DE R.L. DE C.V. 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001138",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출채권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001138",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출채권 손상평가\n2. DUAL BORGSTENA SWEDEN AB 사업결합시 인식한\n영업권이 배분된 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001138",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 종속기업투자주식의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001138",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 영업권이 배분된 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

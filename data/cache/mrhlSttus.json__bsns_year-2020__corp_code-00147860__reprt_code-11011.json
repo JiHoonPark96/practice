@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210819000375",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "se": "소액주주",
+      "shrholdr_co": "7,029",
+      "shrholdr_tot_co": "7,052",
+      "shrholdr_rate": "99.67%",
+      "hold_stock_co": "49,670,221",
+      "stock_tot_co": "64,581,636",
+      "hold_stock_rate": "76.91%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

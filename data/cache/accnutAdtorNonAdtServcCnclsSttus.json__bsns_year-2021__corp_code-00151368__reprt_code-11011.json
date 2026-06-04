@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제66기\n(2021년 기말)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제65기\n(2020년 기말)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제64기\n(2019년 기말)",
+      "cntrct_cncls_de": "2019년 07월 01일",
+      "servc_cn": "법인세 세무조정업무 용역계약",
+      "servc_exc_pd": "2019년 07월 01일 ~ 2020년 03월 31일",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

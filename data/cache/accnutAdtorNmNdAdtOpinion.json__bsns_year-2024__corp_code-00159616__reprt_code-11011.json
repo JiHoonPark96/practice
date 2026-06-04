@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제62기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제62기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제60기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제60기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제60기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제60기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

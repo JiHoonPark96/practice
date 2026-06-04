@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제45기(당기)",
+      "adtor": "제45기(당기)",
+      "adt_opinion": "다산감사법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "적정",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(전기)",
+      "adtor": "제44기(전기)",
+      "adt_opinion": "서우회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "한정",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "제43기(전전기)",
+      "adt_opinion": "대주회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "적정",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231110000398",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20231110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811000845",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230511000809",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230511",
+      "rm": ""
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230321001369",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230321",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.09)",
+      "rcept_no": "20230228005290",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230228",
+      "rm": ""
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20230228005231",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230228",
+      "rm": ""
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.03)",
+      "rcept_no": "20230228005183",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230228",
+      "rm": ""
+    },
+    {
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "stock_code": "036580",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20230228005108",
+      "flr_nm": "팜스코",
+      "rcept_dt": "20230228",
+      "rm": "연"
+    }
+  ]
+}

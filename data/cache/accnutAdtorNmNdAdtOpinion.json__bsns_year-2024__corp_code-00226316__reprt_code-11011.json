@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제40기\n(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제40기\n(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제39기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제39기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제38기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제38기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

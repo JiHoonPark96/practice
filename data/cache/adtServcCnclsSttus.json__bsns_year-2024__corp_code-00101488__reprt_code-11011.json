@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000908",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제52기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "중간재무제표에 대한 검토\n개별재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480,000",
+      "adt_cntrct_dtls_time": "3,543시간",
+      "real_exc_dtls_mendng": "480,000",
+      "real_exc_dtls_time": "3,567시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000908",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제51기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "중간재무제표에 대한 검토\n개별재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480,000",
+      "adt_cntrct_dtls_time": "3,543시간",
+      "real_exc_dtls_mendng": "480,000",
+      "real_exc_dtls_time": "3,646시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000908",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "중간재무제표에 대한 검토\n개별재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "2,500시간",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "2,457시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

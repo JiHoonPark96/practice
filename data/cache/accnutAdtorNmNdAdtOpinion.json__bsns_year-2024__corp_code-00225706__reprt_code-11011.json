@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001174",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제31기\n(당기)",
+      "adtor": "태일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "취득자산의 공정가치검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001174",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제31기\n(당기)",
+      "adtor": "태일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "취득자산의 공정가치검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001174",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제30기\n(전기)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001174",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제30기\n(전기)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001174",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제29기\n(전전기)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001174",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제29기\n(전전기)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토 ",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

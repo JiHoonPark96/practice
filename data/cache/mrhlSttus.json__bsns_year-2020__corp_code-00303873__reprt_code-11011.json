@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001272",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "se": "소액주주",
+      "shrholdr_co": "76,814",
+      "shrholdr_tot_co": "76,822",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "18,359,471",
+      "stock_tot_co": "35,100,000",
+      "hold_stock_rate": "52.31%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

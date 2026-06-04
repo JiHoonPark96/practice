@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230324001267",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제23기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 : 기말감사\n연결 및 별도재무제표 : 반기, 중간감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220.0 ",
+      "adt_cntrct_dtls_time": "2,100 ",
+      "real_exc_dtls_mendng": "220.0 ",
+      "real_exc_dtls_time": "2,090 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324001267",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제22기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 : 기말감사\n연결 및 별도재무제표 : 반기, 중간감사\n내부회계관리 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160.0 ",
+      "adt_cntrct_dtls_time": "1,450 ",
+      "real_exc_dtls_mendng": "160.0 ",
+      "real_exc_dtls_time": "1,461 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324001267",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 : 기말감사\n연결 및 별도재무제표 : 반기, 중간감사\n내부회계관리 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "152.0 ",
+      "adt_cntrct_dtls_time": "1,450 ",
+      "real_exc_dtls_mendng": "166.7 ",
+      "real_exc_dtls_time": "1,563 ",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

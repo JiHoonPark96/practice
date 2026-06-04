@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001018",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "se": "소액주주",
+      "shrholdr_co": "14,067",
+      "shrholdr_tot_co": "14,094",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "12,196,215",
+      "stock_tot_co": "28,460,000",
+      "hold_stock_rate": "42.85%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

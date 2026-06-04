@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003384",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제3기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위\n손상검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003384",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제2기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위\n손상검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003384",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제1기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사는 2017년 4월 1일을 분할기일로 현대중공업 주식회사(분할전 현대중공업 주식회사)에서 인적분할되어 변압기, 고압차단기, 배전반,회전기,  전력전자제어시스템, 풍력발전기 등의 제조 및 판매를 주 사업목적으로 신규 설립되었으며, 2017년 5월 10일에 한국거래소 코스피시장에 주권을 재상장하였습니다.",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

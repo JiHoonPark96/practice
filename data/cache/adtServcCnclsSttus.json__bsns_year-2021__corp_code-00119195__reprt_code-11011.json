@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제93기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토(2021.07.26~2021.07.30)\n중간감사(2021.11.01~2021.11.05)\n기말감사(2022.02.07~2022.02.18)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000천원",
+      "adt_cntrct_dtls_time": "400시간\n350시간\n1,650시간",
+      "real_exc_dtls_mendng": "250,000천원",
+      "real_exc_dtls_time": "380시간\n356시간\n1,525시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제92기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토(2020.07.27~2020.07.31)\n중간감사(2020.10.19~2020.10.23)\n기말감사(2020.02.01~2020.02.10)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000천원",
+      "adt_cntrct_dtls_time": "512시간\n338시간\n590시간",
+      "real_exc_dtls_mendng": "235,000천원",
+      "real_exc_dtls_time": "348시간\n342시간\n1,558시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제91기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토(2019.07.29 ~2019.08.02)\n중간감사(2019.11.25~ 2019.11.29)\n기말감사(2020.03.03~2020.03.07)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130,000천원 ",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "135,000천원 ",
+      "real_exc_dtls_time": "359시간\n302시간\n1,327시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

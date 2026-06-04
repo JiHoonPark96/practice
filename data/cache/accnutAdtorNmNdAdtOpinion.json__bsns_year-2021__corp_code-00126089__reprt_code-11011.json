@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000990",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제56기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000990",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제55기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000990",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

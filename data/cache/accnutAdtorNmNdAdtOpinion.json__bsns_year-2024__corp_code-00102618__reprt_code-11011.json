@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 및 종속기업투자주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 다음 사항들에 주의를 기울여야 할 필요가 있습니다.\n\n\n주석 38에 기술하고 있는 바와 같이 회사의 직원의 횡령 행위으로 인하여 2022년12월 31일로 종료되는 보고기간까지 발생한 횡령금액은 24,675백만원입니다. 횡령금액 중 회수액 3,826백만원을 차감한 금액은 20,849백만원이며, 동 금액을 불법행위미수금으로 계상하고 전액 손실충당금을 인식하였습니다. 우리의 의견은 이 사항으로부터 영향을 받지 아니합니다.",
+      "core_adt_matter": "현금창출단위 및 종속기업투자주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 다음 사항들에 주의를 기울여야 할 필요가 있습니다.\n주석 38에 기술하고 있는 바와 같이 연결회사의 직원의 횡령 행위으로 인하여 2022년12월 31일로 종료되는 보고기간까지 발생한 횡령금액은 24,675백만원입니다. 횡령금액 중 회수액 3,826백만원을 차감한 금액은 20,849백만원이며, 동 금액을 불법행위미수금으로 계상하고 전액 손실충당금을 인식하였습니다. 우리의 의견은 이 사항으로부터 영향을 받지 아니합니다.",
+      "core_adt_matter": "현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

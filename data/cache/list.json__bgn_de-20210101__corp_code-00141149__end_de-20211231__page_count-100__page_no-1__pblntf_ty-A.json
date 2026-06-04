@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115000042",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000222",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000232",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210311000691",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20210311",
+      "rm": ""
+    }
+  ]
+}

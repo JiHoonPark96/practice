@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001639",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제44기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "상반기검토, 중간감사,\n결산감사,연결감사\n기타(재고실사, 보고서 작성 등)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260,000,000",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "221,000,000",
+      "real_exc_dtls_time": "2,361",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001639",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제43기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "상반기검토, 중간감사,\n결산감사,연결감사\n기타(재고실사, 보고서 작성 등)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "255,000,000",
+      "adt_cntrct_dtls_time": "2,460",
+      "real_exc_dtls_mendng": "255,000,000",
+      "real_exc_dtls_time": "2,493",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001639",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "상반기검토, 중간감사,\n결산감사,연결감사\n기타(재고실사, 보고서 작성 등)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000,000",
+      "adt_cntrct_dtls_time": "1,960",
+      "real_exc_dtls_mendng": "195,000,000",
+      "real_exc_dtls_time": "1,859",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

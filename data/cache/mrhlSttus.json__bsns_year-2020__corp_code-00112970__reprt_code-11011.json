@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210329000181",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "se": "소액주주",
+      "shrholdr_co": "1,172",
+      "shrholdr_tot_co": "1,190",
+      "shrholdr_rate": "98.49%",
+      "hold_stock_co": "1,688,401",
+      "stock_tot_co": "5,300,000",
+      "hold_stock_rate": "31.86%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

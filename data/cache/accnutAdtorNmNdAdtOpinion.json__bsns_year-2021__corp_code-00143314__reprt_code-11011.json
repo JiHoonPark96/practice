@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000949",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제41기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 관계회사주식 지분법 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000949",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제40기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 종속기업의 처분\n2. 전기재무제표의 재작성",
+      "core_adt_matter": "1. 영업자산 손상평가\n2. 관계회사주식 지분법 평가\n3. 재고자산 평가충당금",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000949",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "회계법인정연",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

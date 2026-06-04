@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001317",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "감사의견 참조",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001317",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "감사의견 참조",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001317",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "감사의견 참조",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001317",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "감사의견 참조",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001317",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "감사의견 참조",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001317",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "감사의견 참조",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

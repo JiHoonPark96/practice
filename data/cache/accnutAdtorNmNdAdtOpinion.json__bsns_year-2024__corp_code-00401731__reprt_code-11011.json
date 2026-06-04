@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 23 기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 관계기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 23 기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 관계기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 22 기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 관계기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 22 기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 관계기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 21 기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 종속기업투자 손상평가\n나. GM 리콜 충당부채",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 21 기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 유형자산 및 무형자산 등 손상평가\n나. GM 리콜 충당부채",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

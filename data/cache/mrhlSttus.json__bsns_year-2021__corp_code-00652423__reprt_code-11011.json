@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000875",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "se": "소액주주",
+      "shrholdr_co": "26,528",
+      "shrholdr_tot_co": "26,534",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "40,671,801",
+      "stock_tot_co": "69,330,402",
+      "hold_stock_rate": "58.66%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

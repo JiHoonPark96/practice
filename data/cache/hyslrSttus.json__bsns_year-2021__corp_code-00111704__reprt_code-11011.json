@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "보통주식",
+      "nm": "한국산업은행",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "59,738,211",
+      "bsis_posesn_stock_qota_rt": "55.70",
+      "trmend_posesn_stock_co": "59,738,211",
+      "trmend_posesn_stock_qota_rt": "55.70",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "보통주식",
+      "nm": "최용석",
+      "relate": "발행회사 임원",
+      "bsis_posesn_stock_co": "11",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "11",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "보통주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "59,738,222",
+      "bsis_posesn_stock_qota_rt": "55.70",
+      "trmend_posesn_stock_co": "59,738,222",
+      "trmend_posesn_stock_qota_rt": "55.70",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "우선주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

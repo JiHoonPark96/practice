@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001841",
+      "corp_cls": "Y",
+      "corp_code": "00163716",
+      "corp_name": "한창",
+      "bsns_year": "제54기(당기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001841",
+      "corp_cls": "Y",
+      "corp_code": "00163716",
+      "corp_name": "한창",
+      "bsns_year": "제53기(전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001841",
+      "corp_cls": "Y",
+      "corp_code": "00163716",
+      "corp_name": "한창",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

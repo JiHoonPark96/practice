@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001234",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제68기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "<연결재무제표>\n - 수익인식 기간귀속 적정성\n<별도재무제표>\n - 수익인식 기간귀속 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001234",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제67기(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "<연결재무제표>\n - 관계기업투자주식의 손상 평가\n<별도재무제표>\n - 종속기업 및 관계기업투자주식의 손상 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001234",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "<연결재무제표>\n - 종속기업 및 관계기업투자주식 손상 검토\n<별도재무제표>\n - 종속기업 및 관계기업투자주식 손상 검토",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

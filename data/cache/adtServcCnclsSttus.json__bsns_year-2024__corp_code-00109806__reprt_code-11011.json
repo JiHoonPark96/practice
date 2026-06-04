@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001188",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제59기(당기)",
+      "adtor": "서우회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "1,862",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001188",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제58기(전기)",
+      "adtor": "서우회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,400",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001188",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "서우회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "2,800",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "2,842",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

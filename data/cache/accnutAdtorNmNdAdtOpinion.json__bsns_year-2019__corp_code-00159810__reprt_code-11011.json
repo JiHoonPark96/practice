@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327000455",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "bsns_year": "제50기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "핵심감사사항은 우리의 전문가적 판단에 따라 당기 재무제표감사에서 가장 유의적인 사항들입니다. 해당 사항들은 재무제표 전체에 대한 감사의 관점에서 우리의 의견형성시다루어졌으며,우리는이런사항에대하여별도의의견을제공하지는않습니다.(주1)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000455",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "bsns_year": "제49기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000455",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

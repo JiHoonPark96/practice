@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000490",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제65기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": " 별도 및 연결 분반기 재무제표에 대한 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175백만원",
+      "adt_cntrct_dtls_time": "1,675",
+      "real_exc_dtls_mendng": "175백만원",
+      "real_exc_dtls_time": "1,725",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000490",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": " 별도 및 연결 분반기 재무제표에 대한 검토\n 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110백만원",
+      "adt_cntrct_dtls_time": "1,050",
+      "real_exc_dtls_mendng": "110백만원",
+      "real_exc_dtls_time": "1,078",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000490",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": " 별도 및 연결 분반기 재무제표에 대한 검토\n 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "105백만원",
+      "adt_cntrct_dtls_time": "1,050",
+      "real_exc_dtls_mendng": "105백만원",
+      "real_exc_dtls_time": "974",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

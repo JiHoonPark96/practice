@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2024.12.19",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2024.12 ~2025.03",
+      "servc_mendng": "38,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2024.09.09",
+      "servc_cn": "코웨이 중국법인의 2023 사업연도 통합기업보고서 및 개별기업보고서 작성 용역",
+      "servc_exc_pd": "2024.09 ~ 2025.02",
+      "servc_mendng": "20,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2024.09.06",
+      "servc_cn": "2023 사업연도 국제거래정보 통합보고서 작성 용역",
+      "servc_exc_pd": "2024.09 ~ 2025.02",
+      "servc_mendng": "40,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2024.08.28",
+      "servc_cn": "관세 분야 자문 업무 (품목분류)",
+      "servc_exc_pd": "2024.08 ~ 2025.02",
+      "servc_mendng": "21,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2024.07.31",
+      "servc_cn": "글로벌최저한세 자문 및 신고 업무",
+      "servc_exc_pd": "2024.08 ~ 2026.06",
+      "servc_mendng": "45,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2023.11.30",
+      "servc_cn": "법인세 등에 대한 경정청구 업무",
+      "servc_exc_pd": "2023.12 ~ 2024.12",
+      "servc_mendng": "300,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2023.06.20",
+      "servc_cn": "해외법인 세무자문",
+      "servc_exc_pd": "2023.06 ~ 2023.08",
+      "servc_mendng": "USD 55,000 ",
+      "rm": "(주1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

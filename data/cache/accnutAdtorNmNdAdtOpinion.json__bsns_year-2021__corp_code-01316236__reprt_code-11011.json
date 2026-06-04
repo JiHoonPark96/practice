@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000678",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제4기(당기)\n(2021년 1~12월)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- COVID-19(코로나)바이러스가 기업의 생산 능력과 고객에 대한 주문 이행능력에 미칠 수 있는 영향과 관련한 불확실성 및 이러한 사건이나 상황을 다루기 위해 취해진 조치와 계획",
+      "core_adt_matter": "- 현금창출단위에 대한 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000678",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제3기(전기)\n(2020년 1~12월)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 코로나바이러스감염증-19의 확산이 기업의 생산 능력과 고객에 대한 주문 이행능력에 미칠 수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "- 현금창출단위에 대한 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000678",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제2기(전전기)\n(2019년 1~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 100% 자회사인 Hyosung Vina Chemicals Co., Ltd. 에 대해 2020년 2월 25일 미화 1억불을 추가출자함",
+      "core_adt_matter": "- 회사의 소송 및 우발 채무",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

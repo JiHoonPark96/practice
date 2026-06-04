@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001436",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "특수관계자 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001436",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제ㆍ상품 및 곡물매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001436",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "특수관계자 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001436",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제ㆍ상품 및 곡물매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001436",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "신송산업㈜ 종속기업 투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001436",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "소재사업부문 현금창출단위의 자산손상 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

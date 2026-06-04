@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제10기\n(당기)",
+      "cntrct_cncls_de": "2020.03.31",
+      "servc_cn": "지분법 피투자회사의\n 재무정보에 대한 감사",
+      "servc_exc_pd": "'20.03 ~ '21.02",
+      "servc_mendng": "150,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제9기\n(전기)",
+      "cntrct_cncls_de": "2019.03.29",
+      "servc_cn": "지분법 피투자회사의\n재무정보에 대한 감사",
+      "servc_exc_pd": "'19.03 ~ '20.02",
+      "servc_mendng": "160,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제8기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

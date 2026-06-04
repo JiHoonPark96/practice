@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "8,720",
+      "shrholdr_tot_co": "8,726",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "16,816,505",
+      "stock_tot_co": "28,709,665",
+      "hold_stock_rate": "58.57%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

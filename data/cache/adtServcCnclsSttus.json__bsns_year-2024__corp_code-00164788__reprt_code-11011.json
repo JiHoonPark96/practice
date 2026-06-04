@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001180",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제48기 (당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토,\n별도 및 연결 재무제표 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,666",
+      "adt_cntrct_dtls_time": "24,025",
+      "real_exc_dtls_mendng": "2,666",
+      "real_exc_dtls_time": "24,059",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001180",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제47기 (전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토,\n 별도 및 연결 재무제표 감사,\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,610",
+      "adt_cntrct_dtls_time": "24,025",
+      "real_exc_dtls_mendng": "2,610",
+      "real_exc_dtls_time": "23,477",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001180",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제46기 (전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토,\n 별도 및 연결 재무제표 감사,\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,200",
+      "adt_cntrct_dtls_time": "21,000",
+      "real_exc_dtls_mendng": "2,200",
+      "real_exc_dtls_time": "20,617",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

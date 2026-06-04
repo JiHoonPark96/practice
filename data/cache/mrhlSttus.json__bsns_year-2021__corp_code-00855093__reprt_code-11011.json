@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000850",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "se": "소액주주",
+      "shrholdr_co": "13,229",
+      "shrholdr_tot_co": "13,239",
+      "shrholdr_rate": "99.29%",
+      "hold_stock_co": "8,365,009",
+      "stock_tot_co": "23,779,604",
+      "hold_stock_rate": "35.18%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

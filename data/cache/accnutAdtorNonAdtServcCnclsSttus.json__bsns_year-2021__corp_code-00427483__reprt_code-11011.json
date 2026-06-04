@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000922",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제20기",
+      "cntrct_cncls_de": "2021.06.22",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.07.01~2022.03.31",
+      "servc_mendng": "32,500",
+      "rm": "한영회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000922",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제19기",
+      "cntrct_cncls_de": "2020.07.01",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.07.01~2021.03.31",
+      "servc_mendng": "32,500",
+      "rm": "한영회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000922",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제18기",
+      "cntrct_cncls_de": "2019.07.16",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.07.16~ 2020.03.31",
+      "servc_mendng": "32,500",
+      "rm": "한영회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

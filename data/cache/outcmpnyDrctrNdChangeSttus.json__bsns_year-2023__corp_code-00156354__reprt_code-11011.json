@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000577",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

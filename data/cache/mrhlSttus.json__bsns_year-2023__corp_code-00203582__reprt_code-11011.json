@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329002820",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "se": "소액주주",
+      "shrholdr_co": "159,460",
+      "shrholdr_tot_co": "159,462",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "61,659,262",
+      "stock_tot_co": "80,565,149",
+      "hold_stock_rate": "76.54%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

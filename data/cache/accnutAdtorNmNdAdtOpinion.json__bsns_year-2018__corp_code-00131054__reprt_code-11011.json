@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002982",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제66기",
+      "adtor": "삼정회계법인\n대표이사 김 교 태",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "연결 및 별도\n해당 사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002982",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제65기",
+      "adtor": "삼정회계법인\n대표이사 김 교 태",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "연결 및 별도\n해당 사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002982",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제64기",
+      "adtor": "삼정회계법인\n대표이사 김 교 태",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "연결 및 별도\n해당 사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

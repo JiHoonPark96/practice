@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230331003410",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "se": "소액주주",
+      "shrholdr_co": "13,556",
+      "shrholdr_tot_co": "13,575",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "7,106,461",
+      "stock_tot_co": "24,646,734",
+      "hold_stock_rate": "28.83%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001093",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 58 기 (당) 기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운항수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001093",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 58 기 (당) 기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운항수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001093",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 57기 (전) 기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "선박 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001093",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 57기 (전) 기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "선박 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001093",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 56 기 (전전) 기",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001093",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 56 기 (전전) 기",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

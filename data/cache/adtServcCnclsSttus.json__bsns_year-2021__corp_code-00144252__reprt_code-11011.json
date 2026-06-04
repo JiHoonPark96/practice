@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001135",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "bsns_year": "제70기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결재무제표/재무제표 감사(반기/기말)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "173,000",
+      "adt_cntrct_dtls_time": "1,550시간",
+      "real_exc_dtls_mendng": "173,000",
+      "real_exc_dtls_time": "1,585시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001135",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "bsns_year": "제69기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결재무제표/재무제표 감사(반기/기말)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165,000",
+      "adt_cntrct_dtls_time": "1,550시간",
+      "real_exc_dtls_mendng": "165,000",
+      "real_exc_dtls_time": "1,529시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001135",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "연결재무제표/재무제표 감사(반기/기말)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "139,000",
+      "adt_cntrct_dtls_time": "1,640시간",
+      "real_exc_dtls_mendng": "139,000",
+      "real_exc_dtls_time": "1,687시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

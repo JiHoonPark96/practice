@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박)의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박)의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박)의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박)의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박)의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박)의 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

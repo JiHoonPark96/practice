@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000859",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제56기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결) 연결 내부거래 제거의 완전성 및 정확성(주1)\n(별도) 특수관계자와 보증거래의 완전성 및 표시",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000859",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제55기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결) 사업결합 회계처리(주2)\n(별도) 특수관계자와 보증거래의 완전성 및 표시",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000859",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결,별도)사업결합 회계처리(주3)",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

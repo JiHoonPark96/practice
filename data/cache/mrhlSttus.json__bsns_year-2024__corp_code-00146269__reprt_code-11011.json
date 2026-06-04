@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "se": "소액주주",
+      "shrholdr_co": "2,398",
+      "shrholdr_tot_co": "2,431",
+      "shrholdr_rate": "98.64%",
+      "hold_stock_co": "6,881,974",
+      "stock_tot_co": "23,280,000",
+      "hold_stock_rate": "29.56%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

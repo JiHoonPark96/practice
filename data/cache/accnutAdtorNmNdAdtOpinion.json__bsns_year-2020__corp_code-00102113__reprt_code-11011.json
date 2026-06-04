@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331000615",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제44기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나19 장기화로 인한 불확실성",
+      "core_adt_matter": "- 국외매출의 수익인식\n- 매출채권 회수가능성검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000615",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제43기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "매출채권의 기대신용 손실 및 주요 가정",
+      "core_adt_matter": "- 매출채권 회수가능성 검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000615",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제42기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

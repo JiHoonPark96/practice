@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001392",
+      "corp_cls": "Y",
+      "corp_code": "00174527",
+      "corp_name": "HS화성",
+      "bsns_year": "제65기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도재무제표,연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "520백만원",
+      "adt_cntrct_dtls_time": "3,400시간",
+      "real_exc_dtls_mendng": "430백만원",
+      "real_exc_dtls_time": "3,342시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001392",
+      "corp_cls": "Y",
+      "corp_code": "00174527",
+      "corp_name": "HS화성",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도재무제표,연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480백만원",
+      "adt_cntrct_dtls_time": "3,200시간",
+      "real_exc_dtls_mendng": "480백만원",
+      "real_exc_dtls_time": "3,177시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001392",
+      "corp_cls": "Y",
+      "corp_code": "00174527",
+      "corp_name": "HS화성",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도재무제표,연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "460백만원",
+      "adt_cntrct_dtls_time": "3,105시간",
+      "real_exc_dtls_mendng": "460백만원",
+      "real_exc_dtls_time": "3,105시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

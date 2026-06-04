@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000879",
+      "corp_cls": "Y",
+      "corp_code": "00409672",
+      "corp_name": "티비에이치글로벌",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "- 재고자산평가충당금",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000879",
+      "corp_cls": "Y",
+      "corp_code": "00409672",
+      "corp_name": "티비에이치글로벌",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 계속기업 관련 중요한 불확실성\n- COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "(1) 공동기업투자의 평가\n(2) 재고자산평가충당금",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000879",
+      "corp_cls": "Y",
+      "corp_code": "00409672",
+      "corp_name": "티비에이치글로벌",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 계속기업 관련 중요한 불확실성\n- 코로나바이러스",
+      "core_adt_matter": "(1) 공동기업투자의 평가\n(2) 재고자산평가충당금",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

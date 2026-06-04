@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001743",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제68기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결재무제표)\n\n연결회사는 매각예정자산 분류요건과 처분자산집단의 손상차손환입과\n 관련하여 2022년 12월 31일로 종료되는 보고기간의 연결재무제표를 재작성하였습니다.\n(별도재무제표)\n해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n매출 수익인식의 기간귀속\n(별도재무제표)\n없음",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001743",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제67기(전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n매출 발생사실\n(별도재무제표)\n없음",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001743",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n매출 발생사실\n(별도재무제표)\n없음",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

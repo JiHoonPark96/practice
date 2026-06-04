@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004151",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제26기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "2019년 기말감사 및 분ㆍ반기검토",
+      "mendng": "120",
+      "tot_reqre_time": "1,239",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004151",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제25기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2018년 기말감사 및 분ㆍ반기검토",
+      "mendng": "60",
+      "tot_reqre_time": "1,108",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004151",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "삼정회게법인",
+      "cn": "2017년 기말감사 및 분ㆍ반기검토 ",
+      "mendng": "60",
+      "tot_reqre_time": "1,023",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

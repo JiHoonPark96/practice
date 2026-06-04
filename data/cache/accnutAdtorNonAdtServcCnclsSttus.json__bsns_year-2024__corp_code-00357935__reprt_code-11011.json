@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000160",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000160",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000160",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000160",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000160",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000160",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

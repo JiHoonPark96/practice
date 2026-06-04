@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190619000229",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190619000229",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "2017.4.27",
+      "servc_cn": "국외특수관계거래 관련 세무자문",
+      "servc_exc_pd": "2017.4.17~2017.7.30",
+      "servc_mendng": "60백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190619000229",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

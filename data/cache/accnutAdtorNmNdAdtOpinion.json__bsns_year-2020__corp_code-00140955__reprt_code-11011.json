@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001222",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "bsns_year": "제41기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "특수관계자에 대한 매출거래 \n및 영업권의 손상검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001222",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "bsns_year": "제40기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "특수관계자에 대한 매출거래 \n및 영업권의 손상검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001222",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190516000059",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제28기(당기)",
+      "cntrct_cncls_de": "2018.09.10",
+      "servc_cn": "감사인 확인서",
+      "servc_exc_pd": "2018.09.",
+      "servc_mendng": "15,000천원",
+      "rm": "신한회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190516000059",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제27기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190516000059",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제26기(전전기)",
+      "cntrct_cncls_de": "2016.08.29",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2016.08 ~\n2017.03",
+      "servc_mendng": "5,500천원",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190516000059",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제26기(전전기)",
+      "cntrct_cncls_de": "2016.04.26",
+      "servc_cn": "세이버 PCI -DSS 모의해킹",
+      "servc_exc_pd": "2016.04 ~\n2016.05",
+      "servc_mendng": "41,000천원",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

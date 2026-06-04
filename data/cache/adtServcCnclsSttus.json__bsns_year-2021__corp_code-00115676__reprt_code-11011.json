@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "bsns_year": "제40기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기·반기재무제표 검토\n 별도·연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "995",
+      "adt_cntrct_dtls_time": "8,000",
+      "real_exc_dtls_mendng": "995",
+      "real_exc_dtls_time": "6,799",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기·반기재무제표 검토\n별도·연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "850",
+      "adt_cntrct_dtls_time": " 8,500",
+      "real_exc_dtls_mendng": "850",
+      "real_exc_dtls_time": "8,048",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기·반기재무제표 검토\n별도·연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "850",
+      "adt_cntrct_dtls_time": "8,710",
+      "real_exc_dtls_mendng": "  850",
+      "real_exc_dtls_time": "8,800",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

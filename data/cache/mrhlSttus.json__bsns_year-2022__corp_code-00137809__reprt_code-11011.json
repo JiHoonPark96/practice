@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000569",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "se": "소액주주",
+      "shrholdr_co": "6,171",
+      "shrholdr_tot_co": "6,184",
+      "shrholdr_rate": "99.79%",
+      "hold_stock_co": "476,733",
+      "stock_tot_co": "1,214,878",
+      "hold_stock_rate": "39.24%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

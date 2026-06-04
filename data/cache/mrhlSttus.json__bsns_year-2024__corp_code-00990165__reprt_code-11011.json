@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001240",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "se": "소액주주",
+      "shrholdr_co": "11,806",
+      "shrholdr_tot_co": "11,822",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "10,469,171",
+      "stock_tot_co": "37,836,486",
+      "hold_stock_rate": "27.7%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

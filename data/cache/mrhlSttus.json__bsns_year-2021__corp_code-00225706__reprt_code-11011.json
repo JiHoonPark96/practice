@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220328001123",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "se": "소액주주",
+      "shrholdr_co": "27,282",
+      "shrholdr_tot_co": "27,290",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "8,219,580",
+      "stock_tot_co": "15,484,554",
+      "hold_stock_rate": "53.08%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

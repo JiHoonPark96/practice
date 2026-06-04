@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000887",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "bsns_year": "제60기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 시멘트사업부 영업권 손상검토\n- 금융보증계약부채 및 \n   출자전환부채 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000887",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "bsns_year": "제59기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 시멘트사업부 영업권 손상\n- 금융보증계약부채 및 \n   출자전환부채 평가\n- 산림복구충당부채 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000887",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 시멘트사업부 영업권 손상검토\n- 금융보증계약부채 및 \n   출자전환부채의 평가\n- 산림복구충당부채",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

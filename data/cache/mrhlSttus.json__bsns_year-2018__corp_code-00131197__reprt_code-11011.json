@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002996",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "se": "소액주주",
+      "shrholdr_co": "-",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "-",
+      "hold_stock_co": "-",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

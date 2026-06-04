@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "se": "소액주주",
+      "shrholdr_co": "18,825",
+      "shrholdr_tot_co": "18,835",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "10,136,605",
+      "stock_tot_co": "24,814,827",
+      "hold_stock_rate": "40.85%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

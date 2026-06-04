@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제71기(당기)",
+      "cntrct_cncls_de": "2018.05.24",
+      "servc_cn": "이전가격 문서화 용역",
+      "servc_exc_pd": "2018.05~2018.12",
+      "servc_mendng": "145",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제71기(당기)",
+      "cntrct_cncls_de": "2018.02.27",
+      "servc_cn": "지속경영 프로그램 자문 용역",
+      "servc_exc_pd": "2018.02~2018.07",
+      "servc_mendng": "300",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제70기(전기)",
+      "cntrct_cncls_de": "2017.08.03",
+      "servc_cn": "이전가격 문서화 용역",
+      "servc_exc_pd": "2017.08~2018.12",
+      "servc_mendng": "150",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제70기(전기)",
+      "cntrct_cncls_de": "2017.07.19",
+      "servc_cn": "지속경영 프로그램 자문 용역",
+      "servc_exc_pd": "2017.07~2017.08",
+      "servc_mendng": "100",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제69기(전전기)",
+      "cntrct_cncls_de": "2016.04.25",
+      "servc_cn": "세무 자문 용역",
+      "servc_exc_pd": "2016.04~2017.03",
+      "servc_mendng": "170",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제69기(전전기)",
+      "cntrct_cncls_de": "2016.03.31",
+      "servc_cn": "이전가격 문서화 용역",
+      "servc_exc_pd": "2016.03~2017.03",
+      "servc_mendng": "60",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제69기(전전기)",
+      "cntrct_cncls_de": "2016.02.02",
+      "servc_cn": "세무 자문 용역",
+      "servc_exc_pd": "2016.02~2016.12",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

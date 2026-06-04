@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 23 기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 별도ㆍ연결내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "5,830",
+      "adt_cntrct_dtls_time": "53,000",
+      "real_exc_dtls_mendng": "5,830",
+      "real_exc_dtls_time": "52,967",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 22 기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 별도ㆍ연결내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "5,154",
+      "adt_cntrct_dtls_time": "52,382",
+      "real_exc_dtls_mendng": "5,154",
+      "real_exc_dtls_time": "51,683",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001029",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 21 기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "4,306",
+      "adt_cntrct_dtls_time": "45,274",
+      "real_exc_dtls_mendng": "4,306",
+      "real_exc_dtls_time": "45,436",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

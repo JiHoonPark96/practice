@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001115",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제56기(당기)",
+      "adtor": "정진세림회계법인",
+      "cn": "반기검토, 중간, 기말,연결감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290백만원",
+      "adt_cntrct_dtls_time": "2,440시간",
+      "real_exc_dtls_mendng": "217백만원",
+      "real_exc_dtls_time": "2,568시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001115",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제55기(전기)",
+      "adtor": "정진세림회계법인",
+      "cn": "반기검토, 중간, 기말,연결감사내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220백만원",
+      "adt_cntrct_dtls_time": "1,761시간",
+      "real_exc_dtls_mendng": "220백만원",
+      "real_exc_dtls_time": "2,365시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001115",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토, 중간, 기말,연결감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90백만원",
+      "adt_cntrct_dtls_time": "1,539시간",
+      "real_exc_dtls_mendng": "90백만원",
+      "real_exc_dtls_time": "1,526시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

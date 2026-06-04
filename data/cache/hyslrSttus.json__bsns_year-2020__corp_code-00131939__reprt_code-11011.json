@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326000766",
+      "corp_cls": "Y",
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_knd": "의결권있는주식",
+      "nm": "전동준",
+      "relate": "최대주주\n본인",
+      "bsis_posesn_stock_co": "4,153,085",
+      "bsis_posesn_stock_qota_rt": "23.07",
+      "trmend_posesn_stock_co": "4,153,085",
+      "trmend_posesn_stock_qota_rt": "23.07",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326000766",
+      "corp_cls": "Y",
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_knd": "의결권있는주식",
+      "nm": "마진산업",
+      "relate": "기타",
+      "bsis_posesn_stock_co": "1,334,369",
+      "bsis_posesn_stock_qota_rt": "7.41",
+      "trmend_posesn_stock_co": "1,334,369",
+      "trmend_posesn_stock_qota_rt": "7.41",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326000766",
+      "corp_cls": "Y",
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_knd": "의결권없는 주식",
+      "nm": "선도전기(주)",
+      "relate": "회사",
+      "bsis_posesn_stock_co": "130,981",
+      "bsis_posesn_stock_qota_rt": "0.72",
+      "trmend_posesn_stock_co": "130,981",
+      "trmend_posesn_stock_qota_rt": "0.72",
+      "rm": "자기주식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326000766",
+      "corp_cls": "Y",
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_knd": "의결권있는주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,487,454",
+      "bsis_posesn_stock_qota_rt": "30.48",
+      "trmend_posesn_stock_co": "5,487,454",
+      "trmend_posesn_stock_qota_rt": "30.48",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326000766",
+      "corp_cls": "Y",
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_knd": "의결권없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "130,981",
+      "bsis_posesn_stock_qota_rt": "0.72",
+      "trmend_posesn_stock_co": "130,981",
+      "trmend_posesn_stock_qota_rt": "0.72",
+      "rm": "자기주식",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

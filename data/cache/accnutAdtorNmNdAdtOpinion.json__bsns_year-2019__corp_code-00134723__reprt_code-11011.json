@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제67기(당기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제66기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업가정 불확실성",
+      "core_adt_matter": "투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

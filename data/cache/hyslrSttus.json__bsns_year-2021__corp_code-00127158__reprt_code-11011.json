@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000416",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "의결권있는 보통주",
+      "nm": "(주)씨엔씨기술",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "8,771,300",
+      "bsis_posesn_stock_qota_rt": "34.98",
+      "trmend_posesn_stock_co": "8,771,300",
+      "trmend_posesn_stock_qota_rt": "21.95",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000416",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "의결권있는 보통주",
+      "nm": "김대영",
+      "relate": "계열사임원",
+      "bsis_posesn_stock_co": "455,765",
+      "bsis_posesn_stock_qota_rt": "1.82",
+      "trmend_posesn_stock_co": "455,765",
+      "trmend_posesn_stock_qota_rt": "1.14",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000416",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "의결권있는 보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "9,227,065",
+      "bsis_posesn_stock_qota_rt": "36.80",
+      "trmend_posesn_stock_co": "9,227,065",
+      "trmend_posesn_stock_qota_rt": "23.09",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000416",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

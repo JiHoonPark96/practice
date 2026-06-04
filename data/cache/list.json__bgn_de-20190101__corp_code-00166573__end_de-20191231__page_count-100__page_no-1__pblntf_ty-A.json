@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "stock_code": "016580",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191127000147",
+      "flr_nm": "환인제약",
+      "rcept_dt": "20191127",
+      "rm": ""
+    },
+    {
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "stock_code": "016580",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190828000036",
+      "flr_nm": "환인제약",
+      "rcept_dt": "20190828",
+      "rm": ""
+    },
+    {
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "stock_code": "016580",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190529000027",
+      "flr_nm": "환인제약",
+      "rcept_dt": "20190529",
+      "rm": ""
+    },
+    {
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "stock_code": "016580",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329000435",
+      "flr_nm": "환인제약",
+      "rcept_dt": "20190329",
+      "rm": ""
+    }
+  ]
+}

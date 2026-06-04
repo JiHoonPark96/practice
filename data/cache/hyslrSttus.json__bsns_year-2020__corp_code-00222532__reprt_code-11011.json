@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210304000345",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "stock_knd": "보통주",
+      "nm": "㈜LG유플러스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "38,723,433",
+      "bsis_posesn_stock_qota_rt": "50.00",
+      "trmend_posesn_stock_co": "38,723,433",
+      "trmend_posesn_stock_qota_rt": "50.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210304000345",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "38,723,433",
+      "bsis_posesn_stock_qota_rt": "50.00",
+      "trmend_posesn_stock_co": "38,723,433",
+      "trmend_posesn_stock_qota_rt": "50.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210304000345",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

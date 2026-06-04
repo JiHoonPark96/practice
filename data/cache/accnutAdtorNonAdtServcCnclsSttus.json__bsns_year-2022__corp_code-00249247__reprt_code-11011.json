@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001273",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제27기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001273",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제26기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001273",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제25기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

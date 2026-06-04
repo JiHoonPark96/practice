@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000849",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제28기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n 없음",
+      "core_adt_matter": "연결 : 용역수익인식\n            영업권손상검사\n별도 : 용역수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000849",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제27기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n 없음",
+      "core_adt_matter": "연결 : 용역수익인식\n            영업권손상검사\n별도 : 용역수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000849",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제26기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n 없음",
+      "core_adt_matter": "연결 : 용역수익인식\n            영업권손상검사\n별도 : 용역수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

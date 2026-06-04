@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001326",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "bsns_year": "제43기(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금 적정성 \n- 재고자산 평가 프로세스 이해 및 내부통제 평가\n- 재고자산 평가 정책 검토\n- 재고자산 평가충당금 계산의 정확성 검토\n- 최근 판매단가와의 대사를 통한 추정판매단가의 적정성 검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001326",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "bsns_year": "제42기(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001326",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

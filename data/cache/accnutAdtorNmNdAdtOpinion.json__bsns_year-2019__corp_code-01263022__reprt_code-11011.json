@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003848",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "bsns_year": "제3기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 가공의 가맹점을 통한 부정한 \n매출인식 위험\n(2) 리스기준서 도입효과 회계처리의 \n완전성 및 정확성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003848",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "bsns_year": "제2기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003848",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "bsns_year": "제1기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 연결재무제표에 대한 주석 1에서 설명하고 있는 바와 같이 회사는 2017년 11월 1일을 분할기일로 주식회사 비지에프에서 편의점연쇄화 사업부문이 인적분할되어 신규 설립되었으며,  2017년 12월 8일에 한국거래소 유가증권 시장에 주권을 재상장하였습니다.",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

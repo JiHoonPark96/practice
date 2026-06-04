@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401005063",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005063",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005063",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

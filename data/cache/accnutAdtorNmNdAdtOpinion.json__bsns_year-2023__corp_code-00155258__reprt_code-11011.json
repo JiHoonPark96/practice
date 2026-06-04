@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제36기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품매출 수익인식의 기간귀속",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제35기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내수 제품매출 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내수 제품매출 수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

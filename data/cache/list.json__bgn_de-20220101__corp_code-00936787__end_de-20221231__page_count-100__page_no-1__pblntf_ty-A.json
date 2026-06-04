@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114002036",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20221114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816002591",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20220816",
+      "rm": ""
+    },
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220811000214",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20220811",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516002451",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220318001115",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20220318",
+      "rm": "정연"
+    }
+  ]
+}

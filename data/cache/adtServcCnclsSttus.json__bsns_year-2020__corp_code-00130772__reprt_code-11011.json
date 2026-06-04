@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000400",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제31기(당기)",
+      "adtor": "안진회계법인",
+      "cn": " 분 ·반기 재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 감사\n8월말 임의감사(TY홀딩스관련)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "\n530백만원\n\n190백만원",
+      "adt_cntrct_dtls_time": "\n4,642\n\n1,809",
+      "real_exc_dtls_mendng": "\n530백만원\n\n190백만원",
+      "real_exc_dtls_time": "\n\n5,848\n\n1,690",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000400",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제30기(전기)",
+      "adtor": "한영회계법인",
+      "cn": " 분 ·반기 재무제표 검토\n별도 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235백만원",
+      "adt_cntrct_dtls_time": "2,800",
+      "real_exc_dtls_mendng": "235백만원",
+      "real_exc_dtls_time": "2,738",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000400",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": " 분 ·반기 재무제표 검토\n별도 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "2,684",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "2,601",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

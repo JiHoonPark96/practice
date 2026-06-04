@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "stock_code": "020150",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114000877",
+      "flr_nm": "롯데에너지머티리얼즈",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "stock_code": "020150",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811002493",
+      "flr_nm": "롯데에너지머티리얼즈",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "stock_code": "020150",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002413",
+      "flr_nm": "롯데에너지머티리얼즈",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "stock_code": "020150",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230323001050",
+      "flr_nm": "롯데에너지머티리얼즈",
+      "rcept_dt": "20230323",
+      "rm": "연"
+    }
+  ]
+}

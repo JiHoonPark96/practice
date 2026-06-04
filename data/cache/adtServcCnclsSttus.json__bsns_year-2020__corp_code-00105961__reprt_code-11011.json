@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제45기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분, 반기 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "880",
+      "adt_cntrct_dtls_time": "9,000시간",
+      "real_exc_dtls_mendng": "704",
+      "real_exc_dtls_time": "9,022시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제44기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분, 반기 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "820",
+      "adt_cntrct_dtls_time": "8,700시간",
+      "real_exc_dtls_mendng": "820",
+      "real_exc_dtls_time": "8,514시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분, 반기 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "520",
+      "adt_cntrct_dtls_time": "6,195시간",
+      "real_exc_dtls_mendng": "520",
+      "real_exc_dtls_time": "6,195시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

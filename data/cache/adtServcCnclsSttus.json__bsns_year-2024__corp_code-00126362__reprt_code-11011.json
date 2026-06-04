@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제55기 (당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기검토(연결 및 별도재무제표)\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사\n중간감사(전산감사)\n영문보고서 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,980/년",
+      "adt_cntrct_dtls_time": "18,000/년",
+      "real_exc_dtls_mendng": "1,980/년",
+      "real_exc_dtls_time": "18,585/년",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제54기 (전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기검토(연결 및 별도재무제표)\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사\n중간감사(전산감사)\n영문보고서 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,620/년",
+      "adt_cntrct_dtls_time": "16,200/년",
+      "real_exc_dtls_mendng": "1,620/년",
+      "real_exc_dtls_time": "16,065/년",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제53기 (전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기검토(연결 및 별도재무제표)\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사\n중간감사(전산감사)\n영문보고서 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,480/년",
+      "adt_cntrct_dtls_time": "14,800/년",
+      "real_exc_dtls_mendng": "1,480/년",
+      "real_exc_dtls_time": "14,853/년",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

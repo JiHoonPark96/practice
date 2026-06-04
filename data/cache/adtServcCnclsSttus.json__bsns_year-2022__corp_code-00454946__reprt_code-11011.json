@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000467",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토,중간감사,\n기말감사,재고실사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "1,345",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "1,356",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000467",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "서우회계법인",
+      "cn": "반기검토,중간검토,\n기말감사,재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "911",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "916",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000467",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "서우회계법인",
+      "cn": "반기검토,중간검토,\n기말감사,재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "105,000",
+      "adt_cntrct_dtls_time": "810",
+      "real_exc_dtls_mendng": "105,000",
+      "real_exc_dtls_time": "901",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

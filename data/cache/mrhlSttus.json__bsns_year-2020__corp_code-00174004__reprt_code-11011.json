@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001075",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "se": "소액주주",
+      "shrholdr_co": "4,858",
+      "shrholdr_tot_co": "4,882",
+      "shrholdr_rate": "99.51%",
+      "hold_stock_co": "9,565,464",
+      "stock_tot_co": "25,947,500",
+      "hold_stock_rate": "36.86%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

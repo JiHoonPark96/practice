@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240411003898",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "se": "소액주주",
+      "shrholdr_co": "20,741",
+      "shrholdr_tot_co": "20,745",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "13,418,412",
+      "stock_tot_co": "28,552,647",
+      "hold_stock_rate": "47.00%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

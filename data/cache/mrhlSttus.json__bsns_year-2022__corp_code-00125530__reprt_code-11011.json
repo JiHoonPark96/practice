@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001219",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "se": "소액주주",
+      "shrholdr_co": "20,865",
+      "shrholdr_tot_co": "20,874",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "1,471,284",
+      "stock_tot_co": "8,629,009",
+      "hold_stock_rate": "17.06%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

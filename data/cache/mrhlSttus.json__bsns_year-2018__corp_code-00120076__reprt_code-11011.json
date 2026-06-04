@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001745",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "se": "소액주주",
+      "shrholdr_co": "23,586",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "24,251,630",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "62.57%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000520",
+      "corp_cls": "Y",
+      "corp_code": "00191588",
+      "corp_name": "삼원강재",
+      "stock_knd": "보통주",
+      "nm": "대원강업(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "21,855,489",
+      "bsis_posesn_stock_qota_rt": "54.64",
+      "trmend_posesn_stock_co": "21,855,489",
+      "trmend_posesn_stock_qota_rt": "54.64",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000520",
+      "corp_cls": "Y",
+      "corp_code": "00191588",
+      "corp_name": "삼원강재",
+      "stock_knd": "보통주",
+      "nm": "장범석",
+      "relate": "발행회사 임원",
+      "bsis_posesn_stock_co": "60,000",
+      "bsis_posesn_stock_qota_rt": "0.15",
+      "trmend_posesn_stock_co": "101,000",
+      "trmend_posesn_stock_qota_rt": "0.25",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000520",
+      "corp_cls": "Y",
+      "corp_code": "00191588",
+      "corp_name": "삼원강재",
+      "stock_knd": "보통주",
+      "nm": "이종오",
+      "relate": "발행회사 임원",
+      "bsis_posesn_stock_co": "40,000",
+      "bsis_posesn_stock_qota_rt": "0.10",
+      "trmend_posesn_stock_co": "40,000",
+      "trmend_posesn_stock_qota_rt": "0.10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000520",
+      "corp_cls": "Y",
+      "corp_code": "00191588",
+      "corp_name": "삼원강재",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "21,955,489",
+      "bsis_posesn_stock_qota_rt": "54.89",
+      "trmend_posesn_stock_co": "21,996,489",
+      "trmend_posesn_stock_qota_rt": "54.99",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000520",
+      "corp_cls": "Y",
+      "corp_code": "00191588",
+      "corp_name": "삼원강재",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

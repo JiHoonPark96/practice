@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제7기\n(2024)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "투자주식 평가 및 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제7기\n(2024)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "1. 수출매출의 수익인식 시점\n2. 경영진에 의한 내부통제 무력화에 따른 재무제표 왜곡 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제6기\n(2023)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수출매출의 수익인식 시점 조정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제6기\n(2023)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제5기\n(2022)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "특수관계자 수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제5기\n(2022)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

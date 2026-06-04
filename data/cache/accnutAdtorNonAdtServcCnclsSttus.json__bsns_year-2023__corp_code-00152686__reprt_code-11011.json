@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000596",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "bsns_year": "제52기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000596",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "bsns_year": "제51기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000596",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2021년 7월",
+      "servc_cn": "내부회계관리제도 고도화 자문용역",
+      "servc_exc_pd": "2021.07~2021.11",
+      "servc_mendng": "155(백만원)",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

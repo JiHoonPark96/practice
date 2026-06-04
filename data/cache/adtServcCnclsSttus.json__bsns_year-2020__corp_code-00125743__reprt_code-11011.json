@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001107",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "bsns_year": "제55기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 1분기 검토 : 2020년 04월 13일 ~ 17일\n- 반기 검토 : 2020년 07월 13일 ~ 17일 \n- 3분기 검토 : 2020년 10월 12일 ~ 16일\n- 재무제표에 관한 감사\n   ① 중간 감사 : 2020년 11월 23일 ~ 12월 4일\n   ② 결산 감사 : 2021년   1월 18일 ~ 26일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "380/년",
+      "adt_cntrct_dtls_time": "3,800시간",
+      "real_exc_dtls_mendng": "380/년",
+      "real_exc_dtls_time": "4,267시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001107",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 1분기 검토 : 2019년 04월 16일 ~ 19일\n- 반기 검토 : 2019년 07월 16일 ~ 19일\n- 3분기 검토 : 2019년 10월 15일 ~ 18일\n- 재무제표에 관한 감사① 중간 감사 : 2019년 12월 10일 ~ 13일\n   ② 결산 감사 : 2020년   1월 13일 ~ 17일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165/년",
+      "adt_cntrct_dtls_time": "2,112시간",
+      "real_exc_dtls_mendng": "165/년",
+      "real_exc_dtls_time": "2,112시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001107",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 1분기 검토 : 2018년 04월 16일 ~ 18일\n- 반기 검토 : 2018년 07월 16일 ~ 19일\n- 3분기 검토 : 2018년 10월 15일 ~ 18일\n- 재무제표에 관한 감사\n① 중간 감사 : 2018년 12월 10일 ~ 14일\n   ② 결산 감사 : 2019년   1월 14일 ~ 18일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125/년",
+      "adt_cntrct_dtls_time": "1,829시간",
+      "real_exc_dtls_mendng": "125/년",
+      "real_exc_dtls_time": "1,829시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001156",
+      "corp_cls": "Y",
+      "corp_code": "00135111",
+      "corp_name": "수산세보틱스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001156",
+      "corp_cls": "Y",
+      "corp_code": "00135111",
+      "corp_name": "수산세보틱스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001156",
+      "corp_cls": "Y",
+      "corp_code": "00135111",
+      "corp_name": "수산세보틱스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

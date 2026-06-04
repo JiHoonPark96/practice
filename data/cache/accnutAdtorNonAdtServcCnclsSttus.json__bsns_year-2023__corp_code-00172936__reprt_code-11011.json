@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000958",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제58기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000958",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제57기",
+      "cntrct_cncls_de": "2022.11.30",
+      "servc_cn": "법인세 세무조정 및 세무자문용역",
+      "servc_exc_pd": "22.4.1~23.3.31",
+      "servc_mendng": "35.5백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000958",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제56기",
+      "cntrct_cncls_de": "2021.02.10",
+      "servc_cn": "법인세 세무조정 및 세무자문용역",
+      "servc_exc_pd": "21.4.1~22.3.31",
+      "servc_mendng": "17.5백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

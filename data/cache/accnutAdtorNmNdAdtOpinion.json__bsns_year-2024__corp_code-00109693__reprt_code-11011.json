@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000751",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제78기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000751",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제78기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000751",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제77기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000751",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제77기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 연결재무제표 재작성",
+      "core_adt_matter": "DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000751",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제76기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무제표 재작성",
+      "core_adt_matter": "DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000751",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제76기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결재무제표 재작성",
+      "core_adt_matter": "DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001017",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제62기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "금융상품",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001017",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제61기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "금융상품",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001017",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제60기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "공장이전 관련 진행상황",
+      "core_adt_matter": "보상이익",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331003148",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "bsns_year": "제33기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 검토, 별도재무제표 및\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100,000",
+      "adt_cntrct_dtls_time": "1,296",
+      "real_exc_dtls_mendng": "100,000",
+      "real_exc_dtls_time": "1,291",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003148",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "bsns_year": "제32기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 검토, 별도재무제표 및\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000",
+      "adt_cntrct_dtls_time": "1,504",
+      "real_exc_dtls_mendng": "90,000",
+      "real_exc_dtls_time": "1,297",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003148",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 검토, 별도재무제표 및\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135,000",
+      "adt_cntrct_dtls_time": "1,683",
+      "real_exc_dtls_mendng": "135,000",
+      "real_exc_dtls_time": "1,889",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

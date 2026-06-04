@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토별도 및 연결 재무제표에 대한 감사내부회계관리제도 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,418",
+      "adt_cntrct_dtls_time": "31,957",
+      "real_exc_dtls_mendng": "3,418",
+      "real_exc_dtls_time": "29,542",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토별도 및 연결 재무제표에 대한 감사내부회계관리제도 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,418",
+      "adt_cntrct_dtls_time": "31,957",
+      "real_exc_dtls_mendng": "3,418",
+      "real_exc_dtls_time": "32,737",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토별도 및 연결 재무제표에 대한 감사내부회계관리제도 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,418",
+      "adt_cntrct_dtls_time": "31,957",
+      "real_exc_dtls_mendng": "3,418",
+      "real_exc_dtls_time": "32,411",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

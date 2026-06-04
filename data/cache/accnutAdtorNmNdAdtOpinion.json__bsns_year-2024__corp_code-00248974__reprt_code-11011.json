@@ -1,0 +1,74 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001348",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001348",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001348",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 재무제표에\n 대한 주석 38에 주의를 기울여야 할 필요가 있습니다. 재무제표에\n 대한 주석 38은 회사가 식품의약품안전처 관련 소송에서 패소함에\n 따라 일부 의약품에 대하여 2024년 1월 22일 이후 3개월 판매업무\n정지가 확정되었다고 기술하고 있습니다. 우리의 의견은 이 사항과\n 관련하여 영향을 받지 아니합니다.",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001348",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001348",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석 38은 회사가 식품의약품안전처장을 상대로 소송을 제기하였으며, 소송의 결과는 불확실하다고 기술하고 있습니다.\n우리의 의견은 이 사항과 관련하여 영향을 받지 아니합니다.",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001348",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

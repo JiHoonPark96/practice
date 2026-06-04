@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002717",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제45기 (당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002717",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제45기 (당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002717",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제44기 (전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002717",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제44기 (전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002717",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제43기 (전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002717",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제43기 (전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

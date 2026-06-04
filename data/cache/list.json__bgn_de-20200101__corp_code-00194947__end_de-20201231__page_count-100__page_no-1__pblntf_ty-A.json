@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "stock_code": "130660",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201112000352",
+      "flr_nm": "한전산업",
+      "rcept_dt": "20201112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "stock_code": "130660",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814002437",
+      "flr_nm": "한전산업",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "stock_code": "130660",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200604000362",
+      "flr_nm": "한전산업",
+      "rcept_dt": "20200604",
+      "rm": ""
+    },
+    {
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "stock_code": "130660",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200604000353",
+      "flr_nm": "한전산업",
+      "rcept_dt": "20200604",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "stock_code": "130660",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001646",
+      "flr_nm": "한전산업",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "stock_code": "130660",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330002889",
+      "flr_nm": "한전산업",
+      "rcept_dt": "20200330",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230308000691",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "se": "소액주주",
+      "shrholdr_co": "72,254",
+      "shrholdr_tot_co": "72,258",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "2,139,719",
+      "stock_tot_co": "4,479,948",
+      "hold_stock_rate": "47.76%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

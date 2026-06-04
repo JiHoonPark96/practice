@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제65기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "손상 평가\n재고자산 저가법 평가\n-재고자산 평가와 관련된 내부통제의 설계 및 운영평가\n-재고자산 평가 관련 회계정책 검토\n-회사제시 정보의 신뢰성 검토\n-재계산 검증\n-경영진 가정의 합리성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제65기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제64기\n(전기)",
+      "adtor": "광교회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 저가법 평가\n\n-재고자산 평가와 관련된 내부통제의 설계 및 운영평가\n\n-재고자산 평가 관련 회계정책 검토\n\n-회사제시 정보의 신뢰성 검토\n\n-재계산 검증\n\n-경영진 가정의 합리성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제64기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제63기\n(전전기)",
+      "adtor": "광교회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 저가법 평가\n\n-재고자산 평가와 관련된 내부통제의 설계 및 운영평가\n\n-재고자산 평가 관련 회계정책 검토\n\n-회사제시 정보의 신뢰성 검토\n\n-재계산 검증\n\n-경영진 가정의 합리성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제63기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000625",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 개별 및 연결재무제표 검토\n개별 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "(연간)165,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "(연간)165,000천원",
+      "real_exc_dtls_time": "1,720시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000625",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 개별 및 연결재무제표 검토\n개별 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "(연간)165,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "(연간)165,000천원",
+      "real_exc_dtls_time": "1,650시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000625",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 개별 및 연결재무제표 검토\n개별 및 연결재무제표 감사\n내부회계관리 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "(연간)130,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "(연간)130,000천원",
+      "real_exc_dtls_time": "1,216시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

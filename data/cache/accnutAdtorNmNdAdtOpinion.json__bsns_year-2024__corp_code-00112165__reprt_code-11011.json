@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001173",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제49기\n (당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해외(중국)법인 현금창출단위의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001173",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제49기\n (당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해외(중국)법인 현금창출단위의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001173",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제48기\n (전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해외(중국)법인 현금창출단위의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001173",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제48기\n (전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해외(중국)법인 현금창출단위의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001173",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제47기\n (전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 채권 및 종속기업투자 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001173",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제47기\n (전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 채권 및 종속기업투자 손상 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

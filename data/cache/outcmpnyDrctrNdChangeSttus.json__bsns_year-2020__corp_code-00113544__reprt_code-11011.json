@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001220",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

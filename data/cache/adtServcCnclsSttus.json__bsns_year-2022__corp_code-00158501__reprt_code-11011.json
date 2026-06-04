@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230307000691",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "bsns_year": "제46기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토(연결,별도)\n 재무제표 감사(연결,별도)\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450백만원",
+      "adt_cntrct_dtls_time": "5,200H",
+      "real_exc_dtls_mendng": "450백만원",
+      "real_exc_dtls_time": "4,321H",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230307000691",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "bsns_year": "제45기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토(연결,별도)\n 재무제표 감사(연결,별도)\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "420백만원",
+      "adt_cntrct_dtls_time": "5,200H",
+      "real_exc_dtls_mendng": "420백만원",
+      "real_exc_dtls_time": "5,063H",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230307000691",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "bsns_year": "제44기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토(연결,별도)\n 재무제표 감사(연결,별도)\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410백만원",
+      "adt_cntrct_dtls_time": "5,827H",
+      "real_exc_dtls_mendng": "410백만원",
+      "real_exc_dtls_time": "5,827H",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

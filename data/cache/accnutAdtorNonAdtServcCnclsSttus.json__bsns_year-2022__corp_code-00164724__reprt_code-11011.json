@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2022.01.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "2022.01.01~\n2022.03.31",
+      "servc_mendng": "20",
+      "rm": "제38기 사업연도 세무조정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2021.09.30",
+      "servc_cn": "세무자문 용역계약",
+      "servc_exc_pd": "2021.09.24~\n2021.12.31",
+      "servc_mendng": "27",
+      "rm": "세무 자문 용역",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2021.09.02",
+      "servc_cn": "세무자문 용역계약",
+      "servc_exc_pd": "2021.09.02~\n2022.09.27",
+      "servc_mendng": " 161",
+      "rm": "세무 자문 용역",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2021.01.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "2021.01.01~\n2021.03.31",
+      "servc_mendng": "19",
+      "rm": "제37기 사업연도 세무조정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2020.11.01",
+      "servc_cn": "세무자문 용역계약",
+      "servc_exc_pd": "2020.11.01.~\n2020.12.31",
+      "servc_mendng": "27",
+      "rm": "세무 자문 용역",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2020.07.13",
+      "servc_cn": "합의된 절차 수행업무에 \n대한 용역계약",
+      "servc_exc_pd": "2020.07.13~\n종료시",
+      "servc_mendng": "-",
+      "rm": "사채관리계약 이행상황보고",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2020.04.28",
+      "servc_cn": "합의된 절차 수행업무에 \n대한 용역계약",
+      "servc_exc_pd": "2020.04.28~\n종료시",
+      "servc_mendng": "-",
+      "rm": "사채관리계약 이행상황보고",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001479",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2020.01.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "2020.01.01~\n2020.03.31",
+      "servc_mendng": "  19",
+      "rm": "제36기 사업연도 세무조정",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

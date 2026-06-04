@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003085",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제47기",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기재무제표 및 반기연결재무제표 검토, \n재무제표 및 연결재무제표 감사",
+      "mendng": "50",
+      "tot_reqre_time": "666",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003085",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제46기",
+      "adtor": "적대성삼경회계법인",
+      "cn": "반기재무제표 및 반기연결재무제표 검토, \n재무제표 및 연결재무제표 감사",
+      "mendng": "36",
+      "tot_reqre_time": "472",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003085",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제45기",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기재무제표 및 반기연결재무제표 검토, \n재무제표 및 연결재무제표 감사",
+      "mendng": "36",
+      "tot_reqre_time": "504",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

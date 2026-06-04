@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001322",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "bsns_year": "제58기(당기)",
+      "adtor": "한영 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001322",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "bsns_year": "제57기(전기)",
+      "adtor": "한영 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001322",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "삼일 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "기업회계기준서 제1116호 리스 도입",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

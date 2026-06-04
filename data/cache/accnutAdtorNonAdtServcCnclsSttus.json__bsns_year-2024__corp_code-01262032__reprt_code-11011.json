@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001204",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "bsns_year": "제8기(당기)",
+      "cntrct_cncls_de": "2024.07",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2024.07~2024.08",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001204",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2023.10",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2023.10~2024.11",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001204",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2022.07",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2022.07~2022.08",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

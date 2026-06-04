@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003440",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "se": "소액주주",
+      "shrholdr_co": "10,461",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "7,381,671",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "48.95%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

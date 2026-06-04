@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제78기(당기)",
+      "cntrct_cncls_de": "2024.12.02",
+      "servc_cn": "Robotic Application 서비스",
+      "servc_exc_pd": "2024.12.02 ~ 2027.12.01",
+      "servc_mendng": "13",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제78기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제77기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제77기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제76기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000816",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제76기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

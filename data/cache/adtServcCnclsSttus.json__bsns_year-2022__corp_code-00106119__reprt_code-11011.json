@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001231",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제68기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2.0억원",
+      "adt_cntrct_dtls_time": "1,914",
+      "real_exc_dtls_mendng": "2.0억원",
+      "real_exc_dtls_time": "1,904",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20240313001231",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제67기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1.8억원",
+      "adt_cntrct_dtls_time": "1,538",
+      "real_exc_dtls_mendng": "1.8억원",
+      "real_exc_dtls_time": "1,540",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20240313001231",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1.1억원",
+      "adt_cntrct_dtls_time": "1,259",
+      "real_exc_dtls_mendng": "1.1억원",
+      "real_exc_dtls_time": "1,025",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

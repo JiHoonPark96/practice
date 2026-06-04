@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003092",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제50기(2018)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003092",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제49기(2017)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003092",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제48기(2016)",
+      "adtor": "대명회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

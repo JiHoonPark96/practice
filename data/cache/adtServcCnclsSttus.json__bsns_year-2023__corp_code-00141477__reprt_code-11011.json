@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000794",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350.0",
+      "adt_cntrct_dtls_time": "2,335.0",
+      "real_exc_dtls_mendng": "350.0",
+      "real_exc_dtls_time": "2,480.0",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000794",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제46기(전기)",
+      "adtor": "태성회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270.0",
+      "adt_cntrct_dtls_time": "1,975.0",
+      "real_exc_dtls_mendng": "270.0",
+      "real_exc_dtls_time": "1,975.0",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000794",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "태성회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220.0",
+      "adt_cntrct_dtls_time": "1,680.0",
+      "real_exc_dtls_mendng": "220.0",
+      "real_exc_dtls_time": "1,684.0",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

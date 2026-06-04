@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210427000394",
+      "corp_cls": "Y",
+      "corp_code": "00503668",
+      "corp_name": "LIG디펜스앤에어로스페이스",
+      "se": "소액주주",
+      "shrholdr_co": "17,854",
+      "shrholdr_tot_co": "17,874",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "9,150,884",
+      "stock_tot_co": "22,000,000",
+      "hold_stock_rate": "41.59%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제49기\n(당기)",
+      "cntrct_cncls_de": "2024.03.26",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2024년 1월 ~ 2024년 3월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제49기\n(당기)",
+      "cntrct_cncls_de": "2024.09.27",
+      "servc_cn": "BEPS 이전가격 용역",
+      "servc_exc_pd": "2024년 9월 ~ 2024년 12월",
+      "servc_mendng": "45",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제49기\n(당기)",
+      "cntrct_cncls_de": "2024.10.07",
+      "servc_cn": "경정청구",
+      "servc_exc_pd": "2024년 10월 ~ 2024년 12월",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제48기\n(전기)",
+      "cntrct_cncls_de": "2023.02.22",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2023년 1월 ~ 2023년 3월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제48기\n(전기)",
+      "cntrct_cncls_de": "2023.04.03",
+      "servc_cn": "경정청구",
+      "servc_exc_pd": "2023년 4월 ~ 2023년 6월",
+      "servc_mendng": "365",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제48기\n(전기)",
+      "cntrct_cncls_de": "2023.09.19",
+      "servc_cn": "BEPS 이전가격 용역",
+      "servc_exc_pd": "2023년 9월 ~ 2023년 12월",
+      "servc_mendng": "45",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제48기\n(전기)",
+      "cntrct_cncls_de": "2023.12.04",
+      "servc_cn": "글로벌최저한세 용역",
+      "servc_exc_pd": "2023년 12월 ~ 2024년 2월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000696",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제47기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

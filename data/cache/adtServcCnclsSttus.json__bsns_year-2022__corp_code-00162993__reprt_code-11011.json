@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230717000230",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "bsns_year": "제61기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 별도,연결재무제표 검토, 별도,연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "335",
+      "adt_cntrct_dtls_time": "2,910",
+      "real_exc_dtls_mendng": "335",
+      "real_exc_dtls_time": "2,874",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230717000230",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "bsns_year": "제60기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 별도,연결재무제표 검토, 별도,연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "322",
+      "adt_cntrct_dtls_time": "2,930",
+      "real_exc_dtls_mendng": "322",
+      "real_exc_dtls_time": "3,125",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230717000230",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 별도,연결재무제표 검토, 별도,연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "338",
+      "adt_cntrct_dtls_time": "3,077",
+      "real_exc_dtls_mendng": "338",
+      "real_exc_dtls_time": "3,198",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

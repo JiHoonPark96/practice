@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001079",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제47기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "반기검토 1회, 중간감사 1회\n연말감사 1회, 내부회계 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000,000",
+      "adt_cntrct_dtls_time": "1,550시간",
+      "real_exc_dtls_mendng": "200,000,000",
+      "real_exc_dtls_time": "1,595시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001079",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제46기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기검토 1회, 중간감사 1회\n연말감사 1회, 내부회계 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000,000",
+      "adt_cntrct_dtls_time": "1,550시간",
+      "real_exc_dtls_mendng": "200,000,000",
+      "real_exc_dtls_time": "1,596시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001079",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "성현회계법인",
+      "cn": "반기검토 1회, 중간감사 1회\n연말감사 1회, 내부회계 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "158,000,000",
+      "adt_cntrct_dtls_time": "1,000시간",
+      "real_exc_dtls_mendng": "158,000,000",
+      "real_exc_dtls_time": "1,131시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004441",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 금융상품 공정가치 평가나. 북미지역 내 가격 담합 집단소송 및 중국 반독점법 위반 조사 관련 우발상황의 평가 및 공시",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004441",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제71기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 금융상품 공정가치 평가나. 북미지역 내 가격 담합 집단소송 및 중국 반독점법 위반 조사 관련 우발상황의 평가 및 공시",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004441",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

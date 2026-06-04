@@ -1,0 +1,81 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제23기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제23기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제22기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "별도재무제표 비교유의",
+      "core_adt_matter": "수출매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제22기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제21기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품 수출매출의 인식의 \n발생사실 및 기간귀속, \n매출 판매단가의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제21기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

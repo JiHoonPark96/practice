@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "(주)코다코",
+      "relate": "-",
+      "bsis_posesn_stock_co": "6,190,902",
+      "bsis_posesn_stock_qota_rt": "9.59",
+      "trmend_posesn_stock_co": "656,792",
+      "trmend_posesn_stock_qota_rt": "1.00",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "(주)삼라마이다스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "47,200,000",
+      "trmend_posesn_stock_qota_rt": "72.06",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,190,902",
+      "bsis_posesn_stock_qota_rt": "9.59",
+      "trmend_posesn_stock_co": "47,200,000",
+      "trmend_posesn_stock_qota_rt": "72.06",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

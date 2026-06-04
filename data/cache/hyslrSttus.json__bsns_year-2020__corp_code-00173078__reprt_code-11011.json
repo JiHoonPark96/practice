@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "stock_knd": "보통주",
+      "nm": "(주)엠에스오토텍",
+      "relate": "모회사",
+      "bsis_posesn_stock_co": "1,693,542",
+      "bsis_posesn_stock_qota_rt": "47.70",
+      "trmend_posesn_stock_co": "16,935,420",
+      "trmend_posesn_stock_qota_rt": "38.40",
+      "rm": "액면분할",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "stock_knd": "보통주",
+      "nm": "(주)심원",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "690,879",
+      "bsis_posesn_stock_qota_rt": "19.40",
+      "trmend_posesn_stock_co": "6,908,790",
+      "trmend_posesn_stock_qota_rt": "15.70",
+      "rm": "액면분할",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,384,421",
+      "bsis_posesn_stock_qota_rt": "67.10",
+      "trmend_posesn_stock_co": "23,844,210",
+      "trmend_posesn_stock_qota_rt": "54.10",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210503000454",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220512000852",
+      "corp_cls": "Y",
+      "corp_code": "00413046",
+      "corp_name": "셀트리온",
+      "se": "소액주주",
+      "shrholdr_co": "409,742",
+      "shrholdr_tot_co": "409,748",
+      "shrholdr_rate": "100%",
+      "hold_stock_co": "86,789,833",
+      "stock_tot_co": "134,997,805",
+      "hold_stock_rate": "64.29%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

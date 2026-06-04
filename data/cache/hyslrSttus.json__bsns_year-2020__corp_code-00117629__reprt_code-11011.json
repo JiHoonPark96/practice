@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315001021",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "케이비아이동국실업㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "11,595,799",
+      "bsis_posesn_stock_qota_rt": "9.75",
+      "trmend_posesn_stock_co": "11,595,799",
+      "trmend_posesn_stock_qota_rt": "9.75",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001021",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "㈜케이비아이국인산업",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "11,492,769",
+      "bsis_posesn_stock_qota_rt": "9.67",
+      "trmend_posesn_stock_co": "11,492,769",
+      "trmend_posesn_stock_qota_rt": "9.67",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001021",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "㈜케이비아이텍",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "3,700,000",
+      "bsis_posesn_stock_qota_rt": "3.11",
+      "trmend_posesn_stock_co": "4,650,000",
+      "trmend_posesn_stock_qota_rt": "3.91",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001021",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "26,788,568",
+      "bsis_posesn_stock_qota_rt": "22.53",
+      "trmend_posesn_stock_co": "27,738,568",
+      "trmend_posesn_stock_qota_rt": "23.33",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001021",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

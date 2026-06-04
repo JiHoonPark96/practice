@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000703",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "se": "소액주주",
+      "shrholdr_co": "19,497",
+      "shrholdr_tot_co": "19,504",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "8,594,487",
+      "stock_tot_co": "20,000,000",
+      "hold_stock_rate": "42.97%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190228005479",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제17기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005479",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제16기(전기)",
+      "cntrct_cncls_de": "2017.03.16",
+      "servc_cn": "이전가격 위험진단 및 정책 재수립",
+      "servc_exc_pd": "2017.03.16 ~ 2017.06.12",
+      "servc_mendng": "70",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005479",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제15기(전전기)",
+      "cntrct_cncls_de": "2016.09.29",
+      "servc_cn": "법인통합조사 컨설팅",
+      "servc_exc_pd": "2016.09.29 ~ 2016.12.16",
+      "servc_mendng": "100",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

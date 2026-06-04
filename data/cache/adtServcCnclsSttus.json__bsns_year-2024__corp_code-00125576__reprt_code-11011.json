@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제36기",
+      "adtor": "안경회계법인",
+      "cn": "반기재무제표 검토, 개별 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90",
+      "adt_cntrct_dtls_time": "1,054",
+      "real_exc_dtls_mendng": "90",
+      "real_exc_dtls_time": "1,009",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제35기",
+      "adtor": "안경회계법인",
+      "cn": "반기재무제표 검토, 개별 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70",
+      "adt_cntrct_dtls_time": "834",
+      "real_exc_dtls_mendng": "70",
+      "real_exc_dtls_time": "875",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제34기",
+      "adtor": "진일회계법인",
+      "cn": "반기재무제표 검토, 개별 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130",
+      "adt_cntrct_dtls_time": "1,016",
+      "real_exc_dtls_mendng": "130",
+      "real_exc_dtls_time": "1,683",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

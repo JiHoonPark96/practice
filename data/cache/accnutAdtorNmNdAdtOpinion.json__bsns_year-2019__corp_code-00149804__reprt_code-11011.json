@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002434",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "bsns_year": "제65기(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 수익의 총액, 순익 인식\n- 재고자산평가충당금의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002434",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "bsns_year": "제64기(전기)",
+      "adtor": "동명회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002434",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "동명회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

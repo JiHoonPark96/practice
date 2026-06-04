@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001021",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제69기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001021",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제68기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-1공장 매각의 건, 충북 오송읍 소재 토지 매각의 건\n-경인지방식품의약품안전청의 행정처분 등",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001021",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-1공장 매각의 건",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001120",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "drctr_co": "12",
+      "otcmp_drctr_co": "9",
+      "apnt": "5",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

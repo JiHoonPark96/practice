@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001326",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제65기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "종속기업투자주식 손상 및 지분법 회계처리",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001326",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제64기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "종속기업 투자주식 손상 및 \n지분법 회계처리",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001326",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류수정",
+      "core_adt_matter": "종속기업 투자주식 손상 및 지배회사와 주요 종속회사 회계정책 통일",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003794",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제43기 (당기)",
+      "adtor": "서현회계법인",
+      "cn": "회계감사",
+      "mendng": "120,000천원",
+      "tot_reqre_time": "1,805시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003794",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제42기 (전기)",
+      "adtor": "대주회계법인",
+      "cn": "회계감사",
+      "mendng": "80,000천원",
+      "tot_reqre_time": "971시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003794",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제41기 (전전기)",
+      "adtor": "대주회계법인",
+      "cn": "회계감사",
+      "mendng": "70,000천원",
+      "tot_reqre_time": "860시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

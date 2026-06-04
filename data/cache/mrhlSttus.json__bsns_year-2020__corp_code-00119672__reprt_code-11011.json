@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000709",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "se": "소액주주",
+      "shrholdr_co": "7,450",
+      "shrholdr_tot_co": "7,458",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "11,915,006",
+      "stock_tot_co": "27,066,680",
+      "hold_stock_rate": "44.02%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

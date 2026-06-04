@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004495",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기검토\n반기검토\n3분기검토\n중간감사\n재고실사\n금융실사\n기말감사\n연결감사\n내부회계 설계평가, 운영평가",
+      "mendng": "657",
+      "tot_reqre_time": "7,290시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004495",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기검토\n반기검토3분기검토\n중간감사\n재고실사\n금융실사\n기말감사\n연결감사",
+      "mendng": "370",
+      "tot_reqre_time": "4,782시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004495",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기검토\n반기검토3분기검토\n중간감사\n재고실사\n금융실사\n기말감사\n연결감사",
+      "mendng": "325",
+      "tot_reqre_time": "4,482시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

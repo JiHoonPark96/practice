@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000021",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "bsns_year": "제5기",
+      "cntrct_cncls_de": "2021년 4월",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2021.06.01~2022.03.31",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000021",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "bsns_year": "제4기",
+      "cntrct_cncls_de": "2020년 4월",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2020.06.01~2021.03.31",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000021",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "bsns_year": "제3기",
+      "cntrct_cncls_de": "2019년 4월",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2019.04.01~2020.03.31",
+      "servc_mendng": "17",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

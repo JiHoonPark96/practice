@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000571",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제22기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석 3. 중요한 회계추정\n           (코로나-19(COVID-19)의 영향)\n주석 36. 계속기업 가정\n            (코로나-19(COVID-19)에 따른 수주 불확실성 등)",
+      "core_adt_matter": "영업자산 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000571",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제21기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재공품 손상, 영업자산 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000571",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제20기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

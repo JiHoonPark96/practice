@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000850",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제11기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "미착품의 완전성, 기간귀속, 실재성\n생물자산의 공정가치 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000850",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제10기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "미착품의 완전성, 기간귀속, 실재성\n생물자산의 공정가치 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000850",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "생물자산의 평가\n미착품의 완전성, 기간귀속, 실재성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

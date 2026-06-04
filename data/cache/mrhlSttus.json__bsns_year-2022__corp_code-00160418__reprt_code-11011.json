@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000478",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "se": "소액주주",
+      "shrholdr_co": "8,130",
+      "shrholdr_tot_co": "8,138",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "15,738,412",
+      "stock_tot_co": "30,450,420",
+      "hold_stock_rate": "51.69%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

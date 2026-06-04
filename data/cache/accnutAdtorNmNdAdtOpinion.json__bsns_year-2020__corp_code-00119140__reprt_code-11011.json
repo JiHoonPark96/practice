@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000760",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제49기(당기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 연결재무제표에 대한 주석 40에 주의를 기울여야 할 필요가 있습니다. 연결재무제표에 대한 주석 40은 HANDS 8 S.A.의 차입약정의 불이행에 따른 재무약정의 유예협의와 관련한 불확실성을 설명합니다. 재무약정 적용 유예 협의 결과에 따라 차입약정의 지속여부는 변경될 수 있으며, 이로 인한 영향은 재무제표에 반영되지 아니하였습니다.",
+      "core_adt_matter": "청도동화주조유한공사 \n현금창출단위에 대한 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000760",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "청도동화주조유한공사 \n현금창출단위에 대한 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000760",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

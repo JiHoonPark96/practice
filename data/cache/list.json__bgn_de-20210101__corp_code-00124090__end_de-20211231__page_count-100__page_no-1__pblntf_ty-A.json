@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211109000086",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20211109",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210818000238",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20210818",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001897",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210817001859",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20210817",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.03)",
+      "rcept_no": "20210518000280",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20210518",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210504000666",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20210504",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_code": "007280",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210319001040",
+      "flr_nm": "한국특강",
+      "rcept_dt": "20210319",
+      "rm": "정"
+    }
+  ]
+}

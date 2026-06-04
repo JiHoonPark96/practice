@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000672",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "se": "소액주주",
+      "shrholdr_co": "15,484",
+      "shrholdr_tot_co": "15,493",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "8,818,341",
+      "stock_tot_co": "23,906,860",
+      "hold_stock_rate": "36.89%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

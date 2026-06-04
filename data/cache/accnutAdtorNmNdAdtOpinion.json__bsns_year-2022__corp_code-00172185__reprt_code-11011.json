@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001012",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제59기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 전기오류 수정",
+      "core_adt_matter": "- 재고자산의 실재성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001012",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제58기(전기)",
+      "adtor": "광교회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 회계정책의 변경\n- 특수관계자에 대한 지급보증",
+      "core_adt_matter": "- 특수관계자 등과의 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001012",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재고자산의 과대평가 가능성\n- 특수관계자와의 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250708000057",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250708000057",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250708000057",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250708000057",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250708000057",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250708000057",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

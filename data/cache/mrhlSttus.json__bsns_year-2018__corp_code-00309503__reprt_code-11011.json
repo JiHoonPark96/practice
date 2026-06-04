@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190802000402",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "se": "소액주주",
+      "shrholdr_co": "116,070",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "59,298,793",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "60.83%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

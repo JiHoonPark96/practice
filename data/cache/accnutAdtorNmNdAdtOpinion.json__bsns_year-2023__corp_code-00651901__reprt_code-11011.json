@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001310",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제17기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-이연법인세자산의 실현가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001310",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제16기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19의 영향으로 인한 계속기업에 대한 중요한 불확실성",
+      "core_adt_matter": "-현금창출단위의 손상평가\n-이연법인세자산의 실현가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001310",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "예일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "- 사용권자산(항공기)에 대한 자산손상 검토\n- 이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001084",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001084",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001084",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001084",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001084",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 종속기업 및 관계기업투자주식의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001084",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 관계기업투자주식의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

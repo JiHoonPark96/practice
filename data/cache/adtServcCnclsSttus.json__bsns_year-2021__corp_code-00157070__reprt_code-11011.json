@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000875",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표에 대한 검토 및 \n별도및연결재무제표에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350 ",
+      "adt_cntrct_dtls_time": "3,520 시간",
+      "real_exc_dtls_mendng": "350 ",
+      "real_exc_dtls_time": "3,520 시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000875",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표에 대한 검토 및 \n별도및연결재무제표에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350 ",
+      "adt_cntrct_dtls_time": "3,520 시간",
+      "real_exc_dtls_mendng": "350 ",
+      "real_exc_dtls_time": "3,520 시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000875",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표에 대한 검토 및 \n별도및연결재무제표에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230 ",
+      "adt_cntrct_dtls_time": "2,736 시간",
+      "real_exc_dtls_mendng": "230 ",
+      "real_exc_dtls_time": "2,736 시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

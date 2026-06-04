@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003259",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제49기(당기)",
+      "adtor": "제원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003259",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제48기(전기)",
+      "adtor": "제원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003259",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "제원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 특수관계자와의 거래내용\n재무제표에 대한 주석 33에서 기술하는 바와 같이 연결회사의 당기 중 특수관계자와의 거래금액은 수익등(유상증자금액 포함) 5,351백만원(전기 91백만원), 비용등(자산 취득금액 포함) 17백만원(전기 4,812백만원)이며, 당기말 현재 특수관계자에 대한채권은 3,046백만원(전기말 3,678백만원), 채무는 10백만원입니다.  ",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

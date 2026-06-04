@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002372",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별 및 연결재무제표 감사, 분.반기 재무제표\n검토 및 내부회계관리제도 검토",
+      "mendng": "230백만원",
+      "tot_reqre_time": "2,760시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002372",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별 및 연결재무제표 감사, 분.반기 재무제표\n검토 및 내부회계관리제도 검토",
+      "mendng": "130백만원",
+      "tot_reqre_time": "2,960시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002372",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별 및 연결재무제표 감사, 분.반기 재무제표\n검토 및 내부회계관리제도 검토",
+      "mendng": "120백만원",
+      "tot_reqre_time": "2,344시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

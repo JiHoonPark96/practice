@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000863",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "se": "소액주주",
+      "shrholdr_co": "28,087",
+      "shrholdr_tot_co": "28,092",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "11,491,963",
+      "stock_tot_co": "17,600,000",
+      "hold_stock_rate": "65.30%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

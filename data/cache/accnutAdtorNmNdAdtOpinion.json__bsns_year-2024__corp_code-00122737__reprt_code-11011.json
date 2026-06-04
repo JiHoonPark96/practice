@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제59기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "결산일 현재 진행중인 운항 및 대선계약 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제59기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "결산일 현재 진행중인 운항 및 대선계약 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제58기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운항수익 및 대선수익의 과대계상 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제58기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운항수익 및 대선수익의 과대계상 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운항 및 대선 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운항 및 대선 수익인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

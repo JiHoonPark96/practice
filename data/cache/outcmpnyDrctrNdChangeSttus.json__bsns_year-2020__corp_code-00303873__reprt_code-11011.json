@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001272",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "3",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

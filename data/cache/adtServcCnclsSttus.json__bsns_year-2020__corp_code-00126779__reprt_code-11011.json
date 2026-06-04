@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000648",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제52기",
+      "adtor": "딜로이트 안진회계법인",
+      "cn": "회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000,000",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "145,000,000",
+      "real_exc_dtls_time": "1,482",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000648",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제51기",
+      "adtor": "딜로이트 안진회계법인",
+      "cn": "회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "113,000,000",
+      "adt_cntrct_dtls_time": "1,305",
+      "real_exc_dtls_mendng": "113,000,000",
+      "real_exc_dtls_time": "1,513",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000648",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제50기",
+      "adtor": "딜로이트 안진회계법인",
+      "cn": "회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "87,000,000",
+      "adt_cntrct_dtls_time": "930",
+      "real_exc_dtls_mendng": "87,000,000",
+      "real_exc_dtls_time": "1,499",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240307000479",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제55기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "- 분ㆍ반기 재무제표 검토, 개별재무제표 및 연결재무제표 등에 관한 감사\n- 내부회계에 관한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "420",
+      "adt_cntrct_dtls_time": "3,740",
+      "real_exc_dtls_mendng": "420",
+      "real_exc_dtls_time": "3,812",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000479",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분ㆍ반기 재무제표 검토, 개별재무제표 및 연결재무제표 등에 관한 감사\n- 내부회계에 관한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "494",
+      "adt_cntrct_dtls_time": "4,700",
+      "real_exc_dtls_mendng": "494",
+      "real_exc_dtls_time": "5,012",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000479",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분ㆍ반기 재무제표 검토, 개별재무제표 및 연결재무제표 등에 관한 감사\n- 내부회계에 관한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "468",
+      "adt_cntrct_dtls_time": "4,460",
+      "real_exc_dtls_mendng": "468",
+      "real_exc_dtls_time": "4,090",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000669",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "se": "소액주주",
+      "shrholdr_co": "23,314",
+      "shrholdr_tot_co": "23,318",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "29,128,987",
+      "stock_tot_co": "47,474,590",
+      "hold_stock_rate": "61.36%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

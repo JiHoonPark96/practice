@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000842",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2020.04.01",
+      "servc_cn": "법인세 세무조정업무",
+      "servc_exc_pd": "2020.04.01~2021.03.31",
+      "servc_mendng": "22 ",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000842",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2020.10.21",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2020.10.21~종료시점",
+      "servc_mendng": "254 ",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000842",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2020.10.21",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2020.10.21~종료시점",
+      "servc_mendng": "11 ",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000842",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000842",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

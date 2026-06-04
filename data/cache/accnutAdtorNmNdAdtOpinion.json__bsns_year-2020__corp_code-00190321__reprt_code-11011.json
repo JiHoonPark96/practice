@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001235",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제39기 (당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "리스기간 산정방법 변경에 따른 회계정책 변경 효과를 \n소급 적용하여 비교표시된 2019년 12월 31일로 종료되는 \n회계연도 재무제표를 재작성",
+      "core_adt_matter": "현금창출단위 자산 손상검사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001235",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제38기 (전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 종속기업, 관계기업 및 공동기업 투자 손상\n2. 현금창출단위 자산 손상검사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001235",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제37기 (전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 요금청구시스템을 통해 계상되는 통신서비스 수익인식\n2. 기업회계기준서 제1115호 '고객과의 계약에서 생기는 수익' 도입에 \n    따른 수익인식 변경 적용의 적정성",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

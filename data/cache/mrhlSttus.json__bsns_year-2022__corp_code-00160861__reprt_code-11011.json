@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000728",
+      "corp_cls": "Y",
+      "corp_code": "00160861",
+      "corp_name": "한농화성",
+      "se": "소액주주",
+      "shrholdr_co": "21,596",
+      "shrholdr_tot_co": "21,604",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "7,032,555",
+      "stock_tot_co": "15,637,042",
+      "hold_stock_rate": "44.97%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

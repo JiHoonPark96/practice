@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200928000311",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제68기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "사용권자산 및 리스계약 등의 완전성",
+      "stlm_dt": "2020-06-30"
+    },
+    {
+      "rcept_no": "20200928000311",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제67 기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-06-30"
+    },
+    {
+      "rcept_no": "20200928000311",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제66 기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-06-30"
+    }
+  ]
+}

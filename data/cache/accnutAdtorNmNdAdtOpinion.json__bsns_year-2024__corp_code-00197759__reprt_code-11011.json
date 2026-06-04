@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제34기\n(당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준3으로 측정되는 금융자산.금융부채의 평가\n재고자산 평가충당금 추정의 적정성평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제34기\n(당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준3으로 측정되는 금융자산.금융부채의 평가\n재고자산 평가충당금 추정의 적정성평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제33기\n(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류된 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제33기\n(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류된 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제32기\n(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외매출의 수익인식, 수준3으로 분류된 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제32기\n(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외매출의 수익인식, 수준3으로 분류된 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

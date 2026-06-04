@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20191114002725",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002405",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20191114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002690",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190521000356",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20190521",
+      "rm": ""
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190521000353",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20190521",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002687",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2018.12)",
+      "rcept_no": "20190515002612",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20190515",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "stock_code": "251270",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004690",
+      "flr_nm": "넷마블",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

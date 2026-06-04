@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

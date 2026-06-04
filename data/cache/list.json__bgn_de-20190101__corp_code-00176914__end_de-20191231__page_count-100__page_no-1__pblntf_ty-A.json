@@ -1,0 +1,109 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 9,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002314",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2019.06)",
+      "rcept_no": "20190902000793",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190902",
+      "rm": ""
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190902000764",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190902",
+      "rm": ""
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002817",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002126",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190508000438",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190508",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190418000523",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190418",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190401005158",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "stock_code": "023590",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004660",
+      "flr_nm": "다우기술",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

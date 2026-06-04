@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000671",
+      "corp_cls": "Y",
+      "corp_code": "00128980",
+      "corp_name": "삼호개발",
+      "se": "소액주주",
+      "shrholdr_co": "8,398",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "13,247,861",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "52.99%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

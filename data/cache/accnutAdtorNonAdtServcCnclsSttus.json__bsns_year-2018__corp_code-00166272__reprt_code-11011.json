@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제41기",
+      "cntrct_cncls_de": "2018.04.30",
+      "servc_cn": "2018년 법인세 세무조정",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "33",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제40기",
+      "cntrct_cncls_de": "2017.04.30",
+      "servc_cn": "2017년 법인세 세무조정",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "33",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제39기",
+      "cntrct_cncls_de": "2016.04.30",
+      "servc_cn": "2016년 법인세 세무조정",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

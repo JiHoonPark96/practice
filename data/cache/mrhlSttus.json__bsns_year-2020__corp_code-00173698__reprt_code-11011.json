@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000414",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "se": "소액주주",
+      "shrholdr_co": "28,269",
+      "shrholdr_tot_co": "28,274",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "57,042,503",
+      "stock_tot_co": "71,047,521",
+      "hold_stock_rate": "80.28%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

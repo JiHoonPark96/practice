@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001399",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "se": "소액주주",
+      "shrholdr_co": "19,086",
+      "shrholdr_tot_co": "19,100",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "8,621,542",
+      "stock_tot_co": "22,190,194",
+      "hold_stock_rate": "38.85%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

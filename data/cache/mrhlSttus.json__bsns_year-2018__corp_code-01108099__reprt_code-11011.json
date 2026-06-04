@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "6,861",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "4,742,115",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "52.10%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

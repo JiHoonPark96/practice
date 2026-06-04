@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "se": "소액주주",
+      "shrholdr_co": "28,130",
+      "shrholdr_tot_co": "28,135",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "78,711,395",
+      "stock_tot_co": "106,987,815",
+      "hold_stock_rate": "73.57%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

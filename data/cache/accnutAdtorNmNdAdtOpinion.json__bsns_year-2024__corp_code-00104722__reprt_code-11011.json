@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000537",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "판매수수료의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000537",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "판매수수료의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000537",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제66기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가 관련 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000537",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제66기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가 관련 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000537",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가 관련 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000537",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가 관련 회계처리",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

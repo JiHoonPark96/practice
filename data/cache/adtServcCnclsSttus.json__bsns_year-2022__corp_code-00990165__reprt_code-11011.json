@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001378",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "bsns_year": "제10기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 / 별도ㆍ연결재무제표 검토\n별도ㆍ연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "470,000",
+      "adt_cntrct_dtls_time": "4,277",
+      "real_exc_dtls_mendng": "470,000",
+      "real_exc_dtls_time": "4,526",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001378",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "bsns_year": "제9기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 / 별도ㆍ연결재무제표 검토\n별도ㆍ연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "377,000",
+      "adt_cntrct_dtls_time": "3,770",
+      "real_exc_dtls_mendng": "377,000",
+      "real_exc_dtls_time": "3,025",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001378",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "bsns_year": "제8기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 / 별도ㆍ연결재무제표 검토\n별도ㆍ연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "349,000",
+      "adt_cntrct_dtls_time": "3,490",
+      "real_exc_dtls_mendng": "349,000",
+      "real_exc_dtls_time": "3,306",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190723000170",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제8기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n연간 재무제표 감사",
+      "mendng": "700,000",
+      "tot_reqre_time": "6,349",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190723000170",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제7기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n연간 재무제표 감사",
+      "mendng": "500,000",
+      "tot_reqre_time": "4,669",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190723000170",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "연간 및 반기 재무제표 감사",
+      "mendng": "770,000",
+      "tot_reqre_time": "4,704",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001751",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "bsns_year": "제11기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001751",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "bsns_year": "제10기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001751",
+      "corp_cls": "Y",
+      "corp_code": "00990165",
+      "corp_name": "아세아시멘트",
+      "bsns_year": "제9기(전전기)",
+      "cntrct_cncls_de": "2021.12.29",
+      "servc_cn": "법인세 세무조정 신고",
+      "servc_exc_pd": "2022.02.21~\n2022.02.23",
+      "servc_mendng": "13,000,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

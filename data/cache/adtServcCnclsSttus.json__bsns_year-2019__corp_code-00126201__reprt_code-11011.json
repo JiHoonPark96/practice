@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003960",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "안경\n회계법인",
+      "cn": " 별도반기검토 : 2019.07.24~07.26\n 연결반기검토 : \n2019.08.05~08.07\n별도중간감사 : 2019.11.25~11.27\n 기말재고실사 : 2020.01.02\n 기말별도감사 : 2020.02.04~02.07\n 기말연결감사 : 2020.02.19~02.22",
+      "mendng": "50,000",
+      "tot_reqre_time": "868",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003960",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "안경\n회계법인",
+      "cn": " 별도반기검토 : 2018.07.23~07.25\n 연결반기검토 : \n2018.08.03~08.08\n별도중간감사 : 2018.11.19~11.21\n 기말재고실사 : 2019.01.02\n 기말별도감사 : 2019.01.25~01.28\n 기말연결감사 : 2019.02.25~02.28",
+      "mendng": "45,000",
+      "tot_reqre_time": "854",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003960",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "안경\n회계법인",
+      "cn": " 별도반기검토 : 2017.07.24~07.26\n 연결반기검토 : \n2017.08.01~08.05\n별도중간감사 : 2017.11.27~11.29\n 기말재고실사 : 2018.01.02\n 기말별도감사 : 2018.01.24~01.26\n 기말연결감사 : 2018.02.19~02.21",
+      "mendng": "45,000",
+      "tot_reqre_time": "778",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

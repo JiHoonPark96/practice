@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000676",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제46기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "- 분, 반기 개별재무제표 검토\n- 연간 개별재무제표 검토\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125",
+      "adt_cntrct_dtls_time": "1,250",
+      "real_exc_dtls_mendng": "125",
+      "real_exc_dtls_time": "1,233",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000676",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제45기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "- 분, 반기 개별재무제표 검토\n- 연간 개별재무제표 검토\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125",
+      "adt_cntrct_dtls_time": "1,250",
+      "real_exc_dtls_mendng": "125",
+      "real_exc_dtls_time": "1,257",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000676",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "- 분, 반기 개별재무제표 검토\n- 연간 개별재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95",
+      "adt_cntrct_dtls_time": "905",
+      "real_exc_dtls_mendng": "95",
+      "real_exc_dtls_time": "926",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

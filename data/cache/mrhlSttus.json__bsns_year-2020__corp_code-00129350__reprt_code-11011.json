@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000813",
+      "corp_cls": "Y",
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "se": "소액주주",
+      "shrholdr_co": "40,422",
+      "shrholdr_tot_co": "40,431",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "6,666,426",
+      "stock_tot_co": "10,395,000",
+      "hold_stock_rate": "64.13%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000675",
+      "corp_cls": "Y",
+      "corp_code": "00127167",
+      "corp_name": "삼영무역",
+      "bsns_year": "제66기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140",
+      "adt_cntrct_dtls_time": "2,146",
+      "real_exc_dtls_mendng": "140",
+      "real_exc_dtls_time": "2,684",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000675",
+      "corp_cls": "Y",
+      "corp_code": "00127167",
+      "corp_name": "삼영무역",
+      "bsns_year": "제65기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": " 130",
+      "adt_cntrct_dtls_time": "2,146",
+      "real_exc_dtls_mendng": " 130",
+      "real_exc_dtls_time": "2,227",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000675",
+      "corp_cls": "Y",
+      "corp_code": "00127167",
+      "corp_name": "삼영무역",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "이촌회계법인",
+      "cn": "별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": " 188",
+      "adt_cntrct_dtls_time": "2,146",
+      "real_exc_dtls_mendng": " 188",
+      "real_exc_dtls_time": "2,144",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

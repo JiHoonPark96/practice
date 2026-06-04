@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180928000563",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제29기",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000563",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제28기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000563",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제27기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-06-30"
+    }
+  ]
+}

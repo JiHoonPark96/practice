@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190228005328",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_knd": "보통주",
+      "nm": "(주)S&T홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "11,562,971",
+      "bsis_posesn_stock_qota_rt": "35.61",
+      "trmend_posesn_stock_co": "12,680,175",
+      "trmend_posesn_stock_qota_rt": "39.05",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005328",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "11,562,971",
+      "bsis_posesn_stock_qota_rt": "35.61",
+      "trmend_posesn_stock_co": "12,680,175",
+      "trmend_posesn_stock_qota_rt": "39.05",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005328",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

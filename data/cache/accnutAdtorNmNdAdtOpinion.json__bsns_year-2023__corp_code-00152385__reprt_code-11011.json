@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001313",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제53기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업손실 발생에 따른 사업부 손상 평가(연결)\n영업권 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001313",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제52기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "사업결합에 따른 이전대가 배분",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001313",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 종속기업 및 관계기업에 대한 손상 평가\n(2) 전환사채 발행 및 평가의 적정성\n(3) 특수관계자 대여금 및 금융리스채권의 회수가능성 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

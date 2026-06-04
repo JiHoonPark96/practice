@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001350",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제51기(당기)",
+      "adtor": "대현회계법인",
+      "cn": "분,반기(연결)재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360",
+      "adt_cntrct_dtls_time": "2,882",
+      "real_exc_dtls_mendng": "360",
+      "real_exc_dtls_time": "3,102",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001350",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제50기(전기)",
+      "adtor": "대현회계법인",
+      "cn": "반기(연결)재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "285",
+      "adt_cntrct_dtls_time": "2,337",
+      "real_exc_dtls_mendng": "285",
+      "real_exc_dtls_time": "2,977",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001350",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기(연결)재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,540",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,576",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

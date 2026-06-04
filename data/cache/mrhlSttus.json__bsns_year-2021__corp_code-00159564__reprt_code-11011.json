@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220325001050",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "se": "소액주주",
+      "shrholdr_co": "4,318",
+      "shrholdr_tot_co": "4,326",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "3,559,486",
+      "stock_tot_co": "11,309,259",
+      "hold_stock_rate": "31.47%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

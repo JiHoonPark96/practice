@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004047",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "se": "소액주주",
+      "shrholdr_co": "4,056",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.61%",
+      "hold_stock_co": "10,313,916",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "34.9%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

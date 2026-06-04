@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제33기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "반기재무제표 검토, 개별 및 연결 재무제표에 대한 감사",
+      "mendng": "85,000",
+      "tot_reqre_time": "1,100",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제32기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "반기재무제표 검토, 개별 및 연결 재무제표에 대한 감사",
+      "mendng": "75,000",
+      "tot_reqre_time": "1,035",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "반기재무제표 검토, 개별 및 연결 재무제표에 대한 감사",
+      "mendng": "75,000",
+      "tot_reqre_time": "1,040",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-03-31"
+    }
+  ]
+}

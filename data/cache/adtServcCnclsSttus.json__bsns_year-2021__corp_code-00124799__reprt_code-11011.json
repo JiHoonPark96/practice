@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001349",
+      "corp_cls": "Y",
+      "corp_code": "00124799",
+      "corp_name": "사조산업",
+      "bsns_year": "제51기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "분반기검토, 중간,\n기말 회계감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "205 백만원",
+      "adt_cntrct_dtls_time": "2,600 시간",
+      "real_exc_dtls_mendng": "205 백만원",
+      "real_exc_dtls_time": "2,987 시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001349",
+      "corp_cls": "Y",
+      "corp_code": "00124799",
+      "corp_name": "사조산업",
+      "bsns_year": "제50기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "분반기검토, 중간,\n기말 회계감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195 백만원",
+      "adt_cntrct_dtls_time": "2,468 시간",
+      "real_exc_dtls_mendng": "195 백만원",
+      "real_exc_dtls_time": "2,542 시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001349",
+      "corp_cls": "Y",
+      "corp_code": "00124799",
+      "corp_name": "사조산업",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "분반기검토, 중간,\n기말 회계감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130 백만원",
+      "adt_cntrct_dtls_time": "2,146 시간",
+      "real_exc_dtls_mendng": "130 백만원",
+      "real_exc_dtls_time": "2,146 시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

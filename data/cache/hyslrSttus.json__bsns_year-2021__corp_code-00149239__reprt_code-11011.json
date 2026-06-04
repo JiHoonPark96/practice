@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000042",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "stock_knd": "보통주",
+      "nm": "이영호",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "19,074,990",
+      "bsis_posesn_stock_qota_rt": "22.77",
+      "trmend_posesn_stock_co": "22,048,727",
+      "trmend_posesn_stock_qota_rt": "17.98",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000042",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "stock_knd": "보통주",
+      "nm": "이재섭",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "709,790",
+      "bsis_posesn_stock_qota_rt": "0.85",
+      "trmend_posesn_stock_co": "820,444",
+      "trmend_posesn_stock_qota_rt": "0.67",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000042",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "stock_knd": "보통주",
+      "nm": "(주)조광",
+      "relate": "〃",
+      "bsis_posesn_stock_co": "26,204,170",
+      "bsis_posesn_stock_qota_rt": "31.28",
+      "trmend_posesn_stock_co": "30,289,327",
+      "trmend_posesn_stock_qota_rt": "24.70",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000042",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "45,988,950",
+      "bsis_posesn_stock_qota_rt": "54.90",
+      "trmend_posesn_stock_co": "53,158,498",
+      "trmend_posesn_stock_qota_rt": "43.35",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000042",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

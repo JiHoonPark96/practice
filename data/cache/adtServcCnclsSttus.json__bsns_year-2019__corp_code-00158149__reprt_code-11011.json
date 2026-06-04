@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200403002403",
+      "corp_cls": "Y",
+      "corp_code": "00158149",
+      "corp_name": "한국쉘석유",
+      "bsns_year": "제59기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토 및 기말 재무제표등에 대한 감사",
+      "mendng": "142,000",
+      "tot_reqre_time": "1,439",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200403002403",
+      "corp_cls": "Y",
+      "corp_code": "00158149",
+      "corp_name": "한국쉘석유",
+      "bsns_year": "제58기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토 및 기말 재무제표등에 대한 감사",
+      "mendng": "120,000",
+      "tot_reqre_time": "1,275",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200403002403",
+      "corp_cls": "Y",
+      "corp_code": "00158149",
+      "corp_name": "한국쉘석유",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토 및 기말 재무제표등에 대한 감사",
+      "mendng": "100,900",
+      "tot_reqre_time": "946",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

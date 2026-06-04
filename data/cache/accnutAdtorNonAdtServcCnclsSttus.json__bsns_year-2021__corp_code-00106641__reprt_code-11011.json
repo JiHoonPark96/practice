@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000650",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제78기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000650",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제77기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000650",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제76기(전전기)",
+      "cntrct_cncls_de": "'19. 7월\n'19. 2월",
+      "servc_cn": "CDP 2019년 작성 자문\n중고차 시장조사",
+      "servc_exc_pd": "'19.07.02 ~ '19.10.31\n'19.02.18 ~ '19.03.29",
+      "servc_mendng": "21\n    170",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

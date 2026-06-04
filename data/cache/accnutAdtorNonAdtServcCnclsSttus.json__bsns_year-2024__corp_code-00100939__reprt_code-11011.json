@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001036",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제73기(당기)",
+      "cntrct_cncls_de": "2024.12.9",
+      "servc_cn": "법인세 세무조정업무 수임계약",
+      "servc_exc_pd": "2024.12.9~2025.3.31",
+      "servc_mendng": "5,500 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001036",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제72기(전기)",
+      "cntrct_cncls_de": "2023.11.30",
+      "servc_cn": "삼일 저작물 비독점적 이용계약",
+      "servc_exc_pd": "2023.11.30~2026.11.30",
+      "servc_mendng": "15,000 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001036",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제72기(전기)",
+      "cntrct_cncls_de": "2023.7.3",
+      "servc_cn": "법인세 세무조정업무 수임계약",
+      "servc_exc_pd": "2023.7.3~2024.3.31",
+      "servc_mendng": "5,500 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001036",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제71기(전전기)",
+      "cntrct_cncls_de": "2023.2.9",
+      "servc_cn": "법인세 세무조정업무 수임계약",
+      "servc_exc_pd": "2023.2.9~2023.4.30",
+      "servc_mendng": "4,500 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

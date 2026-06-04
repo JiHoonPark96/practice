@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230711000073",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "2022.05.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.05.~2023.04.",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230711000073",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "bsns_year": "제52기(전기)",
+      "cntrct_cncls_de": "2021.05.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.05.~2022.04.",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230711000073",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2020.05.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.05.~2021.04.",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250205000477",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "1",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "3",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

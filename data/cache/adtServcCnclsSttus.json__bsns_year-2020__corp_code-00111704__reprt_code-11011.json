@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001184",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제21기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기,반기,3분기,기말, 재고실사,\n연결,내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,750",
+      "adt_cntrct_dtls_time": "16,800",
+      "real_exc_dtls_mendng": "1,750",
+      "real_exc_dtls_time": "17,500",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001184",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제20기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "1분기,반기,3분기,기말, 재고실사,\n연결,내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,000",
+      "adt_cntrct_dtls_time": "17,500",
+      "real_exc_dtls_mendng": "2,000",
+      "real_exc_dtls_time": "17,024",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001184",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제19기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기,반기,3분기,기말, 재고실사,\n연결",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,800",
+      "adt_cntrct_dtls_time": "16,192",
+      "real_exc_dtls_mendng": "1,800",
+      "real_exc_dtls_time": "17,215",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

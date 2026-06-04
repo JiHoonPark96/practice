@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001106",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제27기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 없음",
+      "core_adt_matter": "1. 카지노 영업으로부터 발생하는 매출의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001106",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제27기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 없음",
+      "core_adt_matter": "1. 카지노 영업으로부터 발생하는 매출의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001106",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제26기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 강조사항 : 금융상품 유동성 분류 오류로 인한 비교표시된 전기재무상태표의 재작성\n\n- 기타사항 : 전기 재무제표에 대하여 감사의견 또는 기타 어떠한 형태의 확신도 표명하지 아니함",
+      "core_adt_matter": "1. 카지노 매출의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001106",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제26기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 강조사항 : 금융상품 유동성 분류 오류로 인한 비교표시된 전기재무상태표의 재작성\n\n- 기타사항 : 전기 재무제표에 대하여 감사의견 또는 기타 어떠한 형태의 확신도 표명하지 아니함",
+      "core_adt_matter": "1. 카지노 매출의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001106",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제25기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 없음",
+      "core_adt_matter": "1. 이연법인세자산의 실현가능성 평가\n2. 종속기업(하이원추추파크) 투자지분 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001106",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제25기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 없음",
+      "core_adt_matter": "1. 이연법인세자산의 실현가능성 평가\n2. 종속기업(하이원추추파크) 현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

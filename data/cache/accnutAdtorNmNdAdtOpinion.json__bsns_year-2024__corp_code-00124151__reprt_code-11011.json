@@ -1,0 +1,75 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "상장적격성 실질심사, \n보고기간후 사건(부동산 매각 잔금일 연장)",
+      "core_adt_matter": "재화의 수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업에 대한 불확실성, 상장적격성 실질심사, \n전기재무제표의 재작성",
+      "core_adt_matter": "재화의 수출매출의 기간귀속\n이연법인세자산의 실현가능성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "재화의 수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

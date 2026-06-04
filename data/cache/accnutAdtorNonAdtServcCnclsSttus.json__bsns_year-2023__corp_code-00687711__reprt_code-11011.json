@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001739",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제16기\n(당기)",
+      "cntrct_cncls_de": "2023년3월",
+      "servc_cn": "세무조정수임",
+      "servc_exc_pd": "2023년03월~\n2024년03월",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001739",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제15기\n(전기)",
+      "cntrct_cncls_de": "2022년4월",
+      "servc_cn": "세무조정수임",
+      "servc_exc_pd": "2022년04월~\n2023년03월",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001739",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제14기\n(전전기)",
+      "cntrct_cncls_de": "2021년4월",
+      "servc_cn": "세무조정수임",
+      "servc_exc_pd": "2021년04월~\n2022년03월",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

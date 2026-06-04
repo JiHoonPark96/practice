@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002920",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제36기(당기)",
+      "adtor": "성도이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "  - 新리스기준 적용의 적정성\n  - 충당부채, 우발부채 등 관련 정확성\n  - 장기공사계약 등 관련 적정성\n  - 유동,비유동 분류의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002920",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제35기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "  - 新수익기준서에 따른 수익인식의 적정성\n  - 新금융상품기준 공정가치 측정 적정성\n  - 비시장성 자사녕가의 적정성\n  - 무형자산 인식,평가의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002920",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "  -  개발비 인식,평가의 적정성\n  - 국외매출(수주산업 제외) 관련 회계처리의 적정성\n  - 사업결합 회계처리의 적정성\n  - 매출채권 대손충당금 회계처리의 적정성",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

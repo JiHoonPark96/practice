@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001305",
+      "corp_cls": "Y",
+      "corp_code": "00115977",
+      "corp_name": "아이에스동서",
+      "bsns_year": "제47기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "투입법에 따른 수익인식\n - 총계약수익의 적정성\n - 총계약원가 추정의 불확실성\n - 공사진행률의 측정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001305",
+      "corp_cls": "Y",
+      "corp_code": "00115977",
+      "corp_name": "아이에스동서",
+      "bsns_year": "제46기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 분양공사 수익인식 시기에 대한 검토\n2. 공사현장별 투입원가의 귀속\n3. 총계약원가 추정의 불확실성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001305",
+      "corp_cls": "Y",
+      "corp_code": "00115977",
+      "corp_name": "아이에스동서",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 분양공사 수익인식 시기에 대한 검토\n2. 공사현장별 투입원가의 귀속\n3. 총계약원가 추정의 불확실성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

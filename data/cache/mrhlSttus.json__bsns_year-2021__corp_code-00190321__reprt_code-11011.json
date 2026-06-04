@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221006000582",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "se": "소액주주",
+      "shrholdr_co": "230,207",
+      "shrholdr_tot_co": "230,217",
+      "shrholdr_rate": "100.0%",
+      "hold_stock_co": "143,023,522",
+      "stock_tot_co": "235,808,146",
+      "hold_stock_rate": "60.7%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

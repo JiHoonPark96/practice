@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001008",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제52기(당   기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산 손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001008",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제51기(전   기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001008",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

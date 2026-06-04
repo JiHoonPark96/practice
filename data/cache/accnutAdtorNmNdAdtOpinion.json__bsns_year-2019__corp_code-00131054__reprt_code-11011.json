@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002456",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제67기(당기)",
+      "adtor": "삼정회계법인\n대표이사 김 교 태",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결 및 별도\n해당 사항 없음",
+      "core_adt_matter": "1. 비정형화된 거래에서 발생하는 수수료수익의 이연인식\n2. 공정가치 수준3으로 분류하는 파생상품 및 당기손익- \n    공정가치지정금융상품의 공정가치 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002456",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제66기(전기)",
+      "adtor": "삼정회계법인\n대표이사 김 교 태",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결 및 별도\n해당 사항 없음",
+      "core_adt_matter": "1. 매입확약수수료, 업무위탁(자산관리)수수료 수익인식\n2. 비상장금융상품의 공정가치 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002456",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "삼정회계법인\n대표이사 김 교 태",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결 및 별도\n해당 사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

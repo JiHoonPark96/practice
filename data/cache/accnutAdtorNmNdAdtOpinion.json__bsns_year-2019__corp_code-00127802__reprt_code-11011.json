@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제55기(당     기)",
+      "adtor": "회계법인 하나로",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석40 특수관계자 매입",
+      "core_adt_matter": "감가상각 개시시점의 적절성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제54기(전     기)",
+      "adtor": "회계법인 하나로",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제53기(전 전 기)",
+      "adtor": "회계법인 하나로",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

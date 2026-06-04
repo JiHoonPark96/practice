@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331000615",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제44기(당기)",
+      "adtor": "대성삼경회계법인(*)",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "1373.0시간",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "1281.0시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000615",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제43기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "850.0시간",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "850.0시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000615",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000",
+      "adt_cntrct_dtls_time": "844.0시간",
+      "real_exc_dtls_mendng": "85,000",
+      "real_exc_dtls_time": "844.0시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

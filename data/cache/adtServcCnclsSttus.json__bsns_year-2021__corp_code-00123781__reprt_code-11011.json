@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000378",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "bsns_year": "제46기(당기)",
+      "adtor": "광교회계법인",
+      "cn": "반기 재무제표에 대한 검토 및\n결산 재무제표에 대한 감사등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,000천원",
+      "adt_cntrct_dtls_time": "1,330시간",
+      "real_exc_dtls_mendng": "140,000천원",
+      "real_exc_dtls_time": "1,330시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000378",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "bsns_year": "제45기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표에 대한 검토 및\n결산 재무제표에 대한 감사등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000천원",
+      "adt_cntrct_dtls_time": "952시간",
+      "real_exc_dtls_mendng": "70,000천원",
+      "real_exc_dtls_time": "952시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000378",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표에 대한 검토 및\n결산 재무제표에 대한 감사등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "53,000천원",
+      "adt_cntrct_dtls_time": "983시간",
+      "real_exc_dtls_mendng": "53,000천원",
+      "real_exc_dtls_time": "983시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

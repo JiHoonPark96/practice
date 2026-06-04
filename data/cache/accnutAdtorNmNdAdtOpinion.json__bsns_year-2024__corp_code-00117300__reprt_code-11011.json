@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000643",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "신규증설라인 감가상각요소에 대한 적정성\n전환사채 파생상품 공정가치평가에 대한 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000643",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "신규증설라인 감가상각요소에 대한 적정성\n전환사채 파생상품 공정가치평가에 대한 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000643",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "건설중인자산 취득원가의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000643",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "건설중인자산 취득원가의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000643",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000643",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

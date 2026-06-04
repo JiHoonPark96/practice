@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000536",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제49기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외 매출의 발생사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000536",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제48기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외 매출의 발생사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000536",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제47기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "기능통화 및 \n표시통화 변경",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

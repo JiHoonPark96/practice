@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004378",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "bsns_year": "제38기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004378",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "bsns_year": "제37기(전기)",
+      "cntrct_cncls_de": "2018.01.",
+      "servc_cn": "내부회계 재구축",
+      "servc_exc_pd": "2018.01~2018.01",
+      "servc_mendng": "15,000 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004378",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "bsns_year": "제36기(전전기)",
+      "cntrct_cncls_de": "2017.05.",
+      "servc_cn": "브랜드개발 용역",
+      "servc_exc_pd": "2017.05~2017.07",
+      "servc_mendng": "45,000 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

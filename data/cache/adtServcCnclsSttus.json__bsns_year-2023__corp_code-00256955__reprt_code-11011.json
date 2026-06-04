@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000460",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제30기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "-중간기간 재무제표 검토\n-개별 및 연결재무재표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "1,730",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "1,977",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000460",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제29기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "-중간기간 재무제표 검토\n-개별 및 연결재무재표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "139,000",
+      "adt_cntrct_dtls_time": "1,390",
+      "real_exc_dtls_mendng": "139,000",
+      "real_exc_dtls_time": "1,460",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000460",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "-중간기간 재무제표 검토\n-개별 및 연결재무재표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "147,000",
+      "adt_cntrct_dtls_time": "1,550",
+      "real_exc_dtls_mendng": "147,000",
+      "real_exc_dtls_time": "1,668",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

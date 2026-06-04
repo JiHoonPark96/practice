@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000820",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제73기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000820",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제73기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000820",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제72기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000820",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제72기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000820",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제71기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000820",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제71기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

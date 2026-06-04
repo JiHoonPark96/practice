@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제83기(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재화의 판매 관련 수익인식 기간 귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제82기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "복합금융상품의 발행시점에서 부채 및 자본요소의 분류와 측정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제81기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "복합금융상품의 발행시점에서 부채 및 자본요소의 분류와 측정",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

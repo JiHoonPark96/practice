@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "stock_knd": "보통주",
+      "nm": "㈜삼일홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "6,468,876",
+      "bsis_posesn_stock_qota_rt": "50.81",
+      "trmend_posesn_stock_co": "6,561,466",
+      "trmend_posesn_stock_qota_rt": "51.54",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "stock_knd": "보통주",
+      "nm": "㈜성암네트웍스",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "445,381",
+      "bsis_posesn_stock_qota_rt": "3.50",
+      "trmend_posesn_stock_co": "481,721",
+      "trmend_posesn_stock_qota_rt": "3.78",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,914,257",
+      "bsis_posesn_stock_qota_rt": "54.31",
+      "trmend_posesn_stock_co": "7,043,187",
+      "trmend_posesn_stock_qota_rt": "55.32",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

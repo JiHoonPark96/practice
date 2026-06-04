@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000790",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "bsns_year": "제70기(당기)",
+      "adtor": "예일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000790",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "bsns_year": "제69기(전기)",
+      "adtor": "예일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000790",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "회계법인공감",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

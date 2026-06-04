@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327000166",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "bsns_year": "제17기 (당기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토 및 기말감사\n내부회계관리제도 검토",
+      "mendng": "50,000,000",
+      "tot_reqre_time": "864",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000166",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "bsns_year": "제16기(전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토 및 기말감사\n내부회계관리제도 검토",
+      "mendng": "38,000,000",
+      "tot_reqre_time": "758",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000166",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "이현회계법인",
+      "cn": "반기검토 및 기말감사\n내부회계관리제도 검토",
+      "mendng": "22,000,000",
+      "tot_reqre_time": "545",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319001127",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "지배력의 상실",
+      "core_adt_matter": "수익인식의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001127",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001127",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제48기\n(전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 \n실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001127",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제48기\n(전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 \n실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001127",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제47기\n(전전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 \n실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001127",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제47기\n(전전기)",
+      "adtor": "회계법인 세일원",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 \n실재성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "동성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "기타포괄-공정가치측정 금융자산의 실재성 확인과 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "기타포괄-공정가치측정 금융자산의 실재성 확인과 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 거래의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

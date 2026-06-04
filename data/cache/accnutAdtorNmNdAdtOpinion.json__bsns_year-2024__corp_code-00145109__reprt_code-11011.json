@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001137",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "bsns_year": "제102기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내부적으로 창출한\n무형자산(개발비)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001137",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "bsns_year": "제102기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내부적으로 창출한\n무형자산(개발비)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001137",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "bsns_year": "제101기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내부적으로 창출한\n무형자산(개발비)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001137",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "bsns_year": "제101기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내부적으로 창출한\n무형자산(개발비)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001137",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "bsns_year": "제100기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내부적으로 창출한\n무형자산(개발비)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001137",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "bsns_year": "제100기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "내부적으로 창출한\n무형자산(개발비)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

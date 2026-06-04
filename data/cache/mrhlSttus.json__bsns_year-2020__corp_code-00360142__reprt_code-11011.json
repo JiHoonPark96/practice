@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "se": "소액주주",
+      "shrholdr_co": "7,030",
+      "shrholdr_tot_co": "7,046",
+      "shrholdr_rate": "99.77%",
+      "hold_stock_co": "11,487,479",
+      "stock_tot_co": "31,464,340",
+      "hold_stock_rate": "36.51%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

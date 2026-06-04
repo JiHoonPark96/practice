@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210416000566",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "bsns_year": "제14 기(당기)",
+      "cntrct_cncls_de": "2021.01.18",
+      "servc_cn": "세무조정보수",
+      "servc_exc_pd": "2020.01.01~2020.12.31",
+      "servc_mendng": "8,000천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210416000566",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "bsns_year": "제 13 기(전기)",
+      "cntrct_cncls_de": "2020.03.15",
+      "servc_cn": "세무조정보수",
+      "servc_exc_pd": "2019.01.01~2019.12.31",
+      "servc_mendng": "8,000천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210416000566",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "bsns_year": "제12기(전전기)",
+      "cntrct_cncls_de": "2018.04.18",
+      "servc_cn": "세무조정보수",
+      "servc_exc_pd": "2018.01.01~2018.12.31",
+      "servc_mendng": "8,000천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004479",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "bsns_year": "제52기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기 재무제표 검토, 연말감사,\n연결 감사, 내부회계관리 검토",
+      "mendng": "110",
+      "tot_reqre_time": "2,224",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004479",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "bsns_year": "제51기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "상동",
+      "mendng": "100",
+      "tot_reqre_time": "1,910",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004479",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "상동",
+      "mendng": "100",
+      "tot_reqre_time": "1,368",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "stock_knd": "보통주",
+      "nm": "(주)화인인터내셔날",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "8,131,620",
+      "bsis_posesn_stock_qota_rt": "27.52",
+      "trmend_posesn_stock_co": "8,131,620",
+      "trmend_posesn_stock_qota_rt": "27.52",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "stock_knd": "보통주",
+      "nm": "동일철강(주)",
+      "relate": "관계회사",
+      "bsis_posesn_stock_co": "6,777,090",
+      "bsis_posesn_stock_qota_rt": "22.93",
+      "trmend_posesn_stock_co": "5,577,090",
+      "trmend_posesn_stock_qota_rt": "18.87",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "stock_knd": "보통주",
+      "nm": "장재헌",
+      "relate": "관계회사 임원",
+      "bsis_posesn_stock_co": "10,000",
+      "bsis_posesn_stock_qota_rt": "0.03",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "14,918,710",
+      "bsis_posesn_stock_qota_rt": "50.49",
+      "trmend_posesn_stock_co": "13,708,710",
+      "trmend_posesn_stock_qota_rt": "46.39",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

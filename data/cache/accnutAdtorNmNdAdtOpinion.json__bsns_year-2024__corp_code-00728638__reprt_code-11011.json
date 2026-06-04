@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제16 기(당기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 특수관계자와의 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제16 기(당기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 특수관계자와의 거래 및 잔액 공시의 적정성\n\n(2) TEXOLLINI, INC. 사업결합에 따른 인수가격배분(PPA, Purchase Price Allocation) 후속측정의 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제15 기(전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 특수관계자와의 거래 및 잔액 공시의 적정성\n(2) 칼라앤터치주식회사 및 그 종속기업으로 구성된 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제15 기(전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 특수관계자와의 거래 및 잔액 공시의 적정성\n(2) 칼라앤터치주식회사 및 그 종속기업으로 구성된 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "(1) 특수관계자와의 거래 및 잔액 공시의 적정성\n(2) 칼라앤터치주식회사 및 그 종속기업으로 구성된 현금창출단위 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "(1) 특수관계자와의 거래 및 잔액 공시의 적정성\n(2) 칼라앤터치주식회사 및 그 종속기업으로 구성된 현금창출단위 ",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

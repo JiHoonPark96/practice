@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001041",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제14기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 계속기업 관련 중요한 불확실성\n- 경영정상화계획 이행을 위한 약정",
+      "core_adt_matter": "- 진행기준 수익인식 \n - 이연법인세자산의 회수가능성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001041",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제13기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " - 계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "- 진행기준 수익인식\n - 이연법인세자산의 회수가능성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001041",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " - 계속기업 관련 중요한 불확실성\n - 경영정상화계획 이행을 위한 약정\n - 보고기간 후 사건",
+      "core_adt_matter": " - 진행기준 수익인식(별도/연결)\n - 관계기업에 대한 금융보증부채 평가(별도)\n - 매각예정자산의 순공정가치 평가(연결)",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

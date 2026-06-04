@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001247",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제46기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "개별 및 연결 분ㆍ반기재무제표 검토\n개별 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "870백만원",
+      "adt_cntrct_dtls_time": "9,670시간",
+      "real_exc_dtls_mendng": "870백만원",
+      "real_exc_dtls_time": "9,530시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001247",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제45기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별 및 연결 분ㆍ반기재무제표 검토\n개별 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "815백만원",
+      "adt_cntrct_dtls_time": "9,150시간",
+      "real_exc_dtls_mendng": "815백만원",
+      "real_exc_dtls_time": "9,494시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001247",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별 및 연결 분ㆍ반기재무제표 검토\n개별 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "795백만원",
+      "adt_cntrct_dtls_time": "8,952시간",
+      "real_exc_dtls_mendng": "795백만원",
+      "real_exc_dtls_time": "8,952시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

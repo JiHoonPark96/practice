@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000773",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "bsns_year": "제10기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000773",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "bsns_year": "제9기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000773",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "bsns_year": "제8기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 강조사항\n1. 재무제표 재작성(감사의견에는 영향을 미치지 않는 \n사항으로서, 이용자들의 주의 필요)\n- 당기: 순자산 3,348백만원 감소, 순손실 5,484백만원 감소",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

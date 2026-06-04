@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제62기\n(당기)",
+      "adtor": "선일회계법인\n대표이사 반경찬",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제62기\n(당기)",
+      "adtor": "선일회계법인\n대표이사 반경찬",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제61기\n(전기)",
+      "adtor": "선일회계법인\n대표이사 반경찬",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 재무제표에 대한 주석 36에 주의를 기울여야 할 필요가 있습니다. 주석 36에서 설명하고 있는 바와 같이 회사는 2022년 2월 28일자 이사회 결의 및 2022년 4월 29일자 임시주주총회의 승인에 따라물적분할방식에 의해 2022년 5월 1일을 분할기일로 하는 (주)콜롬보코리아를 신설하였으며, 동 분할은 회사가 콜롬보브랜드 사업의 자산 및 부채를 포괄적으로 분할하여 완전자회사를 설립하는 단순물적분할입니다.",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제61기\n(전기)",
+      "adtor": "선일회계법인\n대표이사 반경찬",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제60기\n(전전기)",
+      "adtor": "선일회계법인\n대표이사 반경찬",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 재무제표에 대한 주석 35에 주의를 기울여야 할 필요가 있습니다. 주석 35에서 설명하고 있는 바와 같이 회사는 2022년 2월 28일자 이사회 결의 및 2022년 4월 29일자 임시주주총회의 승인에 따라물적분할방식에 의해 2022년 5월 1일을 분할기일로 하는 (주)콜롬보코리아를 신설하였으며, 동 분할은 회사가 콜롬보브랜드 사업의 자산 및 부채를 포괄적으로 분할하여 완전자회사를 설립하는 단순물적분할입니다.",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제60기\n(전전기)",
+      "adtor": "선일회계법인\n대표이사 반경찬",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000400",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제45기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "- 회계감사 용역 계약\n: 연결/별도 반기 재무제표 검토\n  (2021.07.26~2021.07.30)\n: 연결/별도 재무제표에 대한 감사\n  (2022.02.07~2021.02.15)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160백만원",
+      "adt_cntrct_dtls_time": "1,600시간",
+      "real_exc_dtls_mendng": "160백만원",
+      "real_exc_dtls_time": "1,683시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000400",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제44기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 회계감사 용역 계약\n: 연결/별도 반기 재무제표 검토\n  (2020.07.27~2020.07.31)\n: 연결/별도 재무제표에 대한 감사\n  (2021.02.08~2021.02.19)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150백만원",
+      "adt_cntrct_dtls_time": "1,500시간",
+      "real_exc_dtls_mendng": "150백만원",
+      "real_exc_dtls_time": "1,487시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000400",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 회계감사 용역 계약\n: 연결/별도 반기 재무제표 검토\n  (2019.07.22~2019.07.26)\n: 연결/별도 재무제표에 대한 감사\n  (2020.02.03~2020.02.14)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,500시간",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,720시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

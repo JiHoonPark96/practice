@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327001789",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "bsns_year": "제69기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "㈜지에스엔텍 현금창출단위 손상검사\n㈜지에스엔텍 종속기업투자의 손상검사",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001789",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "bsns_year": "제68기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001789",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

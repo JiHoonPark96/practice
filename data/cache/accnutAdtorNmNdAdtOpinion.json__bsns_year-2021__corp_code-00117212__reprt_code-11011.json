@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000008",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제85기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 수익인식(2) 미청구공사에 대한 회수가능성(3) 영업권손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000008",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제84기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무구조개선 계획에\n대한 강조사항",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 등 수익인식(2) 미청구공사에 대한 회수가능성(3) 영업권 손상검사(4) 판매보증충당부채 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000008",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제83기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 \n중요한 불확실성",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 등 수익인식(2) 미청구공사에 대한 회수가능성(3) 영업권 손상검사(4) 판매보증충당부채 평가(5) 이연법인세자산 실현가능성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001234",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "6,074",
+      "shrholdr_tot_co": "6,090",
+      "shrholdr_rate": "99.74%",
+      "hold_stock_co": "638,470",
+      "stock_tot_co": "4,224,646",
+      "hold_stock_rate": "20.49%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000904",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 종속기업투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000904",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 현금창출단위의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000904",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 종속기업투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000904",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 현금창출단위의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000904",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 종속기업투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000904",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 현금창출단위의 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

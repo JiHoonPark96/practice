@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제36기 연간(당기)",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토\n반기 별도, 연결 재무제표 등에 대한 검토\n3분기 별도, 연결 재무제표 등에 대한 검토\n36기 별도, 연결 재무제표 등에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "650",
+      "adt_cntrct_dtls_time": "820시간\n820시간\n820시간\n총6,840시간(누계)",
+      "real_exc_dtls_mendng": "650",
+      "real_exc_dtls_time": "850시간\n830시간\n870시간\n총6,604시간(누계)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제35기 연간(전기)",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토\n반기 별도, 연결 재무제표 등에 대한 검토\n3분기 별도, 연결 재무제표 등에 대한 검토\n35기 별도, 연결 재무제표 등에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "371",
+      "adt_cntrct_dtls_time": "840시간\n840시간\n840시간\n총6,400시간(누계)",
+      "real_exc_dtls_mendng": "371",
+      "real_exc_dtls_time": "890시간\n928시간\n1,026시간\n총6,403시간(누계)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제34기 연간(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토\n반기 별도, 연결 재무제표 등에 대한 검토\n3분기 별도, 연결 재무제표 등에 대한 검토\n34기 별도, 연결 재무제표 등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "309",
+      "adt_cntrct_dtls_time": " 총 4,750시간(누계)",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "820시간\n590시간\n1,540시간\n총 5,447시간(누계)",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

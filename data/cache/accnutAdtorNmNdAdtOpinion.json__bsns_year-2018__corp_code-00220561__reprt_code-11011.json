@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제24기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "중요성의 관점에서 공정하게 표시하고 있음",
+      "adt_reprt_spcmnt_matter": "해당사항 없음.",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제23기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "중요성의 관점에서 공정하게 표시하고 있음",
+      "adt_reprt_spcmnt_matter": "해당사항 없음.",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "중요성의 관점에서 공정하게 표시하고 있음",
+      "adt_reprt_spcmnt_matter": "해당사항 없음.",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

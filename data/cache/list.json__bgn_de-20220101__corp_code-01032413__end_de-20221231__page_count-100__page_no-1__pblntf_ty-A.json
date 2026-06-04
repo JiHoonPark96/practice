@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000185",
+      "flr_nm": "해성디에스",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816000789",
+      "flr_nm": "해성디에스",
+      "rcept_dt": "20220816",
+      "rm": ""
+    },
+    {
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516002128",
+      "flr_nm": "해성디에스",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220321000936",
+      "flr_nm": "해성디에스",
+      "rcept_dt": "20220321",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000672",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "2",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

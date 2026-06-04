@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220620000208",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "se": "소액주주",
+      "shrholdr_co": "10,457",
+      "shrholdr_tot_co": "10,467",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "27,518,804",
+      "stock_tot_co": "46,754,933",
+      "hold_stock_rate": "58.85%",
+      "stlm_dt": "2022-03-31"
+    }
+  ]
+}

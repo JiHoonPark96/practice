@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000872",
+      "corp_cls": "Y",
+      "corp_code": "00204208",
+      "corp_name": "마니커",
+      "bsns_year": "제39기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "연결/별도 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000천원",
+      "adt_cntrct_dtls_time": "1,737시간",
+      "real_exc_dtls_mendng": "150,000천원",
+      "real_exc_dtls_time": "1,875시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000872",
+      "corp_cls": "Y",
+      "corp_code": "00204208",
+      "corp_name": "마니커",
+      "bsns_year": "제38기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "연결/별도 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000천원",
+      "adt_cntrct_dtls_time": "1,737시간",
+      "real_exc_dtls_mendng": "210,000천원",
+      "real_exc_dtls_time": "2,078시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000872",
+      "corp_cls": "Y",
+      "corp_code": "00204208",
+      "corp_name": "마니커",
+      "bsns_year": "제37기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "연결/별도 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000천원",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "180,000천원",
+      "real_exc_dtls_time": "1,346시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

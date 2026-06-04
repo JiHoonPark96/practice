@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000835",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "2",
+      "mdstrm_resig": "0",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

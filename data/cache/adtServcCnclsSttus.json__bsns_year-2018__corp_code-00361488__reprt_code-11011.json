@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003295",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 19 기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사 용역 계약\n(분기ㆍ반기검토, 중간감사, \n별도 및 연결재무제표 감사)",
+      "mendng": "85,000",
+      "tot_reqre_time": "979시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003295",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 18 기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사 용역 계약\n(분기ㆍ반기검토, 중간감사, \n별도 및 연결재무제표 감사)",
+      "mendng": "85,000",
+      "tot_reqre_time": "998시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003295",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 17 기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사 용역 계약\n(분기ㆍ반기검토, 중간감사, \n별도 및 연결재무제표 감사)",
+      "mendng": "80,000",
+      "tot_reqre_time": "985시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

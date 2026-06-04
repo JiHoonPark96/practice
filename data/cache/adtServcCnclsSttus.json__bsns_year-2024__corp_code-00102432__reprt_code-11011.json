@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001751",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제58기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "분기 재무제표  및 연결재무제표 검토\n\n반기 재무제표  및 연결재무제표 검토\n\n연간 재무제표  및 연결재무제표 감사\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370",
+      "adt_cntrct_dtls_time": "4,485",
+      "real_exc_dtls_mendng": "398",
+      "real_exc_dtls_time": "4,485",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001751",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제57기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분기 재무제표  및 연결재무제표 검토\n\n반기 재무제표  및 연결재무제표 검토\n\n연간 재무제표  및 연결재무제표 감사\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350",
+      "adt_cntrct_dtls_time": "4,556",
+      "real_exc_dtls_mendng": "365",
+      "real_exc_dtls_time": "4,556",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001751",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "분기 재무제표  및 연결재무제표 검토\n\n반기 재무제표  및 연결재무제표 검토\n\n연간 재무제표  및 연결재무제표 감사\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350",
+      "adt_cntrct_dtls_time": "4,614",
+      "real_exc_dtls_mendng": "367",
+      "real_exc_dtls_time": "4,614",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

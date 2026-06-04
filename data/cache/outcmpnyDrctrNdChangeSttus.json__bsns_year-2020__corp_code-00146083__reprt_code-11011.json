@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000013",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "2",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

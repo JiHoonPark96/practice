@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001347",
+      "corp_cls": "Y",
+      "corp_code": "00139764",
+      "corp_name": "에넥스",
+      "drctr_co": "3",
+      "otcmp_drctr_co": "0",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000822",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000822",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "bsns_year": "제23기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000822",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "bsns_year": "제22기(전전기)",
+      "cntrct_cncls_de": "2022.06.28",
+      "servc_cn": "2022년 법인세 및\n지방소득세 세무자문",
+      "servc_exc_pd": "2022.06.28\n~ 2023.06.27",
+      "servc_mendng": "21.5",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001514",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "se": "소액주주",
+      "shrholdr_co": "149,867",
+      "shrholdr_tot_co": "149,874",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "65,524,295",
+      "stock_tot_co": "97,475,107",
+      "hold_stock_rate": "64.16%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

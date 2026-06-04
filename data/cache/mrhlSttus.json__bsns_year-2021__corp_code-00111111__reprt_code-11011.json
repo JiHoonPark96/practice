@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001358",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "se": "소액주주",
+      "shrholdr_co": "18,842",
+      "shrholdr_tot_co": "18,862",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "22,683,099",
+      "stock_tot_co": "44,913,501",
+      "hold_stock_rate": "50.5%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

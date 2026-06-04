@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210428000711",
+      "corp_cls": "Y",
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "bsns_year": "제4기",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "442",
+      "adt_cntrct_dtls_time": "4,600",
+      "real_exc_dtls_mendng": "442",
+      "real_exc_dtls_time": "4,740",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210428000711",
+      "corp_cls": "Y",
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "bsns_year": "제3기",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "281",
+      "adt_cntrct_dtls_time": "3,534",
+      "real_exc_dtls_mendng": "281",
+      "real_exc_dtls_time": "3,534",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210428000711",
+      "corp_cls": "Y",
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "bsns_year": "제2기",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "238",
+      "adt_cntrct_dtls_time": "4,202",
+      "real_exc_dtls_mendng": "238",
+      "real_exc_dtls_time": "4,202",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

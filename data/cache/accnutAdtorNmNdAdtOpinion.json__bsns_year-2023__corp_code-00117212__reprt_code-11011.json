@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001953",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제87기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001953",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제86기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "비교표시 전기 연결재무제표의재작성에 대한 강조사항",
+      "core_adt_matter": "(1) 총계약원가 추정의 불확실성\n(2) 영업권 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001953",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제85기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 수익인식\n(2) 미청구공사에 대한 회수가능성\n(3) 영업권 손상검사",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

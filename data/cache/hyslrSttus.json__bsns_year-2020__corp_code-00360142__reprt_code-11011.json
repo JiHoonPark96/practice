@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "stock_knd": "보통주",
+      "nm": "(주)인터파크",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "14,380,000",
+      "bsis_posesn_stock_qota_rt": "40.01",
+      "trmend_posesn_stock_co": "14,380,000",
+      "trmend_posesn_stock_qota_rt": "40.63",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "stock_knd": "보통주",
+      "nm": "남인봉",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "25,000",
+      "bsis_posesn_stock_qota_rt": "0.07",
+      "trmend_posesn_stock_co": "30,000",
+      "trmend_posesn_stock_qota_rt": "0.08",
+      "rm": "장내매수",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "stock_knd": "보통주",
+      "nm": "강동화",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "15,000",
+      "trmend_posesn_stock_qota_rt": "0.04",
+      "rm": "장내매수",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "14,405,000",
+      "bsis_posesn_stock_qota_rt": "40.08",
+      "trmend_posesn_stock_co": "14,425,000",
+      "trmend_posesn_stock_qota_rt": "40.76",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

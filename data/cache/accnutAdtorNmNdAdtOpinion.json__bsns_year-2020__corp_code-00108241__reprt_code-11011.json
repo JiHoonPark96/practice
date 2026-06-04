@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000609",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제 57 기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "고객에게 지급할 대가\n특수관계자와의 거래",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000609",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제 56 기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "고객에게 지급할 대가\n특수관계자와의 거래",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000609",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제 55 기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "변동대가 및 고객에게 지급할 대가\n특수관계자와의 거래",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

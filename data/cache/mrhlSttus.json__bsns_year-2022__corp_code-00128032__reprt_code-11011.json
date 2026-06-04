@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001021",
+      "corp_cls": "Y",
+      "corp_code": "00128032",
+      "corp_name": "삼일제약",
+      "se": "소액주주",
+      "shrholdr_co": "13,207",
+      "shrholdr_tot_co": "13,222",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "6,814,420",
+      "stock_tot_co": "13,714,450",
+      "hold_stock_rate": "52.35%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

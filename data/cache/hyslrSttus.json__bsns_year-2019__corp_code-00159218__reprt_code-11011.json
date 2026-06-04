@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200406002229",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "stock_knd": "보통주",
+      "nm": "한국전력공사",
+      "relate": "모회사",
+      "bsis_posesn_stock_co": "22,952,000",
+      "bsis_posesn_stock_qota_rt": "51.00",
+      "trmend_posesn_stock_co": "22,952,000",
+      "trmend_posesn_stock_qota_rt": "51.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200406002229",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "22,952,000",
+      "bsis_posesn_stock_qota_rt": "51.00",
+      "trmend_posesn_stock_co": "22,952,000",
+      "trmend_posesn_stock_qota_rt": "51.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200406002229",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

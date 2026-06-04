@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001679",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "se": "소액주주",
+      "shrholdr_co": "12,927",
+      "shrholdr_tot_co": "12,950",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "23,687,454",
+      "stock_tot_co": "62,000,000",
+      "hold_stock_rate": "38.21%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

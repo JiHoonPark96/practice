@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000859",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "se": "소액주주",
+      "shrholdr_co": "17,903",
+      "shrholdr_tot_co": "17,917",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "5,418,105",
+      "stock_tot_co": "14,677,004",
+      "hold_stock_rate": "36.94%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240821000566",
+      "corp_cls": "Y",
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "bsns_year": "제69기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "- 반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 영문재무제표 검토\n 및 기타 감사업무",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "295백만원",
+      "adt_cntrct_dtls_time": "1,850시간",
+      "real_exc_dtls_mendng": "295백만원",
+      "real_exc_dtls_time": "2,525시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20240821000566",
+      "corp_cls": "Y",
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "bsns_year": "제68기(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "- 반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 영문재무제표 검토\n 및 기타 감사업무",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "1,766시간",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "1,844시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20240821000566",
+      "corp_cls": "Y",
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "- 반기 검토\n- 개별재무제표감사\n- 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "1,720시간",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,758시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

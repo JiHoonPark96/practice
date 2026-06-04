@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001952",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제41기(당기)",
+      "cntrct_cncls_de": "2019.08.19",
+      "servc_cn": "재무관련 기재사항 확인업무",
+      "servc_exc_pd": "2019.08.19 ~ 2019.09.20",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001952",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제40기(전기)",
+      "cntrct_cncls_de": "2018.06.11",
+      "servc_cn": "통상자문용역",
+      "servc_exc_pd": "2018.06.11~Case 종료일",
+      "servc_mendng": "387",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001952",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제40기(전기)",
+      "cntrct_cncls_de": "2018.06.20",
+      "servc_cn": "BEPS관련 세무자문용역",
+      "servc_exc_pd": "2018.06.20 ~2018.12.30",
+      "servc_mendng": "45",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001952",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제39기(전전기)",
+      "cntrct_cncls_de": "2017.08.11",
+      "servc_cn": "BEPS관련 세무자문용역",
+      "servc_exc_pd": "2017.08.11~2017.12.31",
+      "servc_mendng": "70",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

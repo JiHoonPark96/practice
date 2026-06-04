@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250829001312",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음.",
+      "core_adt_matter": "영업권을 포함한\n현금창출단위 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001312",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음.",
+      "core_adt_matter": "영업권을 포함한\n현금창출단위 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001312",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음.",
+      "core_adt_matter": "영업권을 포함한\n현금창출단위 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001312",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음.",
+      "core_adt_matter": "영업권을 포함한\n현금창출단위 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001312",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음.",
+      "core_adt_matter": "영업권을 포함한\n현금창출단위 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001312",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음.",
+      "core_adt_matter": "영업권을 포함한\n현금창출단위 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

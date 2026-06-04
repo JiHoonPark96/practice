@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "1,100\n(주1)",
+      "tot_reqre_time": "14,515\n(주2)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사",
+      "mendng": "500",
+      "tot_reqre_time": "7,626",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사",
+      "mendng": "500",
+      "tot_reqre_time": "8,167",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331000044",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제33기(당기)",
+      "cntrct_cncls_de": "2020.7월\n2020.4월",
+      "servc_cn": "세무조사 대리인 업무\n법인세 세무조정 업무",
+      "servc_exc_pd": "2020.07 ~ 2020.02\n2020.01 ~ 2020.12",
+      "servc_mendng": "120백만원\n22백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000044",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제32기(전기)",
+      "cntrct_cncls_de": "2019.8월",
+      "servc_cn": "법인세 세무조정 업무",
+      "servc_exc_pd": "2019.01 ~ 2019.12",
+      "servc_mendng": "24백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000044",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "2018.8월",
+      "servc_cn": "법인세 세무조정 업무",
+      "servc_exc_pd": "2018.01 ~ 2018.12",
+      "servc_mendng": "22백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

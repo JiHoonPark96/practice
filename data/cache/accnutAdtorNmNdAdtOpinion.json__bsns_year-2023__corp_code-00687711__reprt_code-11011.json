@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001739",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제16기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사는 매각예정자산 분류요건과 처분자산집단의 손상차손환입과\n 관련하여 2022년 12월 31일로 종료되는 보고기간의 재무제표를 재작성하였습니다.",
+      "core_adt_matter": "매출 수익인식의 기간귀속",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001739",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제15기\n(전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001739",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제14기\n(전전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 발생사실",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

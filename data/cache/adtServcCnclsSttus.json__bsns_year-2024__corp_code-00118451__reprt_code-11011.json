@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제65기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표 검토,\n개별 재무제표에 대한 감사,\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145",
+      "adt_cntrct_dtls_time": "1,250",
+      "real_exc_dtls_mendng": "145",
+      "real_exc_dtls_time": "1,448",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제64기(전기)",
+      "adtor": "광교회계법인",
+      "cn": "반기 재무제표 검토,\n\n개별 재무제표에 대한 감사,\n\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "70",
+      "real_exc_dtls_time": "1,091",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "광교회계법인",
+      "cn": "반기 재무제표 검토,\n\n개별 재무제표에 대한 감사,\n\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70",
+      "adt_cntrct_dtls_time": "730",
+      "real_exc_dtls_mendng": "70",
+      "real_exc_dtls_time": "1,076",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

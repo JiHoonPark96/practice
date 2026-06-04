@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000343",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "bsns_year": "제58기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출의 수익인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000343",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래의 발생사실과 표시",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000343",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "bsns_year": "제56기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재화판매 수익인식 발생사실",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

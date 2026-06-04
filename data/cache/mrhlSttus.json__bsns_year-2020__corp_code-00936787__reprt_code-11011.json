@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001112",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "9,710",
+      "shrholdr_tot_co": "9,714",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "12,477,064",
+      "stock_tot_co": "31,564,150",
+      "hold_stock_rate": "39.53%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

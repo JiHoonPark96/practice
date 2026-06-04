@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "보통주",
+      "nm": "주식회사 아이티센",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "16,255,846",
+      "bsis_posesn_stock_qota_rt": "23.96",
+      "trmend_posesn_stock_co": "27,349,197",
+      "trmend_posesn_stock_qota_rt": "22.59",
+      "rm": "- 유상증자 신주인수권 청약 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "보통주",
+      "nm": "권창완",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "33,728",
+      "trmend_posesn_stock_qota_rt": "0.03",
+      "rm": "- 우리사주 기간만료 인출\n- 유상증자 신주인수권 청약",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "16,255,846",
+      "bsis_posesn_stock_qota_rt": "23.96",
+      "trmend_posesn_stock_co": "27,382,925",
+      "trmend_posesn_stock_qota_rt": "22.62",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000799",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "se": "소액주주",
+      "shrholdr_co": "27,440",
+      "shrholdr_tot_co": "27,455",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "12,512,793",
+      "stock_tot_co": "20,323,614",
+      "hold_stock_rate": "61.57%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

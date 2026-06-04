@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001172",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "drctr_co": "13",
+      "otcmp_drctr_co": "9",
+      "apnt": "4",
+      "rlsofc": "0",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

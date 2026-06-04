@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001460",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "stock_knd": "보통주",
+      "nm": "하만규",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "318,524",
+      "bsis_posesn_stock_qota_rt": "2.82",
+      "trmend_posesn_stock_co": "318,524",
+      "trmend_posesn_stock_qota_rt": "2.82",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001460",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "stock_knd": "보통주",
+      "nm": "하만우",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "239,682",
+      "bsis_posesn_stock_qota_rt": "2.12",
+      "trmend_posesn_stock_co": "239,682",
+      "trmend_posesn_stock_qota_rt": "2.12",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001460",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "stock_knd": "보통주",
+      "nm": "한국제강(주)",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "5,885,551",
+      "bsis_posesn_stock_qota_rt": "52.04",
+      "trmend_posesn_stock_co": "5,885,551",
+      "trmend_posesn_stock_qota_rt": "52.04",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001460",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,443,757",
+      "bsis_posesn_stock_qota_rt": "56.98",
+      "trmend_posesn_stock_co": "6,443,757",
+      "trmend_posesn_stock_qota_rt": "56.98",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001460",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

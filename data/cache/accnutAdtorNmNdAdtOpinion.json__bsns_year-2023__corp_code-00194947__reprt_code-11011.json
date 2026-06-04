@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001344",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제34기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "리스부채\n측정의\n적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001344",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제33기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "리스부채\n측정의\n적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001344",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제32기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "○ 기타사항\n - 회사의 2020년 12월 31일로 종료되는 보고기간의 재무제표는 타감사인이 \n   대한민국의 회계감사기준에 따라 감사하였으며, 이 감사인의 2021년 3월\n    23일자 감사보고서에는 적정의견이 표명.",
+      "core_adt_matter": "리스부채\n측정의\n적정성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250327001293",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "bsns_year": "제51기(당기)",
+      "adtor": "현대회계법인",
+      "cn": "연간재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,722",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,890",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001293",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연간재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100",
+      "adt_cntrct_dtls_time": "1,189",
+      "real_exc_dtls_mendng": "100",
+      "real_exc_dtls_time": "1,192",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001293",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연간재무제표\n감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100",
+      "adt_cntrct_dtls_time": "1,177",
+      "real_exc_dtls_mendng": "100",
+      "real_exc_dtls_time": "1,190",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

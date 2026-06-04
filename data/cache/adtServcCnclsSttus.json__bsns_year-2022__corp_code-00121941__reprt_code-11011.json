@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001258",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "bsns_year": "제69기(당기)",
+      "adtor": "성현회계법인",
+      "cn": "분반기 재무제표, 개별/연결재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "920",
+      "adt_cntrct_dtls_time": "7,720",
+      "real_exc_dtls_mendng": "920",
+      "real_exc_dtls_time": "7,636",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001258",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "bsns_year": "제68기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분반기 재무제표, 개별/연결재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "680",
+      "adt_cntrct_dtls_time": "7,300",
+      "real_exc_dtls_mendng": "680",
+      "real_exc_dtls_time": "6,804",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001258",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분반기 재무제표, 개별/연결재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "650",
+      "adt_cntrct_dtls_time": "7,000",
+      "real_exc_dtls_mendng": "650",
+      "real_exc_dtls_time": "7,102",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

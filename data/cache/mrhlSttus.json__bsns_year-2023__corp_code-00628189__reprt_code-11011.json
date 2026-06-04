@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001848",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "se": "소액주주",
+      "shrholdr_co": "138,989",
+      "shrholdr_tot_co": "139,002",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "42,892,030",
+      "stock_tot_co": "115,505,985",
+      "hold_stock_rate": "37.07%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

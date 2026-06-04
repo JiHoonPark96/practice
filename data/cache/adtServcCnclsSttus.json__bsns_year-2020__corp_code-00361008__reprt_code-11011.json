@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000571",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제22기",
+      "adtor": "안진회계법인",
+      "cn": "- 중간기간 재무제표 검토\n- 기말감사(개별재무제표/연결재무제표 감사)\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "640백만원",
+      "adt_cntrct_dtls_time": "4,637 시간",
+      "real_exc_dtls_mendng": "640백만원",
+      "real_exc_dtls_time": "5,452시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000571",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제21기",
+      "adtor": "한영회계법인",
+      "cn": "- 중간기간 재무제표 검토\n- 기말감사(개별재무제표/연결재무제표 감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280백만원",
+      "adt_cntrct_dtls_time": "1,900 시간\n1,500 시간",
+      "real_exc_dtls_mendng": "280백만원",
+      "real_exc_dtls_time": "1,503 시간\n1,937 시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000571",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제20기",
+      "adtor": "한영회계법인",
+      "cn": "- 중간기간 재무제표 검토\n- 기말감사(개별재무제표/연결재무제표 감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310백만원",
+      "adt_cntrct_dtls_time": "2,475 시간\n1,400 시간",
+      "real_exc_dtls_mendng": "310백만원",
+      "real_exc_dtls_time": "1,870 시간\n1,905 시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

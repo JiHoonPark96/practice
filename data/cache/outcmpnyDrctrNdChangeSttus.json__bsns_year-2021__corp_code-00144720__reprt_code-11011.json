@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001039",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "drctr_co": "2",
+      "otcmp_drctr_co": "1",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

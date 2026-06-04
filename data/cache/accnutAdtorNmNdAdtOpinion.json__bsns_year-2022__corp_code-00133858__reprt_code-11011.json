@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230308000717",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제57기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출의 기간귀속\n금융상품의 분류 및 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230308000717",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제56기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출의 기간귀속\n금융상품의 분류 및 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230308000717",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제55기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출의 기간귀속\n금융상품의 분류 및 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

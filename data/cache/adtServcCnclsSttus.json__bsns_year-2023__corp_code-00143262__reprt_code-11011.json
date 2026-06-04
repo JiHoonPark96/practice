@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001452",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제49기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "-별도 및 연결 분반기 재무제표에 대한 검토\n-별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "138백만원",
+      "adt_cntrct_dtls_time": "1,432",
+      "real_exc_dtls_mendng": "138백만원",
+      "real_exc_dtls_time": "1,293",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001452",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제48기(전기)",
+      "adtor": "신우회계법인",
+      "cn": "-별도 및 연결 분반기 재무제표에 대한 검토\n-별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,432",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,293",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001452",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "신우회계법인",
+      "cn": "-별도 및 연결 분반기 재무제표에 대한 검토\n-별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "98백만원",
+      "adt_cntrct_dtls_time": "1,205",
+      "real_exc_dtls_mendng": "98백만원",
+      "real_exc_dtls_time": "1,210",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

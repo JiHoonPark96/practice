@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "se": "소액주주",
+      "shrholdr_co": "6,028",
+      "shrholdr_tot_co": "6,056",
+      "shrholdr_rate": "99.54%",
+      "hold_stock_co": "3,127,638",
+      "stock_tot_co": "11,400,000",
+      "hold_stock_rate": "27.44%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

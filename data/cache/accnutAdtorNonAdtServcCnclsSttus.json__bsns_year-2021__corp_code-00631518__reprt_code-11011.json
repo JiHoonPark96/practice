@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 15기\n(2021년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 15기\n(2021년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제14기\n(2020년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제14기\n(2020년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제13기 \n(2019년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제13기 \n(2019년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

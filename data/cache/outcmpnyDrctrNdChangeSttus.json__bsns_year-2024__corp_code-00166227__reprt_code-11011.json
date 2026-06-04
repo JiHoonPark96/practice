@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000314",
+      "corp_cls": "Y",
+      "corp_code": "00166227",
+      "corp_name": "화승인더스트리",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "3",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

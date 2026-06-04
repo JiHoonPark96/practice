@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001329",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토, 중간, \n연말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "285백만원",
+      "adt_cntrct_dtls_time": "2,371시간",
+      "real_exc_dtls_mendng": "285백만원",
+      "real_exc_dtls_time": "2,572시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001329",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토, 중간, \n연말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "1,999시간",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "2,214시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001329",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토, 중간, \n연말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "1,500시간",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,414시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

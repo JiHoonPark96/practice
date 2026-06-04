@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001409",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제37기 연간",
+      "adtor": "삼일회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "당기손익-공정가치 금융자산의 평가 및 회수의 불확실성",
+      "core_adt_matter": "공정가치 수준3으로 분류된 파생상품 및 파생결합증권에 대한 공정가치 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001409",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제36기 연간",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "영업환경의 불확실성\n  (COVID-19),\n  당기손익-공정가치 금융자산의 평가 및 회수의 불확실성",
+      "core_adt_matter": "공정가치 수준3으로 분류되는 파생상품 및 \n파생결합증권에 대한 공정가치 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001409",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제35기 연간",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "영업환경의 불확실성\n (COVID-19),\n 당기손익-공정가치 금융자산의 평가 및 회수의 불확실성",
+      "core_adt_matter": "공정가치 수준3으로 분류되는 장외파생상품 및 파생결합증권에 대한 공정가치평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

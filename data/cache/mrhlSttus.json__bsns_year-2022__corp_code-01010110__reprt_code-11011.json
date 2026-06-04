@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "se": "소액주주",
+      "shrholdr_co": "24,912",
+      "shrholdr_tot_co": "24,927",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "6,816,565",
+      "stock_tot_co": "16,625,945",
+      "hold_stock_rate": "41.00%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

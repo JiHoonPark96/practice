@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230222002549",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "se": "소액주주",
+      "shrholdr_co": "119,105",
+      "shrholdr_tot_co": "119,112",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "12,765,551",
+      "stock_tot_co": "23,667,107",
+      "hold_stock_rate": "53.94%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

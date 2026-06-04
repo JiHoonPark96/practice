@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000918",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "stock_knd": "보통주",
+      "nm": "(주)LS",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "14,240,000",
+      "bsis_posesn_stock_qota_rt": "47.47",
+      "trmend_posesn_stock_co": "14,539,000",
+      "trmend_posesn_stock_qota_rt": "48.46",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000918",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "stock_knd": "보통주",
+      "nm": "LS ELECTRIC(주)",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "643,954",
+      "bsis_posesn_stock_qota_rt": "2.15",
+      "trmend_posesn_stock_co": "298,739",
+      "trmend_posesn_stock_qota_rt": "0.99",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000918",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "14,883,967",
+      "bsis_posesn_stock_qota_rt": "49.62",
+      "trmend_posesn_stock_co": "14,837,739",
+      "trmend_posesn_stock_qota_rt": "49.45",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000918",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

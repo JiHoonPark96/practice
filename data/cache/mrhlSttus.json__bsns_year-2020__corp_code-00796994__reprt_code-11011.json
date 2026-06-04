@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001184",
+      "corp_cls": "Y",
+      "corp_code": "00796994",
+      "corp_name": "조선선재",
+      "se": "소액주주",
+      "shrholdr_co": "2,940",
+      "shrholdr_tot_co": "2,948",
+      "shrholdr_rate": "99.74%",
+      "hold_stock_co": "241,670",
+      "stock_tot_co": "1,043,934",
+      "hold_stock_rate": "23.15%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

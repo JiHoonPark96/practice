@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004891",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "bsns_year": "제46기(당기)",
+      "cntrct_cncls_de": "2018년04월30일",
+      "servc_cn": " - 법인세 세무조정 용역계약서",
+      "servc_exc_pd": "2018.04.01~2019.03.31",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004891",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2017년04월28일",
+      "servc_cn": " - 법인세 세무조정 용역계약서",
+      "servc_exc_pd": "2017.04.01~2018.03.31",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004891",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "bsns_year": "제44기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

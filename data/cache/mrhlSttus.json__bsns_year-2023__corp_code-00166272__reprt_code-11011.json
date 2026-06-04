@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001210",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "se": "소액주주",
+      "shrholdr_co": "8,713",
+      "shrholdr_tot_co": "8,721",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "18,896,953",
+      "stock_tot_co": "50,051,252",
+      "hold_stock_rate": "37.80%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

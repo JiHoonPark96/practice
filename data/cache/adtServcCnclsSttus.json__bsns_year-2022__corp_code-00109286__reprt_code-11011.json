@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000832",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제76기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "-분ㆍ반기 재무제표 검토\n-별도 및 연결 재무제표에 대한 감사\n-내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "470,000",
+      "adt_cntrct_dtls_time": "3,689",
+      "real_exc_dtls_mendng": "418,000",
+      "real_exc_dtls_time": "3,701",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000832",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제75기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "-분ㆍ반기 재무제표 검토\n-별도 및 연결 재무제표에 대한 감사\n-내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "445,000",
+      "adt_cntrct_dtls_time": "3,557",
+      "real_exc_dtls_mendng": "445,000",
+      "real_exc_dtls_time": "3,133",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000832",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제74기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "-분ㆍ반기 재무제표 검토\n-별도 및 연결 재무제표에 대한 감사\n-내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "428,000",
+      "adt_cntrct_dtls_time": "3,426",
+      "real_exc_dtls_mendng": "428,000",
+      "real_exc_dtls_time": "3,015",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

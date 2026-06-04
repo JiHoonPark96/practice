@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001031",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "4",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

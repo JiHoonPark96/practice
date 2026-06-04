@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000627",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "10,915",
+      "shrholdr_tot_co": "10,920",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "17,732,641",
+      "stock_tot_co": "44,964,153",
+      "hold_stock_rate": "39.44%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

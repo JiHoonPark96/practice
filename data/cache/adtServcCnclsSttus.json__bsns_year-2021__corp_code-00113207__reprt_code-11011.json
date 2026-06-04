@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322001052",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "bsns_year": "제67기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440",
+      "adt_cntrct_dtls_time": "4,750",
+      "real_exc_dtls_mendng": "440",
+      "real_exc_dtls_time": "5,152",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322001052",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "bsns_year": "제66기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450",
+      "adt_cntrct_dtls_time": "4,900",
+      "real_exc_dtls_mendng": "450",
+      "real_exc_dtls_time": "5,152",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322001052",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340",
+      "adt_cntrct_dtls_time": "4,220",
+      "real_exc_dtls_mendng": "340",
+      "real_exc_dtls_time": "4,065",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

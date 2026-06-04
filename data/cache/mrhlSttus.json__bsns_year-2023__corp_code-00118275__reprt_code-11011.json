@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001500",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "se": "소액주주",
+      "shrholdr_co": "13,251",
+      "shrholdr_tot_co": "13,259",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "14,000,062",
+      "stock_tot_co": "28,300,000",
+      "hold_stock_rate": "49.5%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

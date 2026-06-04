@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001236",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "bsns_year": "제78기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결재무제표의 주석사항 42번의 주의",
+      "core_adt_matter": "이연법인세의 실현가능성 평가\n연결범위의 적정성 평가\n투자부동산 분류의 적정성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001236",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "bsns_year": "제77기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속, 관계기업 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001236",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "bsns_year": "제76기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

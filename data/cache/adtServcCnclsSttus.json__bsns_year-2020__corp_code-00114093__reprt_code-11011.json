@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000522",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기재무제표검토,기말감사,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000,000",
+      "adt_cntrct_dtls_time": "990",
+      "real_exc_dtls_mendng": "85,000,000",
+      "real_exc_dtls_time": "987",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000522",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기재무제표검토,기말감사,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000,000",
+      "adt_cntrct_dtls_time": "985",
+      "real_exc_dtls_mendng": "85,000,000",
+      "real_exc_dtls_time": "983",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000522",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기재무제표검토,기말감사,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "79,000,000",
+      "adt_cntrct_dtls_time": "980",
+      "real_exc_dtls_mendng": "79,000,000",
+      "real_exc_dtls_time": "981",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

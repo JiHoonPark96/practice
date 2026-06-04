@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230328000853",
+      "corp_cls": "Y",
+      "corp_code": "00157399",
+      "corp_name": "한솔테크닉스",
+      "se": "소액주주",
+      "shrholdr_co": "27,597",
+      "shrholdr_tot_co": "27,601",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "24,580,513",
+      "stock_tot_co": "32,109,878",
+      "hold_stock_rate": "76.55%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

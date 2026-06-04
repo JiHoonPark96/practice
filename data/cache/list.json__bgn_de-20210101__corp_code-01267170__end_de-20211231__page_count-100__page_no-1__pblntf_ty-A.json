@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "stock_code": "285130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001495",
+      "flr_nm": "SK케미칼",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "stock_code": "285130",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210813000718",
+      "flr_nm": "SK케미칼",
+      "rcept_dt": "20210813",
+      "rm": ""
+    },
+    {
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "stock_code": "285130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210514001278",
+      "flr_nm": "SK케미칼",
+      "rcept_dt": "20210514",
+      "rm": ""
+    },
+    {
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "stock_code": "285130",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210428000711",
+      "flr_nm": "SK케미칼",
+      "rcept_dt": "20210428",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "stock_code": "285130",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210323000929",
+      "flr_nm": "SK케미칼",
+      "rcept_dt": "20210323",
+      "rm": "정연"
+    }
+  ]
+}

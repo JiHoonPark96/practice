@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003485",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "bsns_year": "제65기(당기)",
+      "cntrct_cncls_de": "2020.03",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2019.1-2019.12",
+      "servc_mendng": "14,190",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003485",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "bsns_year": "제64기(전기)",
+      "cntrct_cncls_de": "2019.03",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2018.1-2018.12",
+      "servc_mendng": "14,310",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003485",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "bsns_year": "제63기(전전기)",
+      "cntrct_cncls_de": "2018.03",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2017.1-2017.12",
+      "servc_mendng": "11,919",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

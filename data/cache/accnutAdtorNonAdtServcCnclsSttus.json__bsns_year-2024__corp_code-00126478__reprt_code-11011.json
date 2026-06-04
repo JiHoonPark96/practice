@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제51기(당기)",
+      "cntrct_cncls_de": "2024.03.18",
+      "servc_cn": "ESG 공시 준비 자문",
+      "servc_exc_pd": "2024.03월~2024.12월",
+      "servc_mendng": "780",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제51기(당기)",
+      "cntrct_cncls_de": "2024.05.10",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2024.05월~2025.04월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제51기(당기)",
+      "cntrct_cncls_de": "2024.07.12",
+      "servc_cn": "이전가격 사전승인, \n한국 및 중국 간 상호합의 지원",
+      "servc_exc_pd": "2024.07월~APA&MAP 체결시",
+      "servc_mendng": "550",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제50기(전기)",
+      "cntrct_cncls_de": "2023.05.26",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2023.05월~2024.04월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제49기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

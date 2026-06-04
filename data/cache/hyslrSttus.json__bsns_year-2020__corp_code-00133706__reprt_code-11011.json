@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000861",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "유암코워크아웃제일차기업재무안정 사모투자전문회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "21,180,047",
+      "bsis_posesn_stock_qota_rt": "71.64",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000861",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "해성산업(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "29,204,504",
+      "trmend_posesn_stock_qota_rt": "50.73",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000861",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "21,180,047",
+      "bsis_posesn_stock_qota_rt": "71.64",
+      "trmend_posesn_stock_co": "29,204,504",
+      "trmend_posesn_stock_qota_rt": "50.73",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000861",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

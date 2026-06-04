@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004677",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "bsns_year": "제42기(당기)",
+      "cntrct_cncls_de": "'18.12.12",
+      "servc_cn": "세무 자문 용역",
+      "servc_exc_pd": "'18.12 ~        ",
+      "servc_mendng": "40백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004677",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "bsns_year": "제41기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004677",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "bsns_year": "제40기(전전기)",
+      "cntrct_cncls_de": "'16. 5. 3",
+      "servc_cn": "재무 자문 용역",
+      "servc_exc_pd": "'16.05 ~ '16.05",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

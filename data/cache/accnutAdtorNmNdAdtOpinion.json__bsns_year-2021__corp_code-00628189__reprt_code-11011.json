@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001265",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제15기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "계약체결 증분원가의 인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001265",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제14기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 매각예정자산손상차손\n회계처리 과소 (주석 34)",
+      "core_adt_matter": "계약체결 증분원가의 인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001265",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "계약체결 증분원가의 인식",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

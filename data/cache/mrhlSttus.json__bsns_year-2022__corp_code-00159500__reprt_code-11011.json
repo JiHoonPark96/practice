@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001234",
+      "corp_cls": "Y",
+      "corp_code": "00159500",
+      "corp_name": "한국종합기술",
+      "se": "소액주주",
+      "shrholdr_co": "10,692",
+      "shrholdr_tot_co": "10,699",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "3,774,705",
+      "stock_tot_co": "10,950,000",
+      "hold_stock_rate": "34.47%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

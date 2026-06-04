@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002873",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제49기(당기)",
+      "cntrct_cncls_de": "'19.4.9",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "'19.4.9 ~ '20.3.31",
+      "servc_mendng": "29,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002873",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제48기(전기)",
+      "cntrct_cncls_de": "'18.4.9",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'18.4.9 ~ '19.3.31",
+      "servc_mendng": "29,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002873",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제47기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

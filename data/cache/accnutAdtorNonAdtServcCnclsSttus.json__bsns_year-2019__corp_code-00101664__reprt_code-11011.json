@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002979",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제33기(당기)",
+      "cntrct_cncls_de": "2020.02.20",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.02.20",
+      "servc_mendng": "9",
+      "rm": "한울회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002979",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제32기(전기)",
+      "cntrct_cncls_de": "2019.02.21",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.02.21",
+      "servc_mendng": "9",
+      "rm": "한울회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002979",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "2018.02.22",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.02.22",
+      "servc_mendng": "9",
+      "rm": "한울회계법인",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000926",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 종속기업투자주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000926",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 현금흐름창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000926",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 대여금 등 기타채권의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000926",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000926",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 대여금 등 기타채권의 회수가능성\n 나. SEMARANG 및 BATANG 종속기업 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000926",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

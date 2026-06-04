@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001408",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "bsns_year": "제74기(당기)",
+      "adtor": "예지회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390,000천원(연간 총 보수)",
+      "adt_cntrct_dtls_time": "3,853",
+      "real_exc_dtls_mendng": "390,000천원(연간 총 보수)",
+      "real_exc_dtls_time": "3,987",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001408",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "bsns_year": "제73기(전기)",
+      "adtor": "예교지성회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "379,000천원(연간 총 보수)",
+      "adt_cntrct_dtls_time": "3,793",
+      "real_exc_dtls_mendng": "379,000천원(연간 총 보수)",
+      "real_exc_dtls_time": "3,781",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001408",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "bsns_year": "제72기(전전기)",
+      "adtor": "예교지성회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "379,000천원(연간 총 보수)",
+      "adt_cntrct_dtls_time": "3,793",
+      "real_exc_dtls_mendng": "379,000천원(연간 총 보수)",
+      "real_exc_dtls_time": "3,728",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

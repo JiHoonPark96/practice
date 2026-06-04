@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220225006914",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 60 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220225006914",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 59 기",
+      "cntrct_cncls_de": "2019.02",
+      "servc_cn": "- 이전가격보고서",
+      "servc_exc_pd": "2019.02.19 ~ 2019.03.31",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220225006914",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 58 기",
+      "cntrct_cncls_de": "2018.02",
+      "servc_cn": "- 이전가격보고서 ",
+      "servc_exc_pd": "2018.02.26 ~ 2018.04.27",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220225006914",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 58 기",
+      "cntrct_cncls_de": "2018.03",
+      "servc_cn": "- 정상가격 산정에 대한 용역",
+      "servc_exc_pd": "2018.03.08 ~ 2018.09.12",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

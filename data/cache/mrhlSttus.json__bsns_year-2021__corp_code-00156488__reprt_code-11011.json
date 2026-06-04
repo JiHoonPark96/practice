@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001079",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "se": "소액주주",
+      "shrholdr_co": "8,494",
+      "shrholdr_tot_co": "8,508",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "3,623,485",
+      "stock_tot_co": "7,837,615",
+      "hold_stock_rate": "46.23%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

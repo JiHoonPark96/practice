@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000937",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제61기(당기)",
+      "adtor": "광교회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "234백만원",
+      "adt_cntrct_dtls_time": "1,750",
+      "real_exc_dtls_mendng": "234백만원",
+      "real_exc_dtls_time": "1,577",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000937",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제60기(전기)",
+      "adtor": "광교회계법인",
+      "cn": "반기검토, 중간감사, 기말감사,",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "199백만원",
+      "adt_cntrct_dtls_time": "1,462",
+      "real_exc_dtls_mendng": "209백만원",
+      "real_exc_dtls_time": "1,543",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000937",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토, 중간감사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165백만원",
+      "adt_cntrct_dtls_time": "1,102",
+      "real_exc_dtls_mendng": "165백만원",
+      "real_exc_dtls_time": "1,102",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

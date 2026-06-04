@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000952",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제23기(당기)",
+      "cntrct_cncls_de": "2021.09\n2021.04",
+      "servc_cn": "사채이행 AUP外\n사채이행 AUP外",
+      "servc_exc_pd": "1개월\n1개월",
+      "servc_mendng": "3\n3",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000952",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제22기(전기)",
+      "cntrct_cncls_de": "2020.09",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000952",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제21기(전전기)",
+      "cntrct_cncls_de": "2019.08\n2019.06\n2019.04",
+      "servc_cn": "사채이행 AUP外\n이전가격 연구보고 外사채이행 AUP外",
+      "servc_exc_pd": "1개월\n1개월\n1개월",
+      "servc_mendng": "1\n30\n1",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

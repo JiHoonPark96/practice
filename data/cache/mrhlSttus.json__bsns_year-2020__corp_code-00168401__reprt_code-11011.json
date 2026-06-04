@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201229000327",
+      "corp_cls": "Y",
+      "corp_code": "00168401",
+      "corp_name": "금비",
+      "se": "소액주주",
+      "shrholdr_co": "-",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "-",
+      "hold_stock_co": "-",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "-",
+      "stlm_dt": "2020-09-30"
+    }
+  ]
+}

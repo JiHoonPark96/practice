@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002174",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제50기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "결산(중간)감사 및검토용역",
+      "mendng": "100",
+      "tot_reqre_time": "779시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002174",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제49기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "결산(중간)감사 및검토용역",
+      "mendng": "63",
+      "tot_reqre_time": "795시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002174",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "결산(중간)감사 및검토용역",
+      "mendng": "60",
+      "tot_reqre_time": "677시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

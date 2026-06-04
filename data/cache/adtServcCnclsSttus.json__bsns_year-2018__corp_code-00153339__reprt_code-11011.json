@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004123",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표 검토\n반기연결재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "140,000 천원",
+      "tot_reqre_time": "2,871시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004123",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제37기 (전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기재무제표 검토\n반기연결재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "130,000 천원",
+      "tot_reqre_time": "1,166시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004123",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제36기 (전전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기재무제표 검토\n반기연결재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "130,000 천원",
+      "tot_reqre_time": "1,201시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

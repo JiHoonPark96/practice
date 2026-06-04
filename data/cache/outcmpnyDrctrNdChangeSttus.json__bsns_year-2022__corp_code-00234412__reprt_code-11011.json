@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001079",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

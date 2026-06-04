@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004121",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "bsns_year": "제14기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "전자재료사업 부문 현금창출단위 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004121",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "bsns_year": "제13기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004121",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

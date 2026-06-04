@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004481",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제18기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004481",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제17기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004481",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

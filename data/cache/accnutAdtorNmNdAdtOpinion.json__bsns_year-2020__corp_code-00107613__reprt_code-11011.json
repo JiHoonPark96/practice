@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제49기",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- ㈜이수엑사보드 및 ISU Petasys Asia, Ltd.의 현금창출단위 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제48기 연간",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "종속기업투자주식의 손상평가 및 관련 \n지분법손실",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제47기 연간",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

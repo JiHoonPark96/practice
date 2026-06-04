@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제24기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가충당금 및 손실부담계약충당\n - 금액 산정방법 적정성 평가\n - 전망원가 추정자료 및 합리성 검토 등",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제23기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석 3. 중요한 회계추정\n          (코로나-19의 영향)",
+      "core_adt_matter": "재고자산평가충당금\n - 금액 산정방법 적정성 평가\n - 전망원가 추정자료 및 합리성 검토 등",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석 3. 중요한 회계추정\n          (코로나-19의 영향)\n주석 36. 계속기업 가정\n           (코로나-19에 따른 수주 불확실성 등)",
+      "core_adt_matter": "영업자산 손상",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

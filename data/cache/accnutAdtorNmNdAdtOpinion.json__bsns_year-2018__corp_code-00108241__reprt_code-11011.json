@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002205",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제 55 기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002205",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제 54 기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002205",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제 53 기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311000946",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "bsns_year": "제33기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연간/연결감사, 반기검토, 내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270",
+      "adt_cntrct_dtls_time": "2,350",
+      "real_exc_dtls_mendng": "270",
+      "real_exc_dtls_time": "2,399",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000946",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "bsns_year": "제32기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "연간/연결감사, 반기검토, 내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "245",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "245",
+      "real_exc_dtls_time": "2,184",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000946",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "연간/연결감사, 반기검토, 내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "240",
+      "real_exc_dtls_time": "2,401",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

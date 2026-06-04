@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001500",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출과 관련된\n수익 인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001500",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출과 관련된\n수익 인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001500",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익 인식의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001500",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익 인식의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001500",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식\n손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001500",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속회사 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "bsns_year": "제21기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "bsns_year": "제20기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "bsns_year": "제19기(전전기)",
+      "cntrct_cncls_de": "2019.07.01",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2019.07.01~2020.03.31",
+      "servc_mendng": "17,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

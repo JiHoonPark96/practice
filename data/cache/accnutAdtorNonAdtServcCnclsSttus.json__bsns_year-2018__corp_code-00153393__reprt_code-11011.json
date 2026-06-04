@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190417000571",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 58 기",
+      "cntrct_cncls_de": "2018.02\n2018.03",
+      "servc_cn": "- 이전가격보고서\n- 정상가격 산정에 대한 용역",
+      "servc_exc_pd": "2018.02.26 ~ 2018.04.27\n2018.03.08 ~ 2018.09.12",
+      "servc_mendng": "20\n30",
+      "rm": "-\n-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190417000571",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 57 기",
+      "cntrct_cncls_de": "2017.02\n2017.07",
+      "servc_cn": "- 이전가격보고서\n- 재무자문계약 체결",
+      "servc_exc_pd": "2017.02.23 ~ 2017.12.03\n2017.07.17 ~ 2017.09.11",
+      "servc_mendng": "44\n329",
+      "rm": "-\n-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190417000571",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 56 기",
+      "cntrct_cncls_de": "2016.08",
+      "servc_cn": "- 종합부동산세 환급 청구",
+      "servc_exc_pd": "2016.08.30 ~ 2016.11.07",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

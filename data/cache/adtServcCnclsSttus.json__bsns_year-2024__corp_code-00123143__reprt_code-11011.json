@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001237",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "bsns_year": "제61기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "620",
+      "adt_cntrct_dtls_time": "4,369",
+      "real_exc_dtls_mendng": "620",
+      "real_exc_dtls_time": "4,414",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001237",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "bsns_year": "제60기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610",
+      "adt_cntrct_dtls_time": "4,446",
+      "real_exc_dtls_mendng": "610",
+      "real_exc_dtls_time": "4,671",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001237",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610",
+      "adt_cntrct_dtls_time": "4,449",
+      "real_exc_dtls_mendng": "610",
+      "real_exc_dtls_time": "4,750",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

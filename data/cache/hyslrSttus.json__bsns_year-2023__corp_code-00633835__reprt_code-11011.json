@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "보통주",
+      "nm": "에코프라임\n마린퍼시픽 유한회사",
+      "relate": "본 인",
+      "bsis_posesn_stock_co": "55,672,910",
+      "bsis_posesn_stock_qota_rt": "66.85",
+      "trmend_posesn_stock_co": "55,672,910",
+      "trmend_posesn_stock_qota_rt": "66.85",
+      "rm": "최대주주 변경을 수반하는\n주식매매거래 종결에 따른\n최대주주 변경",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "보통주",
+      "nm": "홍문기",
+      "relate": "임 원",
+      "bsis_posesn_stock_co": "5,700",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "5,700",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "보통주",
+      "nm": "유상철",
+      "relate": "임 원",
+      "bsis_posesn_stock_co": "5,600",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "5,600",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "55,684,210",
+      "bsis_posesn_stock_qota_rt": "66.87",
+      "trmend_posesn_stock_co": "55,684,210",
+      "trmend_posesn_stock_qota_rt": "66.87",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

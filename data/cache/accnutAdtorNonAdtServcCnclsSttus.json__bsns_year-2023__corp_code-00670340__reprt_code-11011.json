@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000727",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "2023.08.22",
+      "servc_cn": "주주명부 대사관련 합의된 절차 수행업무",
+      "servc_exc_pd": "2023.08.22~2023.08.31",
+      "servc_mendng": "-",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000727",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "2022.03.07",
+      "servc_cn": "취득세 경정청구용역",
+      "servc_exc_pd": "2022.03.07~2022.12.16",
+      "servc_mendng": "308",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000727",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "2021.09.30",
+      "servc_cn": "국제거래정보통합보고서 작성",
+      "servc_exc_pd": "2021.09.30~2021.12.31",
+      "servc_mendng": "68",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000727",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "2021.06.30",
+      "servc_cn": "법인세세무조정용역",
+      "servc_exc_pd": "2021.06.30~2022.04.30",
+      "servc_mendng": "10",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

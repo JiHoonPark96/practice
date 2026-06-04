@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000476",
+      "corp_cls": "Y",
+      "corp_code": "00172228",
+      "corp_name": "엔케이",
+      "bsns_year": "제37기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 사업부별 손상평가\n- K-IFRS 제1115호 고객과의 계약에서 생기는 수익",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000476",
+      "corp_cls": "Y",
+      "corp_code": "00172228",
+      "corp_name": "엔케이",
+      "bsns_year": "제36기(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 사업부별 손상평가\n- 종속기업, 관계기업 및  공동기업 투자주식 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000476",
+      "corp_cls": "Y",
+      "corp_code": "00172228",
+      "corp_name": "엔케이",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 영업권 손상평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

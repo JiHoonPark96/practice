@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190626000411",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "se": "소액주주",
+      "shrholdr_co": "13,363",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "58,628,779",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "82.52%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

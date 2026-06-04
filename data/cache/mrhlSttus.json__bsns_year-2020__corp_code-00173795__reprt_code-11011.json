@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323001129",
+      "corp_cls": "Y",
+      "corp_code": "00173795",
+      "corp_name": "신흥",
+      "se": "소액주주",
+      "shrholdr_co": "2,622",
+      "shrholdr_tot_co": "2,643",
+      "shrholdr_rate": "99.21%",
+      "hold_stock_co": "1,926,015",
+      "stock_tot_co": "9,600,000",
+      "hold_stock_rate": "20.06%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

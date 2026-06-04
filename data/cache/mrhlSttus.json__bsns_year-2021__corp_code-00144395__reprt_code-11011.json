@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000623",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "se": "소액주주",
+      "shrholdr_co": "26,982",
+      "shrholdr_tot_co": "27,018",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "26,207,143",
+      "stock_tot_co": "99,700,000",
+      "hold_stock_rate": "26.29%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

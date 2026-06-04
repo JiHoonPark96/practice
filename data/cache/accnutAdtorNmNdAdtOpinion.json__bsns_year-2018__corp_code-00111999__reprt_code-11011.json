@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004002",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제58기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004002",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제57기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004002",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

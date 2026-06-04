@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001273",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜에이프로젠",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "356,106,055",
+      "bsis_posesn_stock_qota_rt": "60.79",
+      "trmend_posesn_stock_co": "357,954,706",
+      "trmend_posesn_stock_qota_rt": "53.77",
+      "rm": "주식매도에 따른 지분율 감소",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001273",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "김정출",
+      "relate": "계열회사 임원",
+      "bsis_posesn_stock_co": "218,804",
+      "bsis_posesn_stock_qota_rt": "0.04",
+      "trmend_posesn_stock_co": "218,804",
+      "trmend_posesn_stock_qota_rt": "0.03",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001273",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜지베이스",
+      "relate": "최대주주의 최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "500",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001273",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "356,324,859",
+      "bsis_posesn_stock_qota_rt": "60.83",
+      "trmend_posesn_stock_co": "358,174,010",
+      "trmend_posesn_stock_qota_rt": "53.80",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001273",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

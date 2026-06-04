@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000513",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제28기\n(당기)",
+      "adtor": "선일회계법인",
+      "cn": "- 반기 재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160",
+      "adt_cntrct_dtls_time": "2,100",
+      "real_exc_dtls_mendng": "160",
+      "real_exc_dtls_time": "2,100",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000513",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제27기\n(전기)",
+      "adtor": "도원회계법인",
+      "cn": "- 반기 재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "2,925",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "2,925",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000513",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제26기\n(전전기)",
+      "adtor": "도원회계법인",
+      "cn": "- 반기 재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도의 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "1,500",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "1,500",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

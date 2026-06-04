@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001256",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할 신설",
+      "core_adt_matter": "매출 기간 귀속의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001256",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001256",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

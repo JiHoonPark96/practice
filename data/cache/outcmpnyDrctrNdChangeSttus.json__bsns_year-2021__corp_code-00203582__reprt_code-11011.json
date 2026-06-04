@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001058",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "2",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

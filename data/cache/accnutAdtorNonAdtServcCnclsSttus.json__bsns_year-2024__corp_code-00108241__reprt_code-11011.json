@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000711",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제61기(당기)",
+      "cntrct_cncls_de": "2024년 9월",
+      "servc_cn": "BEPS 용역",
+      "servc_exc_pd": "2024.09~12",
+      "servc_mendng": "29",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000711",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제61기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000711",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제60기(전기)",
+      "cntrct_cncls_de": "2023년 5월",
+      "servc_cn": "APA 자문 용역",
+      "servc_exc_pd": "완료시점",
+      "servc_mendng": "250",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000711",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제60기(전기)",
+      "cntrct_cncls_de": "2023년 7월",
+      "servc_cn": "BEPS 용역",
+      "servc_exc_pd": "2023.09~12",
+      "servc_mendng": "29",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000711",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제59기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000711",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제59기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

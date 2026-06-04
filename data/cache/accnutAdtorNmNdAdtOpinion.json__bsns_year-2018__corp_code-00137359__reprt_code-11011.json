@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230502000014",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제33기 (당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "원재료 매입거래에서\n발생한 부정(횡령)행\n위와 불법행위 미수금",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20230502000014",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제32기 (전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "원재료 매입거래에서\n발생한 부정(횡령)행\n위와 불법행위 미수금",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20230502000014",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제31기 (전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "원재료 매입거래에서\n발생한 부정(횡령)행\n위와 불법행위 미수금",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

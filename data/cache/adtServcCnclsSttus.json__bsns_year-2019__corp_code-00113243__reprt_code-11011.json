@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002496",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "bsns_year": "제69기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 검토",
+      "mendng": "200,000천원(연간 총 보수)",
+      "tot_reqre_time": "3,043",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002496",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "bsns_year": "제68기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 검토",
+      "mendng": "195,000천원(연간 총 보수)",
+      "tot_reqre_time": "2,570",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002496",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 검토",
+      "mendng": "157,000천원(연간 총 보수)",
+      "tot_reqre_time": "2,465",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

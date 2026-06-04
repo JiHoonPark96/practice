@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000650",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제54기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분기검토, 반기검토\n   3분기 감사, 중간감사 \n재고실사, 기말감사, 연결감사",
+      "mendng": "133.0",
+      "tot_reqre_time": "1,353",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000650",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제53기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기검토, 반기검토\n   3분기 감사, 중간감사 \n재고실사, 기말감사, 연결감사",
+      "mendng": "65.0",
+      "tot_reqre_time": "1,209",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000650",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기검토, 반기검토\n   3분기 감사, 중간감사 \n재고실사, 기말감사, 연결감사",
+      "mendng": "61.5",
+      "tot_reqre_time": "996",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

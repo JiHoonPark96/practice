@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001073",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제61기 (당기)",
+      "adtor": "성도이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "있음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001073",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제60기(전기)",
+      "adtor": "이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001073",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제59(전전기)",
+      "adtor": "이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

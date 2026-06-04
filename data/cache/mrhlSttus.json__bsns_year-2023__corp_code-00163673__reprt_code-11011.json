@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000495",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "10,734",
+      "shrholdr_tot_co": "10,738",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "11,206,911",
+      "stock_tot_co": "26,089,504",
+      "hold_stock_rate": "42.96%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

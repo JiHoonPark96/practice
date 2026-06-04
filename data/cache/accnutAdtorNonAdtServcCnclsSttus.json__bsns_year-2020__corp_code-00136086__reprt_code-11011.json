@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001154",
+      "corp_cls": "Y",
+      "corp_code": "00136086",
+      "corp_name": "무림페이퍼",
+      "bsns_year": "제48기\n(당기)",
+      "cntrct_cncls_de": "2020.06.29",
+      "servc_cn": "법인지방소득세 경정청구 \n용역 계약",
+      "servc_exc_pd": "계약체결일부터 환급결정서 \n수령일까지",
+      "servc_mendng": "용역결과에 따라 환급세액의 \n10% 지급",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001154",
+      "corp_cls": "Y",
+      "corp_code": "00136086",
+      "corp_name": "무림페이퍼",
+      "bsns_year": "제47기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001154",
+      "corp_cls": "Y",
+      "corp_code": "00136086",
+      "corp_name": "무림페이퍼",
+      "bsns_year": "제46기\n(전전기)",
+      "cntrct_cncls_de": "2018.10.29",
+      "servc_cn": "법인세 경정청구 용역 계약",
+      "servc_exc_pd": "계약체결일부터 환급결정서 \n수령일까지",
+      "servc_mendng": "용역결과에 따라 환급세액의 \n30% 지급",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

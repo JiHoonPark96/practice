@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000867",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "보통주",
+      "nm": "(주)엑스",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "12,089,810",
+      "bsis_posesn_stock_qota_rt": "9.34",
+      "trmend_posesn_stock_co": "17,056,698",
+      "trmend_posesn_stock_qota_rt": "12.23",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000867",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "보통주",
+      "nm": "(주)남산물산",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "5,181,350",
+      "bsis_posesn_stock_qota_rt": "4.00",
+      "trmend_posesn_stock_co": "10,148,238",
+      "trmend_posesn_stock_qota_rt": "7.28",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000867",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "17,271,160",
+      "bsis_posesn_stock_qota_rt": "13.34",
+      "trmend_posesn_stock_co": "27,204,936",
+      "trmend_posesn_stock_qota_rt": "19.51",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000867",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

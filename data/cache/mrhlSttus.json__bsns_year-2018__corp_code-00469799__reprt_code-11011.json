@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "se": "소액주주",
+      "shrholdr_co": "21,719",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "23,640,734",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "85.02%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제115기(당기)",
+      "cntrct_cncls_de": "2024.05",
+      "servc_cn": "재무 자문용역",
+      "servc_exc_pd": "2024.05",
+      "servc_mendng": "110",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제115기(당기)",
+      "cntrct_cncls_de": "2024.08",
+      "servc_cn": "세무 검토용역",
+      "servc_exc_pd": "2024.08 ~ 2024.12",
+      "servc_mendng": "35",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제115기(당기)",
+      "cntrct_cncls_de": "2024.09",
+      "servc_cn": "재무 자문용역",
+      "servc_exc_pd": "2024.09 ~ 2027.08",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제115기(당기)",
+      "cntrct_cncls_de": "2024.11",
+      "servc_cn": "재무 자문용역",
+      "servc_exc_pd": "2024.11 ~ 2024.12",
+      "servc_mendng": "60",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제114기(전기)",
+      "cntrct_cncls_de": "2023.03",
+      "servc_cn": "세무 검토용역",
+      "servc_exc_pd": "2023.01 ~2023.03",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제114기(전기)",
+      "cntrct_cncls_de": "2023.08",
+      "servc_cn": "세무 검토용역",
+      "servc_exc_pd": "2023.08 ~ 2023.12",
+      "servc_mendng": "36",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제114기(전기)",
+      "cntrct_cncls_de": "2023.11",
+      "servc_cn": "재무 자문용역",
+      "servc_exc_pd": "2023.11 ~ 2023.12",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제113기(전전기)",
+      "cntrct_cncls_de": "2022.10",
+      "servc_cn": "세무 검토용역",
+      "servc_exc_pd": "2022.10 ~ 2022.12",
+      "servc_mendng": "45",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000953",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제113기(전전기)",
+      "cntrct_cncls_de": "2022.10",
+      "servc_cn": "세무 검토용역",
+      "servc_exc_pd": "2022.10 ~ 2022.12",
+      "servc_mendng": "49",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

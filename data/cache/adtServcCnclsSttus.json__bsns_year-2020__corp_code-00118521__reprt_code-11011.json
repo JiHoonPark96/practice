@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000614",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "bsns_year": "제45기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토, 기말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "1,035",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,035",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000614",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "bsns_year": "제44기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기검토, 기말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "38백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "38백만원",
+      "real_exc_dtls_time": "681",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000614",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기검토, 기말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "38백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "38백만원",
+      "real_exc_dtls_time": "587",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

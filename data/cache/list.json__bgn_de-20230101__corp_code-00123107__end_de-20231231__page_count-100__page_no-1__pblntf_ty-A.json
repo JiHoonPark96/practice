@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "stock_code": "002760",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231110000014",
+      "flr_nm": "보락",
+      "rcept_dt": "20231110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "stock_code": "002760",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811001610",
+      "flr_nm": "보락",
+      "rcept_dt": "20230811",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "stock_code": "002760",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230512000140",
+      "flr_nm": "보락",
+      "rcept_dt": "20230512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "stock_code": "002760",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230316000878",
+      "flr_nm": "보락",
+      "rcept_dt": "20230316",
+      "rm": ""
+    }
+  ]
+}

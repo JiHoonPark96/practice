@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003717",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제11기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 자동차소재부품 현금창출단위(국내 원단, 일반부품)에 대한 손상검토\n(2) 종속기업투자(중국 3개 법인)에 대한 손상검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003717",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제10기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 자동차소재부품 현금창출단위(원단, 일반부품)에 대한 손상검토\n(2) 종속기업투자(중국 3개 법인), 공동기업투자자산(c2i s.r.o)에 대한 손상검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003717",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

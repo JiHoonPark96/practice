@@ -1,0 +1,81 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제39기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "사방넷과 관련한 영업권 포함 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제39기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "당기손익-공정가치 금융자산의 평가 및 회수의 불확실성",
+      "core_adt_matter": "공정가치 수준3으로 분류된 파생상품 및 파생결합증권에 대한 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제38기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제38기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "당기손익-공정가치 금융자산의 평가 및 회수의 불확실성",
+      "core_adt_matter": "공정가치 수준3으로 분류된 파생상품 및 파생결합증권에 대한 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제37기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제37기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "당기손익-공정가치 금융자산의 평가 및 회수의 불확실성",
+      "core_adt_matter": "공정가치 수준3으로 분류된 파생상품 및 파생결합증권에 대한 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

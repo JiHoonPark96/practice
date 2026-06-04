@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814001512",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 40 기(당기)",
+      "adtor": "안경회계법인",
+      "cn": " - 분반기 검토\n - 개별 재무제표 감사\n - 연결재무제표 감사\n - 영문보고서 및 기타 감사업무",
+      "mendng": "125",
+      "tot_reqre_time": "1,394",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001512",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 39 기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "상동",
+      "mendng": "125",
+      "tot_reqre_time": "1,300",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001512",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 38 기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "상동",
+      "mendng": "115",
+      "tot_reqre_time": "1,313",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

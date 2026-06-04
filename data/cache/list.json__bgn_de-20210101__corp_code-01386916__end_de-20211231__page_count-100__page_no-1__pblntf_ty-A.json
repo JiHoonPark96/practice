@@ -1,0 +1,32 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 2,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "stock_code": "361610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115000889",
+      "flr_nm": "SK아이이테크놀로지",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "stock_code": "361610",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210813000985",
+      "flr_nm": "SK아이이테크놀로지",
+      "rcept_dt": "20210813",
+      "rm": ""
+    }
+  ]
+}

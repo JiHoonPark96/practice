@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 17기(당기)",
+      "cntrct_cncls_de": "2017.10",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "17.07~18.06",
+      "servc_mendng": "20,000",
+      "rm": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 17기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 16기(전기)",
+      "cntrct_cncls_de": "2016.10",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "16.07~17.06",
+      "servc_mendng": "20,000",
+      "rm": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 16기(전기)",
+      "cntrct_cncls_de": "2016.08",
+      "servc_cn": "부가사치세 경정청구 및 심판청구",
+      "servc_exc_pd": "16.08~17.06",
+      "servc_mendng": "59,422",
+      "rm": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 15기(전전기)",
+      "cntrct_cncls_de": "2015.10",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "15.07~16.06",
+      "servc_mendng": "18,000",
+      "rm": "-",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 15기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-06-30"
+    }
+  ]
+}

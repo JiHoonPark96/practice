@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230331003532",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제38기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "재무제표 검토 및 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110백만원",
+      "adt_cntrct_dtls_time": "1,717시간",
+      "real_exc_dtls_mendng": "110백만원",
+      "real_exc_dtls_time": "1,734시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230331003532",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제37기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "재무제표 검토 및 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110백만원",
+      "adt_cntrct_dtls_time": "1,235시간",
+      "real_exc_dtls_mendng": "110백만원",
+      "real_exc_dtls_time": "1,247시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230331003532",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "재무제표 검토 및 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125백만원",
+      "adt_cntrct_dtls_time": "1,180시간",
+      "real_exc_dtls_mendng": "125백만원",
+      "real_exc_dtls_time": "1,222시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

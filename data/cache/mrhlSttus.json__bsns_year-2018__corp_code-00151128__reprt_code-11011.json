@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001279",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "se": "소액주주",
+      "shrholdr_co": "4,154",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.66%",
+      "hold_stock_co": "4,255,258",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "12.89%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

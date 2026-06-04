@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000571",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제23기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도재무제표와 연결재무제표에 대한\n분기ㆍ반기 검토 및 중간ㆍ기말 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "490 백만원",
+      "adt_cntrct_dtls_time": "4,090 시간",
+      "real_exc_dtls_mendng": "490 백만원",
+      "real_exc_dtls_time": "4,010 시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000571",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제22기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도재무제표와 연결재무제표에 대한\n분기ㆍ반기 검토 및 중간ㆍ기말 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "490 백만원",
+      "adt_cntrct_dtls_time": "4,090 시간",
+      "real_exc_dtls_mendng": "490 백만원",
+      "real_exc_dtls_time": "4,182 시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000571",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도재무제표와 연결재무제표에 대한\n분기ㆍ반기 검토 및 중간ㆍ기말 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360 백만원",
+      "adt_cntrct_dtls_time": "4,089 시간",
+      "real_exc_dtls_mendng": "360 백만원",
+      "real_exc_dtls_time": "4,003 시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

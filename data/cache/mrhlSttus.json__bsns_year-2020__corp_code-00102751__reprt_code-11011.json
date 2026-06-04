@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000784",
+      "corp_cls": "Y",
+      "corp_code": "00102751",
+      "corp_name": "고려산업",
+      "se": "소액주주",
+      "shrholdr_co": "9,037",
+      "shrholdr_tot_co": "9,044",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "11,824,440",
+      "stock_tot_co": "24,671,420",
+      "hold_stock_rate": "47.93%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

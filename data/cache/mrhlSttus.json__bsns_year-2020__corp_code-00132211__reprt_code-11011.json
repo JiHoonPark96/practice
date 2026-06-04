@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001090",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "se": "소액주주",
+      "shrholdr_co": "3,152",
+      "shrholdr_tot_co": "3,175",
+      "shrholdr_rate": "99.28%",
+      "hold_stock_co": "5,411,637",
+      "stock_tot_co": "12,607,989",
+      "hold_stock_rate": "42.92%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

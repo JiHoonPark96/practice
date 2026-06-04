@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_code": "013700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000787",
+      "flr_nm": "까뮤이앤씨",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_code": "013700",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812001145",
+      "flr_nm": "까뮤이앤씨",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_code": "013700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220711000510",
+      "flr_nm": "까뮤이앤씨",
+      "rcept_dt": "20220711",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_code": "013700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001696",
+      "flr_nm": "까뮤이앤씨",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_code": "013700",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220321001137",
+      "flr_nm": "까뮤이앤씨",
+      "rcept_dt": "20220321",
+      "rm": "정"
+    }
+  ]
+}

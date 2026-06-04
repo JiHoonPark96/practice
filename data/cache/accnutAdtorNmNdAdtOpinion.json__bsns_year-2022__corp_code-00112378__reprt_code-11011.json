@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001182",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제62기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "전환사채 공정가치 평가의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001182",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제61기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "합병에 대한 회계처리",
+      "core_adt_matter": "전환사채 공정가치 평가의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001182",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제60기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 별도\n(1) 전기오류수정으로 인한 전기 재무제표 재작성\n(2) 종속기업과 합병",
+      "core_adt_matter": "-별도 : 수익인식\n-연결 : 연결회사간 내부거래의 발생사실과 표시",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

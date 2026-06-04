@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2017년 04월",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2017.04~2018.03",
+      "servc_mendng": "28백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2017년 04월",
+      "servc_cn": "BEPS Project",
+      "servc_exc_pd": "2017.04~2017.05",
+      "servc_mendng": "43백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2017년 06월",
+      "servc_cn": "자회사 구조변경 자문",
+      "servc_exc_pd": "2017.04~2017.06",
+      "servc_mendng": "30백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004464",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2017년 12월",
+      "servc_cn": "세무진단 및 자문",
+      "servc_exc_pd": "2017.12~2017.12",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

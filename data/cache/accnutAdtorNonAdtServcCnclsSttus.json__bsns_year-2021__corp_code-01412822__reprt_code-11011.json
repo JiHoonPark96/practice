@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2021.06.30",
+      "servc_cn": "이전가격정책수립",
+      "servc_exc_pd": "2021.06 ~ 2021.10",
+      "servc_mendng": "32 백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "bsns_year": "제2기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제47기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- \n매출채권 손실충당금 인식\n- 종속기업 및 공동기업투자주식에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제46기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 국외매출의 수익인식\n- 종속기업 및 공동기업투자주식에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제45기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 국외매출의 수익인식\n- 매출채권 회수가능성검토",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

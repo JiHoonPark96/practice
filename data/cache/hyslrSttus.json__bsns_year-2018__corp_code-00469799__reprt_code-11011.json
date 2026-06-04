@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "stock_knd": "보통주",
+      "nm": "(주)오에스티에이",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "1,731,602",
+      "bsis_posesn_stock_qota_rt": "7.91",
+      "trmend_posesn_stock_co": "1,731,602",
+      "trmend_posesn_stock_qota_rt": "6.23",
+      "rm": "최대주주",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,731,602",
+      "bsis_posesn_stock_qota_rt": "7.91",
+      "trmend_posesn_stock_co": "1,731,602",
+      "trmend_posesn_stock_qota_rt": "6.23",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

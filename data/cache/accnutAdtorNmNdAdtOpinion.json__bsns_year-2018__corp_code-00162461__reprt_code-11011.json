@@ -1,0 +1,36 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004259",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004259",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004259",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

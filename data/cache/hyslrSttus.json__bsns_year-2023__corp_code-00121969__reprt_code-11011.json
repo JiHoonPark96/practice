@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001322",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "(주)우앤컴퍼니",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "3,791",
+      "bsis_posesn_stock_qota_rt": "12.13",
+      "trmend_posesn_stock_co": "3,791",
+      "trmend_posesn_stock_qota_rt": "11.71",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001322",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "김건우",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "1,009",
+      "bsis_posesn_stock_qota_rt": "3.23",
+      "trmend_posesn_stock_co": "1,029",
+      "trmend_posesn_stock_qota_rt": "3.18",
+      "rm": "장내매수",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001322",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "(주)리셋헬스케어",
+      "relate": "특관자",
+      "bsis_posesn_stock_co": "100",
+      "bsis_posesn_stock_qota_rt": "0.32",
+      "trmend_posesn_stock_co": "100",
+      "trmend_posesn_stock_qota_rt": "0.31",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001322",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "4,900",
+      "bsis_posesn_stock_qota_rt": "15.68",
+      "trmend_posesn_stock_co": "4,920",
+      "trmend_posesn_stock_qota_rt": "15.20",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001322",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

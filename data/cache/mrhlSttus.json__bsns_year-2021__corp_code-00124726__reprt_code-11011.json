@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "se": "소액주주",
+      "shrholdr_co": "35,165",
+      "shrholdr_tot_co": "35,175",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "3,994,177",
+      "stock_tot_co": "9,851,241",
+      "hold_stock_rate": "40.54%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

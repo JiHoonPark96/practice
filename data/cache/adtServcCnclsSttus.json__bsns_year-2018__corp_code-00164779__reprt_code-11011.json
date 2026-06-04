@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제71기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토 개별재무제표감사연결재무제표감사영문재무제표 검토 및 기타감사업무",
+      "mendng": "950",
+      "tot_reqre_time": "11,967",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제70기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 검토\n개별재무제표감사\n연결재무제표감사\n영문재무제표 검토 및 기타 감사업무",
+      "mendng": "950",
+      "tot_reqre_time": "10,644",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404002329",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제69기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 검토\n개별재무제표감사\n연결재무제표감사\n영문재무제표 검토 및 기타 감사업무",
+      "mendng": "705",
+      "tot_reqre_time": "10,256",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

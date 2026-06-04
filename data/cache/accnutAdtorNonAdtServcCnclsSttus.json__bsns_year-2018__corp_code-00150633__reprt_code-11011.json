@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2018.06.11",
+      "servc_cn": "통상자문용역",
+      "servc_exc_pd": "2018.06.11~Case 종료일",
+      "servc_mendng": "387,435",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2018.06.20",
+      "servc_cn": "BEPS관련 세무자문용역",
+      "servc_exc_pd": "2018.06.20 ~2018.12.30",
+      "servc_mendng": "45,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제39기(전기)",
+      "cntrct_cncls_de": "2017.08.11",
+      "servc_cn": "BEPS관련 세무자문용역",
+      "servc_exc_pd": "2017.08.11~2017.12.31",
+      "servc_mendng": "70,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2016.04.30",
+      "servc_cn": "내부회계관리제도자문용역",
+      "servc_exc_pd": "용역착수일로부터 \n총4주간",
+      "servc_mendng": "       10,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000311",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제51기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "136",
+      "tot_reqre_time": "일반감사 : 2,030시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000311",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제50기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "97",
+      "tot_reqre_time": "일반감사 : 1,526시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000311",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "97",
+      "tot_reqre_time": "일반감사 : 1,558시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

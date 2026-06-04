@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001093",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "bsns_year": "제7기(당기)\n(2024년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기검토 9일\n\n2분기검토 10일\n\n3분기검토 10일\n중간감사 10일\n기말감사 14일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "524 ",
+      "adt_cntrct_dtls_time": "4,800 ",
+      "real_exc_dtls_mendng": "524",
+      "real_exc_dtls_time": "4,461",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001093",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "bsns_year": "제6기(전기)\n(2023년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기검토 9일\n\n2분기검토 10일\n\n3분기검토 9일\n\n중간감사 8일\n\n기말감사 14일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500  ",
+      "adt_cntrct_dtls_time": "4,800 ",
+      "real_exc_dtls_mendng": "500",
+      "real_exc_dtls_time": "4,626",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001093",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "bsns_year": "제5기(전전기)\n(2022년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기검토 8일\n\n2분기검토 13일\n\n3분기검토 10일\n\n중간감사 13일\n\n기말감사 17일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500  ",
+      "adt_cntrct_dtls_time": "4,800 ",
+      "real_exc_dtls_mendng": "500",
+      "real_exc_dtls_time": "4,632",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

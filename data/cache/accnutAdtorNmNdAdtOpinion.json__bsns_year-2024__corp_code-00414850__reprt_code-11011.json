@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000878",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제28기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 리스부채의 인식 및 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000878",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제28기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 리스부채의 인식 및 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000878",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제27기\n(전기)",
+      "adtor": "동아송강회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 사용권자산 및 리스부채의 인식 및 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000878",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제27기\n(전기)",
+      "adtor": "동아송강회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- \n사용권자산 및 리스부채의 인식 및 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000878",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제26기\n(전전기)",
+      "adtor": "동아송강회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 사용권자산 및 리스부채의 인식 및 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000878",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제26기\n(전전기)",
+      "adtor": "동아송강회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 사용권자산 및 리스부채의 인식 및 측정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

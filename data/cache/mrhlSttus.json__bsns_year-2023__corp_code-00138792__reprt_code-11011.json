@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240325000904",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "se": "소액주주",
+      "shrholdr_co": "160,604",
+      "shrholdr_tot_co": "160,609",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "39,391,346",
+      "stock_tot_co": "74,411,764",
+      "hold_stock_rate": "52.94%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

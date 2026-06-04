@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000235",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제39기",
+      "adtor": "한영회계법인",
+      "cn": "분반기 검토\n개별재무제표감사\n연결재무제표감사\n영문재무제표 검토 및 기타 감사업무\n내부회계제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,700",
+      "adt_cntrct_dtls_time": "24,100",
+      "real_exc_dtls_mendng": "2,700",
+      "real_exc_dtls_time": "24,100",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000235",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제38기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 검토\n 개별재무제표감사\n 연결재무제표감사\n 영문재무제표 검토 및 기타 감사업무\n내부회계제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,450",
+      "adt_cntrct_dtls_time": "24,500",
+      "real_exc_dtls_mendng": "2,450",
+      "real_exc_dtls_time": "24,500",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000235",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제37기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기 검토\n 개별재무제표감사\n 연결재무제표감사\n 영문재무제표 검토 및  기타 감사업무\n내부회계제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,360",
+      "adt_cntrct_dtls_time": "23,600",
+      "real_exc_dtls_mendng": "2,360",
+      "real_exc_dtls_time": "23,600",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

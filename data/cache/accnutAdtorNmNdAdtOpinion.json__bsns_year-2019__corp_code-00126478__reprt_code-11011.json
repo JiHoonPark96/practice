@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004469",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제46기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식\n2) 계약자산의 회수가능성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004469",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제45기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식\n2) 계약자산의 회수가능성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004469",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식\n2) 계약자산의 회수가능성",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

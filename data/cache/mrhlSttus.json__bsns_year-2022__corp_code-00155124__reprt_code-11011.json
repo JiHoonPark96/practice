@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000938",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "6,973",
+      "shrholdr_tot_co": "6,981",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "3,136,331",
+      "stock_tot_co": "14,625,466",
+      "hold_stock_rate": "21.44%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제42기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제41기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제40기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

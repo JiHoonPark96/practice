@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "stock_code": "012610",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20231115000225",
+      "flr_nm": "경인양행",
+      "rcept_dt": "20231115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "stock_code": "012610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114000356",
+      "flr_nm": "경인양행",
+      "rcept_dt": "20231114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "stock_code": "012610",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814000082",
+      "flr_nm": "경인양행",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "stock_code": "012610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230512000617",
+      "flr_nm": "경인양행",
+      "rcept_dt": "20230512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "stock_code": "012610",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230316000324",
+      "flr_nm": "경인양행",
+      "rcept_dt": "20230316",
+      "rm": "연"
+    }
+  ]
+}

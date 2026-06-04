@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000649",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제59기(당)기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산의 물리적 진부화 가능성\n- 판매가격에 대한 경영진의 가정과\n   판단의 적정성에 따른 재고자산의 \n   평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000649",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제58기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산 금액의 중요성\n- 경영진이 사용한 추정 및 판단의 \n   불확실성을 고려한 재고자산의 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000649",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

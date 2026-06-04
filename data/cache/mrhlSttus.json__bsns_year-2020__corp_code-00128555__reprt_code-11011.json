@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001068",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "se": "소액주주",
+      "shrholdr_co": "5,441",
+      "shrholdr_tot_co": "5,455",
+      "shrholdr_rate": "99.74%",
+      "hold_stock_co": "1,363,004",
+      "stock_tot_co": "3,424,025",
+      "hold_stock_rate": "39.81%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

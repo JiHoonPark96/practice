@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250325000403",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "se": "소액주주",
+      "shrholdr_co": "36,905",
+      "shrholdr_tot_co": "36,918",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "4,816,471",
+      "stock_tot_co": "13,174,420",
+      "hold_stock_rate": "36.56%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

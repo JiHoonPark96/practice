@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001322",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 투자주식 손상검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001322",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 투자주식 평가의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001322",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가손실충당금 평가의 적정성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

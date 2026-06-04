@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001204",
+      "corp_cls": "Y",
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "se": "소액주주",
+      "shrholdr_co": "38,403",
+      "shrholdr_tot_co": "38,414",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "84,544,394",
+      "stock_tot_co": "151,529,572",
+      "hold_stock_rate": "55.79%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

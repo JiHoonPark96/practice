@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001199",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제53(당기)",
+      "adtor": "선진회계법인",
+      "cn": "재무제표 감사 및 검토 \n(별도,연결)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "239 백만원",
+      "adt_cntrct_dtls_time": "2,986",
+      "real_exc_dtls_mendng": "239 백만원",
+      "real_exc_dtls_time": "3,006",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220315001199",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제52기(전기)",
+      "adtor": "선진회계법인",
+      "cn": "재무제표 감사 및 검토 \n(별도,연결)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140 백만원",
+      "adt_cntrct_dtls_time": "2,184",
+      "real_exc_dtls_mendng": "140 백만원",
+      "real_exc_dtls_time": "2,268",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220315001199",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "선진회계법인",
+      "cn": "재무제표 감사 및 검토 \n(별도,연결)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140 백만원",
+      "adt_cntrct_dtls_time": "2,184",
+      "real_exc_dtls_mendng": "140 백만원",
+      "real_exc_dtls_time": "1,998",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

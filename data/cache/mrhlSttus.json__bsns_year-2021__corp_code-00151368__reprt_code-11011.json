@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001232",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "se": "소액주주",
+      "shrholdr_co": "10,714",
+      "shrholdr_tot_co": "10,726",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "10,690,801",
+      "stock_tot_co": "29,747,874",
+      "hold_stock_rate": "35.94%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

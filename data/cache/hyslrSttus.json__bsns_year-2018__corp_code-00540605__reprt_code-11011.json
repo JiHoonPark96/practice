@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002934",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "(주)이랜드파크",
+      "relate": "최대주주\n본인",
+      "bsis_posesn_stock_co": "55,347,070",
+      "bsis_posesn_stock_qota_rt": "61.15",
+      "trmend_posesn_stock_co": "54,131,261",
+      "trmend_posesn_stock_qota_rt": "59.81",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002934",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "E-land Fashion\nHong Kong Limited",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "13,232,515",
+      "bsis_posesn_stock_qota_rt": "14.62",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002934",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "(주)이랜드월드",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "13,232,515",
+      "trmend_posesn_stock_qota_rt": "14.62",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002934",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002934",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "68,579,585",
+      "bsis_posesn_stock_qota_rt": "75.77",
+      "trmend_posesn_stock_co": "67,363,776",
+      "trmend_posesn_stock_qota_rt": "74.43",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

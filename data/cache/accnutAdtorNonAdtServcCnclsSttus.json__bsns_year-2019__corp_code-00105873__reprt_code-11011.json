@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004446",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제35기(당기)",
+      "cntrct_cncls_de": "2019.07.23",
+      "servc_cn": "Comfort Letter발행",
+      "servc_exc_pd": "2019.07.23 ~ 2019.08.31",
+      "servc_mendng": "120백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004446",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제35기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004446",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제34기(전기)",
+      "cntrct_cncls_de": "2018.09.11",
+      "servc_cn": "녹색채권 검증",
+      "servc_exc_pd": "2018.09.11 ~ 2018.10.09",
+      "servc_mendng": "45백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004446",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제34기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004446",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제35기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004446",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제35기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

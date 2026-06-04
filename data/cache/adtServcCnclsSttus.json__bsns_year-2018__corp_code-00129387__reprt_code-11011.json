@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329001884",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제72기",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사",
+      "mendng": "190",
+      "tot_reqre_time": "3,167시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001884",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제71기",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사",
+      "mendng": "160",
+      "tot_reqre_time": "2,023시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001884",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제70기",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사",
+      "mendng": "160",
+      "tot_reqre_time": "2,103시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

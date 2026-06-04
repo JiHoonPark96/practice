@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2024.12.09",
+      "servc_cn": "제16기 영문감사보고서 작성용역",
+      "servc_exc_pd": "2024.12.09~2025.04.30",
+      "servc_mendng": "20,000,000 ",
+      "rm": "기중 별도계약 체결하여 비감사용역 계약체결 현황으로 기재하나독립성을 저해하지 않는 감사용역 연장선상의 용역입니다. ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000934",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

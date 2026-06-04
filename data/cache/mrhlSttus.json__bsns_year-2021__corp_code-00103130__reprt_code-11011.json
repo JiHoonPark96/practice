@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000756",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "se": "소액주주",
+      "shrholdr_co": "9,662",
+      "shrholdr_tot_co": "9,669",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "59,554,227",
+      "stock_tot_co": "89,717,151",
+      "hold_stock_rate": "66.38%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

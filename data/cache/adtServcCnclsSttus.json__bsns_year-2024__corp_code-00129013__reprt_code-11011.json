@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000808",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제49기\n (당  기)",
+      "adtor": "삼일회계법인",
+      "cn": " 반기 재무제표 검토\n 별도ㆍ연결 재무제표 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165",
+      "adt_cntrct_dtls_time": "1,650",
+      "real_exc_dtls_mendng": "165",
+      "real_exc_dtls_time": "1,619",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000808",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제48기\n (전  기)",
+      "adtor": "삼일회계법인",
+      "cn": " 반기 재무제표 검토\n 별도ㆍ연결 재무제표 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,500",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,280",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000808",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제47기\n (전 전 기)",
+      "adtor": "삼일회계법인",
+      "cn": " 반기 재무제표 검토\n 개별 재무제표 감사\n 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140",
+      "adt_cntrct_dtls_time": "1,489",
+      "real_exc_dtls_mendng": "140",
+      "real_exc_dtls_time": "1,472",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

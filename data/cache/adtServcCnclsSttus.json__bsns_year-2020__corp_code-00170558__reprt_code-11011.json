@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000600",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제32기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "기말감사 및 분, 반기검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "890,000 천원",
+      "adt_cntrct_dtls_time": "7,090",
+      "real_exc_dtls_mendng": "890,000 천원",
+      "real_exc_dtls_time": "9,040",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000600",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제31기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분, 반기검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550,000 천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "550,000 천원",
+      "real_exc_dtls_time": "7,180",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000600",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분, 반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235,000 천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "235,000 천원",
+      "real_exc_dtls_time": "3,673",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

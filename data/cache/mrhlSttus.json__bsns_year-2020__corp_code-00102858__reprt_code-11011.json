@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000528",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "se": "소액주주",
+      "shrholdr_co": "35,949",
+      "shrholdr_tot_co": "36,008",
+      "shrholdr_rate": "99.85%",
+      "hold_stock_co": "7,335,224",
+      "stock_tot_co": "18,870,000",
+      "hold_stock_rate": "38.88%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

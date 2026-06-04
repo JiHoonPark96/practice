@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000246",
+      "corp_cls": "Y",
+      "corp_code": "00191588",
+      "corp_name": "삼원강재",
+      "se": "소액주주",
+      "shrholdr_co": "3,769",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.76%",
+      "hold_stock_co": "9,029,711",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "22.59%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

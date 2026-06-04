@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001733",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "se": "소액주주",
+      "shrholdr_co": "8,881",
+      "shrholdr_tot_co": "8,889",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "9,363,372",
+      "stock_tot_co": "24,901,629",
+      "hold_stock_rate": "37.60%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "stock_knd": "보통주",
+      "nm": "한솔홀딩스㈜",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "7,257,728",
+      "bsis_posesn_stock_qota_rt": "30.49",
+      "trmend_posesn_stock_co": "7,257,728",
+      "trmend_posesn_stock_qota_rt": "30.49",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "stock_knd": "보통주",
+      "nm": "한솔문화재단",
+      "relate": "재단",
+      "bsis_posesn_stock_co": "17,239",
+      "bsis_posesn_stock_qota_rt": "0.07",
+      "trmend_posesn_stock_co": "17,239",
+      "trmend_posesn_stock_qota_rt": "0.07",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "stock_knd": "보통주",
+      "nm": "이상훈",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "10,627",
+      "bsis_posesn_stock_qota_rt": "0.04",
+      "trmend_posesn_stock_co": "10,627",
+      "trmend_posesn_stock_qota_rt": "0.04",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,285,594",
+      "bsis_posesn_stock_qota_rt": "30.61",
+      "trmend_posesn_stock_co": "7,285,594",
+      "trmend_posesn_stock_qota_rt": "30.61",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

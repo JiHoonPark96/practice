@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310001085",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제58기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001085",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제57기(전기)",
+      "cntrct_cncls_de": "2020.11.13.",
+      "servc_cn": "이전가격 검토(세무자문)",
+      "servc_exc_pd": "2020.11.13.~2021.03.31.",
+      "servc_mendng": "                  40,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001085",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제56기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "bsns_year": "제17기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "충당부채의 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "bsns_year": "제17기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "bsns_year": "제16기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "충당부채의 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "bsns_year": "제16기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "bsns_year": "제15기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 항공운송업의\n   현금창출단위 손상검사\n- 이연법인세자산의\n  실현가능성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "bsns_year": "제15기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

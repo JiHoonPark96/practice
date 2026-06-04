@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230713000197",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "stock_knd": "보통주",
+      "nm": "이석준",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "7,440,000",
+      "bsis_posesn_stock_qota_rt": "21.88",
+      "trmend_posesn_stock_co": "7,540,000",
+      "trmend_posesn_stock_qota_rt": "22.18",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000197",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "stock_knd": "보통주",
+      "nm": "양문희",
+      "relate": "친인척",
+      "bsis_posesn_stock_co": "261,956",
+      "bsis_posesn_stock_qota_rt": "0.77",
+      "trmend_posesn_stock_co": "543,388",
+      "trmend_posesn_stock_qota_rt": "1.60",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000197",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,701,956",
+      "bsis_posesn_stock_qota_rt": "22.65",
+      "trmend_posesn_stock_co": "8,083,388",
+      "trmend_posesn_stock_qota_rt": "23.78",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000197",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

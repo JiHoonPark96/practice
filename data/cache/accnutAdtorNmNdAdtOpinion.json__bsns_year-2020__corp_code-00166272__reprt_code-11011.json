@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000769",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제 43기(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 회계정책의 변경\n   (유형자산 중 토지에 대하여 후속측정 방식을 \n    원가모형에서 재평가모형으로 변경)",
+      "core_adt_matter": "[연결재무제표]- 재고자산의 실재성 및 평가\n[별도재무제표]\n- 특수관계자거래공시- 재고자산의 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000769",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제42기(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "[연결재무제표]- 수익 인식\n - 재고자산의 실재성 및 평가[별도재무제표]- 특수관계자거래공시\n- 재고자산의 실재성 및 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000769",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

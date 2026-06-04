@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "se": "소액주주",
+      "shrholdr_co": "141,199",
+      "shrholdr_tot_co": "141,232",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "14,259,488",
+      "stock_tot_co": "66,165,000",
+      "hold_stock_rate": "21.55%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

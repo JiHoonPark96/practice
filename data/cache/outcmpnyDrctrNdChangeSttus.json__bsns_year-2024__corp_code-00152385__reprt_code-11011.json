@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001573",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "2",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

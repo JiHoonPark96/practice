@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230324001178",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제22기(당기)",
+      "cntrct_cncls_de": "2022년 01월\n2022년 04월\n2022년 05월\n2022년 06월\n2022년 12월\n2022년 12월",
+      "servc_cn": "'21년도 법인세 세무자문 \n'21년도 BEPS 문서화\n조세불복 지원\n재무확인서 (Comfort Letter) 발행\n지방세 환급 지원\n'21년도 법인세 세무자문 ",
+      "servc_exc_pd": "3개월\n9개월\n9개월\n1개월\n1개월\n4개월",
+      "servc_mendng": "35\n30\n8\n230\n25\n35",
+      "rm": "-\n-\n-\n-\n-\n-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324001178",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "2021년 01월\n2021년 01월\n2021년 05월\n2021년 09월\n2021년 09월",
+      "servc_cn": "'20년도 법인세 세무자문 \n분할 세무자문\n재무확인서 (Comfort Letter) 발행\nGlobal Cash Pooling 거래의 이전가격 검토 및 세무자문\n'21년도 법인세 세무조정",
+      "servc_exc_pd": "3개월\n1개월\n1개월\n3개월\n3개월",
+      "servc_mendng": "35\n100\n230\n70\n35",
+      "rm": "-\n-\n-\n-\n-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324001178",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "2020년 01월",
+      "servc_cn": "'19년도 법인세 세무자문 ",
+      "servc_exc_pd": "3개월",
+      "servc_mendng": "35",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

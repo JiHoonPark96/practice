@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000726",
+      "corp_cls": "Y",
+      "corp_code": "00129271",
+      "corp_name": "삼화전기",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결재무제표 감사,반기 재무제표 검토 및\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000천원",
+      "adt_cntrct_dtls_time": "1,494",
+      "real_exc_dtls_mendng": "60,000천원",
+      "real_exc_dtls_time": "1,494",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000726",
+      "corp_cls": "Y",
+      "corp_code": "00129271",
+      "corp_name": "삼화전기",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결재무제표 감사,반기 재무제표 검토 및\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000천원",
+      "adt_cntrct_dtls_time": "1,536",
+      "real_exc_dtls_mendng": "120,000천원",
+      "real_exc_dtls_time": "1,494",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000726",
+      "corp_cls": "Y",
+      "corp_code": "00129271",
+      "corp_name": "삼화전기",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결재무제표 감사,반기 재무제표 검토 및\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100,000천원",
+      "adt_cntrct_dtls_time": "1,392",
+      "real_exc_dtls_mendng": "100,000천원",
+      "real_exc_dtls_time": "1,393",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

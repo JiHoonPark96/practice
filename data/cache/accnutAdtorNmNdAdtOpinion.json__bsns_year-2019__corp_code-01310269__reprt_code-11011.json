@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제2기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 신용손상의 징후 발생 현장에 대한 \n   금융자산 회수가능성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제1기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식의 정확성\n- 신용손상의 징후 발생 현장에 대한\n   금융자산 회수가능성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

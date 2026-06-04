@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190228005328",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "bsns_year": "제56기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005328",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "bsns_year": "제55기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005328",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "bsns_year": "제54기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

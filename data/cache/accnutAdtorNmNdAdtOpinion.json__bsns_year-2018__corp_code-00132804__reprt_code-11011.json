@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004219",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제53기(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004219",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제52기(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004219",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

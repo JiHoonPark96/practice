@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000858",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "8,429",
+      "shrholdr_tot_co": "8,430",
+      "shrholdr_rate": "99.76%",
+      "hold_stock_co": "7,373,954",
+      "stock_tot_co": "40,000,000",
+      "hold_stock_rate": "18.43%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

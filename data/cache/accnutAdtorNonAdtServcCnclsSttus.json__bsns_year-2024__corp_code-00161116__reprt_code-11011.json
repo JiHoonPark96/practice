@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000836",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2024.10.18",
+      "servc_cn": "공사채권 회수 관련 용역 자문",
+      "servc_exc_pd": "2024.10~2024.11",
+      "servc_mendng": "18,000 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000836",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2024.03.11",
+      "servc_cn": "취득세 신고 업무",
+      "servc_exc_pd": "2024.03~2024.04",
+      "servc_mendng": "20,000 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000836",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2024.01.31",
+      "servc_cn": "글로벌 최저한세 검토",
+      "servc_exc_pd": "2024.01~2024.03",
+      "servc_mendng": "15,160 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000836",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2023.10.10",
+      "servc_cn": "양평역 한라비발디 공동주택 취득세 신고업무",
+      "servc_exc_pd": "2023.10~2023.12",
+      "servc_mendng": "14,700 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000836",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

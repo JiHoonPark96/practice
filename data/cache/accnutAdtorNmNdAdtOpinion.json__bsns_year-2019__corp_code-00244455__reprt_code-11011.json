@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201230000735",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제33기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "인도네시아 담배사업 현금창출단위에서의 자산손상 측정",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201230000735",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제32기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(주)코스모코스 현금창출단위에 대한 손상",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201230000735",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

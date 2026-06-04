@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000632",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "se": "소액주주",
+      "shrholdr_co": "11,132",
+      "shrholdr_tot_co": "11,138",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "8,284,525",
+      "stock_tot_co": "24,000,000",
+      "hold_stock_rate": "33.41%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

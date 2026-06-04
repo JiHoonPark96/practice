@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001222",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "19,135",
+      "shrholdr_tot_co": "19,148",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "6,830,841",
+      "stock_tot_co": "11,295,195",
+      "hold_stock_rate": "60.48%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

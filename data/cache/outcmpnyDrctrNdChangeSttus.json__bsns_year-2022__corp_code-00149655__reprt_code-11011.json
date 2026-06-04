@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000761",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "drctr_co": "9",
+      "otcmp_drctr_co": "5",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

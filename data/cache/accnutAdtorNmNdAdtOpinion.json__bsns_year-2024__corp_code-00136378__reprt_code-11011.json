@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001128",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제68기 (당   기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자인 주식회사 신세계디에프 손상평가\n종속기업투자인 주식회사 신세계라이브쇼핑 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001128",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제68기 (당   기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "주식회사 신세계디에프를 현금창출단위로 하는 손상평가\n주식회사 신세계라이브쇼핑을 현금창출단위로 하는 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001128",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제67기(전   기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자인 주식회사 신세계라이브쇼핑 손상평가\n종속기업투자인 주식회사 신세계까사 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001128",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제67기(전   기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "주식회사 신세계라이브쇼핑을 현금창출단위로 하는 영업권 손상평가\n주식회사 신세계까사를 현금창출단위로 하는 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001128",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자 손상평가에 대한 감사위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001128",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위의 손상평가에 대한 감사위험",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

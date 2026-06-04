@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001025",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제45기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001025",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제44기",
+      "cntrct_cncls_de": "2023.10.26",
+      "servc_cn": "부가가치세 환급을 위한 경정청구 업무",
+      "servc_exc_pd": "2023.10~",
+      "servc_mendng": "-",
+      "rm": "성공시, 환급금액의 15%",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001025",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제43기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

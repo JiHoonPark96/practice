@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000666",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "정발행 및 수출매출에 대한 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000666",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "정발행 및 수출매출에 대한 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000666",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000666",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 현금창출단위\n손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000666",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000666",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

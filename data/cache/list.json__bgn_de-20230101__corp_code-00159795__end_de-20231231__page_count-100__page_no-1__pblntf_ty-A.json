@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.06)",
+      "rcept_no": "20231129001381",
+      "flr_nm": "한국카본",
+      "rcept_dt": "20231129",
+      "rm": ""
+    },
+    {
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20231122000019",
+      "flr_nm": "한국카본",
+      "rcept_dt": "20231122",
+      "rm": ""
+    },
+    {
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002434",
+      "flr_nm": "한국카본",
+      "rcept_dt": "20231114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811001590",
+      "flr_nm": "한국카본",
+      "rcept_dt": "20230811",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230512001147",
+      "flr_nm": "한국카본",
+      "rcept_dt": "20230512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230321001102",
+      "flr_nm": "한국카본",
+      "rcept_dt": "20230321",
+      "rm": "연"
+    }
+  ]
+}

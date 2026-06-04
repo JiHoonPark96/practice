@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002868",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 59 기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적   정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " - 스판덱스 사업부문 관련 현금창출단위의 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002868",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 58 기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적   정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " -\n㈜티브로드 부문 관련 현금창출단위에 대한 영업권 손상평가\n - ㈜티시스주식 무상취득\n - 주주간계약에 따라 재무적투자자가 보유한 ㈜티브로드 주식 매입 의무 발생",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002868",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 57 기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적   정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

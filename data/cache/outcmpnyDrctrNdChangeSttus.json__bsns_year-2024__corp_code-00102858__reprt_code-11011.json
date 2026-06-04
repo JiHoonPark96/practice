@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "drctr_co": "12",
+      "otcmp_drctr_co": "7",
+      "apnt": "11",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

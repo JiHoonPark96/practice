@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001328",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "bsns_year": "제74기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분기/반기검토, 기말*별도 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440,000(천원)",
+      "adt_cntrct_dtls_time": "3,904시간",
+      "real_exc_dtls_mendng": "440,000(천원)",
+      "real_exc_dtls_time": "4,034시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001328",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "bsns_year": "제73기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기/반기검토, 기말*별도 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "452,000(천원)",
+      "adt_cntrct_dtls_time": "4,600시간",
+      "real_exc_dtls_mendng": "452,000(천원)",
+      "real_exc_dtls_time": "4,028시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001328",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "bsns_year": "제72기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기/반기검토, 기말*별도 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "400,000(천원)",
+      "adt_cntrct_dtls_time": "4,370시간",
+      "real_exc_dtls_mendng": "400,000(천원)",
+      "real_exc_dtls_time": "4,000시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

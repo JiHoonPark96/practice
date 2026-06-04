@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000978",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "se": "소액주주",
+      "shrholdr_co": "329,190",
+      "shrholdr_tot_co": "329,259",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "39,450,973",
+      "stock_tot_co": "92,465,564",
+      "hold_stock_rate": "42.67%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

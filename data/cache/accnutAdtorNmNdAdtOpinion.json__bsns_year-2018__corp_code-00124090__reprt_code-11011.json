@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004388",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제48기(당기)",
+      "adtor": "성도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "강조사항으로 계속기업존속 불확실성 사유 발생",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004388",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제47기(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "강조사항으로 계속기업존속 불확실성 사유 발생",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004388",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "계속기업존속 불확실성 사유발생",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004195",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "se": "소액주주",
+      "shrholdr_co": "12,548",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.7%",
+      "hold_stock_co": "13,189,640",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "35.3%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

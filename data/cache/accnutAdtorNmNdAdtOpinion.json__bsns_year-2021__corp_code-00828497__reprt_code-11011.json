@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001397",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제12기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001397",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제11기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001397",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

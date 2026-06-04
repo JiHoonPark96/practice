@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220915000334",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제70기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "금융자산 공정가치의 완전성 확인 및 평가금액의 적정성 확인",
+      "stlm_dt": "2022-06-30"
+    },
+    {
+      "rcept_no": "20220915000334",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제69기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계정의 재분류(매각예정자산, 단,장기금융상품)",
+      "core_adt_matter": "당기손익-공정가치, 기타포괄-공정가치자산의 공정가치의 적정성 확인",
+      "stlm_dt": "2022-06-30"
+    },
+    {
+      "rcept_no": "20220915000334",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "사용권자산 및 리스계약 등의 완전성",
+      "stlm_dt": "2022-06-30"
+    }
+  ]
+}

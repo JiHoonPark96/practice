@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000736",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "se": "소액주주",
+      "shrholdr_co": "12,073",
+      "shrholdr_tot_co": "12,086",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "17,611,685",
+      "stock_tot_co": "44,048,135",
+      "hold_stock_rate": "39.98%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

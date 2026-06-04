@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000564",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제35기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외매출과 관련된 수익의 발생 사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000564",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제34기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외매출과 관련된 수익의 발생 사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000564",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외매출과 관련된 수익의 발생 사실",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

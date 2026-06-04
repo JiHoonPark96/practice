@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001773",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총예정원가의 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001773",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총예정원가의 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001773",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총예정원가의 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001773",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총예정원가의 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001773",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총예정원가의 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001773",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총예정원가의 추정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

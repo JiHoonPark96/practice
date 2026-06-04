@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240311000515",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "bsns_year": "제8기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권 회수가능성 검토\n재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240311000515",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "bsns_year": "제7기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권 회수가능성 검토\n재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240311000515",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "bsns_year": "제6기",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권 회수가능성 검토",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000833",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "se": "소액주주",
+      "shrholdr_co": "36,466",
+      "shrholdr_tot_co": "36,473",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "3,299,660",
+      "stock_tot_co": "6,500,000",
+      "hold_stock_rate": "50.76%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

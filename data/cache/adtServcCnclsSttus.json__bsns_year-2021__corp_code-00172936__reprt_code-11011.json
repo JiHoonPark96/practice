@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220325001115",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제56기",
+      "adtor": "안경회계법인",
+      "cn": "반기,개별 및 연결 재무제표,\n 내부회계관리제도 검토(감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "8.5 천만원",
+      "adt_cntrct_dtls_time": "1,247시간",
+      "real_exc_dtls_mendng": "8.5 천만원",
+      "real_exc_dtls_time": "1,247시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220325001115",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제55기",
+      "adtor": "안경회계법인",
+      "cn": "반기,개별 및 연결 재무제표,\n 내부회계관리제도 검토(감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "8.5 천만원",
+      "adt_cntrct_dtls_time": "1,291시간",
+      "real_exc_dtls_mendng": "8.5 천만원",
+      "real_exc_dtls_time": "1,291시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220325001115",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제54기",
+      "adtor": "안경회계법인",
+      "cn": "반기,개별 및 연결 재무제표,\n 내부회계관리제도 검토(감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "7 천만원",
+      "adt_cntrct_dtls_time": "1,129시간",
+      "real_exc_dtls_mendng": "7 천만원",
+      "real_exc_dtls_time": "1,129시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

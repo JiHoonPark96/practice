@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000941",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "2",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

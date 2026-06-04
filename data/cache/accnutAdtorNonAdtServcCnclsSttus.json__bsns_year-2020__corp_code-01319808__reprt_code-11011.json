@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2020.12.28",
+      "servc_cn": "컨설팅",
+      "servc_exc_pd": "2020.12~",
+      "servc_mendng": "360 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2020.08.28",
+      "servc_cn": "컨설팅",
+      "servc_exc_pd": "2020.08~",
+      "servc_mendng": "50 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2020.04.16",
+      "servc_cn": "세무검토",
+      "servc_exc_pd": "2020.04~2021.03",
+      "servc_mendng": "20 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제2기(전기)",
+      "cntrct_cncls_de": "2019.04.30",
+      "servc_cn": "세무검토",
+      "servc_exc_pd": "2019.04~2020.03",
+      "servc_mendng": "20 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제2기(전기)",
+      "cntrct_cncls_de": "2019.02.11",
+      "servc_cn": "컨설팅",
+      "servc_exc_pd": "2019.02~",
+      "servc_mendng": "250 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2018.08.29",
+      "servc_cn": "컨설팅",
+      "servc_exc_pd": "2018.08~2019.03",
+      "servc_mendng": "15 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2018.07.02",
+      "servc_cn": "컨설팅",
+      "servc_exc_pd": "2018.07~2018.09",
+      "servc_mendng": "61 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

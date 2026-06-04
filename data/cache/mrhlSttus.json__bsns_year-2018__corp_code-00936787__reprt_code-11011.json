@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814001867",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "8,684",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "12,423,540",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "38.78%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

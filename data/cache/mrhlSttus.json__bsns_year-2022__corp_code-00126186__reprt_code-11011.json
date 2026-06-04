@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230307000606",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "se": "소액주주",
+      "shrholdr_co": "129,437",
+      "shrholdr_tot_co": "129,477",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "28,614,190",
+      "stock_tot_co": "77,377,800",
+      "hold_stock_rate": "36.98%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

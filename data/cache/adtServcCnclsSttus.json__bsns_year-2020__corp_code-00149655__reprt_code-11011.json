@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001003",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제57기",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,012",
+      "adt_cntrct_dtls_time": "31,050 H",
+      "real_exc_dtls_mendng": "3,170",
+      "real_exc_dtls_time": "28,387 H",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001003",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제56기",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,820",
+      "adt_cntrct_dtls_time": "30,000 H",
+      "real_exc_dtls_mendng": "3,009",
+      "real_exc_dtls_time": "30,003 H",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001003",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제55기",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,062",
+      "adt_cntrct_dtls_time": "23,000 H",
+      "real_exc_dtls_mendng": "2,242",
+      "real_exc_dtls_time": "23,112 H",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210818000238",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제50기(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 전임 경영진의 배임혐의로 인한 수정사항을 반영하여 2019년 12월 31일로 종료하는 회계연도의 재무제표를 재작성하였습니다.",
+      "core_adt_matter": "재고자산의 실재성 및 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210818000238",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제49기(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 향후 사업수익 실현을 통한 채무 변제와 경영정상화를 통한 안정적인 현금흐름의 확보 등의 여부에 따라 계속기업가능성에 미치는 중요한 불확실성이 존재하고 있습니다.",
+      "core_adt_matter": "유형자산 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210818000238",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "성도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 향후 사업수익 실현을 통한 채무 변제와 경영정상화를 통한 안정적인 현금흐름의 확보 등의 여부에 따라 계속기업가능성에 미치는 중요한 불확실성이 존재하고 있습니다.",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

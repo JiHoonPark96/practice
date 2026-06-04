@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000764",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제13기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 미착품의 완전성, 기간귀속, 실재성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000764",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "과거 수익인식에 대한 오류 및 연결대상에서 누락된 종속회사 식별에 따른 비교표시된 전기 연결재무제표는 재작성",
+      "core_adt_matter": "수익인식의 실재성 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000764",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 미착품의 완전성, 기간귀속, 실재성\n- 생물자산의 공정가치 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

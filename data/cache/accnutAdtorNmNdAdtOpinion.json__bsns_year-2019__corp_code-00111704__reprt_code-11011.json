@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003583",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제20기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "1. 수주산업 진행기준 수익인식\n2. 계약자산의 회수가능성\n3. 유형자산 등의 손상평가\n4. 충당부채의 설정",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003583",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제19기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 손상징후가 존재하는 계약 자산의 회수가능성\n3. 종속기업(DW Mangalia Heavy Industries S.A.) 지분매각",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003583",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업 핵심감사 항목에 대한 감사인의 강조사항 등",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 총계약원가 추정의 불확실성\n3. 공사진행률 산정\n4. 미청구공사금액 회수가능성\n5. 공사변경에 대한 회계처리\n6. 지연배상금에 대한 회계처리",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

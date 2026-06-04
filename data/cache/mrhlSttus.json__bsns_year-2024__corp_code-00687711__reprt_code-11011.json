@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001288",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "se": "소액주주",
+      "shrholdr_co": "7,422",
+      "shrholdr_tot_co": "7,433",
+      "shrholdr_rate": "99.85%",
+      "hold_stock_co": "7,378,040",
+      "stock_tot_co": "36,450,000",
+      "hold_stock_rate": "20.24%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

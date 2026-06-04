@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230814001758",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "의결권 있는 주식\n(보통주)",
+      "nm": "(주)이마트",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "613,170",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "6,131,700",
+      "trmend_posesn_stock_qota_rt": "35.65",
+      "rm": "액면분할 변경 상장에 따른 변동",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814001758",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "의결권 있는 주식\n(보통주)",
+      "nm": "계",
+      "bsis_posesn_stock_co": "613,170",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "6,131,700",
+      "trmend_posesn_stock_qota_rt": "35.65",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814001758",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "합 계",
+      "nm": "계",
+      "bsis_posesn_stock_co": "613,170",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "6,131,700",
+      "trmend_posesn_stock_qota_rt": "35.65",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000964",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "se": "소액주주",
+      "shrholdr_co": "39,299",
+      "shrholdr_tot_co": "39,309",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "11,830,110",
+      "stock_tot_co": "30,000,000",
+      "hold_stock_rate": "39.43%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

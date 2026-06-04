@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제22기 (당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19  및 러시아 제재 \n영향",
+      "core_adt_matter": "1.  투입법에 따른 수익인식\n2. 손상징후가 존재하는 계약자산 및 미인도선박의 회수가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 \n영향",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 손상징후가 존재하는 계약자산\n및 미인도선박의 회수가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314001167",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": "1. 수주산업 진행기준 수익인식\n2. 계약자산의 회수가능성\n3. 유형자산 등의 손상평가\n4. 충당부채의 설정",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

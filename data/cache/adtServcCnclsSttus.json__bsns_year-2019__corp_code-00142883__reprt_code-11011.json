@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220429001462",
+      "corp_cls": "Y",
+      "corp_code": "00142883",
+      "corp_name": "우신시스템",
+      "bsns_year": "제36기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "중간기간 재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "98,000",
+      "tot_reqre_time": "1,268시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20220429001462",
+      "corp_cls": "Y",
+      "corp_code": "00142883",
+      "corp_name": "우신시스템",
+      "bsns_year": "제35기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "중간기간 재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "85,000",
+      "tot_reqre_time": "1,191시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20220429001462",
+      "corp_cls": "Y",
+      "corp_code": "00142883",
+      "corp_name": "우신시스템",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "중간기간 재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "85,000",
+      "tot_reqre_time": "955시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

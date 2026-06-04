@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331000338",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "우석민",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "6,771,386",
+      "bsis_posesn_stock_qota_rt": "19.94",
+      "trmend_posesn_stock_co": "6,802,395",
+      "trmend_posesn_stock_qota_rt": "20.03",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331000338",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "배철한",
+      "relate": "대표이사",
+      "bsis_posesn_stock_co": "216,438",
+      "bsis_posesn_stock_qota_rt": "0.64",
+      "trmend_posesn_stock_co": "221,572",
+      "trmend_posesn_stock_qota_rt": "0.65",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331000338",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,987,824",
+      "bsis_posesn_stock_qota_rt": "20.58",
+      "trmend_posesn_stock_co": "7,023,967",
+      "trmend_posesn_stock_qota_rt": "20.68",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331000338",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

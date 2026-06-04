@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001319",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제66기(당   기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기 별도ㆍ연결 재무제표 검토 \n별도ㆍ연결재무제표 감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "850백만원",
+      "adt_cntrct_dtls_time": "8,650",
+      "real_exc_dtls_mendng": "850백만원",
+      "real_exc_dtls_time": "8,581",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001319",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제65기(전   기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기 별도ㆍ연결 재무제표 검토 \n별도ㆍ연결재무제표 감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "850백만원",
+      "adt_cntrct_dtls_time": "8,700",
+      "real_exc_dtls_mendng": "850백만원",
+      "real_exc_dtls_time": "8,066",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001319",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기 별도ㆍ연결 재무제표 검토 \n별도ㆍ연결재무제표 감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "790백만원",
+      "adt_cntrct_dtls_time": "8,400",
+      "real_exc_dtls_mendng": "790백만원",
+      "real_exc_dtls_time": "8,385",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

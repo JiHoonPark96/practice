@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000862",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제34기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "금융리스채권의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000862",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제33기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "금융리스채권의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000862",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제32기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "금융리스채권의 손상",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

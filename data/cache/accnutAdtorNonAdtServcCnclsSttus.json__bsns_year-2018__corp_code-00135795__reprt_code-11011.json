@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000035",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제59기(당기)",
+      "cntrct_cncls_de": "2018.08.24",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": " 19/01/24~19/01/25",
+      "servc_mendng": "8,000,000원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000035",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제58기(전기)",
+      "cntrct_cncls_de": "2017.07.31",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "18/01/18~18/01/19",
+      "servc_mendng": "8,000,000원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000035",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제57기(전전기)",
+      "cntrct_cncls_de": "2016.08.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "17/01/24~17/01/25",
+      "servc_mendng": "7,000,000원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "'22.05",
+      "servc_cn": "특정기간\n재무정보에 대한 검토 및 감사",
+      "servc_exc_pd": "'22.05 ~'23.03",
+      "servc_mendng": "70",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제5기(전전기)",
+      "cntrct_cncls_de": "'20.07",
+      "servc_cn": "세무자문 용역 (이전가격)",
+      "servc_exc_pd": "'20.07 ~'21.12",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

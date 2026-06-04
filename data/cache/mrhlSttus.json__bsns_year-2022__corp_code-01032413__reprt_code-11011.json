@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000981",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "se": "소액주주",
+      "shrholdr_co": "34,497",
+      "shrholdr_tot_co": "34,503",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "9,796,000",
+      "stock_tot_co": "17,000,000",
+      "hold_stock_rate": "57.62%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

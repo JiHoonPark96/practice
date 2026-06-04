@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000549",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제52기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.특수관계자와의 거래\n  - 특이사항 없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000549",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제51기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 변동대가 및 고객에게 지급할 대가\n  - 특이사항 없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000549",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "금융상품 분류와 관련하여 당기 이전 회계연도의 오류로 \n인해 비교표시되는 전기 및 전기초 연결재무제표를 재작성",
+      "core_adt_matter": "1.특수관계자와의 거래\n  - 특이사항 없음",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

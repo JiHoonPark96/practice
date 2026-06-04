@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000829",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "se": "소액주주",
+      "shrholdr_co": "232,929",
+      "shrholdr_tot_co": "232,944",
+      "shrholdr_rate": "100%",
+      "hold_stock_co": "209,662,449",
+      "stock_tot_co": "534,569,512",
+      "hold_stock_rate": "39.23%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

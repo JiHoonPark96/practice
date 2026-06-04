@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230710000268",
+      "corp_cls": "Y",
+      "corp_code": "00450010",
+      "corp_name": "씨티알모빌리티",
+      "se": "소액주주",
+      "shrholdr_co": "26,848",
+      "shrholdr_tot_co": "26,858",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "4,102,820",
+      "stock_tot_co": "8,610,000",
+      "hold_stock_rate": "47.65%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

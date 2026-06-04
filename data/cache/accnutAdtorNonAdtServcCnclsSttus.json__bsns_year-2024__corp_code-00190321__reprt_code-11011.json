@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제43기\n\n(당기)",
+      "cntrct_cncls_de": "2024.07\n2024.08\n2024.09\n2025.02",
+      "servc_cn": "전자서명 인증사업자 평가\nISAE 3402 인증보고서 발행\nComfort letter 작성\nComfort letter 작성",
+      "servc_exc_pd": "2024.07~2024.10\n2024.08~2025.02\n2024.09~2024.10\n2025.02",
+      "servc_mendng": "185\n220\n180\n100",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제42기\n\n(전기)",
+      "cntrct_cncls_de": "2023.10\n2023.06",
+      "servc_cn": "ISAE 3402 인증보고서 발행\n전자서명 인증사업자 평가",
+      "servc_exc_pd": "2023.10~2024.02\n2023.06~2024.03",
+      "servc_mendng": "200\n190",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001834",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제41기\n\n(전전기)",
+      "cntrct_cncls_de": "2022.08",
+      "servc_cn": "Comfort letter 작성",
+      "servc_exc_pd": "2022.08",
+      "servc_mendng": "180",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001361",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "se": "소액주주",
+      "shrholdr_co": "9,364",
+      "shrholdr_tot_co": "9,376",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "12,105,728",
+      "stock_tot_co": "23,728,210",
+      "hold_stock_rate": "51.02%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

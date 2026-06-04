@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310000376",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "bsns_year": "제42기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "기말감사보고서,\n반기검토보고서\n(별도, 연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "275",
+      "adt_cntrct_dtls_time": "1,910",
+      "real_exc_dtls_mendng": "275",
+      "real_exc_dtls_time": "1911",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310000376",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "bsns_year": "제41기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "기말감사보고서,\n반기검토보고서\n(별도, 연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "260",
+      "real_exc_dtls_time": "1,918",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310000376",
+      "corp_cls": "Y",
+      "corp_code": "00173944",
+      "corp_name": "우진",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "회계법인 베율",
+      "cn": "기말감사보고서,\n반기검토보고서\n(별도, 연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160",
+      "adt_cntrct_dtls_time": "1,870",
+      "real_exc_dtls_mendng": "160",
+      "real_exc_dtls_time": "1,910",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

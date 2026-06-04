@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_code": "286940",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241113000663",
+      "flr_nm": "롯데이노베이트",
+      "rcept_dt": "20241113",
+      "rm": ""
+    },
+    {
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_code": "286940",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240813001479",
+      "flr_nm": "롯데이노베이트",
+      "rcept_dt": "20240813",
+      "rm": ""
+    },
+    {
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_code": "286940",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240514001322",
+      "flr_nm": "롯데이노베이트",
+      "rcept_dt": "20240514",
+      "rm": ""
+    },
+    {
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_code": "286940",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240313001559",
+      "flr_nm": "롯데이노베이트",
+      "rcept_dt": "20240313",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000652",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "se": "소액주주",
+      "shrholdr_co": "11,580",
+      "shrholdr_tot_co": "11,581",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "43,384,148",
+      "stock_tot_co": "50,535,136",
+      "hold_stock_rate": "85.85%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

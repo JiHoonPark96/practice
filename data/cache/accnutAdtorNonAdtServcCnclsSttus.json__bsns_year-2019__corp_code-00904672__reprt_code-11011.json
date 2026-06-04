@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004828",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제9기(당기)",
+      "cntrct_cncls_de": "2019.12.04",
+      "servc_cn": "2018 사업연도 CBCR 작성 지원",
+      "servc_exc_pd": "2019.12 ~ 2020.01",
+      "servc_mendng": "5,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004828",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2018.06.29",
+      "servc_cn": "연구개발세액공제 검토",
+      "servc_exc_pd": "2018.06~2018.08",
+      "servc_mendng": "300,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004828",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2018.02.14",
+      "servc_cn": "전자적 용역에 대한 부가가치세 검토",
+      "servc_exc_pd": "2018.02~2018.04",
+      "servc_mendng": "20,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004828",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2018.09.21",
+      "servc_cn": "상시세무자문",
+      "servc_exc_pd": "2018.09~2019.08",
+      "servc_mendng": "20,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004828",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2018.12.03",
+      "servc_cn": "2017사업연도 CBCR 작성 지원",
+      "servc_exc_pd": "2018.12~2019.02",
+      "servc_mendng": "5,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004828",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제7기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

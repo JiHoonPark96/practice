@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001090",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제53기(당)기",
+      "cntrct_cncls_de": "2024.04월",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2024.04.01~2025.03.31",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001090",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제52기(전)기",
+      "cntrct_cncls_de": "2023.04월",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2023.04.01~2024.03.31",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001090",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제51기(전전)기",
+      "cntrct_cncls_de": "2022.04월",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2022.04.01~2023.03.31",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

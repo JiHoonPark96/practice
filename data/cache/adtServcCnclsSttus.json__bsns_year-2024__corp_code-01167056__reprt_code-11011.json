@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000817",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "bsns_year": "제9기\n(당기)",
+      "adtor": "예일회계법인",
+      "cn": "외감법에 의한 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120",
+      "adt_cntrct_dtls_time": "1,630",
+      "real_exc_dtls_mendng": "120",
+      "real_exc_dtls_time": "1,649",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000817",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "bsns_year": "제8기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "외감법에 의한 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "119",
+      "adt_cntrct_dtls_time": "1,464",
+      "real_exc_dtls_mendng": "119",
+      "real_exc_dtls_time": "1,464",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000817",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "bsns_year": "제7기\n(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "외감법에 의한 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "119",
+      "adt_cntrct_dtls_time": "1,440",
+      "real_exc_dtls_mendng": "119",
+      "real_exc_dtls_time": "1,482",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250411003513",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출의 실재성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250411003513",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출의 실재성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250411003513",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "검찰 조사 관련",
+      "core_adt_matter": "투자자산(대여금)의 실재성과 회수 가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250411003513",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "검찰 조사 관련",
+      "core_adt_matter": "투자자산(대여금)의 실재성과 회수 가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250411003513",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "최대주주의 변경 및 특수관계자와의 거래",
+      "core_adt_matter": "매출채권의 회수 가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250411003513",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "최대주주의 변경 및 특수관계자와의 거래",
+      "core_adt_matter": "매출채권의 회수 가능성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

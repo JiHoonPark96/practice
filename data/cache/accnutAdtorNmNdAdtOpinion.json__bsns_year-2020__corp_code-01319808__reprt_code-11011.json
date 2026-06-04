@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제 3기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "시멘트사업부 영업권 손상검토\n금융보증계약부채 및 출자전환부채의 평가\n산림복구충당부채",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제 2기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "산림복구충당부채",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제 1기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

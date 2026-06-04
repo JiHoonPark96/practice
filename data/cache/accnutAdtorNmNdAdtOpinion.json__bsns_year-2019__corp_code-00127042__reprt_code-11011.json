@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200401002788",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "bsns_year": "제 59 기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200401002788",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "bsns_year": "제 58 기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200401002788",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "bsns_year": "제 57 기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에 영향을 미치지 않는 사항으로서 이용자는 다음 사항들에 주의를 기울여야 할 필요가 있습니다. 주석 27에서 기술되어 있는 바와 같이 회사는 특수관계자에 대한 매출과 매입 등이 각각 150 백만원, 1,047 백만원이 있으며, 이와 관련하여 채권과 채무가 각각 624 백만원,  222 백만원이 있습니다. 우리의 의견은 이 사항과 관련하여 영향을 받지 아니합니다.",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

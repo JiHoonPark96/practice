@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001117",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제68기(당기)",
+      "cntrct_cncls_de": "2023.8.1",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2023.8.1 ~ 2023.12.31",
+      "servc_mendng": "109",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001117",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제67기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001117",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제66기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

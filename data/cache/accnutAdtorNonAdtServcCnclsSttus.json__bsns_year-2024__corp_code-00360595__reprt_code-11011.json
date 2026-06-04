@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "2024.12.17",
+      "servc_cn": "CSRD 공시 대응 자문",
+      "servc_exc_pd": "2024.12 - 2026.5.",
+      "servc_mendng": "690",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제23기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제22기(전전기)",
+      "cntrct_cncls_de": "2022.05.24",
+      "servc_cn": "'2022년법인세, 부가가치세, 원천세등상시자문\n(디지털환경변화에대한세무자문포함)",
+      "servc_exc_pd": "2022.05 ~ 2022.12",
+      "servc_mendng": "160",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

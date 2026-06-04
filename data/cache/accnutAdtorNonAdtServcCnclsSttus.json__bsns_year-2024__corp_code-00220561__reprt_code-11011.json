@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000495",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제30기(당기)",
+      "cntrct_cncls_de": "2024.10.11",
+      "servc_cn": "기업가치제고계획서 작성 지원용역",
+      "servc_exc_pd": "2024.10.11 ~ 2024.12.27",
+      "servc_mendng": "10백만",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000495",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제29기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000495",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제28기(전전기)",
+      "cntrct_cncls_de": "2022.12.19",
+      "servc_cn": "상권조사 용역",
+      "servc_exc_pd": "-",
+      "servc_mendng": "150백만",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

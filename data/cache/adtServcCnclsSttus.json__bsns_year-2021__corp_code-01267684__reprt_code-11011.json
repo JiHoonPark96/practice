@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "05기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결재무제표 검토/감사\n별도재무제표 검토/감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270",
+      "adt_cntrct_dtls_time": "3,644",
+      "real_exc_dtls_mendng": "270",
+      "real_exc_dtls_time": "4,295",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제04기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결재무제표 검토/감사\n별도재무제표 검토/감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270",
+      "adt_cntrct_dtls_time": "3,375",
+      "real_exc_dtls_mendng": "270",
+      "real_exc_dtls_time": "4,307",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제03기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결재무제표 검토/감사\n별도재무제표 검토/감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,874",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,874",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

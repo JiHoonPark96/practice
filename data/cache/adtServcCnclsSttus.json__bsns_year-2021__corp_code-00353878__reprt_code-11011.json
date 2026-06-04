@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220405002851",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제26기 (당기)",
+      "adtor": "도원회계법인",
+      "cn": "별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "1,500",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "1,500",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220405002851",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제25기(전기)",
+      "adtor": "도원회계법인",
+      "cn": "별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,257",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,257",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220405002851",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "회계법인 원지",
+      "cn": "별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "40",
+      "adt_cntrct_dtls_time": "798",
+      "real_exc_dtls_mendng": "40",
+      "real_exc_dtls_time": "798",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

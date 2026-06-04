@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210218000901",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "bsns_year": "제13기(당기)",
+      "adtor": "성현회계법인\n(舊.성도이현\n회계법인)",
+      "adt_opinion": "적정(공정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 총계약원가에 대한 추정의 불확실성\n- 공사진행률 산정\n- 공사변경에 대한 회계처리\n- 계약자산 금액 회수가능성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210218000901",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "bsns_year": "제12기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정(공정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 공사진행률 산정\n- 계약자산 금액 회수가능성\n- 공사변경에 대한 회계처리",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210218000901",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정(공정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "- 일반사항\n- 투입법에 따른 수익인식\n- 총계약원가 추정의 불확실성\n- 공사진행률 산정\n- 계약자산 금액 회수가능성\n- 공사변경에 대한 회계처리",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

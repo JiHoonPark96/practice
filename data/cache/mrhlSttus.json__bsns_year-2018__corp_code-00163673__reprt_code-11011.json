@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004678",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "9,445",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "7,787,024",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "26.37%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

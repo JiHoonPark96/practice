@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240920000129",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "se": "소액주주",
+      "shrholdr_co": "12,651",
+      "shrholdr_tot_co": "12,657",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "19,761,464",
+      "stock_tot_co": "31,154,798",
+      "hold_stock_rate": "63.53%",
+      "stlm_dt": "2024-06-30"
+    }
+  ]
+}

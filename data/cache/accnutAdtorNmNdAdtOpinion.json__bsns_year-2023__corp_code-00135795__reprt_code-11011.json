@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000830",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제64기 1분기\n제64기 반기\n제64기 3분기\n제64기 연간",
+      "adtor": "한영회계법인",
+      "adt_opinion": "예외사항없음\n예외사항없음\n예외사항없음\n적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음\n해당사항없음\n해당사항없음해당사항없음",
+      "core_adt_matter": "복합기 및 프린터 등 재화의 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000830",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제63기 1분기\n제63기 반기\n제63기 3분기\n제63기 연간",
+      "adtor": "우리회계법인",
+      "adt_opinion": "예외사항없음\n예외사항없음\n예외사항없음\n적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음\n해당사항없음\n해당사항없음\n해당사항없음",
+      "core_adt_matter": "복합기 및 프린터등 재화의 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000830",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제62기 1분기\n제62기 반기\n제62기 3분기\n제62기 연간",
+      "adtor": "우리회계법인",
+      "adt_opinion": "예외사항없음\n예외사항없음\n예외사항없음\n적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음\n해당사항없음\n해당사항없음\n해당사항없음",
+      "core_adt_matter": "복합기 및 프린터등 재화의 수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

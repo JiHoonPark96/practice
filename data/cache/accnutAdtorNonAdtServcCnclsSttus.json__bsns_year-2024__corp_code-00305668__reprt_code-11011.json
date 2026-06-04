@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000868",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제26기(당기)\n3분기",
+      "cntrct_cncls_de": "2024.04.18",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "24.01.01~24.12.31",
+      "servc_mendng": "20,000,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000868",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제26기(당기)\n3분기",
+      "cntrct_cncls_de": "2024.08.14",
+      "servc_cn": "이전가격보고서",
+      "servc_exc_pd": "24.08.14~24.12.31",
+      "servc_mendng": "19,500,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000868",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제25기(전기)",
+      "cntrct_cncls_de": "2023.04.18",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "23.01.01~23.12.31",
+      "servc_mendng": "20,000,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000868",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제25기(전기)",
+      "cntrct_cncls_de": "2023.07.31",
+      "servc_cn": "이전가격보고서",
+      "servc_exc_pd": "23.09.13~23.12.13",
+      "servc_mendng": "18,500,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000868",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제24기(전전기)",
+      "cntrct_cncls_de": "2022.03.29",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "22.01.01~22.12.31",
+      "servc_mendng": "18,800,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

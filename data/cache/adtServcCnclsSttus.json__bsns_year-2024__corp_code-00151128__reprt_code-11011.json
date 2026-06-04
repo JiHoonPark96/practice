@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000748",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "서현\n회계법인",
+      "cn": "반기검토, 중간감사, 결산감사,\n연결감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "155",
+      "adt_cntrct_dtls_time": "1,600",
+      "real_exc_dtls_mendng": "119",
+      "real_exc_dtls_time": "1,646",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000748",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "서현\n회계법인",
+      "cn": "반기검토, 중간감사, 결산감사,\n연결감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "155",
+      "adt_cntrct_dtls_time": "1,695",
+      "real_exc_dtls_mendng": "164",
+      "real_exc_dtls_time": "1,845",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000748",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "삼덕\n회계법인",
+      "cn": "반기검토, 중간감사, 결산감사,\n연결감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "1,750",
+      "real_exc_dtls_mendng": "233",
+      "real_exc_dtls_time": "1,856",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

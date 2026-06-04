@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제21기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제21기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제20기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제20기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제19기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000664",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제19기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

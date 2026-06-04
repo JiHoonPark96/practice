@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329002623",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제77기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 전기 연결재무제표 재작성",
+      "core_adt_matter": "- DL이앤씨 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002623",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제76기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 연결재무제표 재작성\n- 재무제표 재작성",
+      "core_adt_matter": "- DL이앤씨 관계기업투자주식에 대한 손상평가\n- DL이앤씨 지분법 적용",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002623",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제75기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 연결재무제표 재작성\n- 재무제표 재작성",
+      "core_adt_matter": "- 청진이삼프로젝트 종속기업투자주식에 대한 손상평가\n- DL이앤씨㈜의 식별가능한 무형자산 공정가치 측정",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

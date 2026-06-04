@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "stock_code": "084670",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221110000464",
+      "flr_nm": "동양고속",
+      "rcept_dt": "20221110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "stock_code": "084670",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20221013000113",
+      "flr_nm": "동양고속",
+      "rcept_dt": "20221013",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "stock_code": "084670",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220811000518",
+      "flr_nm": "동양고속",
+      "rcept_dt": "20220811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "stock_code": "084670",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220513000552",
+      "flr_nm": "동양고속",
+      "rcept_dt": "20220513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "stock_code": "084670",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220321001435",
+      "flr_nm": "동양고속",
+      "rcept_dt": "20220321",
+      "rm": "정연"
+    }
+  ]
+}

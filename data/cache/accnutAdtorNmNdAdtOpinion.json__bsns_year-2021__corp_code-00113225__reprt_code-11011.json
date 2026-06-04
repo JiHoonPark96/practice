@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000844",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "bsns_year": "제69기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 주석3. 중요한 회계추정 및 가정   :\nCOVID-19(코로나바이러스감염증-19)의\n확산이 기업의 생산 능력과 고객에 대한 주문\n이행능력에 미칠수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "국내 제강부문 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000844",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "bsns_year": "제68기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 주석3. 중요한 회계추정 및 가정   :\nCOVID-19(코로나바이러스감염증-19)의\n확산이 기업의 생산 능력과 고객에 대한 주문\n이행능력에 미칠수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "대한제강 제강부문 현금창출단위 손상평가\n / 사업결합 회계처리",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000844",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "국내제강부문 유형자산 송상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

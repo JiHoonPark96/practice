@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201230000709",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제32기(당기)",
+      "cntrct_cncls_de": "2018.01\n2018.02\n2018.02\n2018.07",
+      "servc_cn": "해외법인 경영관리 자문\nE-discovery 용역\nESG 통합보고서 검증\n글로벌 CIC/해외법인 업무 매뉴얼 및 규정 검토",
+      "servc_exc_pd": "2018.01~2018.02\n2018.02~2018.03\n2018.02~2018.03\n2018.07~2018.08",
+      "servc_mendng": "75백만원\n143백만원\n15백만원\n40백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201230000709",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제31기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201230000709",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제30기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

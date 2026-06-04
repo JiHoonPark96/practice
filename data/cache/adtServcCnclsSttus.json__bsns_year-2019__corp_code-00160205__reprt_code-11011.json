@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001225",
+      "corp_cls": "Y",
+      "corp_code": "00160205",
+      "corp_name": "한국내화",
+      "bsns_year": "제46기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 중간, 기말감사 등",
+      "mendng": "104,000",
+      "tot_reqre_time": "1,487시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001225",
+      "corp_cls": "Y",
+      "corp_code": "00160205",
+      "corp_name": "한국내화",
+      "bsns_year": "제45기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 중간, 기말감사 등",
+      "mendng": "72,000",
+      "tot_reqre_time": "850시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001225",
+      "corp_cls": "Y",
+      "corp_code": "00160205",
+      "corp_name": "한국내화",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 중간, 기말감사 등",
+      "mendng": "65,000",
+      "tot_reqre_time": "839시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_code": "004920",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002487",
+      "flr_nm": "씨아이테크",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_code": "004920",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814003058",
+      "flr_nm": "씨아이테크",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_code": "004920",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001300",
+      "flr_nm": "씨아이테크",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_code": "004920",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230320000388",
+      "flr_nm": "씨아이테크",
+      "rcept_dt": "20230320",
+      "rm": "연"
+    }
+  ]
+}

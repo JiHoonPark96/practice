@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000425",
+      "corp_cls": "Y",
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "2",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "2",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

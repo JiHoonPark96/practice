@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000879",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "3",
+      "apnt": "1",
+      "rlsofc": "0",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002749",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "(주)에스지고려",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "27,756,839",
+      "bsis_posesn_stock_qota_rt": "61.73",
+      "trmend_posesn_stock_co": "21,756,839",
+      "trmend_posesn_stock_qota_rt": "48.39",
+      "rm": "시간외 매매",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002749",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "(주)케이엠앤아이",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "5,234,379",
+      "bsis_posesn_stock_qota_rt": "11.64",
+      "trmend_posesn_stock_co": "4,234,379",
+      "trmend_posesn_stock_qota_rt": "9.42",
+      "rm": "시간외 매매",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002749",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "(주)SG세계물산",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,709,920",
+      "bsis_posesn_stock_qota_rt": "3.80",
+      "trmend_posesn_stock_co": "1,709,920",
+      "trmend_posesn_stock_qota_rt": "3.80",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002749",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "34,701,138",
+      "bsis_posesn_stock_qota_rt": "77.17",
+      "trmend_posesn_stock_co": "27,701,138",
+      "trmend_posesn_stock_qota_rt": "61.61",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002749",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000780",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제49기(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "반환제품회수권과 환불부채 추정의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000780",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000780",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 및 기타무형\n자산 손상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

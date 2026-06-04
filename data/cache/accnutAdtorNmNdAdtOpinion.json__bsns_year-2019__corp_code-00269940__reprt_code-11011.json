@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002664",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제27기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "국제관광 알선수익의 실재성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002664",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제26기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002664",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제25기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

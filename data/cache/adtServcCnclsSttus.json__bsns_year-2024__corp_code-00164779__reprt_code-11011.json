@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000665",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제77기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토\n별도재무제표감사\n연결재무제표감사\n내부회계제도감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,950",
+      "adt_cntrct_dtls_time": "28,500",
+      "real_exc_dtls_mendng": "2,950",
+      "real_exc_dtls_time": "27,663",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000665",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제76기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토\n별도재무제표감사\n연결재무제표감사\n내부회계제도감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,800",
+      "adt_cntrct_dtls_time": "28,000",
+      "real_exc_dtls_mendng": "2,800",
+      "real_exc_dtls_time": "26,643",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000665",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제75기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기검토\n별도재무제표감사\n연결재무제표감사\n내부회계제도감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,200",
+      "adt_cntrct_dtls_time": "27,800",
+      "real_exc_dtls_mendng": "3,200",
+      "real_exc_dtls_time": "27,120",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

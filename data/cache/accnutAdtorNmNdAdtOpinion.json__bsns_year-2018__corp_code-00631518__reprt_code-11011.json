@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003274",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 12 기(2018년)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003274",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 11기 (2017년)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003274",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 10기 (2016년)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

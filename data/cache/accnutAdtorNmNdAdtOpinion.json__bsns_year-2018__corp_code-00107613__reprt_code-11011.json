@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004375",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제47기 연간",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004375",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제46기 연간",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004375",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제45기 연간",
+      "adtor": "삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001311",
+      "corp_cls": "Y",
+      "corp_code": "00115977",
+      "corp_name": "아이에스동서",
+      "se": "소액주주",
+      "shrholdr_co": "23,606",
+      "shrholdr_tot_co": "23,615",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "12,066,505",
+      "stock_tot_co": "30,892,606",
+      "hold_stock_rate": "39.06%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

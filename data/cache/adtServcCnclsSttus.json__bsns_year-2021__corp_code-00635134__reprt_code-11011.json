@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001115",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 15 기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분기ㆍ반기재무제표 검토\n별도ㆍ연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,100",
+      "adt_cntrct_dtls_time": "10,000",
+      "real_exc_dtls_mendng": "1,100",
+      "real_exc_dtls_time": "10,505",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001115",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 14 기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기ㆍ반기재무제표 검토\n별도ㆍ연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "990",
+      "adt_cntrct_dtls_time": "9,000",
+      "real_exc_dtls_mendng": "990",
+      "real_exc_dtls_time": "12,177",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001115",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 13 기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기ㆍ반기재무제표 검토\n별도ㆍ연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "930",
+      "adt_cntrct_dtls_time": "10,000",
+      "real_exc_dtls_mendng": "930",
+      "real_exc_dtls_time": "13,008",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

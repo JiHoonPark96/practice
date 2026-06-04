@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004306",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "se": "소액주주",
+      "shrholdr_co": "3,821",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.32%",
+      "hold_stock_co": "1,595,010",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "39.33%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

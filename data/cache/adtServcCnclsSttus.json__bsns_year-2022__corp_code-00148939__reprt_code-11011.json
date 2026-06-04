@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001017",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제57기(당기)",
+      "adtor": "정진세림회계법인",
+      "cn": "재무제표 감사\n반기재무제표 검토\n내부회계관리제도감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000",
+      "adt_cntrct_dtls_time": "1,288",
+      "real_exc_dtls_mendng": "90,000",
+      "real_exc_dtls_time": "1,293",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001017",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제56기(전기)",
+      "adtor": "정진세림회계법인",
+      "cn": "재무제표 감사\n반기재무제표 검토\n내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000",
+      "adt_cntrct_dtls_time": "888",
+      "real_exc_dtls_mendng": "60,000",
+      "real_exc_dtls_time": "1,034",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001017",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "정진세림회계법인",
+      "cn": "재무제표 감사\n반기재무제표 검토\n내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000",
+      "adt_cntrct_dtls_time": "841",
+      "real_exc_dtls_mendng": "60,000",
+      "real_exc_dtls_time": "842",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

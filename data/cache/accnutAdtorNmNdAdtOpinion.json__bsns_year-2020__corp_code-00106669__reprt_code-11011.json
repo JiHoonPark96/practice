@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제65기 ",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산평가, 현금창출단위 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제65기 ",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제64기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

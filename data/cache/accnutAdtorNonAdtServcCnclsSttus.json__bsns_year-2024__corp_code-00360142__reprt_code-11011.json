@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001632",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001632",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001632",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2022.08",
+      "servc_cn": "ESG 관리역량 강화 및\n제품 프리미엄화 전략 컨설팅",
+      "servc_exc_pd": "2022.08 ~ 2022.11",
+      "servc_mendng": "290,000,000원",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

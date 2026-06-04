@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000526",
+      "corp_cls": "Y",
+      "corp_code": "00140131",
+      "corp_name": "키다리스튜디오",
+      "se": "소액주주",
+      "shrholdr_co": "17,967",
+      "shrholdr_tot_co": "17,986",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "10,872,197",
+      "stock_tot_co": "37,063,766",
+      "hold_stock_rate": "29.33%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

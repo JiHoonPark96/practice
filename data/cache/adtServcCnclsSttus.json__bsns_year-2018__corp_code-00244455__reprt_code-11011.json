@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201230000709",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제32기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분·반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 검토, 중간감사",
+      "mendng": "2,313",
+      "tot_reqre_time": "25,270",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201230000709",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제31기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분·반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 검토, 중간감사 등",
+      "mendng": "553",
+      "tot_reqre_time": "8,819",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201230000709",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분·반기 재무제표 검토, 별도 및 연결재무제표 감사, 내부회계관리제도 검토, 중간감사 등",
+      "mendng": "513",
+      "tot_reqre_time": "7,070",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

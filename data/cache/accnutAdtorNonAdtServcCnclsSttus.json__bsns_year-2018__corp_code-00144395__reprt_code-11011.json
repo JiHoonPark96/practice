@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003233",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2018.04.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "18.04.01 ~ 19.03.31",
+      "servc_mendng": "16,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003233",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2017.04.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "17.04.01 ~ 18.03.31",
+      "servc_mendng": "16,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003233",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "2016.03.21",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "16.04.01 ~ 17.03.31",
+      "servc_mendng": "13,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003233",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "2016.06.13",
+      "servc_cn": "기업가치평가",
+      "servc_exc_pd": "16.06.13 ~ 16.07.28",
+      "servc_mendng": "33,370",
+      "rm": "부가세 포함",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

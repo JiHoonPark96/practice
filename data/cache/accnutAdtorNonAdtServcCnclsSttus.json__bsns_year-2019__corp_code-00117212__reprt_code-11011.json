@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20241002000388",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제83기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20241002000388",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제82기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20241002000388",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제81기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

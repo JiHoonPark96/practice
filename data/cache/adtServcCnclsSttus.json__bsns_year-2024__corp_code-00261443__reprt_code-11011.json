@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328002285",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제28기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토 별도 및 연결 재무제표에 대한 감사\n별도 및 연결 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "730",
+      "adt_cntrct_dtls_time": "7,300",
+      "real_exc_dtls_mendng": "730",
+      "real_exc_dtls_time": "7,133",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328002285",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제27기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토 별도 및 연결 재무제표에 대한 감사\n별도 및 연결 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "730",
+      "adt_cntrct_dtls_time": "7,300",
+      "real_exc_dtls_mendng": "730",
+      "real_exc_dtls_time": "7,580",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328002285",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제26기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 재무제표 검토 별도 및 연결 재무제표에 대한 감사\n별도 및 연결 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "960",
+      "adt_cntrct_dtls_time": "8,480",
+      "real_exc_dtls_mendng": "960",
+      "real_exc_dtls_time": "7,308",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

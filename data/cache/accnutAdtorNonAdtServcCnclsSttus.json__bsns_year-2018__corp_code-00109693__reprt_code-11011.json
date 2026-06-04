@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "2018.08.31",
+      "servc_cn": "사채관리계약이행 확인서한",
+      "servc_exc_pd": "2018.08.31 ~ 2019.04.30",
+      "servc_mendng": "1.5",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "2018.03.19",
+      "servc_cn": "재무정보인증",
+      "servc_exc_pd": "2018.03.19 ~ 2018.03.22",
+      "servc_mendng": "1.5",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "2017.03.14",
+      "servc_cn": "재무정보인증",
+      "servc_exc_pd": "2017.03.14 ~ 2017.03.17",
+      "servc_mendng": "11",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "2017.09.05",
+      "servc_cn": "사채관리계약이행 확인서한",
+      "servc_exc_pd": "2017.09.05 ~ 2018.04.30",
+      "servc_mendng": "1.5",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2016.02.24",
+      "servc_cn": "재무정보인증",
+      "servc_exc_pd": "2016.02.24 ~ 2016.02.26",
+      "servc_mendng": "5",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2016.05.25",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2016.05.25 ~ 2017.03.10",
+      "servc_mendng": "120",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2016.07.13",
+      "servc_cn": "재무정보인증",
+      "servc_exc_pd": "2016.07.13 ~ 2016.07.14",
+      "servc_mendng": "1.5",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2016.08.30",
+      "servc_cn": "사채관리계약이행 확인서한",
+      "servc_exc_pd": "2016.09.12 ~ 2016.09.15",
+      "servc_mendng": "1.5",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2016.10.17",
+      "servc_cn": "재무정보인증",
+      "servc_exc_pd": "2016.10.17 ~ 2016.10.18",
+      "servc_mendng": "2",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

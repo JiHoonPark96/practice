@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000852",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(주1)",
+      "core_adt_matter": "(주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000852",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(주1)",
+      "core_adt_matter": "(주3)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000852",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "N/A",
+      "core_adt_matter": "(주4)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

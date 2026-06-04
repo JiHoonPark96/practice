@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003597",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제43기(당   기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003597",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제42기(전   기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003597",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001207",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제43기(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식에 대한 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001207",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제42기(전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식에 대한 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001207",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "합금철 및 중질탄산칼슘 제조사업 수익인식의 적정성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

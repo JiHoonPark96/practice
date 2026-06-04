@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2022.04",
+      "servc_cn": "해외주재원 종합소득세 신고용역",
+      "servc_exc_pd": "2022.04~2022.05",
+      "servc_mendng": "17",
+      "rm": "한영회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2022.03",
+      "servc_cn": "인니법인 합병 사전검토",
+      "servc_exc_pd": "2022.03~2022.04",
+      "servc_mendng": "200",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2021.11",
+      "servc_cn": "이전가격 문서화 용역",
+      "servc_exc_pd": "2021.11~2021.12",
+      "servc_mendng": "30",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2020.04",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2020.04~2021.03",
+      "servc_mendng": "80",
+      "rm": "안진회계법인",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

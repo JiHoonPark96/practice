@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000976",
+      "corp_cls": "Y",
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "8,865",
+      "shrholdr_tot_co": "8,874",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "1,057,371",
+      "stock_tot_co": "4,755,221",
+      "hold_stock_rate": "22.2%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

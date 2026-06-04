@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331002554",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "se": "소액주주",
+      "shrholdr_co": "6,578",
+      "shrholdr_tot_co": "6,584",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "4,501,434",
+      "stock_tot_co": "9,749,984",
+      "hold_stock_rate": "46.17%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

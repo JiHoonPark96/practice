@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002661",
+      "flr_nm": "SK하이닉스",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002432",
+      "flr_nm": "SK하이닉스",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002604",
+      "flr_nm": "SK하이닉스",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190404002329",
+      "flr_nm": "SK하이닉스",
+      "rcept_dt": "20190404",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401003957",
+      "flr_nm": "SK하이닉스",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2023.08",
+      "servc_cn": " 23년 VDS 세무조정 내역(23년 ~ 24년) ",
+      "servc_exc_pd": "2024.08 ~ 2024.03 ",
+      "servc_mendng": "    6",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2023.07",
+      "servc_cn": " IDS 공장 신설에  따른 인도네시아 투자혜택 검토 용역 ",
+      "servc_exc_pd": " 2023.07 ~ 보고서종료일 ",
+      "servc_mendng": "  30",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2023.07",
+      "servc_cn": " Pillar2(글로벌 최저한세) 영향 검토 용역 ",
+      "servc_exc_pd": " 2023.07 ~ 보고서종료일 ",
+      "servc_mendng": "   25",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2023.10",
+      "servc_cn": " BEPS 보고서 작성 지원  ",
+      "servc_exc_pd": " 2023.10 ~ 2023.12 ",
+      "servc_mendng": "   15",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2023.11",
+      "servc_cn": " 인도네시아 구조개편 관련 세무영향 검토를 위한 자문용역 ",
+      "servc_exc_pd": " 2023.11 ~ 보고서종료일 ",
+      "servc_mendng": "   50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

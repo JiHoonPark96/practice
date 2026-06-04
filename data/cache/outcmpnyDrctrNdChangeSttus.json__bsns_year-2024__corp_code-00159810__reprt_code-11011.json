@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001650",
+      "corp_cls": "Y",
+      "corp_code": "00159810",
+      "corp_name": "카프로",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "5",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

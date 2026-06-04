@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000935",
+      "corp_cls": "Y",
+      "corp_code": "00138260",
+      "corp_name": "SIMPAC",
+      "se": "소액주주",
+      "shrholdr_co": "8,495",
+      "shrholdr_tot_co": "8,506",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "13,010,120",
+      "stock_tot_co": "55,860,643",
+      "hold_stock_rate": "23.29%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

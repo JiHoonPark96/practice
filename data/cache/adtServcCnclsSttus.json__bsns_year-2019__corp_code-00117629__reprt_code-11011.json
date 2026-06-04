@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001936",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "bsns_year": "제48기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표에 대한 검토,중간감사,기말감사",
+      "mendng": "108,000",
+      "tot_reqre_time": "1,613",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001936",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "bsns_year": "제47기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표에 대한 검토,중간감사,기말감사",
+      "mendng": "72,000",
+      "tot_reqre_time": "1,548",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001936",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표에 대한 검토,중간감사,기말감사",
+      "mendng": "55,000",
+      "tot_reqre_time": "1,432",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

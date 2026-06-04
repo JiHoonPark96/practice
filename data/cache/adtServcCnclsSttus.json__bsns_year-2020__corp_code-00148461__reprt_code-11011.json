@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000507",
+      "corp_cls": "Y",
+      "corp_code": "00148461",
+      "corp_name": "제일연마",
+      "bsns_year": "제47기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표 감사\n내부관리회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "77백만원",
+      "adt_cntrct_dtls_time": "810시간",
+      "real_exc_dtls_mendng": "77백만원",
+      "real_exc_dtls_time": "823시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000507",
+      "corp_cls": "Y",
+      "corp_code": "00148461",
+      "corp_name": "제일연마",
+      "bsns_year": "제46기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표 감사\n내부관리회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "69백만원",
+      "adt_cntrct_dtls_time": "767시간",
+      "real_exc_dtls_mendng": "69백만원",
+      "real_exc_dtls_time": "746시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000507",
+      "corp_cls": "Y",
+      "corp_code": "00148461",
+      "corp_name": "제일연마",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표 감사\n내부관리회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "69백만원",
+      "adt_cntrct_dtls_time": "650시간",
+      "real_exc_dtls_mendng": "69백만원",
+      "real_exc_dtls_time": "640시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

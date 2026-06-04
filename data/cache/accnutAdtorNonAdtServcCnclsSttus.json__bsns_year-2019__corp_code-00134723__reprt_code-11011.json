@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제67기(당기)",
+      "cntrct_cncls_de": "2019.11",
+      "servc_cn": "사채관리계약\n이행상황보고서",
+      "servc_exc_pd": "2019.06. ~ 2019.06..",
+      "servc_mendng": "2백만원",
+      "rm": "제 106회 BW",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제66기(전기)",
+      "cntrct_cncls_de": "2018.06.",
+      "servc_cn": "사채관리계약\n이행상황보고서",
+      "servc_exc_pd": "2018.06. ~ 2018.06..",
+      "servc_mendng": "1백만원",
+      "rm": "제 106회 BW",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제66기(전기)",
+      "cntrct_cncls_de": "2018.11",
+      "servc_cn": "사채관리계약\n이행상황보고서",
+      "servc_exc_pd": "2018.11. ~ 2018.11",
+      "servc_mendng": "1백만원",
+      "rm": "제 106회 BW",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제65기(전전기)",
+      "cntrct_cncls_de": "2017.07.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.07. ~ 2018.04.",
+      "servc_mendng": "4백만원",
+      "rm": "디오션시티퍼스트",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제65기(전전기)",
+      "cntrct_cncls_de": "2017.07.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.07. ~ 2018.04.",
+      "servc_mendng": "4백만원",
+      "rm": "디오션시티투",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001413",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제65기(전전기)",
+      "cntrct_cncls_de": "2017.07.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.07. ~ 2018.04.",
+      "servc_mendng": "4백만원",
+      "rm": "디오션시티쓰리",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

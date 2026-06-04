@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000936",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "se": "소액주주",
+      "shrholdr_co": "7,594",
+      "shrholdr_tot_co": "7,603",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "4,140,291",
+      "stock_tot_co": "10,000,000",
+      "hold_stock_rate": "41.40%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

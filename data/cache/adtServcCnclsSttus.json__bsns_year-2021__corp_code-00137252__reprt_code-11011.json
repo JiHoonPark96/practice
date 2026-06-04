@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000709",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "bsns_year": "제51기",
+      "adtor": "서우회계법인",
+      "cn": "별도재무제표ㆍ연결재무제표 감사반기재무제표 검토내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145백만원",
+      "adt_cntrct_dtls_time": "1,455시간",
+      "real_exc_dtls_mendng": "145백만원",
+      "real_exc_dtls_time": "1,442시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000709",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "bsns_year": "제50기",
+      "adtor": "서우회계법인",
+      "cn": "별도재무제표ㆍ연결재무제표 감사반기재무제표 검토내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125백만원",
+      "adt_cntrct_dtls_time": "1,410시간",
+      "real_exc_dtls_mendng": "125백만원",
+      "real_exc_dtls_time": "1,418시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000709",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "bsns_year": "제49기",
+      "adtor": "서우회계법인",
+      "cn": "별도재무제표ㆍ연결재무제표 감사반기재무제표 검토내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125백만원",
+      "adt_cntrct_dtls_time": "1,400시간",
+      "real_exc_dtls_mendng": "125백만원",
+      "real_exc_dtls_time": "1,408시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

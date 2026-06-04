@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "se": "소액주주",
+      "shrholdr_co": "34,981",
+      "shrholdr_tot_co": "35,010",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "59,725,003",
+      "stock_tot_co": "121,988,753",
+      "hold_stock_rate": "48.96%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

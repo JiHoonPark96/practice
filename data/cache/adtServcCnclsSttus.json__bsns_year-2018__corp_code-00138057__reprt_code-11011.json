@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329001062",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제53기(당기)",
+      "adtor": "태성회계법인",
+      "cn": "외부감사",
+      "mendng": "95,000(천원)",
+      "tot_reqre_time": "984",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001062",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제52기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "외부감사",
+      "mendng": "50,000(천원)",
+      "tot_reqre_time": "454",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001062",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "외부감사",
+      "mendng": "47,000(천원)",
+      "tot_reqre_time": "501",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

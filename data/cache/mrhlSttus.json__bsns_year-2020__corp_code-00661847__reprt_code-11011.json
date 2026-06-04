@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210416000566",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "se": "소액주주",
+      "shrholdr_co": "8,577",
+      "shrholdr_tot_co": "8,582",
+      "shrholdr_rate": "44.18%",
+      "hold_stock_co": "13,055,000",
+      "stock_tot_co": "29,550,000",
+      "hold_stock_rate": "44.18%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

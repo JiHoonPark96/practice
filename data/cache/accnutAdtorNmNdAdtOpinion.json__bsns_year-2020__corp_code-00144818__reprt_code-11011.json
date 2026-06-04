@@ -1,0 +1,36 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001204",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001204",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001204",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

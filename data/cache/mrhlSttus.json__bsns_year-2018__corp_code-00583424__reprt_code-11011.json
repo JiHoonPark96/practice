@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002349",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "se": "소액주주",
+      "shrholdr_co": "68,151",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "22,036,846",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "37.69%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

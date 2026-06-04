@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813001129",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001129",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001129",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001129",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001129",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식의 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001129",
+      "corp_cls": "Y",
+      "corp_code": "00128555",
+      "corp_name": "삼천리",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식의 정확성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

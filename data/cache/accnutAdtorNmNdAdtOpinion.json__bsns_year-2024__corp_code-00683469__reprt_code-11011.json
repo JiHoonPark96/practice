@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제17기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "한 시점에 인식되는 수익에 대한 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제17기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "한 시점에 인식되는 수익에 대한 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제16기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항은 없으며 기타사항으로 전기 재무제표는 타감사인이 감사한 사실 기재 ",
+      "core_adt_matter": "한 시점에 인식되는 수익에 대한 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제16기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항은 없으며 기타사항으로 전기 재무제표는 타감사인이 감사한 사실 기재 ",
+      "core_adt_matter": "한 시점에 인식되는 수익에 대한 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제15기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 불확실성",
+      "core_adt_matter": "재고자산 평가 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제15기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 불확실성",
+      "core_adt_matter": "재고자산 평가 회계처리",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

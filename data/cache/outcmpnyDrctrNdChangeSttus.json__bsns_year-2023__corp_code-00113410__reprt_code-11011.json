@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001789",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

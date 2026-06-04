@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000997",
+      "corp_cls": "Y",
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "se": "소액주주",
+      "shrholdr_co": "3,543",
+      "shrholdr_tot_co": "3,558",
+      "shrholdr_rate": "99.58%",
+      "hold_stock_co": "878,293",
+      "stock_tot_co": "11,500,000",
+      "hold_stock_rate": "7.64%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

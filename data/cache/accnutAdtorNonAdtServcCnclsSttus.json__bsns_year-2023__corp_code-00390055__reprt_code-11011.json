@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001689",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제23기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001689",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제22기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001689",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제21기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001400",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제50기(당기)",
+      "cntrct_cncls_de": "2023년 05월 08일\n2023년 11월 30일",
+      "servc_cn": "1) 해외주재원 세무자문\n2) 로버틱 애플리케이션",
+      "servc_exc_pd": "1) 2023년 05월 08일 ~ 2023년 12월 31일\n2) 2023년 11월 30일",
+      "servc_mendng": "1) 60,000,000\n2) 18,000,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001400",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제49기(전기)",
+      "cntrct_cncls_de": "2022년 03월 10일",
+      "servc_cn": "LBMA RSG 검토",
+      "servc_exc_pd": " 2022년 03월 10일 ~ 2022년 03월 31일",
+      "servc_mendng": "42,500,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001400",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제48기(전전기)",
+      "cntrct_cncls_de": "2021년 05월 14일",
+      "servc_cn": "LBMA RSG 검토",
+      "servc_exc_pd": " 2021년 06월 01일 ~ 2021년 06월 30일",
+      "servc_mendng": "31,800,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

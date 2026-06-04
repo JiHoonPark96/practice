@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000847",
+      "corp_cls": "Y",
+      "corp_code": "00116301",
+      "corp_name": "NI스틸",
+      "se": "소액주주",
+      "shrholdr_co": "6,742",
+      "shrholdr_tot_co": "6,751",
+      "shrholdr_rate": "99.85%",
+      "hold_stock_co": "11,373,082",
+      "stock_tot_co": "28,600,117",
+      "hold_stock_rate": "39.76%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220217001036",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "bsns_year": "제53기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토 및 결산감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,050",
+      "adt_cntrct_dtls_time": "33,800",
+      "real_exc_dtls_mendng": "3,050",
+      "real_exc_dtls_time": "33,939",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220217001036",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "bsns_year": "제52기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토 및 결산감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,000",
+      "adt_cntrct_dtls_time": "33,300",
+      "real_exc_dtls_mendng": "3,000",
+      "real_exc_dtls_time": "36,510",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220217001036",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "bsns_year": "제51기",
+      "adtor": "안진회계법인",
+      "cn": "분반기검토 및 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,929",
+      "adt_cntrct_dtls_time": "24,000",
+      "real_exc_dtls_mendng": "1,929",
+      "real_exc_dtls_time": "27,259",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

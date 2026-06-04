@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190618000123",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "se": "소액주주",
+      "shrholdr_co": "4,334",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.6%",
+      "hold_stock_co": "6,426,241",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "32.15%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

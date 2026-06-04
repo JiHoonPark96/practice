@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210304000345",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "se": "소액주주",
+      "shrholdr_co": "14,838",
+      "shrholdr_tot_co": "14,843",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "26,684,391",
+      "stock_tot_co": "77,446,865",
+      "hold_stock_rate": "34.47%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

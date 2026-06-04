@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000942",
+      "corp_cls": "Y",
+      "corp_code": "01032486",
+      "corp_name": "두산밥캣",
+      "se": "소액주주",
+      "shrholdr_co": "28,015",
+      "shrholdr_tot_co": "28,028",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "30,135,060",
+      "stock_tot_co": "100,249,166",
+      "hold_stock_rate": "30.06%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

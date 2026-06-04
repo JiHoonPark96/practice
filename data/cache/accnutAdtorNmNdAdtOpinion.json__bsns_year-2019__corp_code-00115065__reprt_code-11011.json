@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003292",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제55기(당기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003292",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003292",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

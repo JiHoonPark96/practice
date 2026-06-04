@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221110000522",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20221110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812001010",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.03)",
+      "rcept_no": "20220516002284",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220516002226",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20220516",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220512000848",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20220512",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220331003021",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20220331",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220317001256",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20220317",
+      "rm": "정연"
+    }
+  ]
+}

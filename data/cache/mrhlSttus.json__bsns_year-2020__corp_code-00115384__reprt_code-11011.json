@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000942",
+      "corp_cls": "Y",
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "se": "소액주주",
+      "shrholdr_co": "2,716",
+      "shrholdr_tot_co": "2,727",
+      "shrholdr_rate": "99.6%",
+      "hold_stock_co": "2,404,311",
+      "stock_tot_co": "13,617,577",
+      "hold_stock_rate": "17.6%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

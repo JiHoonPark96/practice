@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001385",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "se": "소액주주",
+      "shrholdr_co": "12,869",
+      "shrholdr_tot_co": "12,874",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "6,353,072",
+      "stock_tot_co": "17,218,543",
+      "hold_stock_rate": "36.90%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

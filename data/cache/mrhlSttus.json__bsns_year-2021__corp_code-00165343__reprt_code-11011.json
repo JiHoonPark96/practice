@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000292",
+      "corp_cls": "Y",
+      "corp_code": "00165343",
+      "corp_name": "혜인",
+      "se": "소액주주",
+      "shrholdr_co": "12,447",
+      "shrholdr_tot_co": "12,464",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "7,002,398",
+      "stock_tot_co": "12,712,747",
+      "hold_stock_rate": "55.08%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

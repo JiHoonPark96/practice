@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000745",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기재무제표 검토\n개별재무제표(K-IFRS적용) 감사\n연결재무제표(K-IFRS적용) 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "180,000천원",
+      "real_exc_dtls_time": "1,166",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000745",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "bsns_year": "제56기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기재무제표 검토\n개별재무제표(K-IFRS적용) 감사\n연결재무제표(K-IFRS적용) 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "150,000천원",
+      "real_exc_dtls_time": "1,106",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000745",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기재무제표 검토\n개별재무제표(K-IFRS적용) 감사\n연결재무제표(K-IFRS적용) 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "140,000천원",
+      "real_exc_dtls_time": "1,120",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

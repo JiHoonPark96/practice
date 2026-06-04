@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003929",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "se": "소액주주",
+      "shrholdr_co": "19,981",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "4,476,571",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "38.31%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_code": "003280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20191120000137",
+      "flr_nm": "흥아해운",
+      "rcept_dt": "20191120",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_code": "003280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001480",
+      "flr_nm": "흥아해운",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_code": "003280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190820000112",
+      "flr_nm": "흥아해운",
+      "rcept_dt": "20190820",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_code": "003280",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814000969",
+      "flr_nm": "흥아해운",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_code": "003280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002280",
+      "flr_nm": "흥아해운",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_code": "003280",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401001594",
+      "flr_nm": "흥아해운",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

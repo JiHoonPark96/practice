@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001090",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식의 손상평가 (주2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001090",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석3 (주1)",
+      "core_adt_matter": "현금창출단위의 손상평가 (주2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001090",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식의 손상평가 (주4)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001090",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석3 (주3)",
+      "core_adt_matter": "현금창출단위의 손상평가 (주4)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001090",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자와 보증거래의 완정성 및 표시 (주5)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001090",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "연결 내부거래 제거의 완전성 및 정확성 (주5)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

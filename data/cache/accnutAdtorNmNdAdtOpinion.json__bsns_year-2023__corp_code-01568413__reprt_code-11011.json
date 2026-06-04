@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001667",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제3기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결)\n사입매출의기간귀속\n(별도)\n특수관계자매출에대한발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001667",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제2기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결, 별도)\n특정매입계약 매출의 기간귀속",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001667",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제1기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결, 별도)\n특정매입계약 매출의 기간귀속",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

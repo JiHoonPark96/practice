@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327000417",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2019.04.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "19.04.01 ~ 20.03.31",
+      "servc_mendng": "18,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000417",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2018.04.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "18.04.01 ~ 19.03.31",
+      "servc_mendng": "16,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000417",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2017.04.01",
+      "servc_cn": "세무조정업무 수임계약",
+      "servc_exc_pd": "17.04.01 ~ 18.03.31",
+      "servc_mendng": "16,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

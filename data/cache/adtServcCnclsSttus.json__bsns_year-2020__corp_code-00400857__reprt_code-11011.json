@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210817000623",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제21기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 연결, 별도 재무제표 검토\n기말 연결, 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "231,400 ",
+      "adt_cntrct_dtls_time": "1,980 ",
+      "real_exc_dtls_mendng": "289,000 ",
+      "real_exc_dtls_time": "516 \n3,101 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210817000623",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제20기(전기)",
+      "adtor": "회계법인성지",
+      "cn": "반기 연결, 별도 재무제표 검토\n기말 연결, 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "115,000 ",
+      "adt_cntrct_dtls_time": "1,078 ",
+      "real_exc_dtls_mendng": "115,000 ",
+      "real_exc_dtls_time": "402 \n676 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210817000623",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "회계법인성지",
+      "cn": "반기 연결, 별도 재무제표 검토\n기말 연결, 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000 ",
+      "adt_cntrct_dtls_time": "834 ",
+      "real_exc_dtls_mendng": "90,000 ",
+      "real_exc_dtls_time": "260 \n574 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

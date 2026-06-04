@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003915",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제47기\n('19.01.01~'19.12.31)",
+      "cntrct_cncls_de": "'19.01.02",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "'19.01.02 ~ '19.03.31",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003915",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제46기\n('18.01.01~'18.12.31)",
+      "cntrct_cncls_de": "'18.01.02",
+      "servc_cn": "세무조정,\n세무자문용역",
+      "servc_exc_pd": "'18.01.02 ~ '18.03.31",
+      "servc_mendng": "35",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003915",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제45기\n('17.01.01~'17.12.31)",
+      "cntrct_cncls_de": "'17.01.02",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "'17.01.02 ~ '17.03.31",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

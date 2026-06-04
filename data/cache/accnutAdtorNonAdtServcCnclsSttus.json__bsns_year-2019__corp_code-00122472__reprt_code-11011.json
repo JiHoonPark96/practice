@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003056",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제66기(당기)",
+      "cntrct_cncls_de": "2019.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.02.01 - 03.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003056",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제66기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003056",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제65기(당기)",
+      "cntrct_cncls_de": "2018.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.02.01 - 03.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003056",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제65기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003056",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제64기(전기)",
+      "cntrct_cncls_de": "2017.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.02.01 - 03.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003056",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제64기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제73기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속기업의 주식을 보유하고 이 과정에서 발생하는 배당수익 및 현금흐름의 분류를 영업손익 및 영업활동현금흐름으로 변경하였고, 이에 따라 동회계정책 변경효과를 소급하여 수정되어 이용자들의 주의가 필요",
+      "core_adt_matter": "투입법에 의한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제73기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결회사는 당기에 연결재무상태표의 유동과 비유동 \n표시방법을 혼합법에서 유동, 비유동 구분법으로 변경",
+      "core_adt_matter": "별도 의견 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제72기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "투입법에 의한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제72기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "한국채택국제회계기준 제1117호의 적용으로 인하여 비교표시 되는 2022년 12월 31일로 종료되는 보고기간의연결재무제표가 재작성 되어 이용자들의 주의가 필요",
+      "core_adt_matter": "보험계약부채 평가에 적용된 가정 중 위험률",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제71기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "한화생명보험 주식회사\n종속기업투자의 손상\n이라크 공사채권의\n회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제71기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "보험료적립금의 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

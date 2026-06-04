@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001113",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "3",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

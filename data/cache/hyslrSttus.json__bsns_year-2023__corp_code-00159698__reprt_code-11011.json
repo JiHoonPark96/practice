@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001996",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "stock_knd": "보통주",
+      "nm": "정  부\n(산업통상자원부)",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "4,000,000",
+      "bsis_posesn_stock_qota_rt": "34.55",
+      "trmend_posesn_stock_co": "4,000,000",
+      "trmend_posesn_stock_qota_rt": "34.55",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001996",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "stock_knd": "보통주",
+      "nm": "한국전력공사",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "2,264,068",
+      "bsis_posesn_stock_qota_rt": "19.55",
+      "trmend_posesn_stock_co": "2,264,068",
+      "trmend_posesn_stock_qota_rt": "19.55",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001996",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "stock_knd": "보통주",
+      "nm": "한국에너지공단",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,219,676",
+      "bsis_posesn_stock_qota_rt": "10.53",
+      "trmend_posesn_stock_co": "1,219,676",
+      "trmend_posesn_stock_qota_rt": "10.53",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001996",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,483,744",
+      "bsis_posesn_stock_qota_rt": "64.63",
+      "trmend_posesn_stock_co": "7,483,744",
+      "trmend_posesn_stock_qota_rt": "64.63",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001996",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "stock_knd": "종류주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816002277",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향, 주식매매계약",
+      "core_adt_matter": "Hanssem (China) Investment Holding Co., Ltd. 현금흐름창출단위에 대한 손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002277",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향",
+      "core_adt_matter": "개발사업 관련 대여금의 회수가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002277",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "개발사업 관련 대여금의 회수가능성 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

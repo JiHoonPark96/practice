@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000651",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "bsns_year": "제66기\n(당기)",
+      "adtor": "회계법인리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품매출에 대한 \n실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000651",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "bsns_year": "제66기\n(당기)",
+      "adtor": "회계법인리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품매출에 대한 \n실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000651",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "bsns_year": "제65기\n(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000651",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "bsns_year": "제65기\n(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000651",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "bsns_year": "제64기\n(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금및현금성자산의\n실재성과 현금흐름표 표시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000651",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "bsns_year": "제64기\n(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금및현금성자산의\n실재성과 현금흐름표 표시",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

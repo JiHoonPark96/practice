@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001391",
+      "corp_cls": "Y",
+      "corp_code": "00520887",
+      "corp_name": "비상교육",
+      "bsns_year": "제18기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "지적사항 없음",
+      "core_adt_matter": "연결재무제표:영업권에 대한 손상평가\n별도재무제표: 종속기업투자주식에 대한 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001391",
+      "corp_cls": "Y",
+      "corp_code": "00520887",
+      "corp_name": "비상교육",
+      "bsns_year": "제17기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "지적사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001391",
+      "corp_cls": "Y",
+      "corp_code": "00520887",
+      "corp_name": "비상교육",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "지적사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

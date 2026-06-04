@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003270",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "se": "소액주주",
+      "shrholdr_co": "21,613",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "10,688,668",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "35.62%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

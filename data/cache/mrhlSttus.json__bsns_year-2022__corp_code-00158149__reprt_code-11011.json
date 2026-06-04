@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000970",
+      "corp_cls": "Y",
+      "corp_code": "00158149",
+      "corp_name": "한국쉘석유",
+      "se": "소액주주",
+      "shrholdr_co": "11,153",
+      "shrholdr_tot_co": "11,157",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "546,889",
+      "stock_tot_co": "1,300,000",
+      "hold_stock_rate": "42.06%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

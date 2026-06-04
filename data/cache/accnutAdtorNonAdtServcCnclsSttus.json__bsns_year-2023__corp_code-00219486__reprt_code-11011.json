@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000595",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "bsns_year": "제27기(당기)",
+      "cntrct_cncls_de": "2023.09.22\n2023.12.18",
+      "servc_cn": "Robotic Application 서비스\n신세계라이브쇼핑 정보화 수준진단 프로젝트",
+      "servc_exc_pd": "2023.09.22 ~ 2026.08.31\n2023.12.18 ~ 2024.03.08",
+      "servc_mendng": "15백만원\n410백만원",
+      "rm": "삼일회계법인\n삼정회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000595",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "bsns_year": "제26기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000595",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "bsns_year": "제25기(전전기)",
+      "cntrct_cncls_de": "2021.04.05",
+      "servc_cn": "전기공사업 면허등록을 위한 기업진단업무",
+      "servc_exc_pd": "2021.04.14 ~ 2021.04.23",
+      "servc_mendng": "9백만원",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

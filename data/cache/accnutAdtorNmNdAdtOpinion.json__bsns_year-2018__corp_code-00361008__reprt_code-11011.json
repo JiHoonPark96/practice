@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190829000744",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제20기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190829000744",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제19기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190829000744",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제18기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

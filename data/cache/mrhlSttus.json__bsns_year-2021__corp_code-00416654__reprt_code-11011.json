@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221007000390",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "se": "소액주주",
+      "shrholdr_co": "7,758",
+      "shrholdr_tot_co": "7,771",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "8,194,079",
+      "stock_tot_co": "13,195,454",
+      "hold_stock_rate": "62.09%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

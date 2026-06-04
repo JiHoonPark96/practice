@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000774",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제66기(당기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1.매출 수익 인식에 대한 적정성\n(별도재무제표)\n1. 매출 수익 인식에 대한 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000774",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제65기(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 재고자산평가의 적정성\n(별도재무제표) \n1. 재고자산평가의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000774",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 현금창출단위에 대한 손상평가 \n2, 수익 기간귀속 \n(별도재무제표) \n1. 종속기업투자주식에 대한 손상평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

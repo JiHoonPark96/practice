@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331002435",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "2",
+      "apnt": "1",
+      "rlsofc": "1",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000873",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2023.09\n2023.04",
+      "servc_cn": "사채이행 AUP外\n사채이행 AUP外",
+      "servc_exc_pd": "1개월\n1개월",
+      "servc_mendng": "3\n3",
+      "rm": "삼정회계법인 수행\n신한회계법인 수행",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000873",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2022.09\n2022.04",
+      "servc_cn": "사채이행 AUP外\n사채이행 AUP外",
+      "servc_exc_pd": "1개월\n1개월",
+      "servc_mendng": "3\n3",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000873",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2021.09\n2021.04",
+      "servc_cn": "사채이행 AUP外\n사채이행 AUP外",
+      "servc_exc_pd": "1개월\n1개월",
+      "servc_mendng": "3\n3",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

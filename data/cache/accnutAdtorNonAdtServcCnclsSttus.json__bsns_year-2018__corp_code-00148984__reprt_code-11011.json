@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004999",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제71기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004999",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제70기(전기)",
+      "cntrct_cncls_de": "17.08.23",
+      "servc_cn": "회계자문",
+      "servc_exc_pd": "17.08.24~17.08.31",
+      "servc_mendng": "500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004999",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제70기(전기)",
+      "cntrct_cncls_de": "17.06.01",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "17.06.01~17.07.15",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004999",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제69기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

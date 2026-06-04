@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "stock_code": "033530",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002634",
+      "flr_nm": "SJG세종",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "stock_code": "033530",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814002663",
+      "flr_nm": "SJG세종",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "stock_code": "033530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230726000502",
+      "flr_nm": "SJG세종",
+      "rcept_dt": "20230726",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "stock_code": "033530",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002468",
+      "flr_nm": "SJG세종",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "stock_code": "033530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230320001100",
+      "flr_nm": "SJG세종",
+      "rcept_dt": "20230320",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "stock_code": "033530",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230320001013",
+      "flr_nm": "SJG세종",
+      "rcept_dt": "20230320",
+      "rm": "정연"
+    }
+  ]
+}

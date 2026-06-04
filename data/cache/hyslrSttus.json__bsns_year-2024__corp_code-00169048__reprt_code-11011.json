@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000687",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "stock_knd": "보통주",
+      "nm": "진양곤",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "2,629,015",
+      "bsis_posesn_stock_qota_rt": "6.20",
+      "trmend_posesn_stock_co": "2,943,830",
+      "trmend_posesn_stock_qota_rt": "6.04",
+      "rm": "CBㆍBW 행사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000687",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,629,015",
+      "bsis_posesn_stock_qota_rt": "6.20",
+      "trmend_posesn_stock_co": "2,943,830",
+      "trmend_posesn_stock_qota_rt": "6.04",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000687",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

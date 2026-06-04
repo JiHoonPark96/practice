@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220328000201",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "bsns_year": "제65기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사의 약사법 위반혐의에 대한 재판\n(주석 32)",
+      "core_adt_matter": "반품충당부채의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328000201",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사의 약사법 위반혐의에 대한 재판\n(주석 31)",
+      "core_adt_matter": "반품충당부채의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328000201",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "상록회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사의 약사법 위반혐의에 대한 조사\n(주석 30)",
+      "core_adt_matter": "반품충당부채의 적정성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

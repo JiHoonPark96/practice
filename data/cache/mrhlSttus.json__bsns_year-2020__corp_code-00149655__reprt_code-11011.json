@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001003",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "se": "소액주주",
+      "shrholdr_co": "152,381",
+      "shrholdr_tot_co": "152,415",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "74,933,643",
+      "stock_tot_co": "186,887,081",
+      "hold_stock_rate": "40.10%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

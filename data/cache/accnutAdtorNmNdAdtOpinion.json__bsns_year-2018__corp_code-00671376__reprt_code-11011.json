@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002855",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2018년도\n(제16기)",
+      "adtor": "적정",
+      "adt_opinion": "대성삼경회계법인",
+      "adt_reprt_spcmnt_matter": "주1)",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002855",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2017년도\n(제15기)",
+      "adtor": "적정",
+      "adt_opinion": "신한회계법인",
+      "adt_reprt_spcmnt_matter": "주2)",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002855",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2016년도\n(제14기)",
+      "adtor": "적정",
+      "adt_opinion": "대성회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001384",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제49기(당기)",
+      "cntrct_cncls_de": "2024년 1월",
+      "servc_cn": "글로벌 관세 통합 관리시스템 \n운영지원을 위한 자문용역",
+      "servc_exc_pd": "12개월",
+      "servc_mendng": "74",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001384",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제48기(전기)",
+      "cntrct_cncls_de": "2023년 4월",
+      "servc_cn": "글로벌 관세 통합 관리시스템 \n운영지원을 위한 자문용역",
+      "servc_exc_pd": "10개월",
+      "servc_mendng": "63",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001384",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제47기(전전기)",
+      "cntrct_cncls_de": "2022년 3월",
+      "servc_cn": "해외법인 관세통상지표 및\n모니터링 통합 웹 플랫폼 자문 용역",
+      "servc_exc_pd": "12개월",
+      "servc_mendng": "360",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

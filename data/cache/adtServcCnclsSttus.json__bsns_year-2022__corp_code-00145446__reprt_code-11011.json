@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000996",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 51 기(당기)",
+      "adtor": "도원회계법인",
+      "cn": "연간 감사, 연결감사, 반기검토\n내부관리회계제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240백만원",
+      "adt_cntrct_dtls_time": "2,620시간",
+      "real_exc_dtls_mendng": "240백만원",
+      "real_exc_dtls_time": "2,743시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000996",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 50 기(전기)",
+      "adtor": "도원회계법인",
+      "cn": "연간 감사, 연결감사, 반기검토\n내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190백만원",
+      "adt_cntrct_dtls_time": "1,900시간",
+      "real_exc_dtls_mendng": "190백만원",
+      "real_exc_dtls_time": "1,874시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000996",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 49 기(전전기)",
+      "adtor": "도원회계법인",
+      "cn": "연간 감사, 연결감사, 반기검토\n내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190백만원",
+      "adt_cntrct_dtls_time": "2,000시간",
+      "real_exc_dtls_mendng": "190백만원",
+      "real_exc_dtls_time": "2,029시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

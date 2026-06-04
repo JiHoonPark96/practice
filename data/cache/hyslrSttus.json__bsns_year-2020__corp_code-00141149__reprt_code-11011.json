@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_knd": "보통주",
+      "nm": "주)케이티앤지",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "95,928,655",
+      "bsis_posesn_stock_qota_rt": "52.45",
+      "trmend_posesn_stock_co": "95,928,655",
+      "trmend_posesn_stock_qota_rt": "52.45",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_knd": "보통주",
+      "nm": "이재준",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "5,000",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "5,000",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "95,933,655",
+      "bsis_posesn_stock_qota_rt": "52.45",
+      "trmend_posesn_stock_co": "95,933,655",
+      "trmend_posesn_stock_qota_rt": "52.45",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

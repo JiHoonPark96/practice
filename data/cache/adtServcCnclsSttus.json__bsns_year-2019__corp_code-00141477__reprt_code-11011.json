@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제43기",
+      "adtor": "안경회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "100.0",
+      "tot_reqre_time": "1,259.0",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제42기",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "92.0",
+      "tot_reqre_time": "1,319.0",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제41기",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "84.0",
+      "tot_reqre_time": "1,065.0",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000680",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

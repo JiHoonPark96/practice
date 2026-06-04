@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200402000570",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사",
+      "mendng": "320,000",
+      "tot_reqre_time": "3,477",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200402000570",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제71기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "외부회계감사",
+      "mendng": "380,000",
+      "tot_reqre_time": "2,789",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200402000570",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사",
+      "mendng": "185,000",
+      "tot_reqre_time": "2,540",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

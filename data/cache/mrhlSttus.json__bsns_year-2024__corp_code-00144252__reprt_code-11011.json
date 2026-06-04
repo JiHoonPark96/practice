@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001552",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "se": "소액주주",
+      "shrholdr_co": "20,729",
+      "shrholdr_tot_co": "20,736",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "8,934,624",
+      "stock_tot_co": "15,611,619",
+      "hold_stock_rate": "57.23%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

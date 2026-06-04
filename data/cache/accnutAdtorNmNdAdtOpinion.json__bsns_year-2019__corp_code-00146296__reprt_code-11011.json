@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003220",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출(수익인식)의 적정성 등",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003220",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003220",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001190",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "se": "소액주주",
+      "shrholdr_co": "29,847",
+      "shrholdr_tot_co": "29,851",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "10,796,703",
+      "stock_tot_co": "20,535,282",
+      "hold_stock_rate": "52.57%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

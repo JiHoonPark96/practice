@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001480",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "se": "소액주주",
+      "shrholdr_co": "28,268",
+      "shrholdr_tot_co": "28,270",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "107,555,741",
+      "stock_tot_co": "139,101,102",
+      "hold_stock_rate": "77.32%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

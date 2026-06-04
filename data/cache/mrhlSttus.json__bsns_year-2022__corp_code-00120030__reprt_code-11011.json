@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001014",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "se": "소액주주",
+      "shrholdr_co": "116,159",
+      "shrholdr_tot_co": "116,171",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "55,387,013",
+      "stock_tot_co": "84,888,895",
+      "hold_stock_rate": "65.25%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

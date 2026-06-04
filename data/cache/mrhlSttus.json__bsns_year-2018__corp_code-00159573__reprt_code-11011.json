@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180629000806",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "se": "소액주주",
+      "shrholdr_co": "4,798",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.62%",
+      "hold_stock_co": "4,221,184",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "18.50%",
+      "stlm_dt": "2018-03-31"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-제품 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-\n제품 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-수익인식기준",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

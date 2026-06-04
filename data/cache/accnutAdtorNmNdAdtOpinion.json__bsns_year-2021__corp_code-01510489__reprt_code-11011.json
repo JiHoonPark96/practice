@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210916000175",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "bsns_year": "제6기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무형자산의 손상검사",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20210916000175",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "Covid-19 \n팬데믹으로 인한\n불확실성",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20210916000175",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2021-06-30"
+    }
+  ]
+}

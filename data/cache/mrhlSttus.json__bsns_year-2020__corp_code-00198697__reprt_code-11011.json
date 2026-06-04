@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000864",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "se": "소액주주",
+      "shrholdr_co": "11,648",
+      "shrholdr_tot_co": "11,656",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "13,694,533",
+      "stock_tot_co": "28,314,440",
+      "hold_stock_rate": "48.37%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

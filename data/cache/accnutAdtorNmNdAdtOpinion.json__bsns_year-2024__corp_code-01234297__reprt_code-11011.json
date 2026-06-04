@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제8기(당기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제8기(당기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제7기(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 회계처리 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제7기(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 회계처리 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금 및 현금성자산의 실재성과현금흐름표 표시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금 및 현금성자산의 실재성과현금흐름표 표시",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

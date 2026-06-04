@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003419",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제24기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토 및 결산감사",
+      "mendng": "130,000 ",
+      "tot_reqre_time": "1,783",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003419",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제23기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토 및 결산감사",
+      "mendng": "130,000 ",
+      "tot_reqre_time": "1,956",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003419",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토 및 결산감사",
+      "mendng": "85,000 ",
+      "tot_reqre_time": "1,712",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

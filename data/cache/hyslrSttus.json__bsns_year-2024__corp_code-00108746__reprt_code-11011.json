@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_knd": "보통주",
+      "nm": "The Coretec Group Inc.",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "41,957,581",
+      "trmend_posesn_stock_qota_rt": "17.70",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "41,957,581",
+      "trmend_posesn_stock_qota_rt": "17.70",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

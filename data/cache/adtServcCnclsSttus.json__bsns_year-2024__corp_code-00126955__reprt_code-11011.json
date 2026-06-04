@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001186",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제64기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기, 중간, 기말, 연결 재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "432",
+      "adt_cntrct_dtls_time": "3,600",
+      "real_exc_dtls_mendng": "432",
+      "real_exc_dtls_time": "3,8\n40",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001186",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제63기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기, 중간, 기말, 연결 재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "396",
+      "adt_cntrct_dtls_time": "3,300",
+      "real_exc_dtls_mendng": "396",
+      "real_exc_dtls_time": "4,499",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001186",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기, 중간, 기말, 연결 재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290",
+      "adt_cntrct_dtls_time": "2,898",
+      "real_exc_dtls_mendng": "290",
+      "real_exc_dtls_time": "3,521",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

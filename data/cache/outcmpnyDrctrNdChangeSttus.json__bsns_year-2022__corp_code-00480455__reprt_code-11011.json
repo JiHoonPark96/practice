@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000972",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "2",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

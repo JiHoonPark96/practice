@@ -1,0 +1,83 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250228006453",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출의 발생사실 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250228006453",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "해당사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250228006453",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "유형자산의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250228006453",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "유형자산의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250228006453",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자와의 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250228006453",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자와의 거래",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

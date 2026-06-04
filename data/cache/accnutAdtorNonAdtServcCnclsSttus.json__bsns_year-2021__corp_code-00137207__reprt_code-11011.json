@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "2021.08.06",
+      "servc_cn": "- 내부회계관리제도 고도화 용역",
+      "servc_exc_pd": "2021.08.16-\n2023.03.31",
+      "servc_mendng": "170백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

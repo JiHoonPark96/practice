@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000297",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제65기(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자산손상검사 수행\n재고자산의 실재성 및 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000297",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자산손상검사 수행",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000297",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

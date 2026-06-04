@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331002101",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제45기(당기)",
+      "adtor": "서현회계법인",
+      "cn": "분·반기검토,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500백만원",
+      "adt_cntrct_dtls_time": "2,734",
+      "real_exc_dtls_mendng": "500백만원",
+      "real_exc_dtls_time": "2,734",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331002101",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제44기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기검토,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "115백만원",
+      "adt_cntrct_dtls_time": "1,436",
+      "real_exc_dtls_mendng": "115백만원",
+      "real_exc_dtls_time": "1,436",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331002101",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기검토,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100백만원",
+      "adt_cntrct_dtls_time": "1,244",
+      "real_exc_dtls_mendng": "100백만원",
+      "real_exc_dtls_time": "1,244",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

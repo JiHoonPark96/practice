@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220325001050",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "bsns_year": "제35기(당기)",
+      "adtor": "우리회계법인",
+      "cn": " 재무제표 감사,반기재무제표 검토, 개별재무제표등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000원",
+      "adt_cntrct_dtls_time": "864",
+      "real_exc_dtls_mendng": "110,000,000원",
+      "real_exc_dtls_time": "751",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220325001050",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "bsns_year": "제34기(전기)",
+      "adtor": "우리회계법인",
+      "cn": " 재무제표 감사,반기재무제표 검토, 개별재무제표등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000원",
+      "adt_cntrct_dtls_time": "864",
+      "real_exc_dtls_mendng": "110,000,000원",
+      "real_exc_dtls_time": "745",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220325001050",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": " 재무제표 감사,반기재무제표 검토, 개별재무제표등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75,000,000원",
+      "adt_cntrct_dtls_time": "640",
+      "real_exc_dtls_mendng": "75,000,000원",
+      "real_exc_dtls_time": "702",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

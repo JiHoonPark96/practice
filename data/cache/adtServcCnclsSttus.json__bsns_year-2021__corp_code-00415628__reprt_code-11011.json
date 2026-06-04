@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221019000356",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제23기(당기)",
+      "adtor": "다산회계법인",
+      "cn": "연결 및 별도 감사보고서 및  반기검토보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180백만원",
+      "adt_cntrct_dtls_time": "1,385시간",
+      "real_exc_dtls_mendng": "180백만원",
+      "real_exc_dtls_time": "1,342시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221019000356",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제22기(전기)",
+      "adtor": "다산회계법인",
+      "cn": "연결 및 별도 감사보고서 및  반기검토보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170백만원",
+      "adt_cntrct_dtls_time": "1,140시간",
+      "real_exc_dtls_mendng": "214.7백만원",
+      "real_exc_dtls_time": "1,590시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221019000356",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 감사보고서 및  반기검토보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "69.5백만원",
+      "adt_cntrct_dtls_time": "1,100시간",
+      "real_exc_dtls_mendng": "69.5백만원",
+      "real_exc_dtls_time": "1,130시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

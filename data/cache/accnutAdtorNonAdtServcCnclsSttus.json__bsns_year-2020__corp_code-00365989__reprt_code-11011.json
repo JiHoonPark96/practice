@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326001119",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제22기(당기)",
+      "cntrct_cncls_de": "2020.06.23",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001119",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "2020.01.28",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001119",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "2018.09.10",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

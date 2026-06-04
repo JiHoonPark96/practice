@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230313000751",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 현금창출단위 식별과 디스플레이(대형 OLED) 현금창출단위의 손상검사\n2. 이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230313000751",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제37기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "유형자산 개정기준서 조기적용에 따른 \n회계정책 변경 효과를 소급 적용",
+      "core_adt_matter": "1. 디스플레이 현금창출단위의 손상 검사\n2. 이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230313000751",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 디스플레이 현금창출단위의 손상 검사\n2. 이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

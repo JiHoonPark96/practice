@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190724000555",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "se": "소액주주",
+      "shrholdr_co": "4,895",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.70%",
+      "hold_stock_co": "17,293,205",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "38.05%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

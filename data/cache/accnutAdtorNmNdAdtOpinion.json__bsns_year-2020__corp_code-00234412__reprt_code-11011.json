@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315001003",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제25기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "중요성의 관점에서 \n공정하게 표시하고 있음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "패션의류 재고자산 평가에 \n대한 감사위험",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001003",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제24기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "중요성의 관점에서 \n공정하게 표시하고 있음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "패션의류 재고자산 평가에 \n대한 감사위험",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001003",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제23기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "중요성의 관점에서 \n공정하게 표시하고 있음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

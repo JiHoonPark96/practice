@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001386",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식에 대한 기간귀속",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001386",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자의 \n식별 및 거래의 정확성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001386",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

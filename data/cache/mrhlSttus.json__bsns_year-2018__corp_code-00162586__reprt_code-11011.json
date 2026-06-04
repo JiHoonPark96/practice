@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002117",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "se": "소액주주",
+      "shrholdr_co": "26,499",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "27,082,303",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "51.84%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001277",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제61기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "1) 아래\n감사의견 참조",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "2)아래\n강조사항 참조",
+      "core_adt_matter": "- 관계기업투자주식의 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001277",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제60기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 관계기업투자주식의 손상 평가\n- 무형자산의 인식 및 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001277",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제59기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

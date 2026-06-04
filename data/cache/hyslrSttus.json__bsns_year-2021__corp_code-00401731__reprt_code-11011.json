@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜LG",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "55,094,582",
+      "bsis_posesn_stock_qota_rt": "33.67",
+      "trmend_posesn_stock_co": "55,094,582",
+      "trmend_posesn_stock_qota_rt": "33.67",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "권봉석",
+      "relate": "계열회사 임원",
+      "bsis_posesn_stock_co": "9,876",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "사임",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "55,104,458",
+      "bsis_posesn_stock_qota_rt": "33.67",
+      "trmend_posesn_stock_co": "55,094,582",
+      "trmend_posesn_stock_qota_rt": "33.67",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

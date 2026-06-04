@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제16기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제15기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "기준서 제1116호 '리스' 도입의 효과가 재무제표에 미치는 영향",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

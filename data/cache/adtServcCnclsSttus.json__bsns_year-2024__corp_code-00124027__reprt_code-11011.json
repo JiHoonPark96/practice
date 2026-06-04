@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000250",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "제 49 기(당기)",
+      "adtor": "서현회계법인",
+      "cn": " 분ㆍ반기 재무제표 검토 별도 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "1,366",
+      "real_exc_dtls_mendng": "175(*)",
+      "real_exc_dtls_time": "1,373",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000250",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "제 48 기(전기)",
+      "adtor": "신우회계법인",
+      "cn": " 분ㆍ반기 재무제표 검토 별도 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "736",
+      "real_exc_dtls_mendng": "80(*)",
+      "real_exc_dtls_time": "771",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000250",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "제 47 기(전전기)",
+      "adtor": "신우회계법인",
+      "cn": " 분ㆍ반기 재무제표 검토 별도 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "734",
+      "real_exc_dtls_mendng": "80(*)",
+      "real_exc_dtls_time": "766",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

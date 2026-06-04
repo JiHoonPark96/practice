@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329002822",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제55기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토 등\n반기 별도, 연결 재무제표 등에 대한 검토 등\n3분기 별도, 연결 재무제표 등에 대한 검토 등\n55기 별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,850",
+      "adt_cntrct_dtls_time": "18,520",
+      "real_exc_dtls_mendng": "1,850",
+      "real_exc_dtls_time": "2,065\n2,105\n2,002\n11,624",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002822",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제54기",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토 등\n반기 별도, 연결 재무제표 등에 대한 검토 등\n3분기 별도, 연결 재무제표 등에 대한 검토 등\n54기 별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,070",
+      "adt_cntrct_dtls_time": "18,000",
+      "real_exc_dtls_mendng": "2,070",
+      "real_exc_dtls_time": "1,520\n2,850\n3,653\n9,014",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002822",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제53기",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토 등\n반기 별도, 연결 재무제표 등에 대한 검토 등\n3분기 별도, 연결 재무제표 등에 대한 검토 등\n53기 별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,050",
+      "adt_cntrct_dtls_time": "18,634",
+      "real_exc_dtls_mendng": "2,050",
+      "real_exc_dtls_time": "880\n2,670\n4,151\n10,551",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001689",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제23기",
+      "adtor": "안진회계법인",
+      "cn": "반기 개별재무제표 검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "159",
+      "adt_cntrct_dtls_time": "1,704",
+      "real_exc_dtls_mendng": "159",
+      "real_exc_dtls_time": "1,740",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001689",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제22기",
+      "adtor": "대주회계법인",
+      "cn": "반기 별도 및 연결재무제표 검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "188",
+      "adt_cntrct_dtls_time": "1,717",
+      "real_exc_dtls_mendng": "188",
+      "real_exc_dtls_time": "1,719",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001689",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제21기",
+      "adtor": "대주회계법인",
+      "cn": "반기 별도 및 연결재무제표 검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "139",
+      "adt_cntrct_dtls_time": "1,287",
+      "real_exc_dtls_mendng": "139",
+      "real_exc_dtls_time": "1,287",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

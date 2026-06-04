@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000620",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제82기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "복합금융상품의 발행시점에서 부채 및 자본요소의 분류와 측정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000620",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제81기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "복합금융상품의 발행시점에서 부채 및 자본요소의 분류와 측정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000620",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제80기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품 등의 판매로 인한 발생사실",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

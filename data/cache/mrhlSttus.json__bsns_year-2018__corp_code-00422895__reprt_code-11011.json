@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002810",
+      "corp_cls": "Y",
+      "corp_code": "00422895",
+      "corp_name": "세이브존I&C",
+      "se": "소액주주",
+      "shrholdr_co": "4,238",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.41%",
+      "hold_stock_co": "7,359,910",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "17.93%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

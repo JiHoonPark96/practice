@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000833",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제66기 당기\n제66기 반기",
+      "adtor": "한영회계법인\n정인회계법인",
+      "adt_opinion": "적정\n-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항 없음\n-",
+      "core_adt_matter": "부정위험과 관련한 매출채권의 실재성\n-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000833",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제65기(전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항 없음",
+      "core_adt_matter": "부정위험과 관련한 매출채권의 실재성,\n개별평가 대상 거래처의 예상손실 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000833",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항 없음",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

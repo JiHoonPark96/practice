@@ -1,0 +1,5 @@
+﻿variable,M1_controls,M5_material_controls,P1_count_controls
+Leverage_w,0.1026**,-0.0032,0.5631***
+LogAssets_w,0.0220***,0.0165***,0.1088***
+Loss,0.0137,0.0084,0.0820
+ROA_w,-0.3638***,-0.1825**,-2.6754***

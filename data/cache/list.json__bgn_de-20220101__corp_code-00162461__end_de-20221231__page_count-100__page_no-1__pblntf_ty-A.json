@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000817",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812001021",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220728000033",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20220728",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001051",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220329000749",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20220329",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2021.12)",
+      "rcept_no": "20220315001281",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20220315",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220315001240",
+      "flr_nm": "한화솔루션",
+      "rcept_dt": "20220315",
+      "rm": "정연"
+    }
+  ]
+}

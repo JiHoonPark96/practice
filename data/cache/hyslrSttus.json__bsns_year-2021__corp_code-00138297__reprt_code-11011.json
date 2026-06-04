@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331003200",
+      "corp_cls": "Y",
+      "corp_code": "00138297",
+      "corp_name": "STX",
+      "stock_knd": "보통주",
+      "nm": "에이피씨머큐리(유)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "15,558,051",
+      "bsis_posesn_stock_qota_rt": "77.53",
+      "trmend_posesn_stock_co": "15,858,051",
+      "trmend_posesn_stock_qota_rt": "55.41",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331003200",
+      "corp_cls": "Y",
+      "corp_code": "00138297",
+      "corp_name": "STX",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220331003200",
+      "corp_cls": "Y",
+      "corp_code": "00138297",
+      "corp_name": "STX",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "15,558,051",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "15,858,051",
+      "trmend_posesn_stock_qota_rt": "55.41",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

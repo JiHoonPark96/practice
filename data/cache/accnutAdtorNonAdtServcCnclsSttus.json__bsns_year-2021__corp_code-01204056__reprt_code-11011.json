@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000653",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제17기(당기)",
+      "cntrct_cncls_de": "2021.02",
+      "servc_cn": "- 하이브의 2020사업연도의 법인세 및 지방소득세 신고의 세무대리인\n- 하이브 잠재 환급세액 항목에 대한 검토 및 경정청구 업무",
+      "servc_exc_pd": "2021.02.08 ~ \n2021.12.31",
+      "servc_mendng": "-하이브 법인세 및 지방소득세: 17\n-법인세 경정청구: 성공보수",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000653",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제17기(당기)",
+      "cntrct_cncls_de": "2021.08",
+      "servc_cn": "-하이브의 2021사업연도의 법인세 및 지방소득세 신고\n(피합병법인 의제사업연도 신고 포함)의 세무대리인\n-하이브의 2016~2020 사업연도 법인세 경정청구",
+      "servc_exc_pd": "2021.07.02 ~ \n2022.04.30",
+      "servc_mendng": "-하이브 법인세 및 지방소득세: 20\n-법인세 경정청구: 성공보수",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000653",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제17기(당기)",
+      "cntrct_cncls_de": "2021.12",
+      "servc_cn": "- 하이브의 2020 사업연도에 대한 BEPS 문서화 작성 지원",
+      "servc_exc_pd": "2021.12 ",
+      "servc_mendng": "35",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000653",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제16기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000653",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "제15기(전전기)",
+      "cntrct_cncls_de": "2019.09",
+      "servc_cn": "유상증자 관련 beNX 가치평가용역",
+      "servc_exc_pd": "2019.08.31~09.30",
+      "servc_mendng": "40",
+      "rm": "한영회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

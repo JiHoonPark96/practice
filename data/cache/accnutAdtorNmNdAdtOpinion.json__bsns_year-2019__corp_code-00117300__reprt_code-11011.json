@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002852",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "  제62기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상검사",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002852",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "  제61기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002852",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "  제60기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\" 감사보고서 중 강조사항 참조\"",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "se": "소액주주",
+      "shrholdr_co": "17,145",
+      "shrholdr_tot_co": "17,159",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "13,892,588",
+      "stock_tot_co": "69,261,540",
+      "hold_stock_rate": "20.06%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

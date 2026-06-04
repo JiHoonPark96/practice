@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000396",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제63기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "주1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000396",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제63기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "주2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000396",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제62기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "주3)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000396",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제62기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "주4)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000396",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제61기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "주5)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000396",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제61기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "주6)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

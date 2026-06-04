@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000503",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2023.12.13",
+      "servc_cn": "로보틱애플리케이션의 이용",
+      "servc_exc_pd": "2023년 11월 ~ 2026년 11월",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000503",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000503",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2022.06.16",
+      "servc_cn": "롯데푸드(주) 합병재무제표 임의감사/검토",
+      "servc_exc_pd": "연간",
+      "servc_mendng": "232",
+      "rm": "(주1)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000503",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000503",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "bsns_year": "제5기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000503",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "bsns_year": "제5기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

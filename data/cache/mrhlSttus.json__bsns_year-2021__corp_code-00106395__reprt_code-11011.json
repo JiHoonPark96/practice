@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220811000312",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "se": "소액주주",
+      "shrholdr_co": "7,258",
+      "shrholdr_tot_co": "7,273",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "10,872,418",
+      "stock_tot_co": "20,670,065",
+      "hold_stock_rate": "52.61%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

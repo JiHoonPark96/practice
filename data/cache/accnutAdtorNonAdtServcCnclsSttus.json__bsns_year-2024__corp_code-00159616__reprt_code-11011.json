@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제62기",
+      "cntrct_cncls_de": "2024년 06월 27일",
+      "servc_cn": "데이터센터 연계 GT 진입 시장 조사",
+      "servc_exc_pd": "2024년 06월 ~ 2024년 08월",
+      "servc_mendng": "600",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제61기",
+      "cntrct_cncls_de": "2023년 04월 25일",
+      "servc_cn": "대만 타오위엔폐기물에너지 O&M 사업 세무자문",
+      "servc_exc_pd": "2023년 05월 ~ 2023년 06월",
+      "servc_mendng": "9",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제60기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당사항 없음",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

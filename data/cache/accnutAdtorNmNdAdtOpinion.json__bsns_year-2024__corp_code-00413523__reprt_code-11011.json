@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003308",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제29기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "용역수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003308",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제29기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "용역수익인식\n영업권손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003308",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제28기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "용역수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003308",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제28기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "용역수익인식\n영업권손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003308",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제27기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "용역수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003308",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제27기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "용역수익인식\n영업권손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

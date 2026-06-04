@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "stock_code": "001780",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201113000098",
+      "flr_nm": "알루코",
+      "rcept_dt": "20201113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "stock_code": "001780",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814002109",
+      "flr_nm": "알루코",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "stock_code": "001780",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200814002086",
+      "flr_nm": "알루코",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "stock_code": "001780",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200814002063",
+      "flr_nm": "알루코",
+      "rcept_dt": "20200814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "stock_code": "001780",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515000380",
+      "flr_nm": "알루코",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "stock_code": "001780",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200327001297",
+      "flr_nm": "알루코",
+      "rcept_dt": "20200327",
+      "rm": "정연"
+    }
+  ]
+}

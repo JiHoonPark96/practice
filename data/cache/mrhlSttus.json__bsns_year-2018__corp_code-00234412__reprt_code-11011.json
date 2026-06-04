@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004848",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "se": "소액주주",
+      "shrholdr_co": "6,519",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "2,272,625",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "31.83%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

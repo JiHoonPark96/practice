@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2017.01.09",
+      "servc_cn": "매출액에 대한 합의된 절차 수행 업무",
+      "servc_exc_pd": "2017.01.09~2017.01.11",
+      "servc_mendng": "0.5",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

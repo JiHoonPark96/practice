@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000833",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제66기 당기\n제66기 반기",
+      "adtor": "한영회계법인\n정인회계법인",
+      "cn": "중간, 기말감사, 내부회계관리제도 검토\n반기",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "156,000\n170,000",
+      "adt_cntrct_dtls_time": "1,100시간\n1,500시간",
+      "real_exc_dtls_mendng": "156,000\n51,000",
+      "real_exc_dtls_time": "1,188시간\n200시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000833",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제65기(전기)",
+      "adtor": "정인회계법인",
+      "cn": "반기, 중간, 기말감사,\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "1,520시간",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "1,584시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000833",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기, 중간, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "49,000",
+      "adt_cntrct_dtls_time": "874시간",
+      "real_exc_dtls_mendng": "49,000",
+      "real_exc_dtls_time": "874시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

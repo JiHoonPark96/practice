@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제16기 (당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제16기 (당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "2018.03",
+      "servc_cn": "GKL어린이집 비용집행 회계감사",
+      "servc_exc_pd": "2018.03.16 ∼03.30",
+      "servc_mendng": "11백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000681",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "2018.08",
+      "servc_cn": "자금세탁방지 업무관련 준수 진단",
+      "servc_exc_pd": "2018.09.17∼10.05",
+      "servc_mendng": "5.5백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003634",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003634",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003634",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

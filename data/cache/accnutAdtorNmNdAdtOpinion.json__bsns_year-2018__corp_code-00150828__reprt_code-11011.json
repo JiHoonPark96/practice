@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003093",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "bsns_year": "제60기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003093",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "bsns_year": "제59기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003093",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "bsns_year": "제58기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

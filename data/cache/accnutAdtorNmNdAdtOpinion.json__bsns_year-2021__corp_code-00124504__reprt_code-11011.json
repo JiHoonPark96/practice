@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220311001166",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제22기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "이연법인세에 대한 자산성 검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220311001166",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제21기 \n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 자산손상: 미얀마 아마라 호텔 프로젝트\n(2) 관계기업투자 손상검사: 암바토비 니켈광 프로젝트",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220311001166",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제20기 \n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 수익 인식 귀속 시기\n(2) 대손충당금 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

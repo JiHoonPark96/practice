@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제35기(당기)",
+      "cntrct_cncls_de": "2019.09",
+      "servc_cn": "국제거래정보 통합보고서 작성",
+      "servc_exc_pd": "2019.09 ~ 2019.12",
+      "servc_mendng": "66 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제35기(당기)",
+      "cntrct_cncls_de": "2019.07",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2019.07 ~ 2020.03",
+      "servc_mendng": "44 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제34기(전기)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "국제거래정보 통합보고서 작성",
+      "servc_exc_pd": "2018.04 ~ 2018.12",
+      "servc_mendng": "55 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제33기(전전기)",
+      "cntrct_cncls_de": "2017.10",
+      "servc_cn": " 정상가격 산출방법 사전승인 신청 \n 타당성 검토",
+      "servc_exc_pd": "2017.10 ~ 2017.10",
+      "servc_mendng": "56 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제33기(전전기)",
+      "cntrct_cncls_de": "2017.02",
+      "servc_cn": " 구분회계 관리정보 산출 컨설팅",
+      "servc_exc_pd": "2017.02 ~ 2017.03",
+      "servc_mendng": "154 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

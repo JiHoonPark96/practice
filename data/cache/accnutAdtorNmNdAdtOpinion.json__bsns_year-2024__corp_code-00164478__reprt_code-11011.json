@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제75기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n (2) 손상징후가 존재하는 공사채권의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제75기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n (2) 손상징후가 존재하는 공사채권의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제74기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n (2) 손상징후가 존재하는 미청구공사의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제74기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n (2) 손상징후가 존재하는 미청구공사의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제73기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n (2) 손상징후가 존재하는 미청구공사의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제73기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n (2) 손상징후가 존재하는 미청구공사의 회수가능성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

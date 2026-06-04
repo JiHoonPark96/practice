@@ -1,0 +1,142 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 12,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20231212000335",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20231212",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20231212000331",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20231212",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20231212000328",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20231212",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20231212000324",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20231212",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002705",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814001096",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001776",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20230323000011",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230323",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20230323000010",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230323",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20230323000008",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230323",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20230323000007",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230323",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230322001271",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20230322",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000735",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "정동\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000735",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "정동\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000735",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "정진세림\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000735",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "정진세림\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000735",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "정진세림\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000735",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "정진세림\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000838",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "se": "소액주주",
+      "shrholdr_co": "12,391",
+      "shrholdr_tot_co": "12,397",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "36,131,864",
+      "stock_tot_co": "54,612,089",
+      "hold_stock_rate": "66.16%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

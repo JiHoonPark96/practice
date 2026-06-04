@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000967",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "의결권 있는 주식\n(보통주)",
+      "nm": "(주)이마트",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "6,131,700",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "6,131,700",
+      "trmend_posesn_stock_qota_rt": "40.16",
+      "rm": "- 자기주식 소각에 따른 지분율 상승",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000967",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "의결권 있는 주식\n(보통주)",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,131,700",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "6,131,700",
+      "trmend_posesn_stock_qota_rt": "40.16",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000967",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "합 계",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,131,700",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "6,131,700",
+      "trmend_posesn_stock_qota_rt": "40.16",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

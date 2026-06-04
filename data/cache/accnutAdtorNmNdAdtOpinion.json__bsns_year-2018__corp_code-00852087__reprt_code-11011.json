@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002608",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "bsns_year": "제9기",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"해당사항 없음\"",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002608",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "bsns_year": "제8기",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"해당사항 없음\"",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002608",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "bsns_year": "제7기",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"해당사항 없음\"",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

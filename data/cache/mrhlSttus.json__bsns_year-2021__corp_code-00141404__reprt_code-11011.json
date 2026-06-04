@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "se": "소액주주",
+      "shrholdr_co": "10,584",
+      "shrholdr_tot_co": "10,588",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "5,611,051",
+      "stock_tot_co": "22,200,000",
+      "hold_stock_rate": "25.28%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

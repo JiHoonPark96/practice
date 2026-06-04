@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230403003576",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "se": "소액주주",
+      "shrholdr_co": "22,537",
+      "shrholdr_tot_co": "22,548",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "5,078,015",
+      "stock_tot_co": "22,437,330",
+      "hold_stock_rate": "22.63%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004365",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "se": "소액주주",
+      "shrholdr_co": "11,849",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "8,158,201",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "45.58%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

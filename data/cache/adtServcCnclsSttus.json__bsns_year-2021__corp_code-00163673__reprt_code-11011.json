@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000386",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제60기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연말(반기,분기)국문감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230,000",
+      "adt_cntrct_dtls_time": "2,200시간",
+      "real_exc_dtls_mendng": "230,000",
+      "real_exc_dtls_time": "2,091시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000386",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제59기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연말(반기,분기)국문감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230,000",
+      "adt_cntrct_dtls_time": "2,200시간",
+      "real_exc_dtls_mendng": "230,000",
+      "real_exc_dtls_time": "2,180시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000386",
+      "corp_cls": "Y",
+      "corp_code": "00163673",
+      "corp_name": "한진중공업홀딩스",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연말(반기,분기)국문감사, 영문감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "228,000",
+      "adt_cntrct_dtls_time": "2,400시간",
+      "real_exc_dtls_mendng": "233,000",
+      "real_exc_dtls_time": "2,501시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

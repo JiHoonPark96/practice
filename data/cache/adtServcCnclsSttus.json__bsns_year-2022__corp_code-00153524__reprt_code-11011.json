@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001205",
+      "corp_cls": "Y",
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "bsns_year": "제47기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430",
+      "adt_cntrct_dtls_time": "3,800",
+      "real_exc_dtls_mendng": "430",
+      "real_exc_dtls_time": "4,130",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001205",
+      "corp_cls": "Y",
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "bsns_year": "제46기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "425",
+      "adt_cntrct_dtls_time": "3,750",
+      "real_exc_dtls_mendng": "425",
+      "real_exc_dtls_time": "4,012",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001205",
+      "corp_cls": "Y",
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "413",
+      "adt_cntrct_dtls_time": "3,750",
+      "real_exc_dtls_mendng": "413",
+      "real_exc_dtls_time": "4,072",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004157",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "se": "소액주주",
+      "shrholdr_co": "6,042",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "6,112,471",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "43.66%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

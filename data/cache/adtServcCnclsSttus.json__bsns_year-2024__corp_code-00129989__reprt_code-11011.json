@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000812",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제58기(당기)\n(2024년 1월 1일~2024년 12월 31일)",
+      "adtor": "태일회계법인",
+      "cn": "분ㆍ반기재무제표, 개별재무제표,\n내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "2,202",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000812",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제57기(당기)\n(2023년 1월 1일~2023년 12월 31일)",
+      "adtor": "진일회계법인",
+      "cn": "반기재무제표, 개별재무제표,\n내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "185",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "185",
+      "real_exc_dtls_time": "1,808",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000812",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제56기(당기)\n(2022년 1월 1일~2022년 12월 31일)",
+      "adtor": "진일회계법인",
+      "cn": "반기재반제표, 개별재무제표,\n내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "175",
+      "real_exc_dtls_time": "1,920",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004485",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제43기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- Hanwha Aerospace USA Co.,의 인수, \n- 영업권 및 국제공동사업권의 손상 평가\n- 원가기준 투입에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004485",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제42기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 한화에쓰앤씨㈜를 흡수합병(사업결합), - 영업권 및 국제공동사업권의 손상 평가,- 원가기준 투입에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004485",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제41기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 수주산업 핵심감사 항목",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

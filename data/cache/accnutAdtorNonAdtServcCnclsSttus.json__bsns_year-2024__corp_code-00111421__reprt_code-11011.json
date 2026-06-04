@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제56기\n(2024년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제55기\n(2023년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제54기\n(2022년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001341",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "se": "소액주주",
+      "shrholdr_co": "127,188",
+      "shrholdr_tot_co": "127,197",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "24,825,071",
+      "stock_tot_co": "38,408,228",
+      "hold_stock_rate": "64.63%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

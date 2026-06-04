@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000766",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "se": "소액주주",
+      "shrholdr_co": "23,682",
+      "shrholdr_tot_co": "23,687",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "8,460,134",
+      "stock_tot_co": "26,409,935",
+      "hold_stock_rate": "32.03%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

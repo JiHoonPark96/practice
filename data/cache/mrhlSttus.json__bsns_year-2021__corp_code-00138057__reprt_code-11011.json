@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001263",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "se": "소액주주",
+      "shrholdr_co": "25,869",
+      "shrholdr_tot_co": "25,875",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "32,083,588",
+      "stock_tot_co": "34,845,009",
+      "hold_stock_rate": "92.08%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000960",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제46기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "재무제표 감사 및 전반적 실사 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000천원",
+      "adt_cntrct_dtls_time": "975시간",
+      "real_exc_dtls_mendng": "170,000천원",
+      "real_exc_dtls_time": "1,477시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000960",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제45기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "재무제표 감사 및 전반적 실사 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000천원",
+      "adt_cntrct_dtls_time": "975시간",
+      "real_exc_dtls_mendng": "170,000천원",
+      "real_exc_dtls_time": "1,493시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000960",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "다산회계법인",
+      "cn": "재무제표 감사 및 전반적 실사 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000천원",
+      "adt_cntrct_dtls_time": "1,002시간",
+      "real_exc_dtls_mendng": "85,000천원",
+      "real_exc_dtls_time": "1,049시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

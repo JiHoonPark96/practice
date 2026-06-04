@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000304",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "se": "소액주주",
+      "shrholdr_co": "10,854",
+      "shrholdr_tot_co": "10,867",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "8,400,169",
+      "stock_tot_co": "22,800,500",
+      "hold_stock_rate": "36.86%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

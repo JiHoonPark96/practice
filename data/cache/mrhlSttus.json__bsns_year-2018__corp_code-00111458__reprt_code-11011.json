@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003444",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "se": "소액주주",
+      "shrholdr_co": "10,280",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "45,471,870",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "41.95%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

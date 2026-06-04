@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004763",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제44기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "65백만원",
+      "tot_reqre_time": "835",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004763",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제43기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "57백만원",
+      "tot_reqre_time": "788",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004763",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "57백만원",
+      "tot_reqre_time": "680",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제52기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제51기(전기)",
+      "cntrct_cncls_de": "23.02.01",
+      "servc_cn": "내부회계고도화 운영평가",
+      "servc_exc_pd": "23.02.20-23.03.31",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001016",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "22.04.30",
+      "servc_cn": "내부회계 고도화 구축",
+      "servc_exc_pd": "22.05.01~22.12.31",
+      "servc_mendng": "82",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

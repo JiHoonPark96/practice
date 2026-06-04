@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001159",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제59기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 및 분/반기 검토, 내부회계관리제도 감사,\n지배기업의 연결목적 임의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "730백만원",
+      "adt_cntrct_dtls_time": "6,600시간",
+      "real_exc_dtls_mendng": "730백만원",
+      "real_exc_dtls_time": "6,621시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001159",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제58기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 및 분/반기 검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "515백만원",
+      "adt_cntrct_dtls_time": "4,700시간",
+      "real_exc_dtls_mendng": "515백만원",
+      "real_exc_dtls_time": "4,959시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001159",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 및 분/반기 검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480백만원",
+      "adt_cntrct_dtls_time": "4,580시간",
+      "real_exc_dtls_mendng": "480백만원",
+      "real_exc_dtls_time": "4,909시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

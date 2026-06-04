@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "bsns_year": "제16기 (당기)",
+      "adtor": "한미회계법인",
+      "cn": "재무제표(K-IFRS) 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190,000천원",
+      "adt_cntrct_dtls_time": "1,750시간",
+      "real_exc_dtls_mendng": "190,000천원",
+      "real_exc_dtls_time": "1,727시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "bsns_year": "제15기 (전기)",
+      "adtor": "안경회계법인",
+      "cn": "재무제표(K-IFRS) 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000천원",
+      "adt_cntrct_dtls_time": "1,181시간",
+      "real_exc_dtls_mendng": "70,000천원",
+      "real_exc_dtls_time": "1,181시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001087",
+      "corp_cls": "Y",
+      "corp_code": "00661847",
+      "corp_name": "화인베스틸",
+      "bsns_year": "제14기 (전전기)",
+      "adtor": "안경회계법인",
+      "cn": "재무제표(K-IFRS) 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000천원",
+      "adt_cntrct_dtls_time": "1,049시간",
+      "real_exc_dtls_mendng": "60,000천원",
+      "real_exc_dtls_time": "1,049시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

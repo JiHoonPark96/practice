@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003491",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "bsns_year": "제76기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003491",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "bsns_year": "제75기(전기)",
+      "cntrct_cncls_de": "2017.04.28",
+      "servc_cn": "특수목적 재무제표 감사(17년 1분기)",
+      "servc_exc_pd": "2017. 04. 28~2017. 05. 10",
+      "servc_mendng": "24",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003491",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "bsns_year": "제74기(전전기)",
+      "cntrct_cncls_de": "2016.02.16\n2016.08.10",
+      "servc_cn": "분할검토보고서 발행(직전 3개년)\n분할검토보고서 발행(분할일)",
+      "servc_exc_pd": "2016. 02. 16~2016. 03. 15\n2016. 08. 10~2016. 09. 15",
+      "servc_mendng": "25\n35",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

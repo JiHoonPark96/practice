@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001378",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제17기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신동사업부문의 재고자산평가\n 및 수출매출수익인식기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001378",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제17기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신동사업부문의 재고자산평가\n 및 수출매출수익인식기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001378",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제16기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신동사업부문의 재고자산평가\n 및 수출매출수익인식기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001378",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제16기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신동사업부문의 재고자산평가\n 및 수출매출수익인식기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001378",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신동사업부문의 재고자산평가\n 및 수출매출수익인식기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001378",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신동사업부문의 재고자산평가\n 및 수출매출수익인식기간귀속",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

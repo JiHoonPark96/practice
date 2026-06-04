@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001070",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제59기(당기)",
+      "adtor": "대현회계법인",
+      "cn": "연간재무제표 검토 및 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,000,000",
+      "adt_cntrct_dtls_time": "1,074",
+      "real_exc_dtls_mendng": "140,000,000",
+      "real_exc_dtls_time": "1.234",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001070",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제58기(전기)",
+      "adtor": "대현회계법인",
+      "cn": "연간재무제표 검토 및 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135,000,000",
+      "adt_cntrct_dtls_time": "1,154",
+      "real_exc_dtls_mendng": "135,000,000",
+      "real_exc_dtls_time": "1,196",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001070",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제57기(전기)",
+      "adtor": "서우회계법인",
+      "cn": "연간재무제표 검토 및 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000,000",
+      "adt_cntrct_dtls_time": "866",
+      "real_exc_dtls_mendng": "60,000,000",
+      "real_exc_dtls_time": "866",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003637",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "보통주",
+      "nm": "한국산업은행",
+      "relate": "본 인",
+      "bsis_posesn_stock_co": "1,208,588",
+      "bsis_posesn_stock_qota_rt": "1.14",
+      "trmend_posesn_stock_co": "13,440,545",
+      "trmend_posesn_stock_qota_rt": "16.14",
+      "rm": "무상감자(5:1) 및 출자전환에 따른 유상증자",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003637",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,208,588",
+      "bsis_posesn_stock_qota_rt": "1.14",
+      "trmend_posesn_stock_co": "13,440,545",
+      "trmend_posesn_stock_qota_rt": "16.14",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003637",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

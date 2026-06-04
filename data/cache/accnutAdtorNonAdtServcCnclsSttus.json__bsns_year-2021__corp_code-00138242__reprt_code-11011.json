@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220427000218",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제60기(당기)",
+      "cntrct_cncls_de": "2021.06.01",
+      "servc_cn": "세무조사 지원용역",
+      "servc_exc_pd": "21.06.01~21.09.08",
+      "servc_mendng": "132",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220427000218",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제59기(전기)",
+      "cntrct_cncls_de": "2020.08.01",
+      "servc_cn": "세무조정 및 세무자문",
+      "servc_exc_pd": "20.08.01~23.07.31",
+      "servc_mendng": "44",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220427000218",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제58기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

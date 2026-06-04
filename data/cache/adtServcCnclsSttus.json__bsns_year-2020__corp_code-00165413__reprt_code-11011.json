@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315001080",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제45기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표 회계감사 및 분/반기 검토내부회계관리제도 감사\n연결재무제표 영문보고서 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,750",
+      "adt_cntrct_dtls_time": "16,660",
+      "real_exc_dtls_mendng": "1,750",
+      "real_exc_dtls_time": "17,288",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001080",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제44기 (전기)",
+      "adtor": "한영회계법인",
+      "cn": "연결 및 별도재무제표 회계감사 및 분/반기 검토내부회계관리제도 감사연결재무제표 영문보고서 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,190",
+      "adt_cntrct_dtls_time": "14,000",
+      "real_exc_dtls_mendng": "1,190",
+      "real_exc_dtls_time": "13,658",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315001080",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "연결 및 별도재무제표 회계감사 및 분/반기 검토내부회계관리제도 검토연결재무제표 영문보고서 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "760",
+      "adt_cntrct_dtls_time": "10,000",
+      "real_exc_dtls_mendng": "760",
+      "real_exc_dtls_time": "9,418",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

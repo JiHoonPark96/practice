@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190708000358",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "stock_knd": "보통주",
+      "nm": "유암코기업리바운스제팔차\n기업재무안정사모투자합자회사",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "19,424,300",
+      "trmend_posesn_stock_qota_rt": "84.42",
+      "rm": "장외매수",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190708000358",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "stock_knd": "전환주",
+      "nm": "유암코기업리바운스제팔차\n기업재무안정사모투자합자회사",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "4,647,350",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "장외매수",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190708000358",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "19,424,300",
+      "trmend_posesn_stock_qota_rt": "84.42",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190708000358",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190708000358",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "stock_knd": "전환주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "4,647,350",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

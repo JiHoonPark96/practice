@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001484",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 47기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001484",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 46기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001484",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

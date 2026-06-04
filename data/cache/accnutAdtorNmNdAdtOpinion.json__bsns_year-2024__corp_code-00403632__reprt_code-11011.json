@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250829001372",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제33기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "ㆍ별도\n    1) 종속기업투자에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001372",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제33기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "ㆍ연결\n    1) 화장품ㆍ의약품 원료제조사업부문에 배부된 영업권의\n        손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001372",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제32기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "ㆍ별도\n    1) 종속기업투자에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001372",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제32기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "ㆍ연결\n    1) 화장품ㆍ의약품 원료제조사업부문에 배부된 영업권의\n        손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001372",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "ㆍ별도\n    1) 종속기업투자에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250829001372",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "ㆍ연결\n    1) 화장품ㆍ의약품 원료제조사업부문에 배부된 영업권의\n        손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

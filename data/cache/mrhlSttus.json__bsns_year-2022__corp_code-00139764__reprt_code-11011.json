@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001362",
+      "corp_cls": "Y",
+      "corp_code": "00139764",
+      "corp_name": "에넥스",
+      "se": "소액주주",
+      "shrholdr_co": "32,149",
+      "shrholdr_tot_co": "32,157",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "42,928,405",
+      "stock_tot_co": "59,991,641",
+      "hold_stock_rate": "71.56%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

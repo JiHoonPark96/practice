@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200331002426",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제44기(당기)",
+      "adtor": "다산회계법인",
+      "cn": "재무제표 감사 및 전반적 실사 연결재무제표 감사",
+      "mendng": "85,000천원",
+      "tot_reqre_time": "1,049시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002426",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제43기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "재무제표 감사 및 전반적 실사 연결재무제표 감사",
+      "mendng": "307,000천원",
+      "tot_reqre_time": "4,224시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002426",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "대명회계법인",
+      "cn": "재무제표 감사 및 전반적 실사 연결재무제표 감사",
+      "mendng": "100,000천원",
+      "tot_reqre_time": "1,476시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

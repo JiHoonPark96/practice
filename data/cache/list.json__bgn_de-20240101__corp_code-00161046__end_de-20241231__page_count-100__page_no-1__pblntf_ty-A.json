@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "stock_code": "002390",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241113000436",
+      "flr_nm": "한독",
+      "rcept_dt": "20241113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "stock_code": "002390",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240813000897",
+      "flr_nm": "한독",
+      "rcept_dt": "20240813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "stock_code": "002390",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240514001394",
+      "flr_nm": "한독",
+      "rcept_dt": "20240514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "stock_code": "002390",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240314000463",
+      "flr_nm": "한독",
+      "rcept_dt": "20240314",
+      "rm": "연"
+    }
+  ]
+}

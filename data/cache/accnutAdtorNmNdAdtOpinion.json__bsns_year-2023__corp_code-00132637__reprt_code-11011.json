@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000775",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 별도\n유리병, CAN, PET, Aseptic 부문 영업권 손상\n\n2. 연결\n유리병, CAN, PET, Aseptic 부문 영업권 손상",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000775",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "bsns_year": "제43기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 별도\n Tan Tien Plastic Packaging Joint Stock Company(이하, \"TTP\") 종속기업 투자주식 손상\n \n 2. 연결\n Tan Tien Plastic Packaging Joint Stock Company(이하, \"TTP\") 현금창출단위에 대한 영업권 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000775",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 별도\n Tan Tien Plastic Packaging Joint Stock Company(이하, \"TTP\") 종속기업 투자주식 손상\n \n 2. 연결\n Tan Tien Plastic Packaging Joint Stock Company(이하, \"TTP\") 현금창출단위에 대한 영업권 손상평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

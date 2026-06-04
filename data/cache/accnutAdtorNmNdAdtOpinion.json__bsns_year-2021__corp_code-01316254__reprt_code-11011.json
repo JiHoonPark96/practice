@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000820",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "bsns_year": "제4기(당기)\n(2021년 1~12월)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 바이러스 영향",
+      "core_adt_matter": "- 종속기업투자에 대한 손상평가\n- 현금창출단위에 대한 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000820",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "bsns_year": "제3기 (전기)\n(2020년 1~12월)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 바이러스 영향",
+      "core_adt_matter": "- 종속기업투자에 대한 손상평가\n- 현금창출단위에 대한 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000820",
+      "corp_cls": "Y",
+      "corp_code": "01316254",
+      "corp_name": "HS효성첨단소재",
+      "bsns_year": "제2기 (전전기)\n(2019년 1~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "2018년 6월1일\n인적분할되어 신규설립",
+      "core_adt_matter": "- 종속기업 및 관계회사 투자 손상평가\n- 영업권 손상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

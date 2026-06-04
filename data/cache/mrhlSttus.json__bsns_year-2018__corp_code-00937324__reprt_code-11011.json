@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004884",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "se": "소액주주",
+      "shrholdr_co": "16,230",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "59,094,345",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "47.69%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

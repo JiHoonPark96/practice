@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000549",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

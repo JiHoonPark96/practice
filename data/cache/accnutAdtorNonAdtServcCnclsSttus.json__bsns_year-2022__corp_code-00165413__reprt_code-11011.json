@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001511",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "2022.01.10",
+      "servc_cn": "간주취득세\n경정청구",
+      "servc_exc_pd": "2022.01.10 ~ \n2022.03.31.",
+      "servc_mendng": "74백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001511",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "2021.10.22.",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2021.10.22 ~ \n환급통지서 수령일",
+      "servc_mendng": "경제적이익(본세와 지방소득세)의 3%\n*착수금 : 1천만원",
+      "rm": "3자 계약서\n(롯데케미칼, 삼정회계법인, 법무법인 율촌)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001511",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

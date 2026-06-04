@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210817000623",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "se": "소액주주",
+      "shrholdr_co": "13,396",
+      "shrholdr_tot_co": "13,401",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "8,642,615",
+      "stock_tot_co": "27,033,459",
+      "hold_stock_rate": "31.97%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

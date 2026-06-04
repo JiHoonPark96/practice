@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제58기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제57기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

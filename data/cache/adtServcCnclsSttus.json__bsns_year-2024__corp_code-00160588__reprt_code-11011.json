@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제73기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 재무제표 검토\n  별도 및 연결 재무제표에 대한 감사\n  내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,055",
+      "adt_cntrct_dtls_time": "27,780",
+      "real_exc_dtls_mendng": "3,055",
+      "real_exc_dtls_time": "27,009",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제72기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,134",
+      "adt_cntrct_dtls_time": "27,000",
+      "real_exc_dtls_mendng": "3,134",
+      "real_exc_dtls_time": "32,683",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251218000270",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제71기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,260",
+      "adt_cntrct_dtls_time": "21,000",
+      "real_exc_dtls_mendng": "2,260",
+      "real_exc_dtls_time": "21,721",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

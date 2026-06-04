@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331000044",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제33기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "마일리지 이연수익의 인식 및 측정,\n이연법인세자산의 실현가능성 평가,\n정비비 전표입력의 기간귀속",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000044",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제32기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "마일리지 이연수익의 인식 및 \n측정이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331000044",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성 및 \n당기 재무제표/연결재무제표 재작성에 대한 감사인의 강조사항 주1)",
+      "core_adt_matter": "마일리지 이연수익의 인식 및 측정",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

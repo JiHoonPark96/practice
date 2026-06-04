@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001104",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "se": "소액주주",
+      "shrholdr_co": "29,511",
+      "shrholdr_tot_co": "29,521",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "4,849,323",
+      "stock_tot_co": "14,704,872",
+      "hold_stock_rate": "32.98%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

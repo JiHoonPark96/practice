@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000879",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제70기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기재무제표 및 반기연결재무제표 검토\n재무제표 및 연결재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220,000",
+      "adt_cntrct_dtls_time": "1,532",
+      "real_exc_dtls_mendng": "160,000",
+      "real_exc_dtls_time": "2,023",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000879",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제69기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기재무제표 및 반기연결재무제표 검토\n재무제표 및 연결재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "185,000",
+      "adt_cntrct_dtls_time": "1,528",
+      "real_exc_dtls_mendng": "195,000",
+      "real_exc_dtls_time": "1,573",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000879",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기재무제표 및 반기연결재무제표 검토\n재무제표 및 연결재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "132,000",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "132,000",
+      "real_exc_dtls_time": "1,498",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

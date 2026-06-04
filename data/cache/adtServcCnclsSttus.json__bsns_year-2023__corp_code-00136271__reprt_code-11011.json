@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001609",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제45기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "당기 재무제표 검토, \n별도 및 연결 재무제표에 대한 감사, \n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "2,264",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001609",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "당기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430백만원",
+      "adt_cntrct_dtls_time": "2,420",
+      "real_exc_dtls_mendng": "430백만원",
+      "real_exc_dtls_time": "2,420",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001609",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "당기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350백만원",
+      "adt_cntrct_dtls_time": "2,420",
+      "real_exc_dtls_mendng": "350백만원",
+      "real_exc_dtls_time": "2,420",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

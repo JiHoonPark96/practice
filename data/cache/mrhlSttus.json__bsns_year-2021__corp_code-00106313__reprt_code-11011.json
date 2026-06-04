@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000355",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "se": "소액주주",
+      "shrholdr_co": "32,433",
+      "shrholdr_tot_co": "32,441",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "17,903,965",
+      "stock_tot_co": "36,633,924",
+      "hold_stock_rate": "48.89%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

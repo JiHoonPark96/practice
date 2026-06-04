@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310000763",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제29기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "-영업권이 포함된 현금창출단위에 대한 손상검사\n-종속기업으로부터의 매입거래",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230310000763",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제28기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "-영업권이 포함된 현금창출단위에 대한 손상검사\n-종속기업으로부터의 매입거래",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230310000763",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제27기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "-영업권이 포함된 현금창출단위에 대한 손상검사\n-특수관계자로부터의 매입거래",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

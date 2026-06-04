@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 52기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 현금창출단위(CGU)의 자산가치 검토\n\n\n2. 건설중인 자산 미대체의 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 52기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 현금창출단위(CGU)의 자산가치 검토\n\n\n2. 건설중인 자산 미대체의 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 51기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 현금창출단위(CGU)에 관한 적정성 검토\n\n2. 건설중인 자산 미대체의 적정성 검토\n\n3. 계열사에 대한 매출거래의 내부회계 통제",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 51기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 현금창출단위(CGU)에 관한 적정성 검토\n\n2. 건설중인 자산 미대체의 적정성 검토\n\n3. 계열사에 대한 매출거래의 내부회계 통제",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 50기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "계열사에 대한 매출거래\n\n1.수익인식기준의 적정성 검토\n\n2.내부통제제도 이해 및 평가\n\n3. 매출거래의 발생사실 및 측정의 적정성 확인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 50기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "계열사에 대한 매출거래\n\n1.수익인식기준의 적정성 검토\n\n2.내부통제제도 이해 및 평가\n\n3. 매출거래의 발생사실 및 측정의 적정성 확인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

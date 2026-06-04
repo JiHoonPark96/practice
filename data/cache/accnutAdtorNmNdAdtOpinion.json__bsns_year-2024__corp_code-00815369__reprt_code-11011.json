@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제15기\n(당기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제15기\n(당기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제14기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제14기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제13기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제13기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

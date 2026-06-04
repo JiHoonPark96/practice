@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "stock_code": "011790",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115002192",
+      "flr_nm": "SKC",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "stock_code": "011790",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001814",
+      "flr_nm": "SKC",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "stock_code": "011790",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517001855",
+      "flr_nm": "SKC",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "stock_code": "011790",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210423000677",
+      "flr_nm": "SKC",
+      "rcept_dt": "20210423",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "stock_code": "011790",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210322000882",
+      "flr_nm": "SKC",
+      "rcept_dt": "20210322",
+      "rm": "정연"
+    }
+  ]
+}

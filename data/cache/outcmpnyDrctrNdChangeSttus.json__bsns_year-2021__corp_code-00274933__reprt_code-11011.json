@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000592",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

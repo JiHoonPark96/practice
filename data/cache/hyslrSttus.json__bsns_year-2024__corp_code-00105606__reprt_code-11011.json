@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000938",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "에코볼트(주)",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "58,088,432",
+      "bsis_posesn_stock_qota_rt": "29.61",
+      "trmend_posesn_stock_co": "65,780,739",
+      "trmend_posesn_stock_qota_rt": "30.75",
+      "rm": "유상증자(제3자배정)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000938",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "오성첨단소재(주)",
+      "relate": "최대주주의 특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,324,037",
+      "trmend_posesn_stock_qota_rt": "0.62",
+      "rm": "장내매수",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000938",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "58,088,432",
+      "bsis_posesn_stock_qota_rt": "29.61",
+      "trmend_posesn_stock_co": "67,104,776",
+      "trmend_posesn_stock_qota_rt": "31.37",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000938",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000956",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제1기",
+      "adtor": "삼정회계\n법인",
+      "adt_opinion": "중요성의 관점에서 기업회계기준서 제1034호에\n 따라 작성되지 않은 사항이 발견되지 아니함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무제표 주석 39. \n인적분할을 통한 회사의 설립",
+      "core_adt_matter": "해당사항\n없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000956",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제1기",
+      "adtor": "삼정회계\n법인",
+      "adt_opinion": "중요성의 관점에서 기업회계기준서 제1103호에 \n따라 작성되지 않은 사항이 발견되지 아니함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무제표 주석 40. \n사업결합",
+      "core_adt_matter": "해당사항\n없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000956",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

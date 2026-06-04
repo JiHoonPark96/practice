@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240307000545",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "2023.11.16",
+      "servc_cn": "글로벌 최저한세 도입 영향분석 자문 용역",
+      "servc_exc_pd": "2023년 11월 ~ 2024년 3월 (예정)",
+      "servc_mendng": "75,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000545",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "2023.11.16",
+      "servc_cn": "글로벌 최저한세 대응 운영지원 자문 용역",
+      "servc_exc_pd": "2026년 1월 ~ 2026년 6월 (예정)",
+      "servc_mendng": "45,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000545",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "2023.10.05",
+      "servc_cn": "국내특수관계자거래 관련 세무 자문용역",
+      "servc_exc_pd": "2023년 10월 ~ 2023년 12월",
+      "servc_mendng": "10,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000545",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000545",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "2021.08.31",
+      "servc_cn": "국제조세 관련 세무자문 용역",
+      "servc_exc_pd": "2021년 8월 ~ 2021년 12월",
+      "servc_mendng": "30,000",
+      "rm": "변경 전 감사인(삼일회계법인)과의 계약사항",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000545",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "2021.01.01",
+      "servc_cn": "국제조세 관련 세무자문 용역",
+      "servc_exc_pd": "2021년 1월 ~ 2022년 3월",
+      "servc_mendng": "134,815",
+      "rm": "변경 전 감사인(삼일회계법인)과의 계약사항",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

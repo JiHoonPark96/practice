@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000935",
+      "corp_cls": "Y",
+      "corp_code": "00138260",
+      "corp_name": "SIMPAC",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "2",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000849",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "bsns_year": "제42기(당   기)",
+      "adtor": "승일회계법인",
+      "cn": "-. 반  기  검  토 : 2018년 07월 23일 ~ 2018년 07월 27일\n-. 중  간  감  사 : 2018년 10월 22일 ~ 2018년 10월 26일\n-. 기  말  감  사 : 2019년 01월 28일 ~ 2019년 02월 01일\n-. 연결기말감사 : 2019년 02월 07일 ~ 2019년 02월 13일",
+      "mendng": "68,000",
+      "tot_reqre_time": "1,076",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000849",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "bsns_year": "제41기(전   기)",
+      "adtor": "승일회계법인",
+      "cn": "-. 반  기  검  토 : 2017년 07월 24일 ~ 2017년 07월 27일\n-. 중  간  감  사 : 2017년 10월 30일 ~ 2017년 11월 02일\n-. 기  말  감  사 : 2018년 01월 29일 ~ 2018년 02월 02일\n-. 연결기말감사 : 2018년 02월 05일 ~ 2018년 02월 09일",
+      "mendng": "63,000",
+      "tot_reqre_time": "990",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000849",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "승일회계법인",
+      "cn": "-. 반  기  검  토 : 2016년 07월 25일 ~ 2016년 07월 28일\n-. 중  간  감  사 : 2016년 10월 24일 ~ 2016년 10월 27일\n-. 기  말  감  사 : 2017년 01월 23일 ~ 2017년 01월 26일\n-. 연결기말감사 : 2017년 02월 01일 ~ 2017년 02월 03일",
+      "mendng": "63,000",
+      "tot_reqre_time": "997",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

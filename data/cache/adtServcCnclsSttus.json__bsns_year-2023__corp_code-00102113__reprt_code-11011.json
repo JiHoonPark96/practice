@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제47기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "2,025",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "2,025",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제46기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190,000",
+      "adt_cntrct_dtls_time": "2,025",
+      "real_exc_dtls_mendng": "190,000",
+      "real_exc_dtls_time": "2,025",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "1,550",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "1,550",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

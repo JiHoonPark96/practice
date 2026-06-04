@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000217",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "se": "소액주주",
+      "shrholdr_co": "7,517",
+      "shrholdr_tot_co": "7,520",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "473,081",
+      "stock_tot_co": "1,056,000",
+      "hold_stock_rate": "44.80%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2023.05.01 ",
+      "servc_cn": " - 세무조정 및 자문",
+      "servc_exc_pd": " 2023.05.01 ~ 2024.04.30",
+      "servc_mendng": "40",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제3기(당기)",
+      "cntrct_cncls_de": "2023.03.10",
+      "servc_cn": "- 민간개발사업 컨설팅 용역",
+      "servc_exc_pd": "2023.03.10 ~  2023.04.24",
+      "servc_mendng": "197",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제2기(전기)",
+      "cntrct_cncls_de": "2022.05.01",
+      "servc_cn": "- 세무조정",
+      "servc_exc_pd": "2022.05.01 ~ 2023.04.30",
+      "servc_mendng": "40",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2021.01.29",
+      "servc_cn": "- 건설부문 5개년(15년~19년)\n별도 및 연결 재무제표 검토",
+      "servc_exc_pd": "2021.01.29 ~ 2021.03.10",
+      "servc_mendng": "101",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2021.08.06",
+      "servc_cn": "- 세무조정",
+      "servc_exc_pd": "2021.07.08 ~ 2022.04.30",
+      "servc_mendng": "40",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2021.08.06",
+      "servc_cn": "- 적격분할 요건 관련 세무자문",
+      "servc_exc_pd": "2021.08.06 ~ 2021.09.30",
+      "servc_mendng": "55",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2021.09.07",
+      "servc_cn": "- 사채관리계약이행상황보고서 ",
+      "servc_exc_pd": "2021.09.07 ~ 2022.09.07",
+      "servc_mendng": "1",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기(전전기)",
+      "cntrct_cncls_de": "2021.10.01",
+      "servc_cn": "- 재무현황 확인서 작성용역",
+      "servc_exc_pd": "2021.10.01 ~ 2021.10.31",
+      "servc_mendng": "3",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

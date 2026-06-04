@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002449",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "se": "소액주주",
+      "shrholdr_co": "4,205",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.73%",
+      "hold_stock_co": "12,200,486",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "26.49%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

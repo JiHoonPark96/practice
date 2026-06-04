@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003398",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제20기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003398",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제19기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003398",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제18기(전전기)",
+      "cntrct_cncls_de": "17.09.18",
+      "servc_cn": "K-IFRS 1115호 \n자문용역",
+      "servc_exc_pd": "2017.09.18 ~ \n2017.10.30",
+      "servc_mendng": "80",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

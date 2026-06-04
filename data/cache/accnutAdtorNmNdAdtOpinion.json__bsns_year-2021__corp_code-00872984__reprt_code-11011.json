@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제11기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ주식회사 에스에스지닷컴 사업부를 현금창출단위로 하는 영업권 손상평가\nㆍ주식회사 에스씨케이컴퍼니의 사업결합 (단계적 취득)\nㆍ주식회사 아폴로코리아 유한회사의 사업결합",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제10기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ주식회사 에스에스지닷컴을 현금창출단위로 하는 영업권 손상평가\nㆍ주식회사 신세계아이앤씨 사업결합 (단계적 취득)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ주식회사 에스에스지닷컴을 현금창출단위로 하는 영업권 손상평가\nㆍ주식회사 신세계몰 합병 및 GOOD FOOD HOLDINGS, LLC 취득(사업결합)\nㆍ한국채택국제회계기준 제1116호 '리스' 의 도입 최초 적용일 효과 ",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

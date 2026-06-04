@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240412003349",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "se": "소액주주",
+      "shrholdr_co": "14,506",
+      "shrholdr_tot_co": "14,532",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "6,304,848",
+      "stock_tot_co": "17,283,906",
+      "hold_stock_rate": "36.48%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000988",
+      "corp_cls": "Y",
+      "corp_code": "00148920",
+      "corp_name": "조광페인트",
+      "se": "소액주주",
+      "shrholdr_co": "6,964",
+      "shrholdr_tot_co": "6,981",
+      "shrholdr_rate": "99.76%",
+      "hold_stock_co": "5,134,098",
+      "stock_tot_co": "12,800,000",
+      "hold_stock_rate": "40.11%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

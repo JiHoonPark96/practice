@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251210000195",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 발생 사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251210000195",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 발생 사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251210000195",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 발생 사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251210000195",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 발생 사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251210000195",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251210000195",
+      "corp_cls": "Y",
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

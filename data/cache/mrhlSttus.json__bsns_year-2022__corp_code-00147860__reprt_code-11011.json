@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001300",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "se": "소액주주",
+      "shrholdr_co": "6,084",
+      "shrholdr_tot_co": "6,086",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "16,291,180",
+      "stock_tot_co": "111,251,760",
+      "hold_stock_rate": "14.64%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

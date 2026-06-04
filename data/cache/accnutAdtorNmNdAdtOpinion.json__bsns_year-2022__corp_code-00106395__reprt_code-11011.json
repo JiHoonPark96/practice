@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001127",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제69기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "(별도, 연결재무제표)\n - 재고자산의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001127",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제68기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "(별도, 연결재무제표)\n - 제상품매출 기간귀속의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001127",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "(별도, 연결재무제표)\n - 제상품매출 기간귀속의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

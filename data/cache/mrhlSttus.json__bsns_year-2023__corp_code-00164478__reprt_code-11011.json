@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "se": "소액주주",
+      "shrholdr_co": "177,064",
+      "shrholdr_tot_co": "177,116",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "63,185,362",
+      "stock_tot_co": "111,355,765",
+      "hold_stock_rate": "56.74%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

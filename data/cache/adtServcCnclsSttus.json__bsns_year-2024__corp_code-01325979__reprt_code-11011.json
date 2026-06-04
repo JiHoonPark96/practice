@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제7기(2024년)",
+      "adtor": "삼정회계법인",
+      "cn": "회계 및 업무 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "493",
+      "adt_cntrct_dtls_time": "4,075",
+      "real_exc_dtls_mendng": "493",
+      "real_exc_dtls_time": "4,046",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제6기(2023년)",
+      "adtor": "삼정회계법인",
+      "cn": "회계 및 업무 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "458",
+      "adt_cntrct_dtls_time": "3,781",
+      "real_exc_dtls_mendng": "458",
+      "real_exc_dtls_time": "3,717",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000987",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제5기(2022년)",
+      "adtor": "삼정회계법인",
+      "cn": "회계 및 업무 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "490",
+      "adt_cntrct_dtls_time": "4,127",
+      "real_exc_dtls_mendng": "490",
+      "real_exc_dtls_time": "4,319",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "2020년12월29일",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "2021년1월1일-  2021일 12월31일",
+      "servc_mendng": "4,900,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000118",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001418",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "se": "소액주주",
+      "shrholdr_co": "8,487",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "6,753,702",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "32.37%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

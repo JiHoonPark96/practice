@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001103",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "se": "소액주주",
+      "shrholdr_co": "455,901",
+      "shrholdr_tot_co": "455,906",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "400,133,355",
+      "stock_tot_co": "640,561,146",
+      "hold_stock_rate": "62.46%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

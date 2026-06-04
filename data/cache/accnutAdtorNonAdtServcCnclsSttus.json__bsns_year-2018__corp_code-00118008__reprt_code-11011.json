@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제32기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제32기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제30기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000437",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제30기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    }
+  ]
+}

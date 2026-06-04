@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003176",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "(주)현대홈쇼핑",
+      "relate": "본 인",
+      "bsis_posesn_stock_co": "8,532,763",
+      "bsis_posesn_stock_qota_rt": "34.64",
+      "trmend_posesn_stock_co": "8,532,763",
+      "trmend_posesn_stock_qota_rt": "34.64",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003176",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "8,532,763",
+      "bsis_posesn_stock_qota_rt": "34.64",
+      "trmend_posesn_stock_co": "8,532,763",
+      "trmend_posesn_stock_qota_rt": "34.64",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003176",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

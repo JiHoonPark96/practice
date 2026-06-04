@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002572",
+      "corp_cls": "Y",
+      "corp_code": "00911955",
+      "corp_name": "잇츠한불",
+      "bsns_year": "제14기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "재무제표 및 연결재무제표의 감사",
+      "mendng": "158",
+      "tot_reqre_time": "1,141",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002572",
+      "corp_cls": "Y",
+      "corp_code": "00911955",
+      "corp_name": "잇츠한불",
+      "bsns_year": "제13기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "재무제표 및 연결재무제표의 감사",
+      "mendng": "148",
+      "tot_reqre_time": "1,113",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002572",
+      "corp_cls": "Y",
+      "corp_code": "00911955",
+      "corp_name": "잇츠한불",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "재무제표 및 연결재무제표의 감사",
+      "mendng": "139",
+      "tot_reqre_time": "1,083",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

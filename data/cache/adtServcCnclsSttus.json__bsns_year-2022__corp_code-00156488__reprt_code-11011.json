@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001091",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "bsns_year": "제56기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "분기 재무제표 검토, 연말감사,\n연결 감사, 내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "159백만원",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "159백만원",
+      "real_exc_dtls_time": "3,009",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001091",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "bsns_year": "제55기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "분기 재무제표 검토, 연말감사,\n연결 감사, 내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "159백만원",
+      "adt_cntrct_dtls_time": "3,300",
+      "real_exc_dtls_mendng": "159백만원",
+      "real_exc_dtls_time": "3,557",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001091",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "bsns_year": "제54기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "분기 재무제표 검토, 연말감사,\n연결 감사, 내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "159백만원",
+      "adt_cntrct_dtls_time": "2,740",
+      "real_exc_dtls_mendng": "159백만원",
+      "real_exc_dtls_time": "3,178",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

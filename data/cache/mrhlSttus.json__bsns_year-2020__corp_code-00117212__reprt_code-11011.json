@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20241002000389",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "se": "소액주주",
+      "shrholdr_co": "20,065",
+      "shrholdr_tot_co": "20,082",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "5,053,785",
+      "stock_tot_co": "16,523,835",
+      "hold_stock_rate": "30.58%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

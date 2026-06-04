@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000808",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "bsns_year": "제36기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 검토 및 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225백만원",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "225백만원",
+      "real_exc_dtls_time": "1,630",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000808",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "bsns_year": "제35기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 검토 및 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "2,053",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000808",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 검토 및 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175백만원",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "175백만원",
+      "real_exc_dtls_time": "1,630",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

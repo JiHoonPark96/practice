@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.06)",
+      "rcept_no": "20231128000891",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20231128",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002658",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811001492",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20230811",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002649",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230316001331",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20230316",
+      "rm": "연"
+    }
+  ]
+}

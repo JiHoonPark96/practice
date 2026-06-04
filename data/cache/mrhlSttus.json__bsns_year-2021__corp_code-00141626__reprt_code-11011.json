@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211111000394",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "se": "소액주주",
+      "shrholdr_co": "33,129",
+      "shrholdr_tot_co": "33,136",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "74,893,513",
+      "stock_tot_co": "118,572,049",
+      "hold_stock_rate": "63.18%",
+      "stlm_dt": "2021-03-31"
+    }
+  ]
+}

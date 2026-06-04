@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제79기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ판매보증충당부채의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제78기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ판매된 차량에 대한 보증 수행의무의 구분 및 관련 금액의 측정\nㆍ완성차 판매딜러에게 제공된 인센티브 프로그램 관련 부채 금액의 완전하고 정확한 측정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제77기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ판매보증 관련 수행의무 구분 및 금액 측정의 적정성\nㆍ딜러인센티브 관련 비용 및 부채의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

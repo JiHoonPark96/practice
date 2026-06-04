@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "se": "소액주주",
+      "shrholdr_co": "22,293",
+      "shrholdr_tot_co": "22,296",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "24,335,892",
+      "stock_tot_co": "29,793,990",
+      "hold_stock_rate": "81.69%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

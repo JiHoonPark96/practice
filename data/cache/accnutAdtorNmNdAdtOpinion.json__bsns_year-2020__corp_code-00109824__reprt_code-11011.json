@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001276",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001276",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001276",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

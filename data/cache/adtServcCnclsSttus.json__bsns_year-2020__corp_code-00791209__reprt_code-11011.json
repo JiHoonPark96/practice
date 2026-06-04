@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제12기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "- 중간기간 재무제표 검토\n- 개별재무제표감사\n- 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "154,000",
+      "adt_cntrct_dtls_time": "950",
+      "real_exc_dtls_mendng": "154,000",
+      "real_exc_dtls_time": "989",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제11기(전기)",
+      "adtor": "정동회계법인",
+      "cn": "- 중간기간 재무제표 검토\n- 개별재무제표감사\n- 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "88,800",
+      "adt_cntrct_dtls_time": "867",
+      "real_exc_dtls_mendng": "88,800",
+      "real_exc_dtls_time": "867",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "정동회계법인",
+      "cn": "- 중간기간 재무제표 검토\n- 개별재무제표감사\n- 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "88,800",
+      "adt_cntrct_dtls_time": "746",
+      "real_exc_dtls_mendng": "88,800",
+      "real_exc_dtls_time": "746",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

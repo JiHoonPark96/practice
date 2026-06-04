@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210429000887",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": "제60기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "노동쟁의로 인한 소송의 완전성 및 정확성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210429000887",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": "제59기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210429000887",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

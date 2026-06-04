@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001242",
+      "corp_cls": "Y",
+      "corp_code": "01168383",
+      "corp_name": "일동제약",
+      "se": "소액주주",
+      "shrholdr_co": "16,670",
+      "shrholdr_tot_co": "16,696",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "10,986,674",
+      "stock_tot_co": "23,803,285",
+      "hold_stock_rate": "46.18%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

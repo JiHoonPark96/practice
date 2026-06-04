@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000769",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "se": "소액주주",
+      "shrholdr_co": "10,726",
+      "shrholdr_tot_co": "10,746",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "8,045,182",
+      "stock_tot_co": "19,308,690",
+      "hold_stock_rate": "41.67%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

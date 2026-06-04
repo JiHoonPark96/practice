@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 52기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기재무제표검토,\n개별재무제표, 중간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340 ",
+      "adt_cntrct_dtls_time": "3,400 h/年",
+      "real_exc_dtls_mendng": "340 ",
+      "real_exc_dtls_time": "3,267 \nh/年",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 51기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기재무제표검토,\n개별재무제표, 중간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330 ",
+      "adt_cntrct_dtls_time": "3,300 h/年",
+      "real_exc_dtls_mendng": "330 ",
+      "real_exc_dtls_time": "3,200 h/年",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 50기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기재무제표검토,\n개별재무제표, 중간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "315 ",
+      "adt_cntrct_dtls_time": "3,150 h/年",
+      "real_exc_dtls_mendng": "315 ",
+      "real_exc_dtls_time": "3,645 h/年",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

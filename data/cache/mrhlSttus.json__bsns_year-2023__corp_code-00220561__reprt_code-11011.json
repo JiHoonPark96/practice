@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000761",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "se": "소액주주",
+      "shrholdr_co": "5,352",
+      "shrholdr_tot_co": "5,363",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "1,918,969",
+      "stock_tot_co": "7,957,190",
+      "hold_stock_rate": "24.12%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

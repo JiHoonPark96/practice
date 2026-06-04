@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "stock_code": "003490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000882",
+      "flr_nm": "대한항공",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "stock_code": "003490",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812001185",
+      "flr_nm": "대한항공",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "stock_code": "003490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220513001160",
+      "flr_nm": "대한항공",
+      "rcept_dt": "20220513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "stock_code": "003490",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220315001120",
+      "flr_nm": "대한항공",
+      "rcept_dt": "20220315",
+      "rm": "연"
+    }
+  ]
+}

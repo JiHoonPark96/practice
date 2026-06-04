@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제56기\n(2024년)",
+      "adtor": "한미회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제56기\n(2024년)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제55기\n(2023년)",
+      "adtor": "한미회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제55기\n(2023년)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제54기\n(2022년)",
+      "adtor": "한미회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000706",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제54기\n(2022년)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

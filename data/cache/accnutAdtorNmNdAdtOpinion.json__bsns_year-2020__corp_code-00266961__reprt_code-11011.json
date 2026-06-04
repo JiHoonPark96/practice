@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001214",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "검색광고 수익인식, 수준 3으로 분류된 금융자산의 공정가치 평가, 매각예정자산ㆍ부채 및 중단영업의 표시와 공시",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001214",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "검색광고 수익인식, 수준 3으로 분류된 금융자산의 공정가치 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001214",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "검색광고 수익인식, 수준 3으로 분류된 금융자산의 공정가치 평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

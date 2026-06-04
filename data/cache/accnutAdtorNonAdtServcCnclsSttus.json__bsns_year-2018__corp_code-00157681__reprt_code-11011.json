@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002360",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제55기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002360",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제54기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002360",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "bsns_year": "제53기(전전기)",
+      "cntrct_cncls_de": "2016.01\n2016.04",
+      "servc_cn": "경영자문\n세무조정",
+      "servc_exc_pd": "2016.01 ~ 2016.02\n2016.04 ~ 2017.03",
+      "servc_mendng": "55,000\n17,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

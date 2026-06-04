@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001314",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "bsns_year": "제46기(당기)",
+      "adtor": "동성회계법인",
+      "cn": "외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160",
+      "adt_cntrct_dtls_time": "1,518",
+      "real_exc_dtls_mendng": "160",
+      "real_exc_dtls_time": "1,590",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001314",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "bsns_year": "제45기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "930",
+      "real_exc_dtls_mendng": "80",
+      "real_exc_dtls_time": "1,300",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001314",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "930",
+      "real_exc_dtls_mendng": "80",
+      "real_exc_dtls_time": "1,407",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

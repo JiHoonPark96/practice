@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001229",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "3",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제24기\n(당기)",
+      "cntrct_cncls_de": "2024.12.03\n2024.11.15\n2024.03.22",
+      "servc_cn": "- '24년도 세무조정용역\n- Application 이용 계약\n- 세무자문용역",
+      "servc_exc_pd": "2025.01.02~2025.03.31\n2024.11.15~2027.11.15\n2024.03.22~2026.06.30",
+      "servc_mendng": "25\n16\n50",
+      "rm": "-\n-\n-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제23기\n(전기)",
+      "cntrct_cncls_de": "2023.06.26",
+      "servc_cn": "- 중국, 한국, 미국 화장품 시장 소비자 동향 조사\n- 글로벌 화장품 선도기업 조사",
+      "servc_exc_pd": "2023.06.26~2023.08.04",
+      "servc_mendng": "420",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제22기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

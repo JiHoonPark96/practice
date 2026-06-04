@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "se": "소액주주",
+      "shrholdr_co": "10,732",
+      "shrholdr_tot_co": "10,748",
+      "shrholdr_rate": "99.85%",
+      "hold_stock_co": "7,593,107",
+      "stock_tot_co": "13,900,000",
+      "hold_stock_rate": "54.63%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

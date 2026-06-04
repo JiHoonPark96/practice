@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190619000218",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제61기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 분,반기검토 및 연말감사",
+      "mendng": "200,000",
+      "tot_reqre_time": "2,769",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190619000218",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제60기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 분,반기검토 및 연말감사",
+      "mendng": "150,000",
+      "tot_reqre_time": "3,024",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190619000218",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 분,반기검토 및 연말감사",
+      "mendng": "140,000",
+      "tot_reqre_time": "2,531",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

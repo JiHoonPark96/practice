@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003837",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제52기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003837",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제51기(전기)",
+      "cntrct_cncls_de": "2016.12.12",
+      "servc_cn": "온실가스 명세서, \n모니터링 계획서 제3자 검증",
+      "servc_exc_pd": "2016.12.12 ~ 2017.03.31",
+      "servc_mendng": "14.0",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003837",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2016.02.23",
+      "servc_cn": "온실가스 명세서, \n모니터링 계획서 제3자 검증",
+      "servc_exc_pd": "2016.03.01 ~ 2016.03.31",
+      "servc_mendng": "15.8",
+      "rm": "안진회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

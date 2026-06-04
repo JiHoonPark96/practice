@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2019.06.20",
+      "servc_cn": "신대양제지 물적분할에 대한 세무검토 자문",
+      "servc_exc_pd": "2019.06.20~\n2019.11.08",
+      "servc_mendng": "20백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331004012",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "se": "소액주주",
+      "shrholdr_co": "7,543",
+      "shrholdr_tot_co": "7,556",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "10,267,504",
+      "stock_tot_co": "21,433,322",
+      "hold_stock_rate": "47.9%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

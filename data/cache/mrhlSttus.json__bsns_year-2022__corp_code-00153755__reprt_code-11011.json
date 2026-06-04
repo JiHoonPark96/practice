@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000932",
+      "corp_cls": "Y",
+      "corp_code": "00153755",
+      "corp_name": "태양금속공업",
+      "se": "소액주주",
+      "shrholdr_co": "21,363",
+      "shrholdr_tot_co": "21,374",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "17,388,432",
+      "stock_tot_co": "36,700,000",
+      "hold_stock_rate": "47.38%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

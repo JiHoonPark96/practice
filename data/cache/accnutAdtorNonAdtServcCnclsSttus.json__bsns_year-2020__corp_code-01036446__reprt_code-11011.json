@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제7기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제6기\n(전기)",
+      "cntrct_cncls_de": "2019.08.12",
+      "servc_cn": "2019 사업년도 대상\n세무조정 및 전자신고",
+      "servc_exc_pd": "2020.01.01~2020.03.31",
+      "servc_mendng": "13백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제5기\n(전전기)",
+      "cntrct_cncls_de": "2018.08.06",
+      "servc_cn": "2018 사업년도 대상\n세무조정 및 전자신고",
+      "servc_exc_pd": "2019.01.01~2019.03.31",
+      "servc_mendng": "13백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

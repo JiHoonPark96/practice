@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제76기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ판매보증 관련 수행의무 구분 및 금액 측정의 적정성\nㆍ딜러인센티브 관련 비용 및 부채의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제75기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ판매보증 관련 수행의무 구분 및 금액 측정의 적정성\nㆍ딜러인센티브 관련 비용 및 부채의 적정성\nㆍ완성차 수출매출 기간귀속의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제74기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

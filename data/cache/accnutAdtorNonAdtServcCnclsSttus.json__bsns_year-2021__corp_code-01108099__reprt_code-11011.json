@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2021.12.01",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.12월~2022.04월",
+      "servc_mendng": "55백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2021.06.17",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.06월~2021.08월",
+      "servc_mendng": "110백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2021.06.17",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.06월~2021.7월",
+      "servc_mendng": "13백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2021.06.07",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.06월~2021.7월",
+      "servc_mendng": "28백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2021.05.03",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.05월~2021.6월",
+      "servc_mendng": "52백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2021.01.15",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.01월~2021.3월",
+      "servc_mendng": "8.5백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2020.01.15",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2020.01월~2020.3월",
+      "servc_mendng": "8.5백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제5기(전전기)",
+      "cntrct_cncls_de": "2019.01.15",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2019.01월~2019.3월",
+      "servc_mendng": "8.5백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

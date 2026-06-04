@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200429000691",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제14기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "707,000",
+      "tot_reqre_time": "7,796",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200429000691",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제13기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "420,000",
+      "tot_reqre_time": "5,040",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200429000691",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "394,000",
+      "tot_reqre_time": "4,331",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210416000602",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제44기\n(당기)",
+      "adtor": "신한\n회계법인",
+      "cn": "감사계획, 반기검토, 중간감사,\n재고실사입회, 결산감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "186,100,000",
+      "adt_cntrct_dtls_time": "1,309",
+      "real_exc_dtls_mendng": "186,100,000",
+      "real_exc_dtls_time": "1,309",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210416000602",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제43기\n(전기)",
+      "adtor": "태율\n회계법인",
+      "cn": "감사계획, 반기검토, 중간감사,\n재고실사입회, 결산감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000,000",
+      "adt_cntrct_dtls_time": "860",
+      "real_exc_dtls_mendng": "80,000,000",
+      "real_exc_dtls_time": "860",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210416000602",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "bsns_year": "제42기\n(전전기)",
+      "adtor": "태율\n회계법인",
+      "cn": "감사계획, 반기검토, 중간감사,\n재고실사입회, 결산감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000,000",
+      "adt_cntrct_dtls_time": "810",
+      "real_exc_dtls_mendng": "80,000,000",
+      "real_exc_dtls_time": "810",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

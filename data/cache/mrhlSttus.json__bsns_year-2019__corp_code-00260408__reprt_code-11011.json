@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200331000162",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "se": "소액주주",
+      "shrholdr_co": "8,823",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "98.20%",
+      "hold_stock_co": "8,857,624",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "24.12%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

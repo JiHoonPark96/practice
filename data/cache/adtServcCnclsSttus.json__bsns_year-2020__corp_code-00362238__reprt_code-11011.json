@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210420000253",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제21기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토, 기말 감사(별도/연결) 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "275",
+      "adt_cntrct_dtls_time": "3,050",
+      "real_exc_dtls_mendng": "275",
+      "real_exc_dtls_time": "3,015",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210420000253",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제20기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토, 기말 감사(별도/연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215",
+      "adt_cntrct_dtls_time": " 2,200",
+      "real_exc_dtls_mendng": "215",
+      "real_exc_dtls_time": "2,273",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210420000253",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토, 기말 감사(별도/연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "188",
+      "adt_cntrct_dtls_time": "(주)",
+      "real_exc_dtls_mendng": "188",
+      "real_exc_dtls_time": "2,197",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

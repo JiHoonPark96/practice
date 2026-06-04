@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002484",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제72기\n(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화판매 수익의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002484",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제72기\n(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화판매 수익의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002484",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제71기\n(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화판매 수익의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002484",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제71기\n(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화판매 수익의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002484",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제70기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002484",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제70기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

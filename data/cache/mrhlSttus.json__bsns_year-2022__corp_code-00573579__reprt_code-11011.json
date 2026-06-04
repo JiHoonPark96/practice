@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001398",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "se": "소액주주",
+      "shrholdr_co": "21,158",
+      "shrholdr_tot_co": "21,162",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "23,713,272",
+      "stock_tot_co": "54,902,259",
+      "hold_stock_rate": "43.19%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

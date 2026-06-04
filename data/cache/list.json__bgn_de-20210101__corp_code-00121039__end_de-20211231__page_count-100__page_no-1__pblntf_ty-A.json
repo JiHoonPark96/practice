@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_code": "017180",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115000417",
+      "flr_nm": "명문제약",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_code": "017180",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000251",
+      "flr_nm": "명문제약",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_code": "017180",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210514001212",
+      "flr_nm": "명문제약",
+      "rcept_dt": "20210514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_code": "017180",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210419000320",
+      "flr_nm": "명문제약",
+      "rcept_dt": "20210419",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_code": "017180",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210331003077",
+      "flr_nm": "명문제약",
+      "rcept_dt": "20210331",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_code": "017180",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210319000662",
+      "flr_nm": "명문제약",
+      "rcept_dt": "20210319",
+      "rm": "정연"
+    }
+  ]
+}

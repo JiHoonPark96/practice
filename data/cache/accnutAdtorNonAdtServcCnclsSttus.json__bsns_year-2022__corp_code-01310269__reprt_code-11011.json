@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230713000082",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제5기\n(2022)",
+      "cntrct_cncls_de": "2022. 04",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2022. 04 ~ 2022. 12",
+      "servc_mendng": "146",
+      "rm": "3건",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000082",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제5기\n(2022)",
+      "cntrct_cncls_de": "2022. 02",
+      "servc_cn": "세무조정&자문",
+      "servc_exc_pd": "2022. 01 ~ 2022. 12",
+      "servc_mendng": "305",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000082",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제4기\n(2021)",
+      "cntrct_cncls_de": "2021. 02",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2021. 02 ~ 2021. 12",
+      "servc_mendng": "505",
+      "rm": "7건",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000082",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제4기\n(2021)",
+      "cntrct_cncls_de": "2021. 02",
+      "servc_cn": "세무조정&자문",
+      "servc_exc_pd": "2021. 01 ~ 2021. 12",
+      "servc_mendng": "34",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000082",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제3기\n(2020)",
+      "cntrct_cncls_de": "2020. 02",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2020. 02 ~ 2020. 12",
+      "servc_mendng": "656",
+      "rm": "8건",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000082",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제3기\n(2020)",
+      "cntrct_cncls_de": "2020. 02",
+      "servc_cn": "세무조정&자문",
+      "servc_exc_pd": "2020. 01 ~ 2020. 12",
+      "servc_mendng": "106",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

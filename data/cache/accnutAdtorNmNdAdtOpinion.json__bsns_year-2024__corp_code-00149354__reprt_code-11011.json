@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001235",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " 종속기업 (주)종근당건강 현금창출단위 \n 손상평가 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001235",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " 종속기업 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001235",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " 종속기업 ㈜종근당바이오의 현금창출\n 단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001235",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " 종속기업 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001235",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " 당기손익-공정가치 측정 금융자산에 \n 대한 평가\n\n 영업권에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001235",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " 당기손익-공정가치 측정 금융자산에 \n 대한 평가\n 종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

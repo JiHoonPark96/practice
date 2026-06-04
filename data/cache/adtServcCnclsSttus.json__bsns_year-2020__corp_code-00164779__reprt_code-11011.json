@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제73기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기검토별도재무제표감사연결재무제표감사내부회계제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,820",
+      "adt_cntrct_dtls_time": "25,900",
+      "real_exc_dtls_mendng": "2,820",
+      "real_exc_dtls_time": "25,466",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제72기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토별도재무제표감사연결재무제표감사내부회계제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,243",
+      "adt_cntrct_dtls_time": "24,648",
+      "real_exc_dtls_mendng": "2,243",
+      "real_exc_dtls_time": "23,917",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제71기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토별도재무제표감사연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "950",
+      "adt_cntrct_dtls_time": "12,756",
+      "real_exc_dtls_mendng": "950",
+      "real_exc_dtls_time": "11,967",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

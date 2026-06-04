@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000898",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "se": "소액주주",
+      "shrholdr_co": "5,758",
+      "shrholdr_tot_co": "5,765",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "6,558,563",
+      "stock_tot_co": "22,263,268",
+      "hold_stock_rate": "29.46%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

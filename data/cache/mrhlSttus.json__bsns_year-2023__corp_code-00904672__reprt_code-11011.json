@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001885",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "se": "소액주주",
+      "shrholdr_co": "119,295",
+      "shrholdr_tot_co": "119,317",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "17,871,655",
+      "stock_tot_co": "81,934,571",
+      "hold_stock_rate": "21.81%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

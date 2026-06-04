@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004454",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "bsns_year": "제50기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "제50기 연결 / 별도재무제표 감사 및\n분반기 검토",
+      "mendng": "210백만원",
+      "tot_reqre_time": "3,479시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004454",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "bsns_year": "제49기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "제49기 연결 / 별도재무제표 감사 및\n분반기 검토",
+      "mendng": "188백만원",
+      "tot_reqre_time": "3,456시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004454",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "제48기 연결 / 별도재무제표 감사 및\n분반기 검토",
+      "mendng": "188백만원",
+      "tot_reqre_time": "2,858시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000900",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제19기(당기)",
+      "adtor": "서현회계법인",
+      "cn": "반기, 결산 재무제표 감사\n및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "2,130",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "2,096",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000900",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제18기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기, 결산 재무제표 감사\n및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "345,800",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "345,800",
+      "real_exc_dtls_time": "2,753",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000900",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기, 결산 재무제표 감사\n및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "266,250",
+      "adt_cntrct_dtls_time": "1,972",
+      "real_exc_dtls_mendng": "266,250",
+      "real_exc_dtls_time": "2,136",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

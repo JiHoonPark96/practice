@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210304000604",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "'20.07.02",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'20.04.01~'21.03.31",
+      "servc_mendng": "95",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210304000604",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제52기(전기)",
+      "cntrct_cncls_de": "'19.10.14\n'19.07.23\n'19.05.15",
+      "servc_cn": "Comfort Letter 발행\n세무조정용역\nComfort Letter 발행",
+      "servc_exc_pd": "'19.10.14~'20.1.17\n'19.04.01~'20.03.31\n'19.05.15~'19.07.15",
+      "servc_mendng": "258\n95\n164",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210304000604",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "'18.07.06\n'18.06.05",
+      "servc_cn": "세무조정용역\nComfort Letter 발행",
+      "servc_exc_pd": "'18.04.01~'19.03.30\n'18.06.05~'18.08.01",
+      "servc_mendng": "95\n167",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

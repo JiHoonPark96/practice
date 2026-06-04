@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00107066",
+      "corp_name": "남광토건",
+      "stock_code": "001260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114000668",
+      "flr_nm": "남광토건",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107066",
+      "corp_name": "남광토건",
+      "stock_code": "001260",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811001741",
+      "flr_nm": "남광토건",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107066",
+      "corp_name": "남광토건",
+      "stock_code": "001260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230712000089",
+      "flr_nm": "남광토건",
+      "rcept_dt": "20230712",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00107066",
+      "corp_name": "남광토건",
+      "stock_code": "001260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515000537",
+      "flr_nm": "남광토건",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107066",
+      "corp_name": "남광토건",
+      "stock_code": "001260",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230320000480",
+      "flr_nm": "남광토건",
+      "rcept_dt": "20230320",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001222",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2022.04",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.04~2023.03",
+      "servc_mendng": "18백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001222",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.04~2022.03",
+      "servc_mendng": "18백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001222",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "2020.08",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.04~2021.03",
+      "servc_mendng": "25백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230728000642",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제75기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분/반기 재무제표 검토,\n별도/연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "380",
+      "adt_cntrct_dtls_time": "3,585시간",
+      "real_exc_dtls_mendng": "380",
+      "real_exc_dtls_time": "4,190시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20230728000642",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제74기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분/반기 재무제표 검토,\n별도/연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,910",
+      "adt_cntrct_dtls_time": "19,456시간",
+      "real_exc_dtls_mendng": "1,910",
+      "real_exc_dtls_time": "20,367시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20230728000642",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제73기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분/반기 재무제표 검토,\n별도/연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,386",
+      "adt_cntrct_dtls_time": "16,505시간",
+      "real_exc_dtls_mendng": "1,386",
+      "real_exc_dtls_time": "17,258시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

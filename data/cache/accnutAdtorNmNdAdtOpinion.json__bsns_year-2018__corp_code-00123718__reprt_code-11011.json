@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814001961",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제59기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "연결재무제표 및 별도재무제표",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001961",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제58기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "연결재무제표 및 별도재무제표",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814001961",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제57기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "연결재무제표 및 별도재무제표",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000463",
+      "corp_cls": "Y",
+      "corp_code": "00154462",
+      "corp_name": "아모레퍼시픽홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "48,364",
+      "shrholdr_tot_co": "48,382",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "22,093,435",
+      "stock_tot_co": "82,458,180",
+      "hold_stock_rate": "26.79%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190822000198",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제67기(당   기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190822000198",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제67기(당   기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190822000198",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제66기(전   기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190822000198",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제66기(전   기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190822000198",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제65기(전전기)",
+      "cntrct_cncls_de": "2016.05.09",
+      "servc_cn": "합병당사법인 및 \n세무관련 자문용역",
+      "servc_exc_pd": "2016.05.09 ~\n2016.08.01",
+      "servc_mendng": "16,000",
+      "rm": "(주)보해매원 합병",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190822000198",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제65기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

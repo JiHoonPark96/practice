@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001058",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "stock_knd": "보통주",
+      "nm": "한솔홀딩스(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "18,791,235",
+      "bsis_posesn_stock_qota_rt": "23.32",
+      "trmend_posesn_stock_co": "18,791,235",
+      "trmend_posesn_stock_qota_rt": "23.32",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001058",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "stock_knd": "보통주",
+      "nm": "조동길",
+      "relate": "관계사임원",
+      "bsis_posesn_stock_co": "114,652",
+      "bsis_posesn_stock_qota_rt": "0.14",
+      "trmend_posesn_stock_co": "114,652",
+      "trmend_posesn_stock_qota_rt": "0.14",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001058",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "18,905,887",
+      "bsis_posesn_stock_qota_rt": "23.46",
+      "trmend_posesn_stock_co": "18,905,887",
+      "trmend_posesn_stock_qota_rt": "23.46",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001058",
+      "corp_cls": "Y",
+      "corp_code": "00203582",
+      "corp_name": "한솔홈데코",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

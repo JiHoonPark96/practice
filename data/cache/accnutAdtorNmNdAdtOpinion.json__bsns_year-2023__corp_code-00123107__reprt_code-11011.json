@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000488",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제61기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산의 물리적 진부화 가능성\n- 판매가격에 대한 경영진의 가정과\n   판단의 적정성에 따른 재고자산의 \n   평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000488",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제60기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산의 물리적 진부화 가능성\n- 판매가격에 대한 경영진의 가정과\n   판단의 적정성에 따른 재고자산의 \n   평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000488",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제59기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산의 물리적 진부화 가능성\n- 판매가격에 대한 경영진의 가정과\n   판단의 적정성에 따른 재고자산의 \n   평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

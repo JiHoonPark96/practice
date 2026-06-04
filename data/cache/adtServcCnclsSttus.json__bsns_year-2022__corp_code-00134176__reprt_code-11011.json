@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제45기(당기)",
+      "adtor": "다산회계법인",
+      "cn": "반기재무제표 검토\n별도재무제표 감사(재고실사 포함)\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150,000",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "150,000",
+      "real_exc_dtls_time": "1,311",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(전기)",
+      "adtor": "서우회계법인",
+      "cn": "반기재무제표 검토\n별도재무제표 감사(재고실사 포함)\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150,000",
+      "adt_cntrct_dtls_time": "1,300",
+      "real_exc_dtls_mendng": "150,000",
+      "real_exc_dtls_time": "1,300",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기\n(전전기(재감사))",
+      "adtor": "대주회계법인",
+      "cn": "반기재무제표 검토\n별도재무제표 감사(재고실사 포함)\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

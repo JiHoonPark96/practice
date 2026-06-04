@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001117",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "2",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

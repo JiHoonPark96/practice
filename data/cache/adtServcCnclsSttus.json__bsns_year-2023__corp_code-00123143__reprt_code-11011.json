@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240311000918",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "bsns_year": "제60기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610,000,000",
+      "adt_cntrct_dtls_time": "4,446",
+      "real_exc_dtls_mendng": "610,000,000",
+      "real_exc_dtls_time": "4,750",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240311000918",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "bsns_year": "제59기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610,000,000",
+      "adt_cntrct_dtls_time": "4,449",
+      "real_exc_dtls_mendng": "610,000,000",
+      "real_exc_dtls_time": "4,750",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240311000918",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "380,000,000",
+      "adt_cntrct_dtls_time": "3,800",
+      "real_exc_dtls_mendng": "380,000,000",
+      "real_exc_dtls_time": "　3,733",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제5기(당기)",
+      "cntrct_cncls_de": "2019.10",
+      "servc_cn": "신규수요창출을 위한 컨설팅",
+      "servc_exc_pd": "2019.10 ~\n2019.11",
+      "servc_mendng": "165백만원",
+      "rm": "한영회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제4기(전기)",
+      "cntrct_cncls_de": "2018.10",
+      "servc_cn": "반덤핑 대응을 위한 컨설팅",
+      "servc_exc_pd": "2018.10",
+      "servc_mendng": "140백만원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제4기(전기)",
+      "cntrct_cncls_de": "2018.08",
+      "servc_cn": "수탁계약 이행 상황 보고서 합의된 절차 수행업무",
+      "servc_exc_pd": "2018.08",
+      "servc_mendng": "0.5백만원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제4기(전기)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "수탁계약 이행 상황 보고서 합의된 절차 수행업무",
+      "servc_exc_pd": "2018.04",
+      "servc_mendng": "0.5백만원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제3기(전전기)",
+      "cntrct_cncls_de": "2017.08",
+      "servc_cn": "수탁계약 이행 상황 보고서 합의된 절차 수행업무",
+      "servc_exc_pd": "2017.04",
+      "servc_mendng": "0.5백만원",
+      "rm": "삼일 회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200325000999",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제3기(전전기)",
+      "cntrct_cncls_de": "2017.04",
+      "servc_cn": "EU 감열지분석 자문용역",
+      "servc_exc_pd": "2017.04",
+      "servc_mendng": "86백만원",
+      "rm": "삼일 회계법인",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

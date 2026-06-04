@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000881",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "bsns_year": "제47기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "분·반기 재무제표 검토 및 기말회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "212,000",
+      "adt_cntrct_dtls_time": "2,522",
+      "real_exc_dtls_mendng": "212,000",
+      "real_exc_dtls_time": "2,502",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000881",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "bsns_year": "제46기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기 재무제표 검토 및 기말회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "397,312",
+      "adt_cntrct_dtls_time": "3,642",
+      "real_exc_dtls_mendng": "397,312",
+      "real_exc_dtls_time": "3,598",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000881",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분·반기 재무제표 검토 및 기말회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "275,118",
+      "adt_cntrct_dtls_time": "2,500",
+      "real_exc_dtls_mendng": "275,118",
+      "real_exc_dtls_time": "2,950",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

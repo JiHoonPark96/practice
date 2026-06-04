@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001364",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "bsns_year": "제47기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외수주 프로젝트의 \n총계약원가 추정의 변경 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001364",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "bsns_year": "제46기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외수주 프로젝트의 \n총계약원가 추정의 변경",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001364",
+      "corp_cls": "Y",
+      "corp_code": "00105855",
+      "corp_name": "엘에스일렉트릭",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계약원가 추정의 변경",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

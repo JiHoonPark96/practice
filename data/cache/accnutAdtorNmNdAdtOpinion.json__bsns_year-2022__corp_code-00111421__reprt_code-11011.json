@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230313000533",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제54기\n(2022년)",
+      "adtor": "한미회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230313000533",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제53기\n(2021년)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 재무제표 재작성",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230313000533",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제52기\n(2020년)",
+      "adtor": "한미회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 실재성 및 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

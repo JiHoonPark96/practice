@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000953",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제59기(당기말)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특수관계자와의 주요거래내역",
+      "core_adt_matter": "매출채권 대손충당금 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000953",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제58기(전기말)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특수관계자와의 주요거래내역",
+      "core_adt_matter": "매출채권 대손충당금 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000953",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제57기(전전기말)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

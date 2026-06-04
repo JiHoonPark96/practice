@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000500",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "se": "소액주주",
+      "shrholdr_co": "115,830",
+      "shrholdr_tot_co": "115,834",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "133,550,511",
+      "stock_tot_co": "533,800,000",
+      "hold_stock_rate": "25.02%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

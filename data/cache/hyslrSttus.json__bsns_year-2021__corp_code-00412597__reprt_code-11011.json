@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "stock_knd": "보통주",
+      "nm": "(주)현대그린푸드",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "3,001,500",
+      "bsis_posesn_stock_qota_rt": "25.01",
+      "trmend_posesn_stock_co": "3,001,500",
+      "trmend_posesn_stock_qota_rt": "25.01",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "stock_knd": "보통주",
+      "nm": "(주)현대백화점",
+      "relate": "관계사",
+      "bsis_posesn_stock_co": "1,896,500",
+      "bsis_posesn_stock_qota_rt": "15.80",
+      "trmend_posesn_stock_co": "1,896,500",
+      "trmend_posesn_stock_qota_rt": "15.80",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "4,898,000",
+      "bsis_posesn_stock_qota_rt": "40.82",
+      "trmend_posesn_stock_co": "4,898,000",
+      "trmend_posesn_stock_qota_rt": "40.82",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000867",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

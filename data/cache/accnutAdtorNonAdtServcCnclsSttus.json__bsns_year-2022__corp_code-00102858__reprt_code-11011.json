@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000731",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제49기(당기)",
+      "cntrct_cncls_de": "2022.03.10.",
+      "servc_cn": "LBMA RSG 검토",
+      "servc_exc_pd": "2022.03.10~2022.03.31",
+      "servc_mendng": "42,500,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000731",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제48기(전기)",
+      "cntrct_cncls_de": "2021.05.14.",
+      "servc_cn": "LBMA RSG 검토",
+      "servc_exc_pd": "2021.06.01.~2021.06.30.",
+      "servc_mendng": "31,800,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000731",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제47기(전전기)",
+      "cntrct_cncls_de": "2020.03.10.",
+      "servc_cn": "LBMA RSG 검토",
+      "servc_exc_pd": "2020.03.10.~2020.03.12.",
+      "servc_mendng": "21,800,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

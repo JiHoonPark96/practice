@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제12기(당기)",
+      "cntrct_cncls_de": "2023.07",
+      "servc_cn": "세무자문용역(TPD등)",
+      "servc_exc_pd": "2023.07~2023.12",
+      "servc_mendng": "16",
+      "rm": "해외가격 이전가격 문서화",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제12기(당기)",
+      "cntrct_cncls_de": "2020.11",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2020.11~",
+      "servc_mendng": "-",
+      "rm": "한국-헝가리 APA 및 MAP\n - 쌍방 APA 및 MAP 타결시 : 양국 환급액의 0.8% 성공보수\n - 일방 APA 및 MAP 타결시 : 양국 환급액의 0.5% 성공보수",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제11기(전기)",
+      "cntrct_cncls_de": "2022.04",
+      "servc_cn": "세무자문용역(TPD등)",
+      "servc_exc_pd": "2022.04~2022.12",
+      "servc_mendng": "86",
+      "rm": "해외가격 이전가격 문서화",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제10기 (전전기)",
+      "cntrct_cncls_de": "2021.10",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2021.10~2021.12",
+      "servc_mendng": "930",
+      "rm": "이전가격 및 외납세액 배부기준 경정청구",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제10기 (전전기)",
+      "cntrct_cncls_de": "2021.04",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2021.04~2021.12",
+      "servc_mendng": "129",
+      "rm": "해외법인 이전가격문서화",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제10기 (전전기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2021.04~2021.12",
+      "servc_mendng": "15",
+      "rm": "해외법인 FY20 Benchmarking 보고서",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000791",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제10기 (전전기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2021.04~2021.12",
+      "servc_mendng": "40",
+      "rm": "본사 BEPS 문서화",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

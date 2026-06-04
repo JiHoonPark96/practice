@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "stock_code": "210540",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000610",
+      "flr_nm": "디와이파워",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "stock_code": "210540",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812000989",
+      "flr_nm": "디와이파워",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "stock_code": "210540",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220513000990",
+      "flr_nm": "디와이파워",
+      "rcept_dt": "20220513",
+      "rm": ""
+    },
+    {
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "stock_code": "210540",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220316000560",
+      "flr_nm": "디와이파워",
+      "rcept_dt": "20220316",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000560",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제15기(당기) ",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부통제제도검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330,000,000",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "330,000,000",
+      "real_exc_dtls_time": "3,417",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000560",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제14기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부통제제도검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "295,000,000",
+      "adt_cntrct_dtls_time": "2,500",
+      "real_exc_dtls_mendng": "295,000,000",
+      "real_exc_dtls_time": "3,042",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000560",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제13기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부통제제도검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000,000",
+      "adt_cntrct_dtls_time": "2,596",
+      "real_exc_dtls_mendng": "250,000,000",
+      "real_exc_dtls_time": "2,810",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

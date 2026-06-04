@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230719000433",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제32기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 전산시스템개발용역 수익인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230719000433",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제31기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 투입법에 따른 수익인식\n나. 총계약원가 추정의 불확실성\n다. 계약자산의 회수가능성\n라. 계약변경에 따른 회계처리의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230719000433",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 투입법에 따른 수익인식\n나. 총계약원가 추정의 불확실성\n다. 계약자산의 회수가능성\n라. 계약변경에 따른 회계처리의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

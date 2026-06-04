@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "stock_code": "047400",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001402",
+      "flr_nm": "유니온머티리얼",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "stock_code": "047400",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001433",
+      "flr_nm": "유니온머티리얼",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "stock_code": "047400",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517001370",
+      "flr_nm": "유니온머티리얼",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "stock_code": "047400",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210324000592",
+      "flr_nm": "유니온머티리얼",
+      "rcept_dt": "20210324",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "stock_code": "047400",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210323000204",
+      "flr_nm": "유니온머티리얼",
+      "rcept_dt": "20210323",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "stock_code": "047400",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210322001093",
+      "flr_nm": "유니온머티리얼",
+      "rcept_dt": "20210322",
+      "rm": "정연"
+    }
+  ]
+}

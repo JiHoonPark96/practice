@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001406",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제30기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도반기검토(2022.07.25~2022.07.29)\n연결반기검토(2022.08.01~2022.08.05) \n별도기말감사(2023.01.30~2023.02.10)\n연결기말감사(2023.02.13~2023.02.17)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "566,000",
+      "adt_cntrct_dtls_time": "4,800",
+      "real_exc_dtls_mendng": "566,000",
+      "real_exc_dtls_time": "5,089",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001406",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제29기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도반기검토(2021.07.26~2021.07.30)\n연결반기검토(2021.08.02~2021.08.06)\n별도기말감사(2022.02.14~2022.02.23)\n연결기말감사(2022.02.24~2022.03.04)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "445,000",
+      "adt_cntrct_dtls_time": "4,400",
+      "real_exc_dtls_mendng": "445,000",
+      "real_exc_dtls_time": "4,168",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001406",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도반기검토(2020.07.27~2020.07.31)\n연결반기검토(2020.08.03~2020.08.14)\n별도기말감사(2021.02.01~2021.02.10)\n연결기말감사(2021.02.22~2021.02.26)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "510,000",
+      "adt_cntrct_dtls_time": "4,850",
+      "real_exc_dtls_mendng": "510,000",
+      "real_exc_dtls_time": "5,280",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

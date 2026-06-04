@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항없음",
+      "core_adt_matter": "- 종속회사에 대한 장기성매출채권의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항없음",
+      "core_adt_matter": "- 현금흐름창출단위의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항없음",
+      "core_adt_matter": "- 종속회사에 대한 장기성매출채권의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항없음",
+      "core_adt_matter": "- 현금흐름창출단위의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항없음",
+      "core_adt_matter": "- 종속회사에 대한 장기성매출채권의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001138",
+      "corp_cls": "Y",
+      "corp_code": "00125576",
+      "corp_name": "체시스",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항없음",
+      "core_adt_matter": "- 현금흐름창출단위의 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

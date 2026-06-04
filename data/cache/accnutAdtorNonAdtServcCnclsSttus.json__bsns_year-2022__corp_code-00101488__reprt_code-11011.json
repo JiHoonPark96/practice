@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001339",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제50기(당기)",
+      "cntrct_cncls_de": "2022년 03월",
+      "servc_cn": "2021년 귀속 법인세 세무조정업무",
+      "servc_exc_pd": "2022년 03월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001339",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제49기(전기)",
+      "cntrct_cncls_de": "2021년 03월",
+      "servc_cn": "2020년 귀속 법인세 세무조정업무",
+      "servc_exc_pd": "2021년 03월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001339",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제48기(전전기)",
+      "cntrct_cncls_de": "2020년 03월",
+      "servc_cn": "2019년 귀속 법인세 세무조정업무",
+      "servc_exc_pd": "2020년 03월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

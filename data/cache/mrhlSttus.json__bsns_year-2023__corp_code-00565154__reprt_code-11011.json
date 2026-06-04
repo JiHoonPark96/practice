@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000902",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "se": "소액주주",
+      "shrholdr_co": "18,306",
+      "shrholdr_tot_co": "18,318",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "12,780,192",
+      "stock_tot_co": "40,000,000",
+      "hold_stock_rate": "31.95%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

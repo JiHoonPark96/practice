@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제57기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제56기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제55기\n(전전기)",
+      "cntrct_cncls_de": "2022.09.30",
+      "servc_cn": "인적분할관련\n분할재무제표 검토",
+      "servc_exc_pd": "2022.10\n~2022.11",
+      "servc_mendng": "160백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "stock_code": "001550",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001280",
+      "flr_nm": "조비",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "stock_code": "001550",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814000823",
+      "flr_nm": "조비",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "stock_code": "001550",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002361",
+      "flr_nm": "조비",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "stock_code": "001550",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190403002082",
+      "flr_nm": "조비",
+      "rcept_dt": "20190403",
+      "rm": ""
+    },
+    {
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "stock_code": "001550",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401001912",
+      "flr_nm": "조비",
+      "rcept_dt": "20190401",
+      "rm": "정"
+    }
+  ]
+}

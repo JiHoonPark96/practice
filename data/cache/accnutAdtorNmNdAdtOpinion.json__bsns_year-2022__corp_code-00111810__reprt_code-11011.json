@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제63기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정(주1)",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-관계기업 및 종속기업투자주식의 손상 평가\n-기술이전계약 및 라이선스 수익인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제62기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 무형자산의 인식 및 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제61기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 관계기업투자주식의 손상 평가\n- 무형자산의 인식 및 손상",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

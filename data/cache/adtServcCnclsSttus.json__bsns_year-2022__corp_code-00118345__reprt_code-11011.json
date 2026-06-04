@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001325",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "bsns_year": "제80기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분반기재무제표 개별재무제표\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "375,000",
+      "adt_cntrct_dtls_time": "3,700",
+      "real_exc_dtls_mendng": "375,000",
+      "real_exc_dtls_time": "3,396",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001325",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "bsns_year": "제79기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표, 개별재무제표\n연결재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340,000",
+      "adt_cntrct_dtls_time": "3,389",
+      "real_exc_dtls_mendng": "340,000",
+      "real_exc_dtls_time": "3,370",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001325",
+      "corp_cls": "Y",
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "bsns_year": "제78기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표, 개별재무제표\n연결재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350,000",
+      "adt_cntrct_dtls_time": "3,202",
+      "real_exc_dtls_mendng": "350,000",
+      "real_exc_dtls_time": "3,582",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

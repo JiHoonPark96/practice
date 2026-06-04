@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000018",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제43기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 연결재무제표 재작성\n전기 재무제표 재작성",
+      "core_adt_matter": "(별도/연결)\n1. 영업권 손상검사\n2. 공정가치 수준3으로 분류되는 기타포괄손익-공정가치측정 금융상품 공정가치 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000018",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제42기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(별도) 1. 물적분할\n(별도/연결) 2. 사업양수도\n(별도/연결) 3. 회계부정조사결과\n(별도) 4. 별도재무제표의 최초작성",
+      "core_adt_matter": "(별도/연결)\n1. PCB사업부 손상평가\n2. 영업권 및 수주잔고무형자산 손상평가\n3. 기타포괄손익-공정가치측정금융자산(수준 3)의 공정가치 평가\n4. 투자 및 자금 거래의 타당성 및 회계처리의 적정성\n5. 특수관계자 범위 및 거래의 완전성과 정확성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000018",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 관계회사주식 지분법 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

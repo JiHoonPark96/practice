@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331003227",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "stock_knd": "보통주",
+      "nm": "김종석",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "3,959,558",
+      "bsis_posesn_stock_qota_rt": "27.07",
+      "trmend_posesn_stock_co": "3,959,558",
+      "trmend_posesn_stock_qota_rt": "27.07",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003227",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "stock_knd": "보통주",
+      "nm": "김주영",
+      "relate": "자",
+      "bsis_posesn_stock_co": "3,695,058",
+      "bsis_posesn_stock_qota_rt": "25.26",
+      "trmend_posesn_stock_co": "3,695,058",
+      "trmend_posesn_stock_qota_rt": "25.26",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003227",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,654,616",
+      "bsis_posesn_stock_qota_rt": "52.34",
+      "trmend_posesn_stock_co": "7,654,616",
+      "trmend_posesn_stock_qota_rt": "52.34",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003227",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001310",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제17기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "연결/별도재무제표 정기감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "4.5",
+      "adt_cntrct_dtls_time": "5,800",
+      "real_exc_dtls_mendng": "4.5",
+      "real_exc_dtls_time": "5,803",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001310",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제16기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "연결/별도재무제표 정기감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3.9",
+      "adt_cntrct_dtls_time": "5,865",
+      "real_exc_dtls_mendng": "3.9",
+      "real_exc_dtls_time": "5,865",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001310",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "연결/별도재무제표 정기감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2.9",
+      "adt_cntrct_dtls_time": "3,446",
+      "real_exc_dtls_mendng": "2.9",
+      "real_exc_dtls_time": "3,446",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001211",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "se": "소액주주",
+      "shrholdr_co": "8,394",
+      "shrholdr_tot_co": "8,405",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "44,466,141",
+      "stock_tot_co": "100,273,016",
+      "hold_stock_rate": "44.35%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_knd": "보통주",
+      "nm": "그로쓰제일호\n투자목적주식회사",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "11,221,730",
+      "bsis_posesn_stock_qota_rt": "50.55",
+      "trmend_posesn_stock_co": "11,221,730",
+      "trmend_posesn_stock_qota_rt": "50.55",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_knd": "보통주",
+      "nm": "노성현",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "863,210",
+      "bsis_posesn_stock_qota_rt": "3.89",
+      "trmend_posesn_stock_co": "464,969",
+      "trmend_posesn_stock_qota_rt": "2.09",
+      "rm": "(*1)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "12,084,940",
+      "bsis_posesn_stock_qota_rt": "54.44",
+      "trmend_posesn_stock_co": "11,686,699",
+      "trmend_posesn_stock_qota_rt": "52.64",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

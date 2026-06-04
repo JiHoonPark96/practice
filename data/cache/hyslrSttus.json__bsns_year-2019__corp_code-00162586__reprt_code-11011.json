@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001849",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "stock_knd": "보통주",
+      "nm": "(주)대웅제약",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "15,672,192",
+      "bsis_posesn_stock_qota_rt": "30.00",
+      "trmend_posesn_stock_co": "15,672,192",
+      "trmend_posesn_stock_qota_rt": "30.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001849",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "stock_knd": "보통주",
+      "nm": "김성욱",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "1,652,827",
+      "bsis_posesn_stock_qota_rt": "3.20",
+      "trmend_posesn_stock_co": "1,652,827",
+      "trmend_posesn_stock_qota_rt": "3.20",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001849",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "stock_knd": "보통주",
+      "nm": "박승국",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "55,100",
+      "bsis_posesn_stock_qota_rt": "0.10",
+      "trmend_posesn_stock_co": "55,100",
+      "trmend_posesn_stock_qota_rt": "0.10",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001849",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "17,380,119",
+      "bsis_posesn_stock_qota_rt": "33.30",
+      "trmend_posesn_stock_co": "17,380,119",
+      "trmend_posesn_stock_qota_rt": "33.30",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001849",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

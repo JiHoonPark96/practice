@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220818000282",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제53기(당기)",
+      "adtor": "정진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20220818000282",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제52기(전기)",
+      "adtor": "정진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20220818000282",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "정진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

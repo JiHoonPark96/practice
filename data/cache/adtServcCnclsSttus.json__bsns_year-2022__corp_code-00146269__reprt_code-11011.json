@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001185",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제65기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "분기,반기재무제표 검토\n개별재무제표에 대한 감사\n연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190,000",
+      "adt_cntrct_dtls_time": "2,700",
+      "real_exc_dtls_mendng": "190,000",
+      "real_exc_dtls_time": "2,700",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001185",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제64기(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "분기,반기재무제표 검토\n개별재무제표에 대한 감사\n연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "2,701",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "2,701",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001185",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "분기,반기재무제표 검토\n개별재무제표에 대한 감사\n연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "2,701",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "2,701",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

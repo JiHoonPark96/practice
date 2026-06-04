@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001401",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "stock_knd": "보통주",
+      "nm": "금한태",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "2,072,161",
+      "bsis_posesn_stock_qota_rt": "21.36",
+      "trmend_posesn_stock_co": "2,072,161",
+      "trmend_posesn_stock_qota_rt": "21.36",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001401",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "stock_knd": "보통주",
+      "nm": "텔코인(주)",
+      "relate": "계열사",
+      "bsis_posesn_stock_co": "595,724",
+      "bsis_posesn_stock_qota_rt": "6.14",
+      "trmend_posesn_stock_co": "595,724",
+      "trmend_posesn_stock_qota_rt": "6.14",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001401",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "stock_knd": "보통주",
+      "nm": "성태홍",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "163,680",
+      "bsis_posesn_stock_qota_rt": "1.68",
+      "trmend_posesn_stock_co": "163,680",
+      "trmend_posesn_stock_qota_rt": "1.68",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001401",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,831,565",
+      "bsis_posesn_stock_qota_rt": "29.18",
+      "trmend_posesn_stock_co": "2,831,565",
+      "trmend_posesn_stock_qota_rt": "29.18",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001401",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

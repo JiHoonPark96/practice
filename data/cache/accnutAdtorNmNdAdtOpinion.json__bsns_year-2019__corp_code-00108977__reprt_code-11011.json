@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000599",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제51기(당기)",
+      "adtor": "세일회계법인",
+      "adt_opinion": "중요성의 관점에서 공정하게 표시",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식\n종속기업투자주식 손상\n주요 영업부문 손상",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000599",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제50기(전기)",
+      "adtor": "세일회계법인",
+      "adt_opinion": "중요성의 관점에서 적정하게 표시",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000599",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "세일회계법인",
+      "adt_opinion": "중요성의 관점에서 적정하게 표시",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

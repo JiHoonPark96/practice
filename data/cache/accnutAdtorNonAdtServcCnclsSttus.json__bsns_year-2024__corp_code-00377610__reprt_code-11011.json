@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001645",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제24기(당기)",
+      "cntrct_cncls_de": "2024.12.06",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2025.01.01. ~ 2025.05.31.",
+      "servc_mendng": "1,750 만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001645",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제23기(전기)",
+      "cntrct_cncls_de": "2023.12.12.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.01.01. ~ 2024.05.31.",
+      "servc_mendng": "2,750 만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001645",
+      "corp_cls": "Y",
+      "corp_code": "00377610",
+      "corp_name": "세아홀딩스",
+      "bsns_year": "제22기(전전기)",
+      "cntrct_cncls_de": "2022.12.30.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.01.01. ~ 2023.05.31.",
+      "servc_mendng": "1,750 만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

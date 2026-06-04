@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001160",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제6기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결감사, 연결분반기검토/\n기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "655",
+      "adt_cntrct_dtls_time": "6,535",
+      "real_exc_dtls_mendng": "655",
+      "real_exc_dtls_time": "6,378",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001160",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결감사, 연결분반기검토/\n기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "655",
+      "adt_cntrct_dtls_time": "6,621",
+      "real_exc_dtls_mendng": "655",
+      "real_exc_dtls_time": "6,465",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001160",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결감사, 연결분반기검토/\n기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "635",
+      "adt_cntrct_dtls_time": "6,683",
+      "real_exc_dtls_mendng": "650",
+      "real_exc_dtls_time": "6,074",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

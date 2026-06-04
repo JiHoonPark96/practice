@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001248",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "se": "소액주주",
+      "shrholdr_co": "7,879",
+      "shrholdr_tot_co": "7,888",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "5,913,695",
+      "stock_tot_co": "20,000,000",
+      "hold_stock_rate": "29.57%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

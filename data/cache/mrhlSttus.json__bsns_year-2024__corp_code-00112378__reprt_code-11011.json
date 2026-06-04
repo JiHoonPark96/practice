@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "se": "소액주주",
+      "shrholdr_co": "17,632",
+      "shrholdr_tot_co": "17,635",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "31,819,415",
+      "stock_tot_co": "60,132,868",
+      "hold_stock_rate": "52.92%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

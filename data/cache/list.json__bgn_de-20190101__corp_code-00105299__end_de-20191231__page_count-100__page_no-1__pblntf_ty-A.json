@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "stock_code": "014280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002438",
+      "flr_nm": "금강공업",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "stock_code": "014280",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001898",
+      "flr_nm": "금강공업",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "stock_code": "014280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190814001512",
+      "flr_nm": "금강공업",
+      "rcept_dt": "20190814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "stock_code": "014280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001804",
+      "flr_nm": "금강공업",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "stock_code": "014280",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401003980",
+      "flr_nm": "금강공업",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

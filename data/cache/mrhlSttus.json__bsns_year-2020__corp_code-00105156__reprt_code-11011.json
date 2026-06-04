@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000729",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "se": "소액주주",
+      "shrholdr_co": "6,138",
+      "shrholdr_tot_co": "6,150",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "11,486,871",
+      "stock_tot_co": "34,869,420",
+      "hold_stock_rate": "32.94%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

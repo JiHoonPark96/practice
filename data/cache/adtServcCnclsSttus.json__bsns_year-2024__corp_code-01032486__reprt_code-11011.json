@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001351",
+      "corp_cls": "Y",
+      "corp_code": "01032486",
+      "corp_name": "두산밥캣",
+      "bsns_year": "제11기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기연결재무제표검토\n분ㆍ반기재무제표검토\n연결재무제표감사(영문포함)\n재무제표감사(영문포함)\nK-IFRS에 의한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,450",
+      "adt_cntrct_dtls_time": "10,338",
+      "real_exc_dtls_mendng": "1,450",
+      "real_exc_dtls_time": "10,479",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001351",
+      "corp_cls": "Y",
+      "corp_code": "01032486",
+      "corp_name": "두산밥캣",
+      "bsns_year": "제10기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기연결재무제표검토\n분ㆍ반기재무제표검토\n연결재무제표감사(영문포함)\n재무제표감사(영문포함)\nK-IFRS에 의한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,210",
+      "adt_cntrct_dtls_time": "9,100",
+      "real_exc_dtls_mendng": "1,210",
+      "real_exc_dtls_time": "8,721",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001351",
+      "corp_cls": "Y",
+      "corp_code": "01032486",
+      "corp_name": "두산밥캣",
+      "bsns_year": "제9기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기연결재무제표검토\n분ㆍ반기재무제표검토\n연결재무제표감사(영문포함)\n재무제표감사(영문포함)\nK-IFRS에 의한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "644",
+      "adt_cntrct_dtls_time": "4,800",
+      "real_exc_dtls_mendng": "644",
+      "real_exc_dtls_time": "4,711",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

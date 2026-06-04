@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20231221000198",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "bsns_year": "제62기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 \n적정성",
+      "stlm_dt": "2023-09-30"
+    },
+    {
+      "rcept_no": "20231221000198",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "bsns_year": "제61기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의\n적정성",
+      "stlm_dt": "2023-09-30"
+    },
+    {
+      "rcept_no": "20231221000198",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "bsns_year": "제60기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "금융자산의 분류와 공정가치 측정",
+      "stlm_dt": "2023-09-30"
+    }
+  ]
+}

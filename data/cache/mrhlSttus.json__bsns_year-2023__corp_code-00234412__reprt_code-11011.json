@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000886",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "se": "소액주주",
+      "shrholdr_co": "-",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "-",
+      "hold_stock_co": "-",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

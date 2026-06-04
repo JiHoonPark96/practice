@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250521000343",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "se": "소액주주",
+      "shrholdr_co": "14,903",
+      "shrholdr_tot_co": "14,916",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "55,648,010",
+      "stock_tot_co": "78,782,988",
+      "hold_stock_rate": "70.63%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

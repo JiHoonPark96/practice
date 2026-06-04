@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115002184",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000567",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000989",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210405002921",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20210405",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210405002873",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20210405",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210318000950",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20210318",
+      "rm": "정연"
+    }
+  ]
+}

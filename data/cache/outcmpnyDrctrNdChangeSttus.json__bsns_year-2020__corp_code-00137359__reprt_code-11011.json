@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230502000018",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "drctr_co": "1",
+      "otcmp_drctr_co": "5",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000456",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "se": "소액주주",
+      "shrholdr_co": "130,263",
+      "shrholdr_tot_co": "130,271",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "20,536,631",
+      "stock_tot_co": "27,752,225",
+      "hold_stock_rate": "73.99%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

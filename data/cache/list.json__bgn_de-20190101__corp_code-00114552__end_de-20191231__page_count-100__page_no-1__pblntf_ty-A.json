@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "stock_code": "002150",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191108000364",
+      "flr_nm": "도화엔지니어링",
+      "rcept_dt": "20191108",
+      "rm": ""
+    },
+    {
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "stock_code": "002150",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190813000167",
+      "flr_nm": "도화엔지니어링",
+      "rcept_dt": "20190813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "stock_code": "002150",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190514000240",
+      "flr_nm": "도화엔지니어링",
+      "rcept_dt": "20190514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "stock_code": "002150",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329002638",
+      "flr_nm": "도화엔지니어링",
+      "rcept_dt": "20190329",
+      "rm": "연"
+    }
+  ]
+}

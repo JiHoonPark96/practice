@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001716",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "se": "소액주주",
+      "shrholdr_co": "52,485",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "83,915,852",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "45.89%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

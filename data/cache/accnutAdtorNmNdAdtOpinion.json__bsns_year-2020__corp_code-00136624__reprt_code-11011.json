@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000310",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "재고자산평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000310",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "bsns_year": "제52기(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "재고자산평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000310",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

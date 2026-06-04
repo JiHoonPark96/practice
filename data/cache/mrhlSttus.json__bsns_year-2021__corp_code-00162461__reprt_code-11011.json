@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220728000033",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "se": "소액주주",
+      "shrholdr_co": "368,534",
+      "shrholdr_tot_co": "368,538",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "99,860,287",
+      "stock_tot_co": "192,402,234",
+      "hold_stock_rate": "51.9%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

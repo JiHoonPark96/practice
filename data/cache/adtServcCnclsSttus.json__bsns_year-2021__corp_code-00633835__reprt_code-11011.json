@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000382",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제15기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "연말(반기,분기)국문감사, 영문감사,\n연말(반기,분기)연결감사, 내부회계관리",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "760,000",
+      "adt_cntrct_dtls_time": "7,500시간",
+      "real_exc_dtls_mendng": "760,000",
+      "real_exc_dtls_time": "7,500시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000382",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제14기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "연말(반기,분기)국문감사, 영문감사,\n연말(반기,분기)연결감사, 내부회계관리",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "820,000",
+      "adt_cntrct_dtls_time": "8,400시간",
+      "real_exc_dtls_mendng": "820,000",
+      "real_exc_dtls_time": "7,500시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000382",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연말(반기,분기)국문감사, 영문감사,\n연말(반기,분기)연결감사, 내부회계관리",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "870,000",
+      "adt_cntrct_dtls_time": "9,850시간",
+      "real_exc_dtls_mendng": "870,000",
+      "real_exc_dtls_time": "9,850시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

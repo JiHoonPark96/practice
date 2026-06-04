@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211025000143",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "drctr_co": "9",
+      "otcmp_drctr_co": "3",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

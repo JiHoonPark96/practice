@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000754",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "bsns_year": "제67기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000754",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "bsns_year": "제66기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000754",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

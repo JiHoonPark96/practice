@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004002",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제58기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기ㆍ연간재무제표 검토",
+      "mendng": "90",
+      "tot_reqre_time": "1,558시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004002",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제57기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기ㆍ연간재무제표 검토",
+      "mendng": "90",
+      "tot_reqre_time": "1,215시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004002",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기ㆍ연간재무제표 검토",
+      "mendng": "89",
+      "tot_reqre_time": "1,085시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

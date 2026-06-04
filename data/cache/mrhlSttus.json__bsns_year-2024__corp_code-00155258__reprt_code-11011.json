@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250408001924",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "se": "소액주주",
+      "shrholdr_co": "29,215",
+      "shrholdr_tot_co": "29,217",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "2,588,000",
+      "stock_tot_co": "5,990,590",
+      "hold_stock_rate": "43.20%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외부문의 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외부문의 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외부문의 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

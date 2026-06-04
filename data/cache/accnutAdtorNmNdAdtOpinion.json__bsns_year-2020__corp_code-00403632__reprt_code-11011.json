@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001268",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제29기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 방송사업부문 및 화장품·의약품 원료제조사업부문에 배부된 영업권 및    비한정 내용연수의 무형자산 손상검토- 광고매출 수익인식의 발생사실",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001268",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제28기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 광고매출 수익인식- 방송사업부문 비한정내용연수 무형자산을 포함한 현금창출단위의 손상검사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001268",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제27기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

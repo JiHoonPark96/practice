@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003594",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "se": "소액주주",
+      "shrholdr_co": "7,601",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.58%",
+      "hold_stock_co": "4,888,665",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "28.28%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

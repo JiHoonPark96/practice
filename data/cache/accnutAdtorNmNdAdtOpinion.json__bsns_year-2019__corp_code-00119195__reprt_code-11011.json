@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001229",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제91기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 신규거래처에 대한 매출 인식\n- 수익인식 기간귀속의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001229",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제90기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001229",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제89기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

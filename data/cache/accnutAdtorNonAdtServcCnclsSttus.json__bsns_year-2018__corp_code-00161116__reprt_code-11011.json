@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 39기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 39기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 38기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 38기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 37기",
+      "cntrct_cncls_de": "2016.02.12",
+      "servc_cn": "국외 특수관계자거래에 대한 세무자문 용역",
+      "servc_exc_pd": "2016. 02. 12~2016. 02. 29",
+      "servc_mendng": "30,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 37기",
+      "cntrct_cncls_de": "2016.10.17",
+      "servc_cn": "자문 용역",
+      "servc_exc_pd": "2016. 10. 17~2016. 12. 02",
+      "servc_mendng": "85,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 37기",
+      "cntrct_cncls_de": "2016.11.07",
+      "servc_cn": "경영자문업무 용역",
+      "servc_exc_pd": "2016. 11. 07~2016.12. 30",
+      "servc_mendng": "70,000",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

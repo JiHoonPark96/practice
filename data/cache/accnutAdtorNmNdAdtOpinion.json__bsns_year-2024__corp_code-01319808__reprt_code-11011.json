@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제7기\n (당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "한일현대시멘트\n종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제7기\n (당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "시멘트사업부 영업권 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제6기\n (전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제6기\n (전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "시멘트사업부 영업권 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제5기\n (전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000951",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제5기\n (전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "시멘트사업부 영업권 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000469",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제58기",
+      "adtor": "한영회계법인",
+      "cn": "분 ·반기 재무제표 검토\n별도 및 연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "648,000 ",
+      "adt_cntrct_dtls_time": "7,030 ",
+      "real_exc_dtls_mendng": "648,000 ",
+      "real_exc_dtls_time": "7,063",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000469",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제57기",
+      "adtor": "한영회계법인",
+      "cn": "분 ·반기 재무제표 검토\n별도 및 연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "615,000 ",
+      "adt_cntrct_dtls_time": "7,156 ",
+      "real_exc_dtls_mendng": "615,000 ",
+      "real_exc_dtls_time": "7,000 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000469",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "bsns_year": "제56기",
+      "adtor": "한영회계법인",
+      "cn": "분 ·반기 재무제표 검토\n별도 및 연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "408,000 ",
+      "adt_cntrct_dtls_time": "4,600 ",
+      "real_exc_dtls_mendng": "408,000 ",
+      "real_exc_dtls_time": "5,342 ",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

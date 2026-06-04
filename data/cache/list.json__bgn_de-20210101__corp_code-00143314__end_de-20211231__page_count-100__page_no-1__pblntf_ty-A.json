@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001186",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000719",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20210713000103",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210713",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20210713000097",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210713",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517001004",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210331002532",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210331",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210323000889",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210323",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_code": "015260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20210127000429",
+      "flr_nm": "에이엔피",
+      "rcept_dt": "20210127",
+      "rm": "정연"
+    }
+  ]
+}

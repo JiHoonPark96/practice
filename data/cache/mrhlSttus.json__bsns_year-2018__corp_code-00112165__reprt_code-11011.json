@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002500",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "se": "소액주주",
+      "shrholdr_co": "3,705",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.44%",
+      "hold_stock_co": "9,045,953",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "40.26%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

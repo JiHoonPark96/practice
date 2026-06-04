@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329001292",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "제 43 기(당   기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "해 당 사 항 없 슴",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001292",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "제 42 기(전   기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "해 당 사 항 없 슴",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001292",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "제 41 기(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "해 당 사 항 없 슴",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

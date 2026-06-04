@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000634",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "se": "소액주주",
+      "shrholdr_co": "7,744",
+      "shrholdr_tot_co": "7,755",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "9,662,196",
+      "stock_tot_co": "28,572,230",
+      "hold_stock_rate": "33.82%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

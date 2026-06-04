@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000602",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "(주)이랜드파크",
+      "relate": "최대주주\n본인",
+      "bsis_posesn_stock_co": "54,131,261",
+      "bsis_posesn_stock_qota_rt": "52.48",
+      "trmend_posesn_stock_co": "80,482,113",
+      "trmend_posesn_stock_qota_rt": "56.76",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000602",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "(주)이랜드월드",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "13,202,515",
+      "bsis_posesn_stock_qota_rt": "12.80",
+      "trmend_posesn_stock_co": "19,629,440",
+      "trmend_posesn_stock_qota_rt": "13.84",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000602",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000602",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "67,333,776",
+      "bsis_posesn_stock_qota_rt": "65.28",
+      "trmend_posesn_stock_co": "100,111,553",
+      "trmend_posesn_stock_qota_rt": "70.60",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

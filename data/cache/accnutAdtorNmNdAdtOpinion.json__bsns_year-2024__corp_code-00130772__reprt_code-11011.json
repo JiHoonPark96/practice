@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001108",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001108",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001108",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001108",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001108",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001108",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

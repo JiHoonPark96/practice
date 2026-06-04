@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000782",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제38기(당기)",
+      "cntrct_cncls_de": "2021.10.12",
+      "servc_cn": "과거 3개년 Physical Trading Volume 확인서 발행을 위한 용역",
+      "servc_exc_pd": "2021.10.12 ~ 2021.10.26",
+      "servc_mendng": "8,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000782",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제37기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000782",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제36기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003571",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 41 기(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권의 손상",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003571",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 40 기(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003571",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 39 기(전전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

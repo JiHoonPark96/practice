@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002136",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제49기(당기)",
+      "adtor": "성도이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특이사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002136",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제48기(전기)",
+      "adtor": "이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특이사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002136",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특이사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

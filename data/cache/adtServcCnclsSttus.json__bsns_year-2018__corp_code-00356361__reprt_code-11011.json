@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003134",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "2018년 별도 및 연결재무제표에 대한 감사(영문포함)와\n분/반기 별도 및 연결재무제표에 대한 검토 (연결은 영문포함)\n(감사기간)\n별도재무제표 : 2019.01.10~2019.02.22\n연결재무제표 : 2019.01.10~2019.02.22",
+      "mendng": "1,090 \n(연간 총 보수)",
+      "tot_reqre_time": "14,970시간\n (영문보고서작성 추정시간 포함)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003134",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "2017년 별도 및 연결재무제표에 대한 감사(영문포함)와\n분/반기 별도 및 연결재무제표에 대한 검토 (연결은 영문포함)\n(감사기간)\n별도재무제표 : 2018.01.08~2018.02.23\n연결재무제표 : 2018.01.08~2018.02.23",
+      "mendng": "1,090 \n(연간 총 보수)",
+      "tot_reqre_time": "12,750시간\n(영문보고서작성 추정시간 포함)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003134",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "2016년 별도 및 연결재무제표에 대한 감사(영문포함)와 \n분/반기 별도 및 연결재무제표에 대한 검토 (연결은 영문포함)\n(감사기간)\n별도재무제표 : 2017.01.09~2017.02.17\n연결재무제표 : 2017.01.09~2017.02.17",
+      "mendng": "818 \n(연간 총 보수)",
+      "tot_reqre_time": "12,260시간\n(영문보고서작성 추정시간 포함)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

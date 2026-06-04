@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "stock_code": "003620",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.09)",
+      "rcept_no": "20221116000024",
+      "flr_nm": "KG모빌리티",
+      "rcept_dt": "20221116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "stock_code": "003620",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114002128",
+      "flr_nm": "KG모빌리티",
+      "rcept_dt": "20221114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "stock_code": "003620",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816000092",
+      "flr_nm": "KG모빌리티",
+      "rcept_dt": "20220816",
+      "rm": ""
+    },
+    {
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "stock_code": "003620",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001025",
+      "flr_nm": "KG모빌리티",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "stock_code": "003620",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220427000218",
+      "flr_nm": "KG모빌리티",
+      "rcept_dt": "20220427",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "stock_code": "003620",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220331003528",
+      "flr_nm": "KG모빌리티",
+      "rcept_dt": "20220331",
+      "rm": "정연"
+    }
+  ]
+}

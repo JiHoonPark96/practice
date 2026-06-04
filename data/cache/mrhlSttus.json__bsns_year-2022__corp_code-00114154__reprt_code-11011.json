@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000948",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "se": "소액주주",
+      "shrholdr_co": "10,672",
+      "shrholdr_tot_co": "10,686",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "15,885,194",
+      "stock_tot_co": "32,564,980",
+      "hold_stock_rate": "48.78%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

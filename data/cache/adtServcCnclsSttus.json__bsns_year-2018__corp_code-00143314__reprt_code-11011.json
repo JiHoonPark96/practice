@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제38기(당기)",
+      "adtor": "회계법인 정연",
+      "cn": "연결ㆍ개별\n반기검토1회, 중간감사1회, 연말감사1회",
+      "mendng": "65,000",
+      "tot_reqre_time": "424",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제37기(전기)",
+      "adtor": "회계법인 정연",
+      "cn": "연결ㆍ개별\n반기검토1회, 중간감사1회, 연말감사1회",
+      "mendng": "65,000",
+      "tot_reqre_time": "416",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "회계법인 정연",
+      "cn": "연결ㆍ개별\n반기검토1회, 중간감사1회, 연말감사1회",
+      "mendng": "65,000",
+      "tot_reqre_time": "300",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

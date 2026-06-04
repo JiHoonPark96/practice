@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000323",
+      "corp_cls": "Y",
+      "corp_code": "00172228",
+      "corp_name": "엔케이",
+      "se": "소액주주",
+      "shrholdr_co": "13,747",
+      "shrholdr_tot_co": "13,753",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "56,847,345",
+      "stock_tot_co": "79,983,352",
+      "hold_stock_rate": "71.00%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

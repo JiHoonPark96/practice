@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제13기\n\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제13기\n\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권을 포함한 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제12기\n\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속회사 연우와의 포괄적 주식교환계약 체결",
+      "core_adt_matter": " 종속기업투자의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제12기\n\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속회사 연우와의 포괄적 주식교환계약 체결",
+      "core_adt_matter": "영업권을 포함한 현금창출단위 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제11기\n\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제11기\n\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

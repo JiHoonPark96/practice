@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210405003117",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "se": "소액주주",
+      "shrholdr_co": "48,969",
+      "shrholdr_tot_co": "48,982",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "21,744,876",
+      "stock_tot_co": "34,800,000",
+      "hold_stock_rate": "62.49%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

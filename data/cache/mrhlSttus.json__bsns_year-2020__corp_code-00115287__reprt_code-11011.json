@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210707000184",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "se": "소액주주",
+      "shrholdr_co": "18,161",
+      "shrholdr_tot_co": "18,168",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "27,065,664",
+      "stock_tot_co": "39,469,498",
+      "hold_stock_rate": "68.57%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

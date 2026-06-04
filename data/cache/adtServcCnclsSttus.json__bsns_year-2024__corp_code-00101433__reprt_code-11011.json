@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000859",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제68기\n(당기)",
+      "adtor": "삼도회계법인",
+      "cn": "반기 별도 및 연결 재무제표 검토,\n온기 별도 및 연결 재무제표 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "175백만원",
+      "real_exc_dtls_time": "2,350",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000859",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제67기\n(전기)",
+      "adtor": "삼도회계법인",
+      "cn": "반기 별도 및 연결 재무제표 검토,\n온기 별도 및 연결 재무제표 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "175백만원",
+      "real_exc_dtls_time": "2,344",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000859",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제66기\n(전전기)",
+      "adtor": "삼도회계법인",
+      "cn": "반기 별도 및 연결 재무제표 검토,\n온기 별도 및 연결 재무제표 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "175백만원",
+      "real_exc_dtls_time": "2,269",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

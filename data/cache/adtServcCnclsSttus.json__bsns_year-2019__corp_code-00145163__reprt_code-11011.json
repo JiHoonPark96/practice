@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004368",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제52기(당기)",
+      "adtor": "신승회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "638",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004368",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제51기(전기)",
+      "adtor": "신승회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "600",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004368",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "신승회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "70,000",
+      "tot_reqre_time": "572",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

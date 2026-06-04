@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001492",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제56기    (당기)",
+      "cntrct_cncls_de": "안진회계법인",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.01.01 ~ 2023. 04. 30",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001492",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "제55기    (전기)",
+      "cntrct_cncls_de": "안진회계법인",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.01.01 ~ 2022. 04. 30",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001492",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

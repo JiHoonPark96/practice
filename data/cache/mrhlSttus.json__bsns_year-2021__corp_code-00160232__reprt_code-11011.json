@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000405",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "se": "소액주주",
+      "shrholdr_co": "17,548",
+      "shrholdr_tot_co": "17,566",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "14,224,832",
+      "stock_tot_co": "23,185,880",
+      "hold_stock_rate": "61.35%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

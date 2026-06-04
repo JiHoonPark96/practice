@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000891",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "bsns_year": "제62기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 및 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000891",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "bsns_year": "제62기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업 투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000891",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "bsns_year": "제61기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 및 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000891",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "bsns_year": "제61기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업 투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000891",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "bsns_year": "제60기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 및 관계기업투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000891",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "bsns_year": "제60기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업 투자주식에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2017.12",
+      "servc_cn": "취득세 신고 대행",
+      "servc_exc_pd": "4주",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2017.09",
+      "servc_cn": "지방세 자문 업무",
+      "servc_exc_pd": "1주",
+      "servc_mendng": "23",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2017.05",
+      "servc_cn": "CDP자문 업무",
+      "servc_exc_pd": "4주",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2017.05",
+      "servc_cn": "세무자문 업무",
+      "servc_exc_pd": "8주",
+      "servc_mendng": "95",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2017.04",
+      "servc_cn": "실사 업무",
+      "servc_exc_pd": "20주",
+      "servc_mendng": "330",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2017.02",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "4주",
+      "servc_mendng": "18",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "2016.10",
+      "servc_cn": "실사 및 가치평가 검토 업무",
+      "servc_exc_pd": "8주",
+      "servc_mendng": "232",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "2016.06",
+      "servc_cn": "세무자문 업무",
+      "servc_exc_pd": "40주",
+      "servc_mendng": "110",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

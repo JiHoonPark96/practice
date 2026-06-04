@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_code": "016380",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002129",
+      "flr_nm": "KG스틸",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_code": "016380",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002475",
+      "flr_nm": "KG스틸",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_code": "016380",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190520000269",
+      "flr_nm": "KG스틸",
+      "rcept_dt": "20190520",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_code": "016380",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190515002751",
+      "flr_nm": "KG스틸",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_code": "016380",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002505",
+      "flr_nm": "KG스틸",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_code": "016380",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401003201",
+      "flr_nm": "KG스틸",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

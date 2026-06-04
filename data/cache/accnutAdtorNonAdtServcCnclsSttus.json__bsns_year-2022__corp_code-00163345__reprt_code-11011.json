@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001132",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제46기(당기)",
+      "cntrct_cncls_de": "2022년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.07~2023.03",
+      "servc_mendng": "16백만원",
+      "rm": "안진회계법인(VAT별도)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001132",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2021년 10월",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.10~",
+      "servc_mendng": "-",
+      "rm": "안진회계법인(성공 시 보수 지급으로 정해진 금액 없음)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001132",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2021년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.07~2022.03",
+      "servc_mendng": "15백만원",
+      "rm": "안진회계법인(VAT별도)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001132",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제44기(전전기)",
+      "cntrct_cncls_de": "2020년 9월",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2020.09~2021.02",
+      "servc_mendng": "80백만원",
+      "rm": "안진회계법인(VAT별도)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001132",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제44기(전전기)",
+      "cntrct_cncls_de": "2020년 6월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.07~2021.03",
+      "servc_mendng": "15백만원",
+      "rm": "안진회계법인(VAT별도)",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

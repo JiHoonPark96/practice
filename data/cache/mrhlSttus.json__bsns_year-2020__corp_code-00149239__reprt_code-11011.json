@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000382",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "se": "소액주주",
+      "shrholdr_co": "4,945",
+      "shrholdr_tot_co": "4,955",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "27,305,887",
+      "stock_tot_co": "83,774,593",
+      "hold_stock_rate": "32.59%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제36기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 별도(연결) 재무제표 검토, 별도(연결)재무제표 감사,\n 내부회계관리제도 감사, 중간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,420",
+      "adt_cntrct_dtls_time": "22,000",
+      "real_exc_dtls_mendng": "2,420",
+      "real_exc_dtls_time": "22,969",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제35기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 별도(연결) 재무제표 검토, 별도(연결)재무제표 감사,\n 내부회계관리제도 감사, 중간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,630",
+      "adt_cntrct_dtls_time": "27,580",
+      "real_exc_dtls_mendng": "3,630",
+      "real_exc_dtls_time": "25,900",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001005",
+      "corp_cls": "Y",
+      "corp_code": "00244455",
+      "corp_name": "케이티앤지",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 별도(연결) 재무제표 검토, 별도(연결)재무제표 감사,\n 내부회계관리제도 감사, 중간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,968",
+      "adt_cntrct_dtls_time": "33,400",
+      "real_exc_dtls_mendng": "4,028",
+      "real_exc_dtls_time": "33,908",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

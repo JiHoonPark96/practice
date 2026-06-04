@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001326",
+      "corp_cls": "Y",
+      "corp_code": "00148984",
+      "corp_name": "시알홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "4,070",
+      "shrholdr_tot_co": "4,133",
+      "shrholdr_rate": "98.48%",
+      "hold_stock_co": "543,869",
+      "stock_tot_co": "4,000,000",
+      "hold_stock_rate": "13.60%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

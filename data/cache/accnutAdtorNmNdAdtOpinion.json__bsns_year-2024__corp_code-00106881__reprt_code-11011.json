@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001282",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제45기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001282",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제45기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001282",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제44기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001282",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제44기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001282",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "투자부동산에 대한 후속측정방법을\n원가모형에서 경제적 실질이 반영된\n공정가치 모형으로 변경",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001282",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "투자부동산에 대한 후속측정방법을\n원가모형에서 경제적 실질이 반영된\n공정가치 모형으로 변경",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

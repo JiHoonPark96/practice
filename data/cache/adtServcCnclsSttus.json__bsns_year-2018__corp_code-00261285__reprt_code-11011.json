@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004174",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "외부회계감사\n (분·반기재무제표 검토)",
+      "mendng": "1,135,684",
+      "tot_reqre_time": "14,449 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004174",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사\n (분·반기재무제표 검토)",
+      "mendng": "      430,000",
+      "tot_reqre_time": " 5,555 시간 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004174",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부회계감사\n (분·반기재무제표 검토)",
+      "mendng": "      430,000",
+      "tot_reqre_time": " 5,555 시간 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

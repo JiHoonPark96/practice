@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001357",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "bsns_year": "제15기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "-KPX라이프사이언스 단계적처분에 따른 지배력상실  및 손상 검토 \n-수출매출의 기간귀속",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001357",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "bsns_year": "제14기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "전자재료사업 부문 현금창출단위 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001357",
+      "corp_cls": "Y",
+      "corp_code": "00587466",
+      "corp_name": "KPX홀딩스",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

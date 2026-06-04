@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230711000198",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

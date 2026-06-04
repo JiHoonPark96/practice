@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231113000753",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20231113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230809000695",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230809",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230712000496",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230712",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.03)",
+      "rcept_no": "20230712000492",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230712",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230712000488",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230712",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002891",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230331004201",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230331",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "stock_code": "006740",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230310001097",
+      "flr_nm": "블루산업개발",
+      "rcept_dt": "20230310",
+      "rm": "정연"
+    }
+  ]
+}

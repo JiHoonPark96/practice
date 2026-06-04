@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000859",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제59기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "중간기간 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "2,211",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000859",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제58기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "중간기간 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,429",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000859",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "성현회계법인",
+      "cn": "중간기간 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "2,838",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

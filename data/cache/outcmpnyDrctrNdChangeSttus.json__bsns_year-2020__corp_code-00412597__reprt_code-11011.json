@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210818000207",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

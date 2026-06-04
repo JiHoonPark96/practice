@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001179",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "bsns_year": "제25기(당기)",
+      "adtor": "동현회계법인",
+      "cn": "개별/연결/중간재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "1,052",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "1,214",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001179",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "bsns_year": "제24기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별/연결/중간재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "1,897",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001179",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "bsns_year": "제23기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별/연결/중간재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "219",
+      "adt_cntrct_dtls_time": "1,280",
+      "real_exc_dtls_mendng": "219",
+      "real_exc_dtls_time": "1,423",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

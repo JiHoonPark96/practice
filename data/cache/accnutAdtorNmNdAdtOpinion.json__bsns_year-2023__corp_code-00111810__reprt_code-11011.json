@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001160",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(연결재무제표) 내부적으로 창출한 개발비 손상검사\n(별도재무제표) 관계기업 및 종속기업투자주식의 손상 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001160",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류수정에 대한\n감사인의 강조사항 등",
+      "core_adt_matter": "(연결재무제표) 기술이전계약 및 라이선스 수익인식\n(별도재무제표) 관계기업 및 종속기업투자주식의 손상 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001160",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(연결재무제표) 무형자산의 인식 및 손상\n(별도재무제표) 무형자산의 인식 및 손상",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

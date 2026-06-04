@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001159",
+      "corp_cls": "Y",
+      "corp_code": "00157681",
+      "corp_name": "롯데정밀화학",
+      "se": "소액주주",
+      "shrholdr_co": "43,073",
+      "shrholdr_tot_co": "43,087",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "11,031,145",
+      "stock_tot_co": "25,800,000",
+      "hold_stock_rate": "42.77%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

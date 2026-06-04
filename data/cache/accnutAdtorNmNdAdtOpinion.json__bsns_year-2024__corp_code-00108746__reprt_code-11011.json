@@ -1,0 +1,83 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제44기\n(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제44기\n(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제43기\n(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제43기\n(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제42기\n(전전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000680",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제42기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음-",
+      "core_adt_matter": "-핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

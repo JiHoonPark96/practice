@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000906",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 16기(2022년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000906",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 15기(2021년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000906",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 14기(2020년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 고기능성 폴리머 사업결합\n - 미사용 결손금의 이연법인세자산 실현가능성 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

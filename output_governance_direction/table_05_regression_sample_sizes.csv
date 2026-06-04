@@ -1,0 +1,11 @@
+﻿model,n_obs,n_firms,dep_mean
+M1_controls,4610,689.0,0.21344902386117137
+M2_governance,0,,
+M3_ownership_complexity,0,,
+M4_auditor_aux,0,,
+M5_material_controls,4610,689.0,0.07483731019522777
+M6_material_governance,0,,
+M7_material_auditor_aux,0,,
+P1_count_controls,4610,689.0,0.313882863340564
+P2_count_governance,0,,
+P3_count_auditor_aux,0,,

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000956",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "se": "소액주주",
+      "shrholdr_co": "54,685",
+      "shrholdr_tot_co": "54,696",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "105,162,940",
+      "stock_tot_co": "235,885,020",
+      "hold_stock_rate": "44.58%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

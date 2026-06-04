@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000263",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "se": "소액주주",
+      "shrholdr_co": "13,640",
+      "shrholdr_tot_co": "13,653",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "3,564,729",
+      "stock_tot_co": "4,653,805",
+      "hold_stock_rate": "76.60%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

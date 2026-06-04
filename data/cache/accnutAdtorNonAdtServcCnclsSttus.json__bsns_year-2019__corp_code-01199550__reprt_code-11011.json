@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200514001143",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제 4 기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200514001143",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제 4 기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200514001143",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제 3 기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200514001143",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제 3 기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200514001143",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제 2 기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200514001143",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "bsns_year": "제 2 기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

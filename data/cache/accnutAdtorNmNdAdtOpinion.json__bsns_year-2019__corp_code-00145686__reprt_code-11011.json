@@ -1,0 +1,80 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002672",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제71기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재고자산의평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240314000617",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제71기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결재무제표에 대한 주석 34에 기술하고 있는 바와 같이 연결실체는 연결조정에 대한 오류를 수정하여 2019년 12월 31일로 종료되는 보고기간의 재무제표를 재작성하였습니다. .",
+      "core_adt_matter": "재고자산의평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002672",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제70기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240314000617",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제70기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002672",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제69기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240314000617",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제69기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

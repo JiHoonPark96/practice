@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002955",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "se": "소액주주",
+      "shrholdr_co": "25,432",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "8,305,291",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "57.64%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

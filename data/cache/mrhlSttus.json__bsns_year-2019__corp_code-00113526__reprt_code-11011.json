@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "se": "소액주주",
+      "shrholdr_co": "81,739",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "97.78%",
+      "hold_stock_co": "56,323,320",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "58.69%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

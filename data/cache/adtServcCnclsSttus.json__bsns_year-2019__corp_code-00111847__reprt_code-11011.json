@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제73기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 검토 및 기말감사, 재고실사, 연결감사 등",
+      "mendng": "280,000",
+      "tot_reqre_time": "2,693",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제72기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 검토 및 기말감사, 재고실사, 연결감사 등",
+      "mendng": "260,000",
+      "tot_reqre_time": "3,094",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제71기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 검토 및 기말감사, 재고실사, 연결감사 등",
+      "mendng": "250,000",
+      "tot_reqre_time": "2,586",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

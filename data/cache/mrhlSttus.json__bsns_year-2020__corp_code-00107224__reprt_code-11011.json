@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000948",
+      "corp_cls": "Y",
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "se": "소액주주",
+      "shrholdr_co": "70,640",
+      "shrholdr_tot_co": "71,488",
+      "shrholdr_rate": "98.81%",
+      "hold_stock_co": "81,014,755",
+      "stock_tot_co": "110,486,980",
+      "hold_stock_rate": "73.33%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

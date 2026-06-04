@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 20 기\n(당기)",
+      "cntrct_cncls_de": "2021.12",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2021년 12월~완료시",
+      "servc_mendng": "220",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 20 기\n(당기)",
+      "cntrct_cncls_de": "2021.08",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2021년 8월~9월",
+      "servc_mendng": "80",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 20 기\n(당기)",
+      "cntrct_cncls_de": "2021.06",
+      "servc_cn": "관세 점검 지원 컨설팅",
+      "servc_exc_pd": "2021년 6월~11월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 20 기\n(당기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2021년 3월~\n2023년 12월",
+      "servc_mendng": "150",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 19 기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000886",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 18 기\n(전전기)",
+      "cntrct_cncls_de": "2019.06",
+      "servc_cn": "관세자율 점검 지원 컨설팅",
+      "servc_exc_pd": "2019년 6월~12월",
+      "servc_mendng": "150",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

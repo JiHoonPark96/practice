@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000887",
+      "corp_cls": "Y",
+      "corp_code": "00162993",
+      "corp_name": "한일홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "3,685",
+      "shrholdr_tot_co": "3,701",
+      "shrholdr_rate": "99.57%",
+      "hold_stock_co": "5,706,412",
+      "stock_tot_co": "28,815,780",
+      "hold_stock_rate": "19.80%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

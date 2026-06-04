@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_code": "037710",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001076",
+      "flr_nm": "광주신세계",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_code": "037710",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001718",
+      "flr_nm": "광주신세계",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_code": "037710",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210514001187",
+      "flr_nm": "광주신세계",
+      "rcept_dt": "20210514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_code": "037710",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210315000505",
+      "flr_nm": "광주신세계",
+      "rcept_dt": "20210315",
+      "rm": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000860",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "bsns_year": "제46기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연간 재무제표 감사",
+      "mendng": "42백만원",
+      "tot_reqre_time": "922",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000860",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "bsns_year": "제45기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연간 재무제표 감사",
+      "mendng": "38백만원",
+      "tot_reqre_time": "898",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000860",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연간 재무제표 감사",
+      "mendng": "38백만원",
+      "tot_reqre_time": "893",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

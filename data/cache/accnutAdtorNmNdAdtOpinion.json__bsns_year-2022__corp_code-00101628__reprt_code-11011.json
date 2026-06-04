@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000682",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제138기(당기)",
+      "adtor": "예교지성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업주식의 손상검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000682",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제137기(전기)",
+      "adtor": "예교지성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "이연법인세 회계처리의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000682",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제136기(전전기)",
+      "adtor": "예교지성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "호텔 운영자산의 손상검토",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

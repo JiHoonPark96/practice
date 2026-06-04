@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220805000069",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "se": "소액주주",
+      "shrholdr_co": "2,533",
+      "shrholdr_tot_co": "2,566",
+      "shrholdr_rate": "98.71%",
+      "hold_stock_co": "3,453,653",
+      "stock_tot_co": "25,044,840",
+      "hold_stock_rate": "13.79%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

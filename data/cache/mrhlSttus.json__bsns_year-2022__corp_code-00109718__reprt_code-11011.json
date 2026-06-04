@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001368",
+      "corp_cls": "Y",
+      "corp_code": "00109718",
+      "corp_name": "사조대림",
+      "se": "소액주주",
+      "shrholdr_co": "7,804",
+      "shrholdr_tot_co": "7,814",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "2,688,547",
+      "stock_tot_co": "9,164,467",
+      "hold_stock_rate": "29.34%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

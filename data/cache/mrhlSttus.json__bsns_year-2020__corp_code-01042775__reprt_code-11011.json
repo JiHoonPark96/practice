@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211115001673",
+      "corp_cls": "Y",
+      "corp_code": "01042775",
+      "corp_name": "HL만도",
+      "se": "소액주주",
+      "shrholdr_co": "56,632",
+      "shrholdr_tot_co": "56,641",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "26,383,509",
+      "stock_tot_co": "46,957,120",
+      "hold_stock_rate": "56.19%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

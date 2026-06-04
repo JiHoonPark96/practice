@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제35기\n(당기)",
+      "cntrct_cncls_de": "2024-10-25",
+      "servc_cn": "CSRD 공시 대응자문 용역",
+      "servc_exc_pd": "2024-10-25 ~ 2025-06-30",
+      "servc_mendng": "220",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제35기\n(당기)",
+      "cntrct_cncls_de": "2024-07-05",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2024-07-05 ~ 2024-12-31",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제35기\n(당기)",
+      "cntrct_cncls_de": "2024-02-08",
+      "servc_cn": "세무검토용역",
+      "servc_exc_pd": "2024-02-08 ~ 2025-02-26",
+      "servc_mendng": "60",
+      "rm": "세무검토용역의 계약종료일은 최종보고서 수령 후 승인한 날로 간주함",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제34기\n(전기)",
+      "cntrct_cncls_de": "2023-04-10",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2023-04-10 ~ 2023-12-31",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제34기\n(전기)",
+      "cntrct_cncls_de": "2023-04-05",
+      "servc_cn": "세무검토용역",
+      "servc_exc_pd": "2023-04-05 ~ 2023-05-17",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제33기\n(전전기)",
+      "cntrct_cncls_de": "2022-09-06",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2022-09-06 ~ 2022-12-31",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제33기\n(전전기)",
+      "cntrct_cncls_de": "2022-02-22",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2022-02-22 ~ 2022-08-31",
+      "servc_mendng": "130",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

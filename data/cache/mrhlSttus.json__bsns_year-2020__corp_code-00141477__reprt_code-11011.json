@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000539",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "se": "소액주주",
+      "shrholdr_co": "6,027",
+      "shrholdr_tot_co": "6,034",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "29,029,701",
+      "stock_tot_co": "60,925,506",
+      "hold_stock_rate": "47.65%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

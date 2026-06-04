@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001041",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "se": "소액주주",
+      "shrholdr_co": "24,388",
+      "shrholdr_tot_co": "24,401",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "13,798,711",
+      "stock_tot_co": "83,268,340",
+      "hold_stock_rate": "16.57%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

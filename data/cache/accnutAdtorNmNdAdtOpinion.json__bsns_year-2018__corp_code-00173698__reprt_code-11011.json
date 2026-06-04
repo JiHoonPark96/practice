@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190626000411",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "bsns_year": "제60기(당)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000411",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "bsns_year": "제59기(전)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "회사 및 회사의 경영진과 관련된 다수의 소송 등이 진행중이며, 이로 인하여 회사의 재무상태에 미칠 궁극적인 영향은 현재로서는 측정할 수 없습니다.-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000411",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "회사 및 회사의 경영진과 관련된 다수의 소송 등이 진행중이며, 이로 인하여 회사의 재무상태에 미칠 궁극적인 영향은 현재로서는 측정할 수 없습니다.",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

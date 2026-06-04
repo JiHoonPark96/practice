@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000833",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제22기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 영업권 등 손상검사\n(2) 사업결합",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000833",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제21기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 영업권 등 손상검사\n(2) 사업결합",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000833",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 영업권 등 손상검사\n(2) 사업결합",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

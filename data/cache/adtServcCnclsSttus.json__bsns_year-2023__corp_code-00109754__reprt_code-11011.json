@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001994",
+      "corp_cls": "Y",
+      "corp_code": "00109754",
+      "corp_name": "대림바스",
+      "bsns_year": "제56기(당기)",
+      "adtor": "이촌회계법인",
+      "cn": "분ㆍ반기 검토, 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "155백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "155백만원",
+      "real_exc_dtls_time": "분ㆍ반기 검토 330\n감사 1,862",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001994",
+      "corp_cls": "Y",
+      "corp_code": "00109754",
+      "corp_name": "대림바스",
+      "bsns_year": "제55기(전기)",
+      "adtor": "이촌회계법인",
+      "cn": "분ㆍ반기 검토, 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "155백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "155백만원",
+      "real_exc_dtls_time": "분ㆍ반기 검토 322\n감사 1,739",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001994",
+      "corp_cls": "Y",
+      "corp_code": "00109754",
+      "corp_name": "대림바스",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "이촌회계법인",
+      "cn": "분ㆍ반기 검토, 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "120백만원",
+      "real_exc_dtls_time": "분ㆍ반기 검토 334\n감사 1,052",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

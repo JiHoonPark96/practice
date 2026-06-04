@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000672",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제55기 (당기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별, 연결, 영문감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,050",
+      "adt_cntrct_dtls_time": "10,400",
+      "real_exc_dtls_mendng": "1,050",
+      "real_exc_dtls_time": "10,051",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000672",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기 (전기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별, 연결, 영문감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,010",
+      "adt_cntrct_dtls_time": "10,400",
+      "real_exc_dtls_mendng": "1,010",
+      "real_exc_dtls_time": "10,050",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000672",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제53기 (전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "개별, 연결, 영문감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "980",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "980",
+      "real_exc_dtls_time": "9,311",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

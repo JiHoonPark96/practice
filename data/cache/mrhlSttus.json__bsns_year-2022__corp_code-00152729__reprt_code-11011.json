@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000645",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "se": "소액주주",
+      "shrholdr_co": "12,962",
+      "shrholdr_tot_co": "12,971",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "18,524,732",
+      "stock_tot_co": "50,363,763",
+      "hold_stock_rate": "36.78%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

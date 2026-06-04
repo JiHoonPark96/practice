@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240516000399",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 24기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "630백만원",
+      "adt_cntrct_dtls_time": "6,300",
+      "real_exc_dtls_mendng": "630백만원",
+      "real_exc_dtls_time": "6,445",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240516000399",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 23기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "630백만원",
+      "adt_cntrct_dtls_time": "6,286",
+      "real_exc_dtls_mendng": "630백만원",
+      "real_exc_dtls_time": "6,200",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240516000399",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 22기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "580백만원",
+      "adt_cntrct_dtls_time": "5,772",
+      "real_exc_dtls_mendng": "580백만원",
+      "real_exc_dtls_time": "5,868",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

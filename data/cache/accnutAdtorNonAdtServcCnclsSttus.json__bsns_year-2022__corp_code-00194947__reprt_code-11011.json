@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001346",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제33기(당기)",
+      "cntrct_cncls_de": "2021.06.15\n\n2023.02.14",
+      "servc_cn": "세무조정 및 세무자문업무\n\n세무자문업무",
+      "servc_exc_pd": "·법인세 신고기한까지\n·22.06.14 ~ 23.06.13\n·23.02.14 ~ (진행중)",
+      "servc_mendng": "16,000,000원\n\n87,000,000원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001346",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제32기(전기)",
+      "cntrct_cncls_de": "2021.06.15",
+      "servc_cn": "세무조정 및 세무자문업무",
+      "servc_exc_pd": "·법인세 신고기한까지\n·22.06.14 ~ 22.06.13",
+      "servc_mendng": "16,000,000원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001346",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

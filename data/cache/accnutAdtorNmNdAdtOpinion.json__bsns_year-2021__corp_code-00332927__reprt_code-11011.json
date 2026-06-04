@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220715000180",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "bsns_year": "제34기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19의 확산이 회사의 영업환경에 미칠 수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "(1) 제품매출의 발생사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220715000180",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "bsns_year": "제33기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19의 확산이 회사의 영업환경에 미칠 수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "(1) 현금창출단위의 자산손상평가\n(2) 사업결합시 매수가격 배분의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220715000180",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "bsns_year": "제32기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산의 실재성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

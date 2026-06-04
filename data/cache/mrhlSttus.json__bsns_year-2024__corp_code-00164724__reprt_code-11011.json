@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000920",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "se": "소액주주",
+      "shrholdr_co": "33,080",
+      "shrholdr_tot_co": "33,107",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "17,672,033",
+      "stock_tot_co": "39,092,385",
+      "hold_stock_rate": "45.21%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

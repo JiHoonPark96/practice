@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000532",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "se": "소액주주",
+      "shrholdr_co": "8,671",
+      "shrholdr_tot_co": "8,686",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "27,896,791",
+      "stock_tot_co": "60,589,598",
+      "hold_stock_rate": "46.04%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

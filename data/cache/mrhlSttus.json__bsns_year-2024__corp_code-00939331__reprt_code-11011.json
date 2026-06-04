@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001173",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "se": "소액주주",
+      "shrholdr_co": "51,399",
+      "shrholdr_tot_co": "51,432",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "9,496,797",
+      "stock_tot_co": "23,605,077",
+      "hold_stock_rate": "40.23%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

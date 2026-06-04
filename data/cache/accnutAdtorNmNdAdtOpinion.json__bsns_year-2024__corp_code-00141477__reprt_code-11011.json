@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328001676",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "철강사업부 매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001676",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "철강사업부 매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001676",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "철강 및 자동차부품 사업부 매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001676",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "철강 및 자동차부품 사업부 매출 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001676",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 파생상품부채의 공정가치 평가\n나. 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001676",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 파생상품부채의 공정가치 평가\n나. 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

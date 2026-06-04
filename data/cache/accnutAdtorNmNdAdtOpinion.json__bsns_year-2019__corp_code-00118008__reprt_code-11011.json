@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200116000259",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제34기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "계속기업 관련 중요한 불확실성",
+      "stlm_dt": "2019-03-31"
+    },
+    {
+      "rcept_no": "20200116000259",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제33기(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-03-31"
+    },
+    {
+      "rcept_no": "20200116000259",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "bsns_year": "제32기(전전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-03-31"
+    }
+  ]
+}

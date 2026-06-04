@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002111",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "se": "소액주주",
+      "shrholdr_co": "1,912",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.79 %",
+      "hold_stock_co": "5,617,541",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "25.30 %",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

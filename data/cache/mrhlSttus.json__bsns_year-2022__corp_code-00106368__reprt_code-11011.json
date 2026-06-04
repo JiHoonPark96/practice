@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001213",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "se": "소액주주",
+      "shrholdr_co": "119,567",
+      "shrholdr_tot_co": "119,588",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "15,285,951",
+      "stock_tot_co": "29,314,312",
+      "hold_stock_rate": "52.15%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

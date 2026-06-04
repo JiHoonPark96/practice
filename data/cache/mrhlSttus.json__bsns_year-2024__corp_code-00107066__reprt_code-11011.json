@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001709",
+      "corp_cls": "Y",
+      "corp_code": "00107066",
+      "corp_name": "남광토건",
+      "se": "소액주주",
+      "shrholdr_co": "10,602",
+      "shrholdr_tot_co": "10,609",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "3,291,962",
+      "stock_tot_co": "9,832,572",
+      "hold_stock_rate": "37.55%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

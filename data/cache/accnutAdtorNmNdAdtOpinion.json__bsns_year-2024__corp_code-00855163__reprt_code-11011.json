@@ -1,0 +1,81 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250310000394",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재고자산에 대한 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000394",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000394",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재고자산에 대한 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000394",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000394",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 재고자산에 대한 평가충당금의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250310000394",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

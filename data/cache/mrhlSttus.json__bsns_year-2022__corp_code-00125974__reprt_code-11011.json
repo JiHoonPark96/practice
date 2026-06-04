@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240821000566",
+      "corp_cls": "Y",
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "se": "소액주주",
+      "shrholdr_co": "91,208",
+      "shrholdr_tot_co": "91,218",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "164,367,130",
+      "stock_tot_co": "197,673,375",
+      "hold_stock_rate": "83.15%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

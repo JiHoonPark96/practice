@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323001114",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제31기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "275,000,000원",
+      "adt_cntrct_dtls_time": "1,970",
+      "real_exc_dtls_mendng": "275,000,000원",
+      "real_exc_dtls_time": "2,826",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323001114",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제30기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000원",
+      "adt_cntrct_dtls_time": "1,394",
+      "real_exc_dtls_mendng": "110,000,000원",
+      "real_exc_dtls_time": "1,394",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323001114",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150,000,000원",
+      "adt_cntrct_dtls_time": "1,292",
+      "real_exc_dtls_mendng": "150,000,000원",
+      "real_exc_dtls_time": "1,292",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

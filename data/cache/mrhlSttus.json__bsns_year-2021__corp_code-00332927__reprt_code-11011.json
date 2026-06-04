@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220715000180",
+      "corp_cls": "Y",
+      "corp_code": "00332927",
+      "corp_name": "제이에스코퍼레이션",
+      "se": "소액주주",
+      "shrholdr_co": "11,057",
+      "shrholdr_tot_co": "11,065",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "4,373,020",
+      "stock_tot_co": "13,335,601",
+      "hold_stock_rate": "32.8%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

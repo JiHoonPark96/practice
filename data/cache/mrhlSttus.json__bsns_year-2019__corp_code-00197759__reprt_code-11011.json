@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210111000674",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "se": "소액주주",
+      "shrholdr_co": "73,215",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "812,034,647",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "96.3%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

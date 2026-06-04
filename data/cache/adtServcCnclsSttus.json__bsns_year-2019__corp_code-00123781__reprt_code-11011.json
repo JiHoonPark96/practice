@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002009",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표에 대한 검토 및\n결산 재무제표에 대한 감사등",
+      "mendng": "53,000천원",
+      "tot_reqre_time": "983시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002009",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표에 대한 검토 및\n결산 재무제표에 대한 감사등",
+      "mendng": "39,500천원",
+      "tot_reqre_time": "789시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002009",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표에 대한 검토 및\n결산 재무제표에 대한 감사등",
+      "mendng": "33,750천원",
+      "tot_reqre_time": "530시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

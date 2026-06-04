@@ -1,0 +1,208 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 18,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211112000423",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20211112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210813000569",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210514000469",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210318000644",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210318",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2016.06)",
+      "rcept_no": "20210210001252",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20210210001228",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20210210001227",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.09)",
+      "rcept_no": "20210210001222",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2018.06)",
+      "rcept_no": "20210210001220",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.03)",
+      "rcept_no": "20210210001216",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20210210001210",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2017.09)",
+      "rcept_no": "20210210001206",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2017.06)",
+      "rcept_no": "20210210001202",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2017.03)",
+      "rcept_no": "20210210001199",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2016.12)",
+      "rcept_no": "20210210001197",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2016.09)",
+      "rcept_no": "20210210001193",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2016.06)",
+      "rcept_no": "20210210001188",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "stock_code": "000080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2016.03)",
+      "rcept_no": "20210210001183",
+      "flr_nm": "하이트진로",
+      "rcept_dt": "20210210",
+      "rm": ""
+    }
+  ]
+}

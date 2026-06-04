@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813000184",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130,000",
+      "adt_cntrct_dtls_time": "1,181",
+      "real_exc_dtls_mendng": "130,000",
+      "real_exc_dtls_time": "1,110",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000184",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제56기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 기말감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000",
+      "adt_cntrct_dtls_time": "1,318",
+      "real_exc_dtls_mendng": "149,800",
+      "real_exc_dtls_time": "1,481",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000184",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "105,000",
+      "adt_cntrct_dtls_time": "950",
+      "real_exc_dtls_mendng": "105,000",
+      "real_exc_dtls_time": "1,296",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

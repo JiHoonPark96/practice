@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240730000041",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제51기",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 정규감사, 연결감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390,000,000",
+      "adt_cntrct_dtls_time": "3,900 시간",
+      "real_exc_dtls_mendng": "390,000,000",
+      "real_exc_dtls_time": "4,100 시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240730000041",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제50기",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 정규감사, 연결감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390,000,000",
+      "adt_cntrct_dtls_time": "3,900 시간",
+      "real_exc_dtls_mendng": "390,000,000",
+      "real_exc_dtls_time": "3,898 시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240730000041",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제49기",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 정규감사, 연결감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000,000",
+      "adt_cntrct_dtls_time": "2,450 시간",
+      "real_exc_dtls_mendng": "240,000,000",
+      "real_exc_dtls_time": "2,553 시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001425",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "se": "소액주주",
+      "shrholdr_co": "26,060",
+      "shrholdr_tot_co": "26,071",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "3,235,941",
+      "stock_tot_co": "7,533,015",
+      "hold_stock_rate": "42.96%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제28기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 - 음악 서비스 매출\n연결 - 음악 서비스 매출",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제27기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도- 음악 컨텐츠 제공 매출\n 연결 - 음악 컨텐츠 제공 매출",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "bsns_year": "제26기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 - 종속기업투자주식의 손상검사\n 연결 - 영업권의 손상검사",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

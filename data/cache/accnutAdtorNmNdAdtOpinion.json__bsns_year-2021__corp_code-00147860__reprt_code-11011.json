@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "bsns_year": "제47기(당기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유무형자산의 손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "bsns_year": "제46기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001138",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

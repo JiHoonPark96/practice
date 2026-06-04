@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제42기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "수주산업 핵심감사항목에 대한 \n감사인의 강조사항 등",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제41기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "수주산업 핵심감사항목에 대한 \n감사인의 강조사항 등",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제40기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "수주산업 핵심감사항목에 대한 \n감사인의 강조사항 등",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

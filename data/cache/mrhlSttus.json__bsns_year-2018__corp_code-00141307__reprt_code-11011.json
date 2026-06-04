@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004367",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "se": "소액주주",
+      "shrholdr_co": "3,042",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.31%",
+      "hold_stock_co": "206,352",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "14.13%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

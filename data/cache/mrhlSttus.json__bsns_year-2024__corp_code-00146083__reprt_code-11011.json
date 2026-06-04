@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001009",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "16,071",
+      "shrholdr_tot_co": "16,087",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "5,590,604",
+      "stock_tot_co": "11,540,400",
+      "hold_stock_rate": "48.46%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000902",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "se": "소액주주",
+      "shrholdr_co": "2,300",
+      "shrholdr_tot_co": "2,335",
+      "shrholdr_rate": "98.50%",
+      "hold_stock_co": "1,184,157",
+      "stock_tot_co": "5,000,000",
+      "hold_stock_rate": "23.68%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

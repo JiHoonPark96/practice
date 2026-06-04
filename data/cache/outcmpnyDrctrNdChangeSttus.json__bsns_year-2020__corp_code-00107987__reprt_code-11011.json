@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000430",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "drctr_co": "12",
+      "otcmp_drctr_co": "8",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220920000416",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "bsns_year": "제7기\n(당기)",
+      "adtor": "삼일\n회계법인",
+      "cn": "분·반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "717,500",
+      "adt_cntrct_dtls_time": "6,162",
+      "real_exc_dtls_mendng": "882,500",
+      "real_exc_dtls_time": "7,705",
+      "stlm_dt": "2022-06-30"
+    },
+    {
+      "rcept_no": "20220920000416",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "bsns_year": "제6기\n(전기)",
+      "adtor": "삼일\n회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "372,000",
+      "adt_cntrct_dtls_time": "3,295",
+      "real_exc_dtls_mendng": "372,000",
+      "real_exc_dtls_time": "4,586",
+      "stlm_dt": "2022-06-30"
+    },
+    {
+      "rcept_no": "20220920000416",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "bsns_year": "제5기\n(전전기)",
+      "adtor": "삼일\n회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330,500",
+      "adt_cntrct_dtls_time": "4,483",
+      "real_exc_dtls_mendng": "220,500",
+      "real_exc_dtls_time": "4,483",
+      "stlm_dt": "2022-06-30"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001481",
+      "corp_cls": "Y",
+      "corp_code": "00174527",
+      "corp_name": "HS화성",
+      "se": "소액주주",
+      "shrholdr_co": "5,464",
+      "shrholdr_tot_co": "5,479",
+      "shrholdr_rate": "99.73%",
+      "hold_stock_co": "3,450,726",
+      "stock_tot_co": "10,150,000",
+      "hold_stock_rate": "34.00%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000694",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "bsns_year": "제52기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000694",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "bsns_year": "제51기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000694",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "bsns_year": "제50기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

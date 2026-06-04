@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제11기\n(당기)",
+      "cntrct_cncls_de": "2021.12.06",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2022.01~2022.03",
+      "servc_mendng": "4,400",
+      "rm": "한영회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제11기\n(당기)",
+      "cntrct_cncls_de": "2021.12.17",
+      "servc_cn": "법인세 세무자문",
+      "servc_exc_pd": "2022.01~업무종료일",
+      "servc_mendng": "-",
+      "rm": "한영회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2021.12.06",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2021.12~2021.12",
+      "servc_mendng": "3,500",
+      "rm": "한영회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2021.12.17",
+      "servc_cn": "법인세 세무자문",
+      "servc_exc_pd": "2021.12~업무종료일",
+      "servc_mendng": "-",
+      "rm": "한영회계법인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제9기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000648",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제9기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상평가\n건설계약에 대한 진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식 사용가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상검사\n투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

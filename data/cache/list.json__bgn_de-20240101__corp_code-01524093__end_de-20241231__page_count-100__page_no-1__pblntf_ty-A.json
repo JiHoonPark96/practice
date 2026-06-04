@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002961",
+      "flr_nm": "DL이앤씨",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814003469",
+      "flr_nm": "DL이앤씨",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.03)",
+      "rcept_no": "20240516001766",
+      "flr_nm": "DL이앤씨",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240514001144",
+      "flr_nm": "DL이앤씨",
+      "rcept_dt": "20240514",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240328001465",
+      "flr_nm": "DL이앤씨",
+      "rcept_dt": "20240328",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240313001715",
+      "flr_nm": "DL이앤씨",
+      "rcept_dt": "20240313",
+      "rm": "정연"
+    }
+  ]
+}

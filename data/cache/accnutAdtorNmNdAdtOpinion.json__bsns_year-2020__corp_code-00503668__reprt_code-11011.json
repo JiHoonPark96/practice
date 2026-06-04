@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210427000394",
+      "corp_cls": "Y",
+      "corp_code": "00503668",
+      "corp_name": "LIG디펜스앤에어로스페이스",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식 등 기업의 회계정책\n(2) 총계약원가 추정의 불확실성\n(3) 산정된 공사진행률의 적정성\n(4) 계약자산 회수가능성에 대한 평가\n(5) 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210427000394",
+      "corp_cls": "Y",
+      "corp_code": "00503668",
+      "corp_name": "LIG디펜스앤에어로스페이스",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식 등 기업의 회계정책\n(2) 총계약원가 추정의 불확실성\n(3) 산정된 공사진행률의 적정성\n(4) 계약자산 회수가능성에 대한 평가\n(5) 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210427000394",
+      "corp_cls": "Y",
+      "corp_code": "00503668",
+      "corp_name": "LIG디펜스앤에어로스페이스",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "해당사항 없음",
+      "adt_opinion": "해당사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

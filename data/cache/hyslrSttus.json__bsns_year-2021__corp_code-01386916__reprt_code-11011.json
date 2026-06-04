@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000473",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "stock_knd": "보통주",
+      "nm": "SK이노베이션(주)",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "56,467,432",
+      "bsis_posesn_stock_qota_rt": "90.00",
+      "trmend_posesn_stock_co": "43,633,432",
+      "trmend_posesn_stock_qota_rt": "61.20",
+      "rm": "유가증권 상장에 따른 구주매출 및 신주발행",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000473",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "56,467,432",
+      "bsis_posesn_stock_qota_rt": "90.00",
+      "trmend_posesn_stock_co": "43,633,432",
+      "trmend_posesn_stock_qota_rt": "61.20",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000473",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

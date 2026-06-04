@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001020",
+      "corp_cls": "Y",
+      "corp_code": "00163761",
+      "corp_name": "한창제지",
+      "bsns_year": "제51기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "외부감사인의 감사활동 및 K-IFRS 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120.0백만원",
+      "adt_cntrct_dtls_time": "1,600시간",
+      "real_exc_dtls_mendng": "120.0백만원",
+      "real_exc_dtls_time": "1,698시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001020",
+      "corp_cls": "Y",
+      "corp_code": "00163761",
+      "corp_name": "한창제지",
+      "bsns_year": "제50기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "외부감사인의 감사활동 및 K-IFRS 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80.0백만원",
+      "adt_cntrct_dtls_time": "1,100시간",
+      "real_exc_dtls_mendng": "80.0백만원",
+      "real_exc_dtls_time": "1,100시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001020",
+      "corp_cls": "Y",
+      "corp_code": "00163761",
+      "corp_name": "한창제지",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "외부감사인의 감사활동 및 K-IFRS 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65.0백만원",
+      "adt_cntrct_dtls_time": "970시간",
+      "real_exc_dtls_mendng": "65.0백만원",
+      "real_exc_dtls_time": "980시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

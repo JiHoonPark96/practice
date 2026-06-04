@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001944",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "se": "소액주주",
+      "shrholdr_co": "2,236",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "1,628,269",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "20.35%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000411",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제68기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000",
+      "adt_cntrct_dtls_time": "1,151",
+      "real_exc_dtls_mendng": "60,000",
+      "real_exc_dtls_time": "1,151",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000411",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제67기(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000",
+      "adt_cntrct_dtls_time": "1,151",
+      "real_exc_dtls_mendng": "80,000",
+      "real_exc_dtls_time": "1,151",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000411",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "72,000",
+      "adt_cntrct_dtls_time": "1,018",
+      "real_exc_dtls_mendng": "72,000",
+      "real_exc_dtls_time": "1,018",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

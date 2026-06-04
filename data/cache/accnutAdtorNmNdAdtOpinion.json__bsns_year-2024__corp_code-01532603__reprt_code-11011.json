@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제4기\n(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 특수관계자 거래",
+      "core_adt_matter": "- 특수관계자간 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제4기\n(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 특수관계자 거래",
+      "core_adt_matter": "- 특수관계자간 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제3기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 특수관계자 거래",
+      "core_adt_matter": "- 특수관계자거래공시\n\n- 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제3기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 특수관계자 거래",
+      "core_adt_matter": "- 특수관계자거래공시\n\n- 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제2기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 인적분할\n- 특수관계자 거래\n- 회계정책의 변경",
+      "core_adt_matter": "- 특수관계자거래공시\n\n- 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제2기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 인적분할\n\n- 특수관계자 거래\n\n- 회계정책의 변경",
+      "core_adt_matter": "- 특수관계자거래공시\n\n- 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

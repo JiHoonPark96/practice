@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331002650",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "se": "소액주주",
+      "shrholdr_co": "2,455",
+      "shrholdr_tot_co": "2,464",
+      "shrholdr_rate": "99.63%",
+      "hold_stock_co": "2,974,469",
+      "stock_tot_co": "6,281,748",
+      "hold_stock_rate": "47.35%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

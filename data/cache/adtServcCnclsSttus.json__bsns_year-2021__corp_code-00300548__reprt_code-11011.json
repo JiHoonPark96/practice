@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001411",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제23기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토,\n개별/연결재무제표에\n대한 회계감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "399",
+      "adt_cntrct_dtls_time": "4,240",
+      "real_exc_dtls_mendng": "399",
+      "real_exc_dtls_time": "4,185",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001411",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제22기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토,\n개별/연결재무제표에\n대한 회계감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "353",
+      "adt_cntrct_dtls_time": "3,800",
+      "real_exc_dtls_mendng": "353",
+      "real_exc_dtls_time": "4,030",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001411",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토,\n개별/연결재무제표에\n대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "177",
+      "adt_cntrct_dtls_time": "2,210",
+      "real_exc_dtls_mendng": "177",
+      "real_exc_dtls_time": "2,495",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

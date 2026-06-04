@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001022",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제38기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 진행기준 수익인식 : 총계약원가에 대한 추정의 불확실성 \n   증가 및 총계약원가 금액 변동으로 수익이 과대 인식될 위험",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001022",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제37기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 진행기준 수익인식 : 총계약원가에 대한 추정의 불확실성 \n   증가 및 총계약원가 금액 변동으로 수익이 과대 인식될 위험",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001022",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제36기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 해당사항 없음",
+      "core_adt_matter": "- 변동공사의 총예정원가 추정이 잘못되어 수익이 과대 인식될 위험\n- 계약금액 변경이 적시 반영되지 않아 수익이 과대 인식될 위험\n- 비관계사 채권 및 미청구공사의 회수 가능성 평가가 잘못될 위험",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

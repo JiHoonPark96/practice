@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001589",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "se": "소액주주",
+      "shrholdr_co": "4,667",
+      "shrholdr_tot_co": "4,671",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "504,436",
+      "stock_tot_co": "2,000,000",
+      "hold_stock_rate": "25.22%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

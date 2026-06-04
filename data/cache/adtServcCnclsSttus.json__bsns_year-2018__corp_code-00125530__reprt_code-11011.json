@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003336",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "안진회계법인",
+      "cn": "중간감사, 재물조사\n반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도에 대한 검토보고서\n반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "130,000천원",
+      "tot_reqre_time": "2,547시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003336",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "안진회계법인",
+      "cn": "중간감사, 재물조사\n반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도에 대한 검토보고서\n반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "90,000천원",
+      "tot_reqre_time": "1,271시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003336",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "중간감사, 재물조사\n반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도에 대한 검토보고서\n반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "85,000천원",
+      "tot_reqre_time": "1,016시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

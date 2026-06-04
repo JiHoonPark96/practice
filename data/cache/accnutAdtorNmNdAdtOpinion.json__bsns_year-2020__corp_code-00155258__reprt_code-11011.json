@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210305000745",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제33기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 및 연결재무제표에 대한 감사보고서 \n핵심감사사항 참조",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210305000745",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제32(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 및 연결재무제표에 대한 감사보고서 \n핵심감사사항 참조",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210305000745",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 및 연결재무제표에 대한 감사보고서 \n핵심감사사항 참조",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

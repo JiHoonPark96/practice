@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003755",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "bsns_year": "제6기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003755",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "bsns_year": "제5기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003755",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "bsns_year": "제4기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

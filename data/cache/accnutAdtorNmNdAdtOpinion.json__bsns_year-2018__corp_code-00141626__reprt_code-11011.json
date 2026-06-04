@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제61기(당기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"별도/연결재무제표에 대한 감사보고서 중\n강조사항 참조\"",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제60기(전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"별도/연결재무제표에 대한 감사보고서 중\n강조사항 참조\"",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"별도/연결재무제표에 대한 감사보고서 중\n강조사항 참조\"",
+      "stlm_dt": "2018-03-31"
+    }
+  ]
+}

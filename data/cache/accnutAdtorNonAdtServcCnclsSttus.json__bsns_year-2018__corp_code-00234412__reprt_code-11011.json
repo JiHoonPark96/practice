@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004848",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제23기(당기)",
+      "cntrct_cncls_de": "2018.06.29",
+      "servc_cn": "이전가격 정책수립",
+      "servc_exc_pd": "2018.06.29 ~ 8주간",
+      "servc_mendng": "21백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004848",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제22기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004848",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제21기(전전기)",
+      "cntrct_cncls_de": "2016.07.29",
+      "servc_cn": "부동산 매각자문",
+      "servc_exc_pd": "2016.07.29~2017.07.28",
+      "servc_mendng": "10백만원 + 성공보수\n(매각대금의 최대 1%)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

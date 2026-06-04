@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제 67 기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 대여금의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제 67 기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 대여금의 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제 66 기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "대여금의 손상평가\n현금창출단위(VIETNAM CGU)의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제 66 기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "대여금의 손상평가\n현금창출단위(VIETNAM CGU)의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제 65 기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매각예정비유동자산 매각거래와 관련된 회계처리에대한 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000250",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "bsns_year": "제 65 기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매각예정비유동자산 매각거래와 관련된 회계처리에대한 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

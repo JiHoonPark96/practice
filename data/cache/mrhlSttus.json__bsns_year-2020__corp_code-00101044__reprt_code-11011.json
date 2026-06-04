@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000458",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "se": "소액주주",
+      "shrholdr_co": "63,042",
+      "shrholdr_tot_co": "63,043",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "219,227,490",
+      "stock_tot_co": "398,570,406",
+      "hold_stock_rate": "55.00%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

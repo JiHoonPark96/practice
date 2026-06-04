@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250728000359",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "se": "소액주주",
+      "shrholdr_co": "28,345",
+      "shrholdr_tot_co": "28,350",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "8,507,780",
+      "stock_tot_co": "16,333,822",
+      "hold_stock_rate": "52.09%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

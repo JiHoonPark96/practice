@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000740",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "se": "소액주주",
+      "shrholdr_co": "30,256",
+      "shrholdr_tot_co": "30,258",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "24,700,000",
+      "stock_tot_co": "42,000,000",
+      "hold_stock_rate": "58.81%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

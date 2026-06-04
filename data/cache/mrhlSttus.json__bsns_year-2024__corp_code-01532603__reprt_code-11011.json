@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001314",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "se": "소액주주",
+      "shrholdr_co": "7,684",
+      "shrholdr_tot_co": "7,696",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "5,812,403",
+      "stock_tot_co": "18,993,623",
+      "hold_stock_rate": "30.60%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

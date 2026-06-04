@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315001080",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "66,413",
+      "shrholdr_tot_co": "66,476",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "11,874,710",
+      "stock_tot_co": "34,275,419",
+      "hold_stock_rate": "34.64%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

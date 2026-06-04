@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001175",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "중간감사, 재물조사\n분/반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도 감사\n분/반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550",
+      "adt_cntrct_dtls_time": "3,787",
+      "real_exc_dtls_mendng": "550",
+      "real_exc_dtls_time": "3,777",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001175",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "중간감사, 재물조사\n분/반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도 감사\n분/반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550",
+      "adt_cntrct_dtls_time": "3,787",
+      "real_exc_dtls_mendng": "550",
+      "real_exc_dtls_time": "3,608",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001175",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "중간감사, 재물조사\n분/반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도 감사\n분/반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550",
+      "adt_cntrct_dtls_time": "3,787",
+      "real_exc_dtls_mendng": "550",
+      "real_exc_dtls_time": "3,744",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

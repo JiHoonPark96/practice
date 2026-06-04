@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230411001656",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 23기(당기)",
+      "cntrct_cncls_de": "22년 12월",
+      "servc_cn": "법인세 세무조정 및 세무자문 용역계약",
+      "servc_exc_pd": "22년 12월~23년 3월",
+      "servc_mendng": "28.9백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230411001656",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 22기(전기)",
+      "cntrct_cncls_de": "21년 11월",
+      "servc_cn": "법인세 세무조정 및 세무자문 용역계약",
+      "servc_exc_pd": "21년 11월~22년 3월",
+      "servc_mendng": "27.8백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230411001656",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 22기(전기)",
+      "cntrct_cncls_de": "21년 11월",
+      "servc_cn": "해외 사업 및 현지 세무 자문",
+      "servc_exc_pd": "21년 11월 ~22년 10월",
+      "servc_mendng": "5.5백만원",
+      "rm": "21년 분_Time Charge",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230411001656",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 22기(전기)",
+      "cntrct_cncls_de": "21년 10월",
+      "servc_cn": "한화토탈 R&D 디지털화 프로젝트_ PI컨설팅",
+      "servc_exc_pd": "21년 10월 ~21년 12월",
+      "servc_mendng": "159.6백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230411001656",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 21기(전전기)",
+      "cntrct_cncls_de": "20년 4월",
+      "servc_cn": "해외 고정사업장 세무 자문",
+      "servc_exc_pd": "20년 4월 ~ 6월",
+      "servc_mendng": "25백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230411001656",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제 21기(전전기)",
+      "cntrct_cncls_de": "20년 10월",
+      "servc_cn": "법인세 세무조정 및 세무자문 용역계약",
+      "servc_exc_pd": "20년 10월~21년 3월",
+      "servc_mendng": "27.8백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

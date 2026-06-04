@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329000905",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제42기(당기)",
+      "adtor": "안진\n회계법인",
+      "cn": "1. 반기재무제표 검토\n - 검토기간 : 2023.07.24~07.28\n2. 중간기간 재무제표 검토\n - 검토기간 : 2023.10.30~11.03\n3. 개별재무제표 감사\n - 감사기간 : 2024.02.13~02.16\n4. 내부회계관리제도 감사\n - 감사기간 : 2024.02.19~02.23",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "162,000",
+      "adt_cntrct_dtls_time": "1,549",
+      "real_exc_dtls_mendng": "162,000",
+      "real_exc_dtls_time": "1,517",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329000905",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제41기(전기)",
+      "adtor": "안진\n회계법인",
+      "cn": "1. 반기재무제표 검토\n - 검토기간 : 2022.07.25~07.29\n2. 중간기간 재무제표 검토\n - 검토기간 : 2022.10.31~11.04\n3. 개별재무제표 감사\n - 감사기간 : 2023.02.13~02.17\n4. 내부회계관리제도 감사\n - 감사기간 : 2023.02.20~02.24",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "147,000",
+      "adt_cntrct_dtls_time": "1,577",
+      "real_exc_dtls_mendng": "147,000",
+      "real_exc_dtls_time": "1,723",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329000905",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "안진\n회계법인",
+      "cn": "1. 반기재무제표 검토\n - 검토기간 : 2021.07.26~07.29\n2. 중간기간 재무제표 검토\n - 검토기간 : 2021.11.01~11.05\n3. 개별재무제표 감사\n - 감사기간 : 2022.02.14~02.18",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "123,000",
+      "adt_cntrct_dtls_time": "1,213",
+      "real_exc_dtls_mendng": "123,000",
+      "real_exc_dtls_time": "1,264",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210511000265",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제21기(당기)",
+      "adtor": "안진회계법인",
+      "cn": " 별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "530백만원",
+      "adt_cntrct_dtls_time": "5,300",
+      "real_exc_dtls_mendng": "530백만원",
+      "real_exc_dtls_time": "6,348",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210511000265",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제20기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": " 별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390백만원",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "390백만원",
+      "real_exc_dtls_time": "2,360",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210511000265",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": " 별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "2,891",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

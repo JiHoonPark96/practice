@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000896",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "se": "소액주주",
+      "shrholdr_co": "26,511",
+      "shrholdr_tot_co": "26,517",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "22,636,696",
+      "stock_tot_co": "42,685,000",
+      "hold_stock_rate": "53.03%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

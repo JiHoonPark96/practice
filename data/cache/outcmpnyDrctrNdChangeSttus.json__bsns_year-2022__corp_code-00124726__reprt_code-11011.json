@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000500",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "2",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

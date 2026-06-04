@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210405003117",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제74기 (당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 총 예정원가의 추정- 인적분할 관련 미지급배당금의 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210405003117",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제73기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 총 예정원가의 추정",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210405003117",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "bsns_year": "제72기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 분양공사의 수익인식 시점\n- 총 예정원가의 추정",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

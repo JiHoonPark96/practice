@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001413",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "se": "소액주주",
+      "shrholdr_co": "19,386",
+      "shrholdr_tot_co": "19,391",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "11,050,000",
+      "stock_tot_co": "23,903,000",
+      "hold_stock_rate": "46.23%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

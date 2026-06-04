@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000739",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "케이씨아이에 대한 종속기업주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000739",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 관련 영업권에 대한 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000739",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "케이씨아이에 대한 종속기업주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000739",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 관련 영업권에 대한 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000739",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식과 관련된 부정위험 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000739",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식과 관련된 부정위험 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

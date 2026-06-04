@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230216001304",
+      "corp_cls": "Y",
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "bsns_year": "제59기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기, 중간, 기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225,500",
+      "adt_cntrct_dtls_time": "2,050",
+      "real_exc_dtls_mendng": "225,500",
+      "real_exc_dtls_time": "2,677",
+      "stlm_dt": "2022-11-30"
+    },
+    {
+      "rcept_no": "20230216001304",
+      "corp_cls": "Y",
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "bsns_year": "제58기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기, 중간, 기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215,000",
+      "adt_cntrct_dtls_time": "2,050",
+      "real_exc_dtls_mendng": "215,000",
+      "real_exc_dtls_time": "2,313",
+      "stlm_dt": "2022-11-30"
+    },
+    {
+      "rcept_no": "20230216001304",
+      "corp_cls": "Y",
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기, 중간, 기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "238,150",
+      "adt_cntrct_dtls_time": "2,759",
+      "real_exc_dtls_mendng": "238,150",
+      "real_exc_dtls_time": "2,759",
+      "stlm_dt": "2022-11-30"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000565",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "se": "소액주주",
+      "shrholdr_co": "13,092",
+      "shrholdr_tot_co": "13,097",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "21,498,727",
+      "stock_tot_co": "36,574,394",
+      "hold_stock_rate": "58.78%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

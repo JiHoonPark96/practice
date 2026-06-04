@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220711000510",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜베이스에이치디",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "15,080,188",
+      "bsis_posesn_stock_qota_rt": "33.40",
+      "trmend_posesn_stock_co": "15,080,188",
+      "trmend_posesn_stock_qota_rt": "33.40",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220711000510",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜금양인터내셔날",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "700,000",
+      "bsis_posesn_stock_qota_rt": "1.55",
+      "trmend_posesn_stock_co": "1,100,000",
+      "trmend_posesn_stock_qota_rt": "2.44",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220711000510",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "손병재",
+      "relate": "계열회사임원",
+      "bsis_posesn_stock_co": "50,001",
+      "bsis_posesn_stock_qota_rt": "0.11",
+      "trmend_posesn_stock_co": "50,001",
+      "trmend_posesn_stock_qota_rt": "0.11",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220711000510",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "15,830,189",
+      "bsis_posesn_stock_qota_rt": "35.06",
+      "trmend_posesn_stock_co": "16,230,189",
+      "trmend_posesn_stock_qota_rt": "35.95",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220711000510",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

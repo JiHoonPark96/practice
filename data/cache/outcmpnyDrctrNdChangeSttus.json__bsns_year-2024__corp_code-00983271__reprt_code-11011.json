@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "1",
+      "rlsofc": "0",
+      "mdstrm_resig": "0",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

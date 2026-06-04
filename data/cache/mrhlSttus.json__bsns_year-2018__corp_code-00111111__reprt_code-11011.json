@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002816",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "se": "소액주주",
+      "shrholdr_co": "4,771",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.8%",
+      "hold_stock_co": "1,959,532",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "15.9%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

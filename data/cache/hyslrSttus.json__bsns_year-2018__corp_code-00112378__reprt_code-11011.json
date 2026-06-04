@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "엘브이엠씨홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "29,573,567",
+      "bsis_posesn_stock_qota_rt": "22.93",
+      "trmend_posesn_stock_co": "70,504,302",
+      "trmend_posesn_stock_qota_rt": "37.21",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "오세영",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "17,252,035",
+      "bsis_posesn_stock_qota_rt": "13.38",
+      "trmend_posesn_stock_co": "17,252,035",
+      "trmend_posesn_stock_qota_rt": "9.11",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "46,825,602",
+      "bsis_posesn_stock_qota_rt": "36.31",
+      "trmend_posesn_stock_co": "87,767,916",
+      "trmend_posesn_stock_qota_rt": "46.32",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004505",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

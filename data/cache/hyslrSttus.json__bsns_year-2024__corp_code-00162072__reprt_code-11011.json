@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_knd": "보통주",
+      "nm": "최영민",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "6,770,466",
+      "bsis_posesn_stock_qota_rt": "20.87",
+      "trmend_posesn_stock_co": "6,770,466",
+      "trmend_posesn_stock_qota_rt": "20.87",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_knd": "보통주",
+      "nm": "최은희",
+      "relate": "친인척",
+      "bsis_posesn_stock_co": "23,080",
+      "bsis_posesn_stock_qota_rt": "0.07",
+      "trmend_posesn_stock_co": "23,080",
+      "trmend_posesn_stock_qota_rt": "0.07",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,793,546",
+      "bsis_posesn_stock_qota_rt": "20.94",
+      "trmend_posesn_stock_co": "6,793,546",
+      "trmend_posesn_stock_qota_rt": "20.94",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_knd": "기 타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

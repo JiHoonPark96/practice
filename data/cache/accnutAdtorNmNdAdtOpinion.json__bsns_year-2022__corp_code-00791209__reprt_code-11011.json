@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제14기(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자주식 손상검사",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제13기(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "금융자산에 대한 공정가치 측정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "당기손익-공정가치측정금융자산에 대한 공정가치 측정의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

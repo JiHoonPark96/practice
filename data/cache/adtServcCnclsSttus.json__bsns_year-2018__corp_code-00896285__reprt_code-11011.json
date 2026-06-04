@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003903",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제8기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토, 기말 감사(별도/연결)",
+      "mendng": "220",
+      "tot_reqre_time": "3,492",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003903",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제7기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토, 기말감사(별도/연결)",
+      "mendng": "210",
+      "tot_reqre_time": "3,160",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003903",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토, 기말감사(별도/연결)",
+      "mendng": "210",
+      "tot_reqre_time": "3,910",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

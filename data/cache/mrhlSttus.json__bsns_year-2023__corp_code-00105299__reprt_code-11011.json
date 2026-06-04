@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000999",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "se": "소액주주",
+      "shrholdr_co": "17,732",
+      "shrholdr_tot_co": "17,742",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "15,562,143",
+      "stock_tot_co": "29,329,357",
+      "hold_stock_rate": "53.06%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

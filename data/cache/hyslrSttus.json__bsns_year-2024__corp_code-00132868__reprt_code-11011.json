@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000581",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "stock_knd": "보통주",
+      "nm": "(주)더블유에스",
+      "relate": "신규\n최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "21,000,000",
+      "trmend_posesn_stock_qota_rt": "20.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000581",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "stock_knd": "보통주",
+      "nm": "(주)브이시디네트웍스",
+      "relate": "종전\n최대주주",
+      "bsis_posesn_stock_co": "11,361,324",
+      "bsis_posesn_stock_qota_rt": "16.87",
+      "trmend_posesn_stock_co": "11,361,324",
+      "trmend_posesn_stock_qota_rt": "10.80",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000581",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "17,881,740",
+      "bsis_posesn_stock_qota_rt": "16.87",
+      "trmend_posesn_stock_co": "32,361,324",
+      "trmend_posesn_stock_qota_rt": "30.80",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000581",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

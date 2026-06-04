@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000961",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "bsns_year": "제7기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "분반기검토, 중간감사,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "470,000",
+      "adt_cntrct_dtls_time": "     3,578",
+      "real_exc_dtls_mendng": "  470,000",
+      "real_exc_dtls_time": "     3,765",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000961",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "bsns_year": "제6기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분반기검토, 중간감사,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "     1,665",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "1,675",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000961",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분반기검토, 중간감사,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165,000",
+      "adt_cntrct_dtls_time": "     1,279",
+      "real_exc_dtls_mendng": "165,000",
+      "real_exc_dtls_time": "1,289",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제57기(당기)",
+      "cntrct_cncls_de": "2023.08",
+      "servc_cn": "사채수탁이행계약 점검을 위한 합의된 절차 수행",
+      "servc_exc_pd": "2023.08~2024.04",
+      "servc_mendng": "5 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "2022.08",
+      "servc_cn": "사채수탁이행계약 점검을 위한 합의된 절차 수행",
+      "servc_exc_pd": "2022.08~2023.04",
+      "servc_mendng": "6 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "2022.08",
+      "servc_cn": "2022년 세무조정 검토",
+      "servc_exc_pd": "2022.08~2023.03",
+      "servc_mendng": "22 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "2022.09",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2022.09~2022.12",
+      "servc_mendng": "40 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2021.03~2021.08",
+      "servc_mendng": "        652 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "2021.06",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2021.06~2021.12",
+      "servc_mendng": "35 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "2021.08",
+      "servc_cn": "사채수탁이행계약 점검을 위한 합의된 절차 수행",
+      "servc_exc_pd": "2021.08~2022.04",
+      "servc_mendng": "5 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000264",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "2021.09",
+      "servc_cn": "2021년 세무조정 검토",
+      "servc_exc_pd": "2021.09~2022.03",
+      "servc_mendng": "20 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

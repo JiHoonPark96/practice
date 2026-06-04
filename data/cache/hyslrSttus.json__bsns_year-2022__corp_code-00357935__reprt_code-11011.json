@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001033",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "stock_knd": "보통주",
+      "nm": "에이치디씨(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "15,395,000",
+      "bsis_posesn_stock_qota_rt": "48.26",
+      "trmend_posesn_stock_co": "15,395,000",
+      "trmend_posesn_stock_qota_rt": "48.26",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001033",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "15,395,000",
+      "bsis_posesn_stock_qota_rt": "48.26",
+      "trmend_posesn_stock_co": "15,395,000",
+      "trmend_posesn_stock_qota_rt": "48.26",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001033",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

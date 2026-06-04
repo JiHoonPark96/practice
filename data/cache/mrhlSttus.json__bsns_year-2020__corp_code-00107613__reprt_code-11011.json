@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "se": "소액주주",
+      "shrholdr_co": "17,082",
+      "shrholdr_tot_co": "17,089",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "28,451,698",
+      "stock_tot_co": "41,268,398",
+      "hold_stock_rate": "68.94%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

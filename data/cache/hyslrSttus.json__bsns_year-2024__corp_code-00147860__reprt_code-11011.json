@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001174",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "에스엠하이플러스(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "53,865,515",
+      "bsis_posesn_stock_qota_rt": "48.66",
+      "trmend_posesn_stock_co": "55,651,423",
+      "trmend_posesn_stock_qota_rt": "50.02",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001174",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "(주)삼라마이다스",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "38,650,000",
+      "bsis_posesn_stock_qota_rt": "34.74",
+      "trmend_posesn_stock_co": "38,650,000",
+      "trmend_posesn_stock_qota_rt": "34.74",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001174",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "동아건설산업(주)",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "382,514",
+      "trmend_posesn_stock_qota_rt": "0.34",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001174",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "92,515,515",
+      "bsis_posesn_stock_qota_rt": "83.40",
+      "trmend_posesn_stock_co": "94,683,937",
+      "trmend_posesn_stock_qota_rt": "85.11",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001174",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

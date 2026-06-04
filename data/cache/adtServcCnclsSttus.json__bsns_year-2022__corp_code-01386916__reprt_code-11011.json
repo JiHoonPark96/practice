@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230814002466",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "bsns_year": "제4기\n(2022년)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "426",
+      "adt_cntrct_dtls_time": "4,100",
+      "real_exc_dtls_mendng": "426",
+      "real_exc_dtls_time": "4109",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814002466",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "bsns_year": "제3기\n(2021년)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "435",
+      "adt_cntrct_dtls_time": "4,250",
+      "real_exc_dtls_mendng": "435",
+      "real_exc_dtls_time": "4,257",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814002466",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "bsns_year": "제2기\n(2020년)",
+      "adtor": "안진회계법인",
+      "cn": "재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "2,751",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "3,099",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

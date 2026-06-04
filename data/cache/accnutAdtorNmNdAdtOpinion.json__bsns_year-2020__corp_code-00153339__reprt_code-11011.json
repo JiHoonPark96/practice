@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000904",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "40기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "합금철사업부 재고자산평가의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000904",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "합금철및 중질탄산칼슘 수익인식의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000904",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

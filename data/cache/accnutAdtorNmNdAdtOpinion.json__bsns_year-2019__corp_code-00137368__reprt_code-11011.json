@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004354",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제59기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "공장이전 관련 진행상황",
+      "core_adt_matter": "구조조정충당부채",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004354",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제58기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "공장이전 관련 진행상황",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004354",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

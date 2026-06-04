@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제73기(당기)",
+      "cntrct_cncls_de": "2019. 4",
+      "servc_cn": "세무자문용역(이전가격연구보고서 작성)",
+      "servc_exc_pd": "2019. 4 ~ 2019. 5",
+      "servc_mendng": "20,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제73기(당기)",
+      "cntrct_cncls_de": "2019. 8",
+      "servc_cn": "세무자문용역(이전가격정책검토 & BEPS보고서 작성)",
+      "servc_exc_pd": "2019. 8 ~ 2019.12",
+      "servc_mendng": "70,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제72기(전기)",
+      "cntrct_cncls_de": "2018. 10",
+      "servc_cn": "글로벌 전문분야 컨설팅(BEPS 보고서 작성)",
+      "servc_exc_pd": "2018.10 ~ 2018.12",
+      "servc_mendng": "20,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제71기(전전기)",
+      "cntrct_cncls_de": "2017. 2",
+      "servc_cn": " 법인세 환급 세무검토, 경정청구 등",
+      "servc_exc_pd": "2017. 2 ~ 환급시점",
+      "servc_mendng": "256,800",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000894",
+      "corp_cls": "Y",
+      "corp_code": "00111847",
+      "corp_name": "대원강업",
+      "bsns_year": "제71기(전전기)",
+      "cntrct_cncls_de": "2017. 6",
+      "servc_cn": "글로벌 전문분야 컨설팅(BEPS 보고서 작성)",
+      "servc_exc_pd": "2017. 6 ~ 2017. 11",
+      "servc_mendng": "41,818",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

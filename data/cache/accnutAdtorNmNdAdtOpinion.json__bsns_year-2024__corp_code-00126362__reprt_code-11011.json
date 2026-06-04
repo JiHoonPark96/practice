@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "자동차용 배터리 수익의 발생사실\n재고자산 평가충당금 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "자동차용 배터리 수익의 발생사실\n재고자산 평가충당금 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "자동차용 배터리 수익의 실재성\n재고자산 평가충당금 추정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "자동차용 배터리 수익의 실재성\n재고자산 평가충당금 추정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "중형 배터리 수익(자동차용 배터리)의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001275",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "중형 배터리 수익(자동차용 배터리)의 실재성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

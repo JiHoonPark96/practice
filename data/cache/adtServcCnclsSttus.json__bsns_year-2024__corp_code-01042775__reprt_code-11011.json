@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250326001216",
+      "corp_cls": "Y",
+      "corp_code": "01042775",
+      "corp_name": "HL만도",
+      "bsns_year": "제11기(당기)",
+      "adtor": "삼일\n회계법인",
+      "cn": "연결 및 별도 재무제표 검토 및 감사,\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "900\n주1)",
+      "adt_cntrct_dtls_time": "9,000",
+      "real_exc_dtls_mendng": "985\n주4)",
+      "real_exc_dtls_time": "8,618",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250326001216",
+      "corp_cls": "Y",
+      "corp_code": "01042775",
+      "corp_name": "HL만도",
+      "bsns_year": "제10기(전기)",
+      "adtor": "삼일\n회계법인",
+      "cn": "연결 및 별도 재무제표 검토 및 감사,\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "980주2)",
+      "adt_cntrct_dtls_time": "9,500",
+      "real_exc_dtls_mendng": "990주5)",
+      "real_exc_dtls_time": "9,426",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250326001216",
+      "corp_cls": "Y",
+      "corp_code": "01042775",
+      "corp_name": "HL만도",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "삼정\n회계법인",
+      "cn": "연결 및 별도 재무제표 검토 및 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,150주3)",
+      "adt_cntrct_dtls_time": "9,065",
+      "real_exc_dtls_mendng": "1,273주6)",
+      "real_exc_dtls_time": "9,567",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

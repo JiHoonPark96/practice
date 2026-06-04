@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310000533",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "bsns_year": "제58기(당기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "50,064,000",
+      "adt_cntrct_dtls_time": "894시간",
+      "real_exc_dtls_mendng": "50,064,000",
+      "real_exc_dtls_time": "894시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000533",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "bsns_year": "제57기(전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "34,000,000",
+      "adt_cntrct_dtls_time": "894시간",
+      "real_exc_dtls_mendng": "34,000,000",
+      "real_exc_dtls_time": "894시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000533",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "31,500,000",
+      "adt_cntrct_dtls_time": "894시간",
+      "real_exc_dtls_mendng": "31,500,000",
+      "real_exc_dtls_time": "894시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

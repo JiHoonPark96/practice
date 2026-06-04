@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002853",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "bsns_year": "제66기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "- 연결 : 적정\n- 별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- \n(주)에이비에스시스템영업권 손상평가\n- C.V.T 유형자산 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002853",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "bsns_year": "제65기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "- 연결 : 적정\n- 별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002853",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "- 연결 : 적정\n- 별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 수주산업 관련 투입법에 따른 수익인식, 총계약원가 추정의 불확실성, 공사진행률 산정, 공사변경에 대한 회계처리",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

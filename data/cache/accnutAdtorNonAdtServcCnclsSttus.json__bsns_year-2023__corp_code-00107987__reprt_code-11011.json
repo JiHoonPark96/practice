@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001607",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "bsns_year": "제50기(당기)",
+      "cntrct_cncls_de": "2023.06.16.",
+      "servc_cn": "세무조정 용역 계약",
+      "servc_exc_pd": "2023.06.16.~2024.03.31.",
+      "servc_mendng": "16,000,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001607",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "bsns_year": "제49기(당기)",
+      "cntrct_cncls_de": "2022.07.21.",
+      "servc_cn": "세무조정 용역 계약",
+      "servc_exc_pd": "2022.07.21.~2023.03.31.",
+      "servc_mendng": "15,000,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001607",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "bsns_year": "제48기(전기)",
+      "cntrct_cncls_de": "2021.07.01.",
+      "servc_cn": "세무조정 용역 계약",
+      "servc_exc_pd": "2021.07.01.~2022.06.30.",
+      "servc_mendng": "14,000,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

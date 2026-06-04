@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201116002152",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제60기(당기)",
+      "cntrct_cncls_de": "2019.06.17",
+      "servc_cn": "BMW 시승용차량 매입부가가치세 환급업무",
+      "servc_exc_pd": "2019.07.01~2020.12.31",
+      "servc_mendng": "성공보수",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201116002152",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제60기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201116002152",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제58기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201116002152",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제58기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201116002152",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제58기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201116002152",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제58기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

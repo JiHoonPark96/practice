@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000556",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "se": "소액주주",
+      "shrholdr_co": "18,613",
+      "shrholdr_tot_co": "18,621",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "21,765,301",
+      "stock_tot_co": "48,133,333",
+      "hold_stock_rate": "45.22%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000975",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "se": "소액주주",
+      "shrholdr_co": "13,727",
+      "shrholdr_tot_co": "13,732",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "128,784,069",
+      "stock_tot_co": "231,211,638",
+      "hold_stock_rate": "55.70%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

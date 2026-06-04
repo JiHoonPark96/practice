@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004489",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "se": "소액주주",
+      "shrholdr_co": "63,824",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "101,710,190",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "61.71%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

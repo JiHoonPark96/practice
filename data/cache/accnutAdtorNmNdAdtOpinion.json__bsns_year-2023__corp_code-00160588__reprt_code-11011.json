@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251218000264",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제72기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "한국채택국제회계기준 제1117호의 적용으로 인하여 비교표시 되는 2022년 12월 31일로 종료되는 보고기간의 연결재무제표가 재작성 되어 이용자들의 주의가 필요",
+      "core_adt_matter": "보험계약부채 평가에 적용된 가정 중 위험률",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20251218000264",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제71기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "보험료적립금의 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20251218000264",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나바이러스감염증-19의 확산이 기업의생산 능력과 고객에 대한 주문 이행능력에 미칠 수 있는 영향과 관련한 불확실성 및 이러한 사건이나 상황을 다루기 위해 취해진 조치와 계획",
+      "core_adt_matter": "보험료적립금의 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

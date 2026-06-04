@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240409003864",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제51기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240409003864",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제51기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240409003864",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제50기\n(전기)",
+      "cntrct_cncls_de": "2022.10.27.",
+      "servc_cn": "연결내부회계관리제도사전인증",
+      "servc_exc_pd": "2022.10.27.~2023.3.31.",
+      "servc_mendng": "110백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240409003864",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제50기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240409003864",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제49기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240409003864",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제49기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

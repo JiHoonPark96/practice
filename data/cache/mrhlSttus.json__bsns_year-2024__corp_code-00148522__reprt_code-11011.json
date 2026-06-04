@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000567",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "se": "소액주주",
+      "shrholdr_co": "26,182",
+      "shrholdr_tot_co": "26,189",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "26,136,292",
+      "stock_tot_co": "48,771,938",
+      "hold_stock_rate": "53.59%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

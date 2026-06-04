@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000432",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제37기",
+      "cntrct_cncls_de": "2020.02.02",
+      "servc_cn": "한전KPS 필리핀법인 세무신고 및 자문",
+      "servc_exc_pd": "'20.01.01 ~ '20.12.31",
+      "servc_mendng": "- KRW 19,160,400\n  (PHP : 840,000)",
+      "rm": "- 환율 : KRW-PHP 22.81",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000432",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제36기",
+      "cntrct_cncls_de": "2019.03.16",
+      "servc_cn": "KEPCO KPS 필리핀 세무자문 및 세무신고",
+      "servc_exc_pd": "'19.01.01 ~ '19.12.31",
+      "servc_mendng": "- KRW 6,496,204\n  (PHP : 304,700)",
+      "rm": "- 환율 : KRW-PHP 21.32",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000432",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제35기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

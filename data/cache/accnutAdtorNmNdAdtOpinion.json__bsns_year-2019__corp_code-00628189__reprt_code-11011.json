@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002636",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제13기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "계약체결 증분원가의 인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002636",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002636",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

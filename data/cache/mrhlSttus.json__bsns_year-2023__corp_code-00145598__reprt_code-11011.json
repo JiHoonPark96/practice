@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001807",
+      "corp_cls": "Y",
+      "corp_code": "00145598",
+      "corp_name": "이연제약",
+      "se": "소액주주",
+      "shrholdr_co": "23,636",
+      "shrholdr_tot_co": "23,643",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "7,553,007",
+      "stock_tot_co": "18,586,811",
+      "hold_stock_rate": "40.64%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

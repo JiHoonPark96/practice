@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000635",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제42기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분.반기/중간/기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "295,000",
+      "adt_cntrct_dtls_time": "2,890시간",
+      "real_exc_dtls_mendng": "295,000",
+      "real_exc_dtls_time": "3,288시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000635",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제41기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분.반기/중간/기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "248,000",
+      "adt_cntrct_dtls_time": "2,452시간",
+      "real_exc_dtls_mendng": "272,000",
+      "real_exc_dtls_time": "3,288시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000635",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분.반기/중간/기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000",
+      "adt_cntrct_dtls_time": "2,080시간",
+      "real_exc_dtls_mendng": "195,000",
+      "real_exc_dtls_time": "2,789시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

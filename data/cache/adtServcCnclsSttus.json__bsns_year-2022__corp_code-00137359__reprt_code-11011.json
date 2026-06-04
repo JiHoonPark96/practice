@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230712000270",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제37기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사,\n반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000,000",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "120,000,000",
+      "real_exc_dtls_time": "1,850",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230712000270",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제36기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사,\n반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000,000",
+      "adt_cntrct_dtls_time": "1,550",
+      "real_exc_dtls_mendng": "80,000,000",
+      "real_exc_dtls_time": "1,597",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230712000270",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사,\n반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000,000",
+      "adt_cntrct_dtls_time": "1,340",
+      "real_exc_dtls_mendng": "80,000,000",
+      "real_exc_dtls_time": "1,392",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

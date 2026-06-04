@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230331003352",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "se": "소액주주",
+      "shrholdr_co": "23,328",
+      "shrholdr_tot_co": "23,347",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "16,198,855",
+      "stock_tot_co": "26,100,970",
+      "hold_stock_rate": "62.06%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

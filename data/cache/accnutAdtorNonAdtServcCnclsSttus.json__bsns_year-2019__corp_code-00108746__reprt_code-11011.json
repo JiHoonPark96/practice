@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001894",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2019.11월",
+      "servc_cn": "외부평가기관의 평가 의견서",
+      "servc_exc_pd": "2019.11~2019.12",
+      "servc_mendng": "25백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001894",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2020.01월",
+      "servc_cn": "CB가치평가, PPA 평가",
+      "servc_exc_pd": "2020.01",
+      "servc_mendng": "18백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001894",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001894",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001894",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2017.12월",
+      "servc_cn": "IFRS 9, IFRS 15 도입에 따른 자문용역보고서",
+      "servc_exc_pd": "2017.12~2018.03",
+      "servc_mendng": "18백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001894",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

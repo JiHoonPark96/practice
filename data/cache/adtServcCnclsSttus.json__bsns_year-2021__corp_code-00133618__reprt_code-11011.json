@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310000216",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "bsns_year": "제65기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "반기 별도재무제표 검토\n기말 별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000",
+      "adt_cntrct_dtls_time": "650",
+      "real_exc_dtls_mendng": "70,000",
+      "real_exc_dtls_time": "679",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310000216",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "bsns_year": "제64기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기 별도재무제표 검토\n기말 별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000",
+      "adt_cntrct_dtls_time": "596",
+      "real_exc_dtls_mendng": "70,000",
+      "real_exc_dtls_time": "678",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310000216",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기 별도재무제표 검토\n기말 별도재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "48,000",
+      "adt_cntrct_dtls_time": "456",
+      "real_exc_dtls_mendng": "48,000",
+      "real_exc_dtls_time": "456",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

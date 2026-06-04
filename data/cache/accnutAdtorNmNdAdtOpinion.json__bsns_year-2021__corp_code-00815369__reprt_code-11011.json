@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221223000261",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제12기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무제표재작성\n(연결)- 유형자산 손상차손의 미계상- 단계적취득 회계처리 누락에 따른 영업권 과대계상- 영업현금흐름의 과대계상(별도)- 종속기업투자주식 손상차손의 미계상- 단계적취득 회계처리 누락에 따른 이익잉여금 과대계상- 영업현금흐름의 과대계상",
+      "core_adt_matter": "(연결) 엠에이치기술개발(주)인수에 따른 거래가격배분\n(별도) 종속기업투자주식 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221223000261",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제11기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(연결) 유형자산 손상\n(별도) 유형자산 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221223000261",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제10기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(연결) 종속기업 현금창출단위 손상평가(별도) 종속기업투자주식 손상검토",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

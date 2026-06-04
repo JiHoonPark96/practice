@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002983",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "보통주",
+      "nm": "루미마이크로(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "7,604,024",
+      "bsis_posesn_stock_qota_rt": "33.02",
+      "trmend_posesn_stock_co": "8,804,024",
+      "trmend_posesn_stock_qota_rt": "37.29",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002983",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "보통주",
+      "nm": "(주)필룩스",
+      "relate": "기타",
+      "bsis_posesn_stock_co": "4,316,882",
+      "bsis_posesn_stock_qota_rt": "18.75",
+      "trmend_posesn_stock_co": "3,116,882",
+      "trmend_posesn_stock_qota_rt": "13.20",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002983",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "11,920,906",
+      "bsis_posesn_stock_qota_rt": "51.77",
+      "trmend_posesn_stock_co": "11,920,906",
+      "trmend_posesn_stock_qota_rt": "50.49",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002983",
+      "corp_cls": "Y",
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001256",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "bsns_year": "제1기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 별도 재무제표 검토\n- 연결, 별도재무제표 감사\n- 내부회계 관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "286",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "286",
+      "real_exc_dtls_time": "2,567",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001256",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001256",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

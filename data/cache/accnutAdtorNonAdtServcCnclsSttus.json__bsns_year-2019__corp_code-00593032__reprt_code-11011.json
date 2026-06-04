@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003111",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제14기 (당기)\n2019년",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003111",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제13기(전기)\n2018년",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003111",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제12기(전기)\n2017년",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

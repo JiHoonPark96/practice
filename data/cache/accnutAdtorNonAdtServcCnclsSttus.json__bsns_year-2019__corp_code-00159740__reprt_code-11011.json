@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003442",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제64기(당기)",
+      "cntrct_cncls_de": "2019년 04월",
+      "servc_cn": "세무조정수임",
+      "servc_exc_pd": "2019년4월~2020년3월",
+      "servc_mendng": "2백만원 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003442",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제63기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003442",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제62기(전전기)",
+      "cntrct_cncls_de": "2017년 04월",
+      "servc_cn": "세무조정수임",
+      "servc_exc_pd": "2017년4월~2018년3월",
+      "servc_mendng": "2백만원 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

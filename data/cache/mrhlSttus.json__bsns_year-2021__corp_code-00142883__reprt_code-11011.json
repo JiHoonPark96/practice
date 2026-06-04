@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331000022",
+      "corp_cls": "Y",
+      "corp_code": "00142883",
+      "corp_name": "우신시스템",
+      "se": "소액주주",
+      "shrholdr_co": "14,853",
+      "shrholdr_tot_co": "14,856",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "9,496,746",
+      "stock_tot_co": "18,314,054",
+      "hold_stock_rate": "51.85%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

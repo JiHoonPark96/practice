@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001066",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "보통주",
+      "nm": "㈜아시아나항공",
+      "relate": "최대주주 등",
+      "bsis_posesn_stock_co": "83,057,304",
+      "bsis_posesn_stock_qota_rt": "42.83",
+      "trmend_posesn_stock_co": "83,057,304",
+      "trmend_posesn_stock_qota_rt": "42.83",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001066",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "보통주",
+      "nm": "에어부산(주)",
+      "relate": "자기주식",
+      "bsis_posesn_stock_co": "108,000",
+      "bsis_posesn_stock_qota_rt": "0.06",
+      "trmend_posesn_stock_co": "108,000",
+      "trmend_posesn_stock_qota_rt": "0.06",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001066",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "83,165,304",
+      "bsis_posesn_stock_qota_rt": "42.89",
+      "trmend_posesn_stock_co": "83,165,304",
+      "trmend_posesn_stock_qota_rt": "42.89",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001066",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

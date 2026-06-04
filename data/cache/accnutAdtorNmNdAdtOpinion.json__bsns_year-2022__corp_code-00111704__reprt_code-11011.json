@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230313000849",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제23기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "러시아에 대한 국제 제재 조치에 따른 신용 위험의 증가 및 대금 수령시기의 불확실성",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 손상징후가 존재하는 계약자산 \n    및 미인도선박의 회수가능성 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230313000849",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제22기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19  및 러시아 제재 영향",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 손상징후가 존재하는 계약자산 \n    및 미인도선박의 회수가능성 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230313000849",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 \n영향",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 손상징후가 존재하는 계약자산\n    및 미인도선박의 회수가능성 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190417000571",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 58 기",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "200",
+      "tot_reqre_time": "2,954",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190417000571",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 57 기",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "150",
+      "tot_reqre_time": "2,567",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190417000571",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제 56 기",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "140",
+      "tot_reqre_time": "2,584",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

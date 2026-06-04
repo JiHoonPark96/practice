@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제2기(당기)\n(2019.1~12월)",
+      "adtor": "삼덕회계법인",
+      "cn": "2019년 별도 연결 \n1분기/반기/3분기/기말감사",
+      "mendng": "400\n(연간보수한도)",
+      "tot_reqre_time": "6,574",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제1기(전기)\n(2018.6~12월)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토 7일\n 3분기검토 10일\n 기말감사 15일",
+      "mendng": "400\n(연간보수한도)",
+      "tot_reqre_time": "4,066",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

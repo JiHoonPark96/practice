@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001531",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "bsns_year": "제55기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 판매보증충당부채의 평가\n2. 금융업채권의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20240314001531",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "bsns_year": "제54기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 판매보증충당부채의 평가\n2. 금융업채권의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20240314001531",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "bsns_year": "제53기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 판매보증충당부채의 평가\n2. 금융업채권의 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

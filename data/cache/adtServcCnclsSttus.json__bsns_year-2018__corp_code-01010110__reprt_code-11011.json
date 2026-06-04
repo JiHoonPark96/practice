@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002898",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제7기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "K-IFRS 연결 및 별도 연간 감사 및 반기 검토",
+      "mendng": "72",
+      "tot_reqre_time": "924",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002898",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제6기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "K-IFRS 연결 및 별도 연간 감사 및 반기 검토",
+      "mendng": "50",
+      "tot_reqre_time": "1,016",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002898",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "K-IFRS 연결 및 별도 연간 감사 및 반기 검토",
+      "mendng": "50",
+      "tot_reqre_time": "765",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

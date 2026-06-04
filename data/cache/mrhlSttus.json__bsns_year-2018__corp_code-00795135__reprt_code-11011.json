@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190626000374",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "se": "소액주주",
+      "shrholdr_co": "27,191",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "14,318,605",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "53.07%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

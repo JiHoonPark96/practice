@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000765",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "bsns_year": "제46기(당기)",
+      "cntrct_cncls_de": "2018.2월",
+      "servc_cn": "18년세무조정검토",
+      "servc_exc_pd": "2018.4월-2019.3월",
+      "servc_mendng": "9,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000765",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "bsns_year": "제46기(당기)",
+      "cntrct_cncls_de": "2017.2월",
+      "servc_cn": "17년 세무조정검토",
+      "servc_exc_pd": "2017.4월-2018.3월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000765",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2016.2월",
+      "servc_cn": "16년 세무조정검토",
+      "servc_exc_pd": "2016.4월-2017.3월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000765",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2016.7월",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2016.7월-2016.9월",
+      "servc_mendng": "200,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000765",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "bsns_year": "제44기(전전기)",
+      "cntrct_cncls_de": "2016.2월",
+      "servc_cn": "16년 세무조정검토",
+      "servc_exc_pd": "2016.4월-2017.3월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000765",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "bsns_year": "제44기(전전기)",
+      "cntrct_cncls_de": "2016.7월",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2016.7월-2016.9월",
+      "servc_mendng": "200,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

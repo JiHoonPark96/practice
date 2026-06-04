@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000400",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제64기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 회사의 재고자산 평가를 위한 회계정책의 적정성 및 일관성 평가\n- 재고자산 평가와 관련된 통제의 설계 및 운영의 효과성 평가\n- 재고자산 평가대상에 포함되는 재고자산 리스트의 완전성 평가 \n- 회사가 수행한 재고자산평가충당금 계산내역 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000400",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제63기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 주석3. 중요한 회계추정 및 가정\n: 코로나19의 확산이 기업의 재무\n  상태나 경영성과에 미칠 수 있는영향과 관련한 불확실성 ",
+      "core_adt_matter": "- 제약과 화장품 부문의 수익인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000400",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 제약과 화장품 부문의 수익인식",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

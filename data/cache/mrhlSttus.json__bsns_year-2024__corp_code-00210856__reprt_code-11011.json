@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000653",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "se": "소액주주",
+      "shrholdr_co": "4,388",
+      "shrholdr_tot_co": "4,399",
+      "shrholdr_rate": "99.75%",
+      "hold_stock_co": "2,073,655",
+      "stock_tot_co": "3,290,720",
+      "hold_stock_rate": "63.02%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

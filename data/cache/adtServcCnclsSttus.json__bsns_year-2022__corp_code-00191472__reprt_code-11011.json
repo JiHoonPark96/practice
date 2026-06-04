@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000950",
+      "corp_cls": "Y",
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기(연결)재무제표 검토\n반기(연결)재무제표 검토\n3분기(연결)재무제표 검토\n기말(연결)재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "526,000",
+      "adt_cntrct_dtls_time": "4,786시간",
+      "real_exc_dtls_mendng": "526,000",
+      "real_exc_dtls_time": "4,584시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000950",
+      "corp_cls": "Y",
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "bsns_year": "제48기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "1분기(연결)재무제표 검토\n반기(연결)재무제표 검토\n3분기(연결)재무제표 검토\n기말(연결)재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310,000",
+      "adt_cntrct_dtls_time": "3,160시간",
+      "real_exc_dtls_mendng": "310,000",
+      "real_exc_dtls_time": "3,336시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000950",
+      "corp_cls": "Y",
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "반기(연결)재무제표 검토\n기말(연결)재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "152,000",
+      "adt_cntrct_dtls_time": "1,520시간",
+      "real_exc_dtls_mendng": "152,000",
+      "real_exc_dtls_time": "1,525시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

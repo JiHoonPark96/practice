@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001416",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "se": "소액주주",
+      "shrholdr_co": "33,210",
+      "shrholdr_tot_co": "33,213",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "12,697,797",
+      "stock_tot_co": "32,600,000",
+      "hold_stock_rate": "38.95%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

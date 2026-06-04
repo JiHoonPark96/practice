@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000316",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "bsns_year": "제31기(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "계속기업 관련 중요한 불확실성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000316",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "bsns_year": "제30기(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "계속기업 관련 중요한 불확실성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000316",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "bsns_year": "제29기(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "재고자산의 실재성 및 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

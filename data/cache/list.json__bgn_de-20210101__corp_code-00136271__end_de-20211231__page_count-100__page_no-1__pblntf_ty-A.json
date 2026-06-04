@@ -1,0 +1,120 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 10,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115000813",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001185",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2020.12)",
+      "rcept_no": "20210621000284",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210621",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2019.12)",
+      "rcept_no": "20210621000279",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210621",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2018.12)",
+      "rcept_no": "20210621000273",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210621",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2017.12)",
+      "rcept_no": "20210621000264",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210621",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2016.12)",
+      "rcept_no": "20210621000259",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210621",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517001027",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210322000367",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210322",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "stock_code": "011930",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210318000773",
+      "flr_nm": "신성이엔지",
+      "rcept_dt": "20210318",
+      "rm": "정연"
+    }
+  ]
+}

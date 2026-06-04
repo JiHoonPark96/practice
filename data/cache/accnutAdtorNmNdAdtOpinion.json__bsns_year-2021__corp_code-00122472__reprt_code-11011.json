@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000411",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제68기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "건설중인자산의 본계정대체 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000411",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제67기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "건설중인자산의 본계정대체 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000411",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무제표 수정사항",
+      "core_adt_matter": "리스회계처리",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002808",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2018.01\n2018.03",
+      "servc_cn": "제43기 세무조정업무 계약\n국제조세 및 이전가격 자문용역",
+      "servc_exc_pd": "2018.02\n2018.03~05",
+      "servc_mendng": "10,000,000원\n57,600,000원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002808",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2017.01",
+      "servc_cn": "제42기 세무조정업무 계약",
+      "servc_exc_pd": "2017.01",
+      "servc_mendng": "10,000,000원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002808",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "2016.01",
+      "servc_cn": "제41기 세무조정업무 계약",
+      "servc_exc_pd": "2016.02",
+      "servc_mendng": "10,000,000원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

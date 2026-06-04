@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000331",
+      "corp_cls": "Y",
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "se": "소액주주",
+      "shrholdr_co": "2,380",
+      "shrholdr_tot_co": "2,391",
+      "shrholdr_rate": "99.54%",
+      "hold_stock_co": "334,298",
+      "stock_tot_co": "1,739,672",
+      "hold_stock_rate": "19.22%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004046",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "stock_knd": "보통주",
+      "nm": "조현준",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "4,382,245",
+      "bsis_posesn_stock_qota_rt": "35.26",
+      "trmend_posesn_stock_co": "4,382,245",
+      "trmend_posesn_stock_qota_rt": "35.26",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004046",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "stock_knd": "보통주",
+      "nm": "(주)효성",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "3,479,200",
+      "bsis_posesn_stock_qota_rt": "27.99",
+      "trmend_posesn_stock_co": "3,479,200",
+      "trmend_posesn_stock_qota_rt": "27.99",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004046",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "stock_knd": "우선주",
+      "nm": "(주)효성",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "869,800",
+      "bsis_posesn_stock_qota_rt": "7.00",
+      "trmend_posesn_stock_co": "869,800",
+      "trmend_posesn_stock_qota_rt": "7.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004046",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,861,445",
+      "bsis_posesn_stock_qota_rt": "63.26",
+      "trmend_posesn_stock_co": "7,861,445",
+      "trmend_posesn_stock_qota_rt": "63.26",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004046",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "869,800",
+      "bsis_posesn_stock_qota_rt": "7.00",
+      "trmend_posesn_stock_co": "869,800",
+      "trmend_posesn_stock_qota_rt": "7.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

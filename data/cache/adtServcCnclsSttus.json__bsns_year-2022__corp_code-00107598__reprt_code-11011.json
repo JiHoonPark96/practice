@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001233",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "bsns_year": "제59기(당기)",
+      "adtor": "한영 회계법인",
+      "cn": "분ㆍ반기, 연간 별도 및 연결 재무제표 검토 및 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440,000천원",
+      "adt_cntrct_dtls_time": "4,400",
+      "real_exc_dtls_mendng": "440,000천원",
+      "real_exc_dtls_time": "4,505",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001233",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "bsns_year": "제58기(전기)",
+      "adtor": "한영 회계법인",
+      "cn": "분ㆍ반기, 연간 별도 및 연결 재무제표 검토 및 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440,000천원",
+      "adt_cntrct_dtls_time": "4,400",
+      "real_exc_dtls_mendng": "440,000천원",
+      "real_exc_dtls_time": "4,422",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001233",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "한영 회계법인",
+      "cn": "분ㆍ반기, 연간 별도 및 연결 재무제표 검토 및 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450,000천원",
+      "adt_cntrct_dtls_time": "3,800",
+      "real_exc_dtls_mendng": "450,000천원",
+      "real_exc_dtls_time": "4,910",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

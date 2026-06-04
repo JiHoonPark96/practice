@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할을 통한 회사의 설립",
+      "core_adt_matter": "총예정원가추정의 불확실성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

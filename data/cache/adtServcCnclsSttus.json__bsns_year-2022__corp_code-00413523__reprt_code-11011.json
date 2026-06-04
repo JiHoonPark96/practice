@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001135",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제27기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사,\n 기말감사,내부회계관리감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270,000",
+      "adt_cntrct_dtls_time": "2,800",
+      "real_exc_dtls_mendng": "270,000",
+      "real_exc_dtls_time": "2,482",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001135",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제26기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사,\n 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "1,830",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "1,818",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001135",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "bsns_year": "제25기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사,\n 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000",
+      "adt_cntrct_dtls_time": "1,680",
+      "real_exc_dtls_mendng": "145,000",
+      "real_exc_dtls_time": "1,600",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

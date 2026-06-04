@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000651",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기·반기재무제표 검토별도·연결재무제표 감사내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,566백만원/년",
+      "adt_cntrct_dtls_time": "16,448시간 ",
+      "real_exc_dtls_mendng": "1,566백만원/년",
+      "real_exc_dtls_time": "16,455시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000651",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기·반기재무제표 검토별도·연결재무제표 감사내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,355백만원/년",
+      "adt_cntrct_dtls_time": "15,940시간",
+      "real_exc_dtls_mendng": "1,355백만원/년",
+      "real_exc_dtls_time": "16,267시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000651",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기·반기재무제표 검토별도·연결재무제표 감사내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,200백만원/년",
+      "adt_cntrct_dtls_time": "13,500시간",
+      "real_exc_dtls_mendng": "1,200백만원/년",
+      "real_exc_dtls_time": "15,501시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

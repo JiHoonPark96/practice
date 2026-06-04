@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200814002063",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제64기(당기)",
+      "adtor": "신성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 영업권 손상검사\n- 투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200814002063",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제63기(전기)",
+      "adtor": "신성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 주요 기업회계기준서의 최초적용\n- 사업결합\n- 종속회사의 장기파업",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200814002063",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "신성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 수주산업 핵심감사항목에 대한 감사인의 강조사항 등\n 1) 일반사항 2) 투입법에 따른 수익인식 3) 총계약원가 추정의 불확실성 4) 공사진행률 산정 5) 미청구공사금액 회수가능성",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

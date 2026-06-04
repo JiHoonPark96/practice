@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001313",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "6",
+      "apnt": "1",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

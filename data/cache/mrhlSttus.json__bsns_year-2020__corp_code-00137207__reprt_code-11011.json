@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000979",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "se": "소액주주",
+      "shrholdr_co": "7,280",
+      "shrholdr_tot_co": "7,291",
+      "shrholdr_rate": "99.85%",
+      "hold_stock_co": "42,757,000",
+      "stock_tot_co": "68,710,000",
+      "hold_stock_rate": "62.23%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

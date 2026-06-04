@@ -1,0 +1,82 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000718",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제53기\n(당기)",
+      "adtor": "삼정 회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 대여금 회수에 \n대한 검토",
+      "core_adt_matter": "(1) 당기손익-공정가치측정금융자산 공정가치 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000718",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제53기\n(당기)",
+      "adtor": "삼정 회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 대여금 회수에 \n대한 검토",
+      "core_adt_matter": "(1) 당기손익-공정가치측정금융자산 공정가치 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000718",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제52기\n(전기)",
+      "adtor": "회계법인 리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 및 관계기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000718",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제52기\n(전기)",
+      "adtor": "회계법인 리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000718",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제51기\n(전전기)",
+      "adtor": "회계법인 리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "영업수수료 계약 해지",
+      "core_adt_matter": "경영권 변동후 발생한 전 최대주주 등과의 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000718",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제51기\n(전전기)",
+      "adtor": "회계법인 리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "영업수수료 계약 해지",
+      "core_adt_matter": "경영권 변동후 발생한 전 최대주주 등과의 거래",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

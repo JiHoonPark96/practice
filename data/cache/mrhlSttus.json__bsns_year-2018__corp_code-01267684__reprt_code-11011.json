@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004158",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "se": "소액주주",
+      "shrholdr_co": "2,399",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.62%",
+      "hold_stock_co": "847,839",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "18.89%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

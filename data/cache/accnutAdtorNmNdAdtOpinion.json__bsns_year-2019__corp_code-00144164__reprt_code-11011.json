@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004176",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제35기 연간(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 장기연속항해 용선계약에 대한 리스요소의 식별 및 측정에 대한 검토\n- 국내 LPG 매출의 발생사실 및 기간귀속에 대한 검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004176",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제34기 연간(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 국내 LPG 매출의 수익 기간귀속- 당진에코파워(주)의 과거 사업결합시 발생한 영업권 및 산업재산권 손상검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004176",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제33기 연간(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 수주산업 핵심감사항목에 대한\n   감사인의 강조사항",
+      "core_adt_matter": "- 투입법에 따른 수익인식 및 공사진행율의 적절성- 공사예정원가에 대한 추정의 불확실성 및 공사변경에 따른 회계처리의 적절성\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

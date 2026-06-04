@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000879",
+      "corp_cls": "Y",
+      "corp_code": "00100939",
+      "corp_name": "강남제비스코",
+      "se": "소액주주",
+      "shrholdr_co": "5,415",
+      "shrholdr_tot_co": "5,431",
+      "shrholdr_rate": "99.71%",
+      "hold_stock_co": "2,511,666",
+      "stock_tot_co": "6,405,130",
+      "hold_stock_rate": "39.21%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

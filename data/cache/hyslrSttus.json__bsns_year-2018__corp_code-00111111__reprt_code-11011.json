@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002816",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "보통주",
+      "nm": "한국스탠다드\n차타드은행",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "2,843,400",
+      "bsis_posesn_stock_qota_rt": "23.08",
+      "trmend_posesn_stock_co": "2,843,400",
+      "trmend_posesn_stock_qota_rt": "23.08",
+      "rm": "출자전환\n무상감자",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002816",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "우선주",
+      "nm": "한국스탠다드\n차타드은행",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "13,950,000",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "13,950,000",
+      "trmend_posesn_stock_qota_rt": "100.00",
+      "rm": "출자전환\n일부무상감자",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002816",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,843,400",
+      "bsis_posesn_stock_qota_rt": "23.08",
+      "trmend_posesn_stock_co": "2,843,400",
+      "trmend_posesn_stock_qota_rt": "23.08",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002816",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "13,950,000",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "13,950,000",
+      "trmend_posesn_stock_qota_rt": "100.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000908",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제24기(당기)",
+      "adtor": "다산회계법인",
+      "cn": "반기 재무제표 검토(연결, 별도)\n재무제표 감사(연결, 별도)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "253백만원",
+      "adt_cntrct_dtls_time": "1,913시간",
+      "real_exc_dtls_mendng": "253백만원",
+      "real_exc_dtls_time": "1,889시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000908",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제23기(전기)",
+      "adtor": "다산회계법인",
+      "cn": "반기 재무제표 검토(연결, 별도)\n재무제표 감사(연결, 별도)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180백만원",
+      "adt_cntrct_dtls_time": "1,385시간",
+      "real_exc_dtls_mendng": "180백만원",
+      "real_exc_dtls_time": "1,342시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000908",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "다산회계법인",
+      "cn": "반기 재무제표 검토(연결, 별도)\n재무제표 감사(연결, 별도)\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170백만원",
+      "adt_cntrct_dtls_time": "1,140시간",
+      "real_exc_dtls_mendng": "214.7백만원",
+      "real_exc_dtls_time": "1,590시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

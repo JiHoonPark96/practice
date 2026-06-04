@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "bsns_year": "제31기(온기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기,중간,기말 연결 및 개별재무제표에 대한 회계감사",
+      "mendng": "55,000천원",
+      "tot_reqre_time": "798시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "bsns_year": "제30기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기,중간,기말 연결 및 개별재무제표에 대한 회계감사",
+      "mendng": "55,000천원",
+      "tot_reqre_time": "840시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "대성회계법인",
+      "cn": "반기,중간,기말 연결 및 개별재무제표에 대한 회계감사",
+      "mendng": "50,000천원",
+      "tot_reqre_time": "814시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

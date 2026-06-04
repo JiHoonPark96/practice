@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000846",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 재무제표\n- 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "- 재무제표 : 1,050백만",
+      "adt_cntrct_dtls_time": "9,500시간",
+      "real_exc_dtls_mendng": "- 재무제표 : 1,050백만원",
+      "real_exc_dtls_time": "1분기 : 1,500시간, 반기 : 1,340시간\n3분기 : 2,000시간, 4분기 : 5,075시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000846",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 재무제표\n- 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "- 재무제표 : 720백만\n-내부회계관리제도 : 50백만",
+      "adt_cntrct_dtls_time": "7,544시간",
+      "real_exc_dtls_mendng": "- 재무제표 : 720백만\n-내부회계관리제도 : 50백만",
+      "real_exc_dtls_time": "1분기 : 700시간, 반기 : 720시간\n3분기 : 700시간, 연간 : 3,924시간내부회계관리제도: 1,400시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000846",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 재무제표\n- 내부회계관리제도 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "- 재무제표 : 470백만\n- 내부회계관리제도 : 50백만",
+      "adt_cntrct_dtls_time": "6,800시간",
+      "real_exc_dtls_mendng": "- 재무제표 : 430백만\n- 내부회계관리제도 : 50백만",
+      "real_exc_dtls_time": "1분기 : 860시간, 반기 : 700시간\n3분기 : 453시간, 연간 : 3,187시간\n내부회계관리제도 : 1,300시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

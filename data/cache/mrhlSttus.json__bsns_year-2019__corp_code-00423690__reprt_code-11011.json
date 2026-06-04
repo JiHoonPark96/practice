@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002632",
+      "corp_cls": "Y",
+      "corp_code": "00423690",
+      "corp_name": "삼성출판사",
+      "se": "소액주주",
+      "shrholdr_co": "11,741",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "3,505,868",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "35.1%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

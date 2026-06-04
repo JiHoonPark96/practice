@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814000367",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "se": "소액주주",
+      "shrholdr_co": "20,083",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "17,593,063",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "71.57%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

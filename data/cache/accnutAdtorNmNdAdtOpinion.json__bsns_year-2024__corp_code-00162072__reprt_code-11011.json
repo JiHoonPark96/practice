@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251107000545",
+      "corp_cls": "Y",
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

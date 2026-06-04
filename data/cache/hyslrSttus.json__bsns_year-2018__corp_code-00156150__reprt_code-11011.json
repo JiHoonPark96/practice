@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_knd": "보통주",
+      "nm": "최영덕",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "839,981",
+      "bsis_posesn_stock_qota_rt": "15.20",
+      "trmend_posesn_stock_co": "839,981",
+      "trmend_posesn_stock_qota_rt": "15.20",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_knd": "보통주",
+      "nm": "길대호",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "559,774",
+      "bsis_posesn_stock_qota_rt": "10.10",
+      "trmend_posesn_stock_co": "559,774",
+      "trmend_posesn_stock_qota_rt": "10.10",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_knd": "보통주",
+      "nm": "이우영",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "10,000",
+      "bsis_posesn_stock_qota_rt": "0.20",
+      "trmend_posesn_stock_co": "10,000",
+      "trmend_posesn_stock_qota_rt": "0.20",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,409,755",
+      "bsis_posesn_stock_qota_rt": "25.50",
+      "trmend_posesn_stock_co": "1,409,755",
+      "trmend_posesn_stock_qota_rt": "25.50",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

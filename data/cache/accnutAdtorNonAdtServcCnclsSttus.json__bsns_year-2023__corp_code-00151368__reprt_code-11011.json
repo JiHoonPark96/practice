@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001182",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제68기\n(2023년 기말)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001182",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제67기\n(2022년 기말)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001182",
+      "corp_cls": "Y",
+      "corp_code": "00151368",
+      "corp_name": "인터지스",
+      "bsns_year": "제66기\n(2021년 기말)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

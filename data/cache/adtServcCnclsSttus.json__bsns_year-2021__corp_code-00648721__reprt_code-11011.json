@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220218001091",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "bsns_year": "제14기(당기)",
+      "adtor": "성현회계법인",
+      "cn": "연결 및 별도 회계감사 및 분,반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "240",
+      "real_exc_dtls_time": "2,464",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220218001091",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "bsns_year": "제13기(전기)",
+      "adtor": "성현회계법인\n (舊.성도이현\n 회계법인)",
+      "cn": "연결 및 별도 회계감사 및 분,반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "250",
+      "real_exc_dtls_time": "2,460",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220218001091",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 회계감사 및 분,반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "93",
+      "adt_cntrct_dtls_time": "1,218",
+      "real_exc_dtls_mendng": "93",
+      "real_exc_dtls_time": "1,025",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

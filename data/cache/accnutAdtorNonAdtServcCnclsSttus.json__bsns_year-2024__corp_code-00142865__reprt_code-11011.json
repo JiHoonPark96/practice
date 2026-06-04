@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000660",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000660",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000660",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "2021.05",
+      "servc_cn": "내부회계관리제도 구축",
+      "servc_exc_pd": "2021.05 ~ 2023.03",
+      "servc_mendng": "90백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000660",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "2022.12",
+      "servc_cn": "사용가치평가를 통한 손상검토",
+      "servc_exc_pd": "2022.12 ~ 2023.02",
+      "servc_mendng": "27백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

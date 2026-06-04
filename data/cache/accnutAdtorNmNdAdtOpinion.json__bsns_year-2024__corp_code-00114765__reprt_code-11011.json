@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 관련 투자주식, 대여금 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속/관계기업 관련 투자주식, 채권의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속회사 대여금거래,\n\n비경상적 영업이익",
+      "core_adt_matter": "종속/관계기업 관련 투자주식, 채권의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002584",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제20기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "- 연결 / 별도 : 관계기업투자주식 취득\n- 선정된 거래 : 주식교환을 통하여 취득한 ㈜티에스케이코퍼레이션 관계기업투자주식 취득 금액에 대한 적정성을 핵심감사사항으로 선정\n- 감사의견 : 다음의 핵심감사 관련한 감사절차를 수행하였으며, 감사절차 수행결과를 종합하였을 때 재무제표에 미치는 중요한 예외사항 없음.\n   - 관계기업투자주식 취득가액 결정을 위해 활용한 외부평가전문가의 적격성 및 독립성 평가\n   - 경영진 및 외부평가전문가가 관계기업투자주식 취득가액 평가에 사용한 주요 가정 (평가방법론과 할인율 등)의 타당성 검토\n   - 관계기업투자주식 취득과 관련한 주석공시사항의 완전성 검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002584",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제19기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002584",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

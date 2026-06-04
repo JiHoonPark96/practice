@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210503000454",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "se": "소액주주",
+      "shrholdr_co": "12,302",
+      "shrholdr_tot_co": "12,304",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "11,286,536",
+      "stock_tot_co": "37,502,728",
+      "hold_stock_rate": "30.10%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

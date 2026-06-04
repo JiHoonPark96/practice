@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000747",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제42기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "- 분, 반기 개별재무제표 검토\n- 연간 개별재무제표 감사",
+      "mendng": "95",
+      "tot_reqre_time": "926",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000747",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제41기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분, 반기 개별재무제표 검토\n- 연간 개별재무제표 감사",
+      "mendng": "100",
+      "tot_reqre_time": "1,097",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000747",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 연간 별도재무제표 감사\n- 연간 연결재무제표 감사",
+      "mendng": "90",
+      "tot_reqre_time": "896",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

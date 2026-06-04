@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210818000207",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "se": "소액주주",
+      "shrholdr_co": "9,402",
+      "shrholdr_tot_co": "9,433",
+      "shrholdr_rate": "99.67%",
+      "hold_stock_co": "3,585,800",
+      "stock_tot_co": "11,447,000",
+      "hold_stock_rate": "31.33%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

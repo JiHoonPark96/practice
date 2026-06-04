@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210514000023",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "se": "소액주주",
+      "shrholdr_co": "581,649",
+      "shrholdr_tot_co": "581,653",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "260,624,829",
+      "stock_tot_co": "641,964,077",
+      "hold_stock_rate": "40.60%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

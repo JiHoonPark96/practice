@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001019",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제71기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001019",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제70기",
+      "cntrct_cncls_de": "2019.03.01",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2019.01.01~2019.12.31",
+      "servc_mendng": "304",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001019",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제69기",
+      "cntrct_cncls_de": "2018.02.28",
+      "servc_cn": "재무자문, 세무자문",
+      "servc_exc_pd": "2018.02.28~2018.12.31",
+      "servc_mendng": "301",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

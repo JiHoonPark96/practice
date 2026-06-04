@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000862",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 18기(2024년)",
+      "adtor": "삼정회계법인",
+      "cn": "분,반기\n 별도, 연결재무제표 검토\n 별도, 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,841",
+      "adt_cntrct_dtls_time": "16,510",
+      "real_exc_dtls_mendng": "1,841",
+      "real_exc_dtls_time": "16,575",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000862",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 17기(2023년)",
+      "adtor": "삼정회계법인",
+      "cn": "분,반기\n 별도, 연결재무제표 검토\n 별도, 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,441",
+      "adt_cntrct_dtls_time": "13,100",
+      "real_exc_dtls_mendng": "1,441",
+      "real_exc_dtls_time": "13,400",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000862",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제 16기(2022년)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기\n 별도, 연결재무제표 검토\n 별도, 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,144",
+      "adt_cntrct_dtls_time": "11,000",
+      "real_exc_dtls_mendng": "1,144",
+      "real_exc_dtls_time": "11,052",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

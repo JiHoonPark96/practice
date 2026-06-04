@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "연결 및 별도 기준 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "186",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "186",
+      "real_exc_dtls_time": "2,015",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도 기준 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "310",
+      "real_exc_dtls_time": "2,951",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도 기준 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "310",
+      "real_exc_dtls_time": "3,373",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "se": "소액주주",
+      "shrholdr_co": "20,475",
+      "shrholdr_tot_co": "20,489",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "22,925,311",
+      "stock_tot_co": "38,888,569",
+      "hold_stock_rate": "58.95%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

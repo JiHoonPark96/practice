@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000879",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제48기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "- 연차 재무제표에 대한 감사 (별도, 연결)\n- 중간(분/반기) 재무제표의 검토 (별도, 연결)\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290백만원",
+      "adt_cntrct_dtls_time": "2,764시간",
+      "real_exc_dtls_mendng": "290백만원",
+      "real_exc_dtls_time": "3,129시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000879",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제47기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "- 연차 재무제표에 대한 감사 (별도, 연결)\n- 중간(반기) 재무제표의 검토 (별도, 연결)\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "1,974시간",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "2,276시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000879",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 연차 재무제표에 대한 감사 (별도, 연결)\n- 중간(분/반기) 재무제표의 검토 (별도, 연결)\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260백만원",
+      "adt_cntrct_dtls_time": "2,476시간",
+      "real_exc_dtls_mendng": "260백만원",
+      "real_exc_dtls_time": "2,948시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

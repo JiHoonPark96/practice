@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000487",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제39기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부감사인의 감사활동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,640(590)",
+      "adt_cntrct_dtls_time": "21,150",
+      "real_exc_dtls_mendng": "1,640(480)",
+      "real_exc_dtls_time": "21,246",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000487",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제38기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부감사인의 감사활동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,557(575)",
+      "adt_cntrct_dtls_time": "21,000",
+      "real_exc_dtls_mendng": "1,582(575)",
+      "real_exc_dtls_time": "21,238",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000487",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제37기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부감사인의 감사활동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,470(550)",
+      "adt_cntrct_dtls_time": "20,700",
+      "real_exc_dtls_mendng": "1,470(550)",
+      "real_exc_dtls_time": "20,821",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

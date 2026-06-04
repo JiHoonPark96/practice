@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000588",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제48기(당기)",
+      "adtor": "위드회계법인",
+      "cn": "재고실사,반기검토\n중간감사,기말감사",
+      "mendng": "105,000",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000588",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제47기(전기)",
+      "adtor": "위드회계법인",
+      "cn": "재고실사,반기검토\n중간감사,기말감사",
+      "mendng": "92,000",
+      "tot_reqre_time": "870H",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000588",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "위드회계법인",
+      "cn": "재고실사,반기검토\n중간감사,기말감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "652H",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

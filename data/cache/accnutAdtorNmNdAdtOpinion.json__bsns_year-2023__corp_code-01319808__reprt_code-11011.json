@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001711",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제6기 (당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(별도) 해당사항없음\n(연결) 해당사항없음",
+      "core_adt_matter": " (별도) 종속기업투자주식 손상검토\n(연결) 시멘트사업부 영업권 손상검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001711",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(별도) 해당사항없음\n(연결) 해당사항없음",
+      "core_adt_matter": "(별도) 종속기업투자주식 손상검토\n(연결) 시멘트사업부 영업권 손상검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001711",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(별도) 해당사항없음\n(연결) 해당사항없음",
+      "core_adt_matter": "(별도) 종속기업투자주식 손상검토\n(연결) 시멘트사업부 영업권 손상검토,\n  금융보증계약부채 및 출자전환부채의 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

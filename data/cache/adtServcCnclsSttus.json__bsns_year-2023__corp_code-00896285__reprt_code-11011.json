@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240325000879",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제13기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기 검토\n(별도/연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410",
+      "adt_cntrct_dtls_time": "4,264",
+      "real_exc_dtls_mendng": "410",
+      "real_exc_dtls_time": "4,254",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000879",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기 검토, 기말 감사\n(별도/연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "520",
+      "adt_cntrct_dtls_time": "4,730",
+      "real_exc_dtls_mendng": "520",
+      "real_exc_dtls_time": "4,668",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000879",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기 검토, 기말 감사\n(별도/연결)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "458",
+      "adt_cntrct_dtls_time": "4,240",
+      "real_exc_dtls_mendng": "458",
+      "real_exc_dtls_time": "3,937",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

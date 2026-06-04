@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001258",
+      "corp_cls": "Y",
+      "corp_code": "00526599",
+      "corp_name": "덴티움",
+      "se": "소액주주",
+      "shrholdr_co": "21,254",
+      "shrholdr_tot_co": "21,267",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "5,262,466",
+      "stock_tot_co": "8,623,891",
+      "hold_stock_rate": "61.0%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

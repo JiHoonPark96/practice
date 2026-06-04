@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000374",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제68기(당   기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산의 평가\n유형자산의 손상",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210319000374",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제67기(전   기)",
+      "adtor": "승일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210319000374",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "승일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재공품 차입원가 자본화\n회계정책변경 소급적용",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

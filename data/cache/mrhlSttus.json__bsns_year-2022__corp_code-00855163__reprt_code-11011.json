@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310000296",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "se": "소액주주",
+      "shrholdr_co": "2,287",
+      "shrholdr_tot_co": "2,322",
+      "shrholdr_rate": "98.49%",
+      "hold_stock_co": "721,609",
+      "stock_tot_co": "2,199,268",
+      "hold_stock_rate": "32.81%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

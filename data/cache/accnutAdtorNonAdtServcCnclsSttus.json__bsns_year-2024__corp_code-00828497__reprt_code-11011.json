@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제15기(당기)",
+      "cntrct_cncls_de": "2024.04.",
+      "servc_cn": "사채관리계약 이행상황보고서 등",
+      "servc_exc_pd": "2024.04.",
+      "servc_mendng": "3백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제15기(당기)",
+      "cntrct_cncls_de": "2024.06.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.07.~2025.03.",
+      "servc_mendng": "30백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제15기(당기)",
+      "cntrct_cncls_de": "2024.11",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2024.11.~2025.01.",
+      "servc_mendng": "510백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제14기(전기)",
+      "cntrct_cncls_de": "2023.03.",
+      "servc_cn": "이전가격 분석",
+      "servc_exc_pd": "2023.03~2024.09.",
+      "servc_mendng": "45백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제14기(전기)",
+      "cntrct_cncls_de": "2023.08.",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.08.~2024.03.",
+      "servc_mendng": "30백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제13기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제13기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

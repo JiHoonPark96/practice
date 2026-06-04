@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기\n(당기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "한정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "부외계좌 존재에 대한 제보를 통해 \n중요한 자금흐름의 왜곡가능성",
+      "core_adt_matter": "회계부정에 의한 회계처리 위반 가능성\n외부전문가 조사결과",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기\n(전기(재감사))",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 당기 재무제표 재작성\n 주권 매매거래 정지 및 상장폐지 사유 발생",
+      "core_adt_matter": "관계기업에 대한 투자자산의 손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제42기\n(전전기)",
+      "adtor": "일우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

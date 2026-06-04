@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326001276",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "stock_knd": "보통주",
+      "nm": "국순기",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "129,712",
+      "bsis_posesn_stock_qota_rt": "31.82",
+      "trmend_posesn_stock_co": "129,712",
+      "trmend_posesn_stock_qota_rt": "31.82",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001276",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "stock_knd": "보통주",
+      "nm": "김정희",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "75,000",
+      "bsis_posesn_stock_qota_rt": "18.40",
+      "trmend_posesn_stock_co": "75,000",
+      "trmend_posesn_stock_qota_rt": "18.40",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001276",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "stock_knd": "보통주",
+      "nm": "국혜원",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "5,900",
+      "bsis_posesn_stock_qota_rt": "1.45",
+      "trmend_posesn_stock_co": "5,900",
+      "trmend_posesn_stock_qota_rt": "1.45",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001276",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "210,612",
+      "bsis_posesn_stock_qota_rt": "51.67",
+      "trmend_posesn_stock_co": "210,612",
+      "trmend_posesn_stock_qota_rt": "51.67",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001276",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

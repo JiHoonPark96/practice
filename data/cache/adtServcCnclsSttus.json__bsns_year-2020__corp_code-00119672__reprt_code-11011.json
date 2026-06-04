@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000709",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제38기(당기)",
+      "adtor": "EY한영회계법인",
+      "cn": "별도및연결의 반기검토, 중간감사, 기말감사, 재고자산실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220백만원",
+      "adt_cntrct_dtls_time": "1,800 ",
+      "real_exc_dtls_mendng": "220백만원",
+      "real_exc_dtls_time": "2,693",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000709",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제37기(전기)",
+      "adtor": "EY한영회계법인",
+      "cn": "1. 반기검토 2019년 7월 29일 - 8월 02일\n 2. 중간감사 2019년 11월 25일 - 11월 29일\n 3. 별도재무제표에 대한 기말감사 2020년 2월 24일-2월 28일\n 4. 연결재무제표에 대한 기말감사 2020년 3월 2일-3월 6일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240백만원",
+      "adt_cntrct_dtls_time": "2,693 ",
+      "real_exc_dtls_mendng": "240백만원",
+      "real_exc_dtls_time": "2,693 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000709",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "EY한영회계법인",
+      "cn": "1. 반기검토 2018년 8월 6일 - 8월 10일\n 2. 중간감사 2018년 11월 05일 - 11월 09일\n 3. 별도재무제표에 대한 기말감사 2019년 2월 18일-2월 22일\n 4. 연결재무제표에 대한 기말감사 2019년 3월 4일-3월 8일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150백만원",
+      "adt_cntrct_dtls_time": "2,261 ",
+      "real_exc_dtls_mendng": "150백만원",
+      "real_exc_dtls_time": "2,261 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230302000553",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제51기(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "후속사건",
+      "core_adt_matter": "수출과 관련한 수익인식의 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230302000553",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "Covid-19",
+      "core_adt_matter": "별도 : 종속기업투자 손상평가\n연결 : ACF사업부 현금창출단위 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230302000553",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "Covid-19",
+      "core_adt_matter": "ACF사업부 현금창출단위 손상평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

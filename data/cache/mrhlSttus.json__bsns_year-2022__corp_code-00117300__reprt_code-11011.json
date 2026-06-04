@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000854",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "se": "소액주주",
+      "shrholdr_co": "17,839",
+      "shrholdr_tot_co": "17,859",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "12,158,314",
+      "stock_tot_co": "25,386,019",
+      "hold_stock_rate": "47.89%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

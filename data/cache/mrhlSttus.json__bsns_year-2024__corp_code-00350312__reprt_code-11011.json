@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000577",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "se": "소액주주",
+      "shrholdr_co": "5,214",
+      "shrholdr_tot_co": "5,223",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "3,669,105",
+      "stock_tot_co": "22,974,353",
+      "hold_stock_rate": "15.97%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

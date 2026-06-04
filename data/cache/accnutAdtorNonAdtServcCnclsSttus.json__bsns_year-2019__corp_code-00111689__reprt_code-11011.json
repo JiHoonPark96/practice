@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002739",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "2019.03.15",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.03.15~\n2019.03.30",
+      "servc_mendng": "3,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002739",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "2018.03.10",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.03.10~\n2018.03.30",
+      "servc_mendng": "1,500",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002739",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

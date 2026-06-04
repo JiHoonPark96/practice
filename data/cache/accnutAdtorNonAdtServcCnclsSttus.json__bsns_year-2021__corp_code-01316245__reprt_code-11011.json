@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제4기(당기)\n(2021.1~12월)",
+      "cntrct_cncls_de": "2021.11월",
+      "servc_cn": "BEPS 보고서 제출\n이전가격 검토",
+      "servc_exc_pd": "2021.11~2021.12",
+      "servc_mendng": "42",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제3기(전기)\n(2020.1~12월)",
+      "cntrct_cncls_de": "2020.3월",
+      "servc_cn": "이전가격 검토",
+      "servc_exc_pd": "2020.3~완료시",
+      "servc_mendng": "17",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제3기(전기)\n(2020.1~12월)",
+      "cntrct_cncls_de": "2020.10월",
+      "servc_cn": "BEPS 보고서 제출",
+      "servc_exc_pd": "2020.10~2020.12",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제2기(전전기)\n(2019.1~12월)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제2기(전전기)\n(2019.1~12월)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

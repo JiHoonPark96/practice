@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제2기(당기)\n(2019.1~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사 인적분할 및 신규설립, \n주권 재상장에 관한 사항",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n(수주산업, 진행매출)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제1기(전기)\n(2018.6~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사 인적분할 및 신규설립, \n주권 재상장에 관한 사항",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n(수주산업, 진행매출)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

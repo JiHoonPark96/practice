@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000709",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "se": "소액주주",
+      "shrholdr_co": "23,523",
+      "shrholdr_tot_co": "23,533",
+      "shrholdr_rate": "41.50%",
+      "hold_stock_co": "9,887,744",
+      "stock_tot_co": "16,900,908",
+      "hold_stock_rate": "58.50%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

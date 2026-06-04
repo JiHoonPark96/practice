@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 17 기  연간\n제 17 기 3분기\n제 17 기  반기\n제 17 기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 16 기  연간\n제 16 기 3분기\n제 16 기  반기\n제 16 기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 15 기  연간\n제 15 기 3분기\n제 15 기  반기\n제 15 기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220224004228",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제35기(당기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 제품및상품매출의 기간귀속",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220224004228",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제34기(전기)",
+      "adtor": "호연회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 제품매출인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220224004228",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수주산업 \n일반사항, 투입법에 따른 수익인식, 총계약원가 추정의 불확실성, 공사진행률 산정, 미청구공사금액 회수가능성, 공사변경에 대한 회계처리",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

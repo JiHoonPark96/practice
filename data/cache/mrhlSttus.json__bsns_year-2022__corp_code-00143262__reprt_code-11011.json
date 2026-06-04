@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000761",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "se": "소액주주",
+      "shrholdr_co": "3,432",
+      "shrholdr_tot_co": "3,439",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "1,964,520",
+      "stock_tot_co": "7,622,000",
+      "hold_stock_rate": "25.77%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

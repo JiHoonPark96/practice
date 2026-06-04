@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002126",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제48기(당기)",
+      "adtor": "이현회계법인",
+      "cn": "분반기 검토 및 기말감사",
+      "mendng": "200",
+      "tot_reqre_time": "2,364",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002126",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제47기(전기)",
+      "adtor": "이현회계법인",
+      "cn": "분반기 검토 및 기말감사",
+      "mendng": "200",
+      "tot_reqre_time": "2,493",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002126",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "이현회계법인",
+      "cn": "분반기 검토 및 기말감사",
+      "mendng": "110",
+      "tot_reqre_time": "2,317",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

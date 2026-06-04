@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240411003898",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "보통주",
+      "nm": "피티제이호 유한회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "13,563,000",
+      "bsis_posesn_stock_qota_rt": "47.79",
+      "trmend_posesn_stock_co": "13,563,000",
+      "trmend_posesn_stock_qota_rt": "47.50",
+      "rm": "회생채권 출자전환에 따른 총 발행 \n주식수가 증가함로 인한 지분율 변동",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411003898",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "13,563,000",
+      "bsis_posesn_stock_qota_rt": "47.79",
+      "trmend_posesn_stock_co": "13,563,000",
+      "trmend_posesn_stock_qota_rt": "47.50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240411003898",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

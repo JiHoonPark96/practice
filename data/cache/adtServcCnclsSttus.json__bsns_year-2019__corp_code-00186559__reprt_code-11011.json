@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002789",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제37기",
+      "adtor": "대주회계법인",
+      "cn": "개별 기준 외부회계감사",
+      "mendng": "90,000",
+      "tot_reqre_time": "760",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002789",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제36기",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "958",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002789",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제35기",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "799",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

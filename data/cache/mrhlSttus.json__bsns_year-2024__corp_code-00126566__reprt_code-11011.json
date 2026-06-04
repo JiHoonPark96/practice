@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000990",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "se": "소액주주",
+      "shrholdr_co": "116,816",
+      "shrholdr_tot_co": "116,823",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "24,595,339",
+      "stock_tot_co": "45,466,548",
+      "hold_stock_rate": "54.10%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

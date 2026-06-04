@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제66기",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무감사(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "540,000,000",
+      "adt_cntrct_dtls_time": "6,975 시간",
+      "real_exc_dtls_mendng": "506,960,000",
+      "real_exc_dtls_time": "6,337 시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제65기",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무감사(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440,000,000",
+      "adt_cntrct_dtls_time": "6,140 시간",
+      "real_exc_dtls_mendng": "440,000,000",
+      "real_exc_dtls_time": "6,140 시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제64기",
+      "adtor": "안진회계법인",
+      "cn": "회계 및 업무감사(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000,000",
+      "adt_cntrct_dtls_time": "3,520 시간",
+      "real_exc_dtls_mendng": "240,000,000",
+      "real_exc_dtls_time": "3,520 시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000919",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "bsns_year": "제50기(당기)",
+      "adtor": "이촌회계법인",
+      "cn": "- 분ㆍ반기 재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "198백만원",
+      "adt_cntrct_dtls_time": "2,050",
+      "real_exc_dtls_mendng": "198백만원",
+      "real_exc_dtls_time": "2,140",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000919",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "bsns_year": "제49기(전기)",
+      "adtor": "이촌회계법인",
+      "cn": "- 분ㆍ반기 재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 기초잔액 조정사항 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "202백만원",
+      "adt_cntrct_dtls_time": "1,830",
+      "real_exc_dtls_mendng": "202백만원",
+      "real_exc_dtls_time": "1,823",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000919",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분ㆍ반기 재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130백만원",
+      "adt_cntrct_dtls_time": "1,570",
+      "real_exc_dtls_mendng": "130백만원",
+      "real_exc_dtls_time": "1,514",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

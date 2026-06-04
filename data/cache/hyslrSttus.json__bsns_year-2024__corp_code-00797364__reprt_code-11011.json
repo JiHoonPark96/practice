@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260423000742",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "stock_knd": "보통주",
+      "nm": "KC그린홀딩스㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "15,009,378",
+      "bsis_posesn_stock_qota_rt": "29.47",
+      "trmend_posesn_stock_co": "26,948,235",
+      "trmend_posesn_stock_qota_rt": "41.97",
+      "rm": "주1~2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260423000742",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "stock_knd": "보통주",
+      "nm": "박기서",
+      "relate": "계열사임원",
+      "bsis_posesn_stock_co": "7,201",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "7,201",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260423000742",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "stock_knd": "보통주",
+      "nm": "정순호",
+      "relate": "계열사임원",
+      "bsis_posesn_stock_co": "4,927",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "4,927",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260423000742",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "15,034,406",
+      "bsis_posesn_stock_qota_rt": "29.52",
+      "trmend_posesn_stock_co": "26,960,363",
+      "trmend_posesn_stock_qota_rt": "41.98",
+      "rm": "주1~2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260423000742",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

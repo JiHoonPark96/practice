@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000632",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 49 기(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "재고자산의 평가와 관련한 회계정책, 회계처리 프로세스 및 내부통제에 대한 이해와 평가\n재고자산평가충당금 계산의 정확성 확인을 위한 재계산 검증\n재무제표를 작성하기 위하여 경영진이 적용한 회계정책의 적합성과 경영진이 사용한 가정 검토\n재무제표 표시 및 주석 공시의 적정성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000632",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 48 기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "특수관계자 대여금 회수가능성\n원재료 평가충당금 적정성\n생물자산평가의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000632",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 47 기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "해당없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

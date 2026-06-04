@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001248",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "se": "소액주주",
+      "shrholdr_co": "20,510",
+      "shrholdr_tot_co": "20,519",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "14,424,581",
+      "stock_tot_co": "23,800,576",
+      "hold_stock_rate": "60.61%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

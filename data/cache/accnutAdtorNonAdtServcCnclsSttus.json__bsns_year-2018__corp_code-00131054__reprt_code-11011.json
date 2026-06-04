@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002982",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제66기",
+      "cntrct_cncls_de": "2018.06.19\n\n2017.04.27",
+      "servc_cn": "① 연구ㆍ인력 개발비\n    세액공제 경정청구\n② 세무조정",
+      "servc_exc_pd": "2018.06 ~심판청구결정일\n2019년 1월",
+      "servc_mendng": "- (주1)\n\n10",
+      "rm": "-\n\n년간",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002982",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제65기",
+      "cntrct_cncls_de": "2017.09.22\n2017.04.27",
+      "servc_cn": "① 정기세무조사지원\n② 세무조정",
+      "servc_exc_pd": "2017년 9월~11월\n2018년 1월",
+      "servc_mendng": "45\n10",
+      "rm": "-\n년간",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002982",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제64기",
+      "cntrct_cncls_de": "2014.09.05",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017년 1월",
+      "servc_mendng": "10",
+      "rm": "년간",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

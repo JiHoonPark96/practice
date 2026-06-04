@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230713000143",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제72기(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 물환경보전법 위반에 따른 행정소송 (연결/별도)\n2. 통환환경 조건부 인허가 (연결/별도)",
+      "core_adt_matter": "제련사업부문 관련 현금창출단위의 손상평가\n(연결/별도)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000143",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제71기(전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 물환경보전법 위반에 따른 행정소송 (연결/별도)\n2. 오염토지 정화명령(연결/별도)",
+      "core_adt_matter": "제련사업부문 관련 현금창출단위의 손상평가\n(연결/별도)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000143",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 물환경보전법 위반에 따른 행정소송(연결/별도)\n2. 오염토지 정화명령 (연결/별도)   \n3. COVID-19(코로나) 바이러스 (연결/별도)",
+      "core_adt_matter": "토양정화충당부채\n(연결/별도)",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

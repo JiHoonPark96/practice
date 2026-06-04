@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "stock_knd": "보통주",
+      "nm": "한국조선해양㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "6,000,000",
+      "bsis_posesn_stock_qota_rt": "53.57",
+      "trmend_posesn_stock_co": "6,000,000",
+      "trmend_posesn_stock_qota_rt": "53.57",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "stock_knd": "보통주",
+      "nm": "심정은",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "10",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,000,000",
+      "bsis_posesn_stock_qota_rt": "53.57",
+      "trmend_posesn_stock_co": "6,000,010",
+      "trmend_posesn_stock_qota_rt": "53.57",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "stock_knd": "합계",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,000,000",
+      "bsis_posesn_stock_qota_rt": "53.57",
+      "trmend_posesn_stock_co": "6,000,010",
+      "trmend_posesn_stock_qota_rt": "53.57",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000263",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "bsns_year": "제53기(당기)",
+      "adtor": "다산회계법인",
+      "cn": "반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "1,281",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000263",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "bsns_year": "제52기(전기)",
+      "adtor": "다산회계법인",
+      "cn": "반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,419",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000263",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,273",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,276",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

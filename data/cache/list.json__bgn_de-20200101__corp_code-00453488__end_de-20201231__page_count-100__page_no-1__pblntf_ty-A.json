@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_code": "145210",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201113001159",
+      "flr_nm": "다이나믹디자인",
+      "rcept_dt": "20201113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_code": "145210",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001654",
+      "flr_nm": "다이나믹디자인",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_code": "145210",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200519000223",
+      "flr_nm": "다이나믹디자인",
+      "rcept_dt": "20200519",
+      "rm": ""
+    },
+    {
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_code": "145210",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515002251",
+      "flr_nm": "다이나믹디자인",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_code": "145210",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330003726",
+      "flr_nm": "다이나믹디자인",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    }
+  ]
+}

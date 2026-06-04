@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "stock_code": "026960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.09)",
+      "rcept_no": "20211112001138",
+      "flr_nm": "동서",
+      "rcept_dt": "20211112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "stock_code": "026960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211112000800",
+      "flr_nm": "동서",
+      "rcept_dt": "20211112",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "stock_code": "026960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210813000519",
+      "flr_nm": "동서",
+      "rcept_dt": "20210813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "stock_code": "026960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210514000938",
+      "flr_nm": "동서",
+      "rcept_dt": "20210514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "stock_code": "026960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210318000724",
+      "flr_nm": "동서",
+      "rcept_dt": "20210318",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00144395",
+      "corp_name": "동서",
+      "stock_code": "026960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210318000334",
+      "flr_nm": "동서",
+      "rcept_dt": "20210318",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002293",
+      "corp_cls": "Y",
+      "corp_code": "00911955",
+      "corp_name": "잇츠한불",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "stock_code": "012200",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002957",
+      "flr_nm": "계양전기",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "stock_code": "012200",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814004343",
+      "flr_nm": "계양전기",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "stock_code": "012200",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516001717",
+      "flr_nm": "계양전기",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "stock_code": "012200",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2023.12)",
+      "rcept_no": "20240322000644",
+      "flr_nm": "계양전기",
+      "rcept_dt": "20240322",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "stock_code": "012200",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240314001603",
+      "flr_nm": "계양전기",
+      "rcept_dt": "20240314",
+      "rm": "정연"
+    }
+  ]
+}

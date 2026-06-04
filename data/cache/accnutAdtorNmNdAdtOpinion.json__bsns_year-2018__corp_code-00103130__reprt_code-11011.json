@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201023000294",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제45기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201023000294",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제44기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201023000294",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

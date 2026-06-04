@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329002895",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제51기\n('23.01.01~'23.12.31)",
+      "adtor": "안진회계법인",
+      "cn": "분/반기 재무제표 검토(연결, 별도)내부회계관리제도 감사(연결,별도)재무제표 감사(연결, 별도)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,370",
+      "adt_cntrct_dtls_time": "14,500",
+      "real_exc_dtls_mendng": "1,370",
+      "real_exc_dtls_time": "14,431",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002895",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제50기\n('22.01.01~'22.12.31)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 재무제표 검토(연결, 별도)\n내부회계관리제도 감사\n재무제표 감사(연결, 별도)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,570",
+      "adt_cntrct_dtls_time": "14,700",
+      "real_exc_dtls_mendng": "1,570",
+      "real_exc_dtls_time": "13,872",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002895",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제49기\n('21.01.01~'21.12.31)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 재무제표 검토(연결, 별도)\n내부회계관리제도 감사\n재무제표 감사(연결, 별도)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,480",
+      "adt_cntrct_dtls_time": "14,700",
+      "real_exc_dtls_mendng": "1,480",
+      "real_exc_dtls_time": "14,631",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

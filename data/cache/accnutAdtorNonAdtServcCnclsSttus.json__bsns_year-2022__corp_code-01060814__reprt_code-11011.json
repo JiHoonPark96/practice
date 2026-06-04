@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000865",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제9기(당기)",
+      "cntrct_cncls_de": "2021.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.07 ~ 2022.08",
+      "servc_mendng": "3,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000865",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제9기(당기)",
+      "cntrct_cncls_de": "2021.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.02 ~ 2022.03",
+      "servc_mendng": "10,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000865",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2021.01",
+      "servc_cn": "경정청구용역",
+      "servc_exc_pd": "2021.01.21~ 2021.06.17",
+      "servc_mendng": "103,244",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000865",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2018.12\n(3년자동갱신)",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.02~2021.03",
+      "servc_mendng": "8,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000865",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제7기(전전기)",
+      "cntrct_cncls_de": "2018.12(3년자동갱신)",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.02~2020.03",
+      "servc_mendng": "8,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

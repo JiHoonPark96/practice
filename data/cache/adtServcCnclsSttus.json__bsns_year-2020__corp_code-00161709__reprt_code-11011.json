@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분기·반기·중간\n재무제표 검토,\n개별재무제표\n등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "40,000천원",
+      "adt_cntrct_dtls_time": "1,020시간",
+      "real_exc_dtls_mendng": "40,000천원",
+      "real_exc_dtls_time": "998시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "bsns_year": "제37기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분기·반기·중간\n재무제표 검토,\n개별재무제표\n등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "40,000천원",
+      "adt_cntrct_dtls_time": "950시간",
+      "real_exc_dtls_mendng": "40,000천원",
+      "real_exc_dtls_time": "950시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분기·반기·중간\n재무제표 검토,\n개별재무제표\n등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "40,000천원",
+      "adt_cntrct_dtls_time": "904시간",
+      "real_exc_dtls_mendng": "40,000천원",
+      "real_exc_dtls_time": "904시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

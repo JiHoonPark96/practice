@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제49기",
+      "adtor": "신한회계법인",
+      "cn": "반기검토 및 개별/\n연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000천원",
+      "adt_cntrct_dtls_time": "1,701시간",
+      "real_exc_dtls_mendng": "250,000천원",
+      "real_exc_dtls_time": "1,701시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제48기 연간",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토 및 개별/\n연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "66,000천원",
+      "adt_cntrct_dtls_time": "1,413시간",
+      "real_exc_dtls_mendng": "66,000천원",
+      "real_exc_dtls_time": "1,413시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210405003044",
+      "corp_cls": "Y",
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "bsns_year": "제47기 연간",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토 및 개별/\n연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000천원",
+      "adt_cntrct_dtls_time": "918시간",
+      "real_exc_dtls_mendng": "60,000천원",
+      "real_exc_dtls_time": "918시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

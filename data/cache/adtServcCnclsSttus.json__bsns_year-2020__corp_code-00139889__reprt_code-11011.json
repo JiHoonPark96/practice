@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210423000677",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제48기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 재무제표\n- 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "470\n50",
+      "adt_cntrct_dtls_time": "6,800",
+      "real_exc_dtls_mendng": " - 재무제표 : 430백만\n - 내부회계관리제도 : 50백만",
+      "real_exc_dtls_time": "1분기 : 860, 반기 700,\n3분기 : 453, 연간 : 3,187\n내부회계관리제도 : 1,300",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210423000677",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제47기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 재무제표\n- 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430\n50",
+      "adt_cntrct_dtls_time": "6,800",
+      "real_exc_dtls_mendng": " - 재무제표 : 430백만\n - 내부회계관리제도 : 50백만",
+      "real_exc_dtls_time": "1분기 : 750, 반기 : 1,000\n3분기 : 982, 연간 : 2,017\n내부회계관리제도 : 2,144",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210423000677",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 재무제표\n- 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340\n10",
+      "adt_cntrct_dtls_time": "4,500",
+      "real_exc_dtls_mendng": " - 재무제표 : 340백만\n - 내부회계관리제도 : 10백만",
+      "real_exc_dtls_time": "1분기 : 379, 반기 : 381\n3분기 : 379, 연간 : 3.568\n내부회계관리제도 : 200",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

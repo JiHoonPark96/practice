@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000822",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "bsns_year": "제24기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "1,932",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000822",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "bsns_year": "제23기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "2,299",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000822",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "반기검토, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270",
+      "adt_cntrct_dtls_time": "2,400",
+      "real_exc_dtls_mendng": "270",
+      "real_exc_dtls_time": "2,545",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

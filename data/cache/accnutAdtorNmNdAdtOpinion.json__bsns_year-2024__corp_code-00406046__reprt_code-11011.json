@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) \n해외매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 해외매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 추정의 불확실성 및 중요한우발상황의 존재",
+      "core_adt_matter": "(1) 현금창출단위 자산 손상검사\n및 환입검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 추정의 불확실성 및 중요한우발상황의 존재\n(2) 중단영업손익",
+      "core_adt_matter": "(1) 현금창출단위 자산 손상검사\n및 환입검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 추정의 불확실성 및 중요한우발상황의 존재",
+      "core_adt_matter": "(1) 현금창출단위 자산 손상검사\n및 환입검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 추정의 불확실성 및 중요한우발상황의 존재\n(2) 중단영업손익",
+      "core_adt_matter": "(1) 현금창출단위 자산 손상검사\n및 환입검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

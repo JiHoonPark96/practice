@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230502000018",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "se": "소액주주",
+      "shrholdr_co": "169,735",
+      "shrholdr_tot_co": "177,324",
+      "shrholdr_rate": "95.72%",
+      "hold_stock_co": "31,379,163",
+      "stock_tot_co": "55,184,990",
+      "hold_stock_rate": "56.86%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

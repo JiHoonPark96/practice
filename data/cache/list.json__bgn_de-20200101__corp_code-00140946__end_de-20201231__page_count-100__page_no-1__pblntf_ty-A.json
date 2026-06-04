@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_code": "009180",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201112000287",
+      "flr_nm": "한솔로지스틱스",
+      "rcept_dt": "20201112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_code": "009180",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200813000401",
+      "flr_nm": "한솔로지스틱스",
+      "rcept_dt": "20200813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_code": "009180",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200514000976",
+      "flr_nm": "한솔로지스틱스",
+      "rcept_dt": "20200514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_code": "009180",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330002411",
+      "flr_nm": "한솔로지스틱스",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    }
+  ]
+}

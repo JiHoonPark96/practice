@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "se": "소액주주",
+      "shrholdr_co": "129,688",
+      "shrholdr_tot_co": "129,696",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "8,094,399",
+      "stock_tot_co": "15,618,197",
+      "hold_stock_rate": "51.83%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

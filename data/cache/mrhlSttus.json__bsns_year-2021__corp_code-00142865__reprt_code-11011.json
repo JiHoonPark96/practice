@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000365",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "se": "소액주주",
+      "shrholdr_co": "7,952",
+      "shrholdr_tot_co": "7,966",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "6,318,421",
+      "stock_tot_co": "15,326,438",
+      "hold_stock_rate": "41.23%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

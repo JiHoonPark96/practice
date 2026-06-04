@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000903",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "stock_knd": "보통주",
+      "nm": "(주)넥센",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "43,904,000",
+      "bsis_posesn_stock_qota_rt": "44.95",
+      "trmend_posesn_stock_co": "43,904,000",
+      "trmend_posesn_stock_qota_rt": "44.95",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000903",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "stock_knd": "보통주",
+      "nm": "강병중",
+      "relate": "대표이사 회장",
+      "bsis_posesn_stock_co": "19,001,000",
+      "bsis_posesn_stock_qota_rt": "19.45",
+      "trmend_posesn_stock_co": "19,001,000",
+      "trmend_posesn_stock_qota_rt": "19.45",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000903",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "stock_knd": "보통주",
+      "nm": "강호찬",
+      "relate": "대표이사 \n부회장",
+      "bsis_posesn_stock_co": "3,174,000",
+      "bsis_posesn_stock_qota_rt": "3.25",
+      "trmend_posesn_stock_co": "3,174,000",
+      "trmend_posesn_stock_qota_rt": "3.25",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000903",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "66,079,000",
+      "bsis_posesn_stock_qota_rt": "67.65",
+      "trmend_posesn_stock_co": "66,079,000",
+      "trmend_posesn_stock_qota_rt": "67.65",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000903",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000929",
+      "corp_cls": "Y",
+      "corp_code": "00413046",
+      "corp_name": "셀트리온",
+      "bsns_year": "제34기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "국문,영문\n분반기검토 및 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,920",
+      "adt_cntrct_dtls_time": "22,710",
+      "real_exc_dtls_mendng": "2,920",
+      "real_exc_dtls_time": "22,576",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000929",
+      "corp_cls": "Y",
+      "corp_code": "00413046",
+      "corp_name": "셀트리온",
+      "bsns_year": "제33기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "국문,영문\n분반기검토 및 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,910",
+      "adt_cntrct_dtls_time": "14,400",
+      "real_exc_dtls_mendng": "1,910",
+      "real_exc_dtls_time": "14,202",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000929",
+      "corp_cls": "Y",
+      "corp_code": "00413046",
+      "corp_name": "셀트리온",
+      "bsns_year": "제32기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "국문,영문\n분반기검토 및 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,050",
+      "adt_cntrct_dtls_time": "9,000",
+      "real_exc_dtls_mendng": "1,050",
+      "real_exc_dtls_time": "9,691",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

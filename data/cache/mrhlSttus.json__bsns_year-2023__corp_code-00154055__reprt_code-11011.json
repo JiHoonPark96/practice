@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000726",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "se": "소액주주",
+      "shrholdr_co": "1,842",
+      "shrholdr_tot_co": "1,863",
+      "shrholdr_rate": "98.8%",
+      "hold_stock_co": "2,093,149",
+      "stock_tot_co": "7,600,000",
+      "hold_stock_rate": "27.5%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

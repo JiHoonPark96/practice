@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003344",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "bsns_year": "제52기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n(2) PF 사업장의 건설계약과 관련한 수취채권 회수가능성\n및 보증채무의 현실화 가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003344",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "bsns_year": "제52기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n(2) PF 사업장의 건설계약과 관련한 수취채권 회수가능성\n및 보증채무의 현실화 가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003344",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "bsns_year": "제51기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 상장폐지사유발생\n(2) 금융채권자협의회의 공동관리절차 개시\n(3) 재무제표 재작성\n(4) 회계정책의 변경",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n(2) PF 사업장의 건설계약과 관련한 수취채권 회수가능성\n및 보증채무의 현실화 가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003344",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "bsns_year": "제51기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 상장폐지사유발생\n(2) 금융채권자협의회의 공동관리절차 개시\n(3) 재무제표 재작성\n(4) 회계정책의 변경",
+      "core_adt_matter": "(1) 투입법에 따른 수익인식\n(2) PF 사업장의 건설계약과 관련한 수취채권 회수가능성\n및 보증채무의 현실화 가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003344",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 총예정원가 추정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003344",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 총예정원가 추정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

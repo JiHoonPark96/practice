@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001221",
+      "corp_cls": "Y",
+      "corp_code": "00111689",
+      "corp_name": "아진전자부품",
+      "se": "소액주주",
+      "shrholdr_co": "26,482",
+      "shrholdr_tot_co": "26,486",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "31,478,376",
+      "stock_tot_co": "47,646,375",
+      "hold_stock_rate": "66.1%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

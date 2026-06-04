@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000260",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제3기(2020년)",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260",
+      "adt_cntrct_dtls_time": "3,212",
+      "real_exc_dtls_mendng": "260",
+      "real_exc_dtls_time": "3,212",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000260",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제2기(2019년)",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "2,272 ",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "2,272 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000260",
+      "corp_cls": "Y",
+      "corp_code": "01325979",
+      "corp_name": "세아제강",
+      "bsns_year": "제1기(2018년)",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "672 ",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "672 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

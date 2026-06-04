@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000393",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제60기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기·결산 재무제표검토 및\n개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "41,000천원",
+      "adt_cntrct_dtls_time": "536시간",
+      "real_exc_dtls_mendng": "41,000천원",
+      "real_exc_dtls_time": "740시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000393",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제59기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기·결산 재무제표검토 및\n개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "41,000천원",
+      "adt_cntrct_dtls_time": "536시간",
+      "real_exc_dtls_mendng": "41,000천원",
+      "real_exc_dtls_time": "666시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000393",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기·결산 재무제표검토 및\n개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "38,000천원",
+      "adt_cntrct_dtls_time": "536시간",
+      "real_exc_dtls_mendng": "38,000천원",
+      "real_exc_dtls_time": "536시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

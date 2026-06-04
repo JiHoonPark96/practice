@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240306000534",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제6기(당기)\n(2023년 1~12월)",
+      "cntrct_cncls_de": "2023.02.16\n2023.05.22\n2023.01.01\n2023.04.19",
+      "servc_cn": "2022년 법인세 세무조정\n재무정보에 대한 합의된 절차 수행업무\nHyosung Vina Chemicals Co., Ltd. 세무자문\nHyosung Vina Chemicals Co., Ltd. 이전가격문서화",
+      "servc_exc_pd": "23.3.2 ~ 23.3.31\n23.5.22 ~ 용역완료시\n23.1.1 ~ 23.12.31\n23.4.19 ~ 24.3.31",
+      "servc_mendng": "16백만원\n1백만원\n\nVND 180백만\nVND 693백만",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240306000534",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제5기(전기)\n(2022년 1~12월)",
+      "cntrct_cncls_de": "2022.02.28\n2022.03.26",
+      "servc_cn": "베트남법인 세무검토\n2021년 법인세 세무조정",
+      "servc_exc_pd": "22.2.28 ~ 22.9.30\n22.3.2 ~ 22.3.31",
+      "servc_mendng": "89백만원\n16백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240306000534",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제4기(전전기)\n(2021년 1~12월)",
+      "cntrct_cncls_de": "2021.03.26\n2021.06.09\n2021.02.01\n2021.09.24",
+      "servc_cn": "2020년 법인세 세무조정\n해외법인 거래 세무자문\nHyosung Vina Chemicals Co., Ltd. 세무, 법무자문\nHyosung Vina Chemicals Co., Ltd. 이전가격문서화",
+      "servc_exc_pd": "21.3.2 ~ 21.3.31\n21.3.16 ~ 용역완료시\n21.2.1 ~ 22.1.31\n21.9.24 ~ 용역완료시",
+      "servc_mendng": "16백만원\n30백만원\nVND 240백만\nVND 723백만",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

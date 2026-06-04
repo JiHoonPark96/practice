@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000676",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "bsns_year": "제59기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "반기,별도,연결재무제표등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190",
+      "adt_cntrct_dtls_time": "2,135",
+      "real_exc_dtls_mendng": "190",
+      "real_exc_dtls_time": "2,135",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000676",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "bsns_year": "제58기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기,별도,연결재무제표등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,907",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,907",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000676",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기,별도,연결재무제표등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,849",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,849",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

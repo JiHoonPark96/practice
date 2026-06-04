@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제65기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식(Contera Pharma A/S) 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제65기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업(ProteKt Therapeutics)과 관련한 무형자산 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제64기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식(Contera Pharma A/S) 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제64기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업(Contera Pharma A/S)과 관련한 무형자산 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제63기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식(Contera Pharma A/S) 손상 검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제63기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업(Contera Pharma A/S)과 관련한 무형자산 손상 검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

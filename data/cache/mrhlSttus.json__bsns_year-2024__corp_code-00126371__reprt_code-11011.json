@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001190",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "se": "소액주주",
+      "shrholdr_co": "225,811",
+      "shrholdr_tot_co": "225,821",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "50,338,483",
+      "stock_tot_co": "74,693,696",
+      "hold_stock_rate": "67.39%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

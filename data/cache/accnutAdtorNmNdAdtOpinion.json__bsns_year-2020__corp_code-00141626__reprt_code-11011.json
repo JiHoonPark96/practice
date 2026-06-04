@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200629000463",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제63기(당기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(투자부동산 포함) 평가 및 분류의 적정성",
+      "stlm_dt": "2020-03-31"
+    },
+    {
+      "rcept_no": "20200629000463",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제62기(전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-03-31"
+    },
+    {
+      "rcept_no": "20200629000463",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-03-31"
+    }
+  ]
+}

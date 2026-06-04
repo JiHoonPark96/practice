@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230324000003",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기,중간,기말,연결감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450,000천원",
+      "adt_cntrct_dtls_time": "3,104",
+      "real_exc_dtls_mendng": "450,000천원",
+      "real_exc_dtls_time": "3,353",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324000003",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제56기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기,중간,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330,000천원",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "380,000천원",
+      "real_exc_dtls_time": "3,036",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324000003",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "전기,반기,중간,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340,000천원",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "520,000천원",
+      "real_exc_dtls_time": "3,780",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

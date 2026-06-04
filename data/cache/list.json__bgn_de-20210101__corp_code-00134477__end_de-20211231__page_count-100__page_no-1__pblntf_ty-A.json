@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211110000347",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20211110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210810000180",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20210810",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210511000640",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20210511",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210218001086",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20210218",
+      "rm": "연"
+    }
+  ]
+}

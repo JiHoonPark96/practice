@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230410003453",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 55 기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "법인세 회계처리의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230410003453",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 54 기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "법인세 회계처리의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230410003453",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 53 기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "법인세 회계처리의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

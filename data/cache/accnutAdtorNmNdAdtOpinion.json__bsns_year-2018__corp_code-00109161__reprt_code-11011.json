@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003142",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003142",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제48기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003142",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제47기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

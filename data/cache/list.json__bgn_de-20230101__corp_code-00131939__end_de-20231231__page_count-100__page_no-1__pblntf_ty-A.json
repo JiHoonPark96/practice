@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20231229000030",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20231229",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114000087",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814001189",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515000810",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230327000475",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20230327",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230323001431",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20230323",
+      "rm": "정연"
+    }
+  ]
+}

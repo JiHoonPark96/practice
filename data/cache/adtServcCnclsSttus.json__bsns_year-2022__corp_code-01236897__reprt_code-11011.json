@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001404",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "bsns_year": "제6기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사, \n반기재무제표 검토 및 \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270,000",
+      "adt_cntrct_dtls_time": "1,760",
+      "real_exc_dtls_mendng": "270,000",
+      "real_exc_dtls_time": "1,816",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001404",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사, \n반기재무제표 검토 및 \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270,000",
+      "adt_cntrct_dtls_time": "1,760",
+      "real_exc_dtls_mendng": "270,000",
+      "real_exc_dtls_time": "1,678",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001404",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기재무제표 검토 및\n기말 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "1,597",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "1,642",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240327001197",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "보통주",
+      "nm": "주식회사 아이티센",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "30,262,867",
+      "bsis_posesn_stock_qota_rt": "25.00",
+      "trmend_posesn_stock_co": "30,262,867",
+      "trmend_posesn_stock_qota_rt": "25.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001197",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "보통주",
+      "nm": "권창완",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "33,728",
+      "bsis_posesn_stock_qota_rt": "0.03",
+      "trmend_posesn_stock_co": "33,728",
+      "trmend_posesn_stock_qota_rt": "0.03",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001197",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "30,296,595",
+      "bsis_posesn_stock_qota_rt": "25.03",
+      "trmend_posesn_stock_co": "30,296,595",
+      "trmend_posesn_stock_qota_rt": "25.03",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001197",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

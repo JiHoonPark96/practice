@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191113000228",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20191113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190813000342",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20190813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190527000441",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20190527",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190516000313",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20190516",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515000351",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00105606",
+      "corp_name": "금호에이치티",
+      "stock_code": "214330",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401002920",
+      "flr_nm": "금호에이치티",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

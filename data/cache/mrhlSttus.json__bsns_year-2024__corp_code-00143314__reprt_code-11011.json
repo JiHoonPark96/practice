@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001897",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "se": "소액주주",
+      "shrholdr_co": "7,032",
+      "shrholdr_tot_co": "7,042",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "18,411,575",
+      "stock_tot_co": "45,116,894",
+      "hold_stock_rate": "40.82%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

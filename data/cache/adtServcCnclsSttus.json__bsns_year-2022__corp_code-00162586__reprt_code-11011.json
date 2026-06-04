@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000255",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "bsns_year": "제50기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 및 연간 별도재무제표,\n반기 및 연간 연결재무제표,\n내부회계관리제도 운용 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "239,000,000",
+      "adt_cntrct_dtls_time": "1,989",
+      "real_exc_dtls_mendng": "239,000,000",
+      "real_exc_dtls_time": "2,379",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000255",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "bsns_year": "제49기(전기)",
+      "adtor": "EY한영회계법인",
+      "cn": "반기 및 연간 별도재무제표,\n반기 및 연간 연결재무제표,\n내부회계관리제도의 운용검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "129,828,000",
+      "adt_cntrct_dtls_time": "1,396",
+      "real_exc_dtls_mendng": "129,828,000",
+      "real_exc_dtls_time": "1,315",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000255",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "EY한영회계법인",
+      "cn": "반기 및 연간 별도재무제표,\n반기 및 연간 연결재무제표,\n내부회계관리제도의 운용검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125,640,000",
+      "adt_cntrct_dtls_time": "1,396",
+      "real_exc_dtls_mendng": "125,640,000",
+      "real_exc_dtls_time": "1,340",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

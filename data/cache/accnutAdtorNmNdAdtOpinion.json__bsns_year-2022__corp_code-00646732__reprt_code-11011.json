@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000841",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제15기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항이\n없다고 결정",
+      "core_adt_matter": "금융상품 평가방법론 및 평가를 위한 투입변수\n(할인율, 주가, 지수 및 개별 변수의 변동성과 개별 변수 간 상관계수 등)\n를 잘못 적용하여 공정가치가 왜곡될 위험",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000841",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제14기(전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항\n이 없다고 결정",
+      "core_adt_matter": "핵심감사사항이\n없다고 결정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000841",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항\n이 없다고 결정",
+      "core_adt_matter": "핵심감사사항이\n없다고 결정",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "stock_code": "011280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191113000601",
+      "flr_nm": "태림포장",
+      "rcept_dt": "20191113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "stock_code": "011280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190823000347",
+      "flr_nm": "태림포장",
+      "rcept_dt": "20190823",
+      "rm": ""
+    },
+    {
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "stock_code": "011280",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190823000331",
+      "flr_nm": "태림포장",
+      "rcept_dt": "20190823",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "stock_code": "011280",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190813000252",
+      "flr_nm": "태림포장",
+      "rcept_dt": "20190813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "stock_code": "011280",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190514001095",
+      "flr_nm": "태림포장",
+      "rcept_dt": "20190514",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "stock_code": "011280",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004584",
+      "flr_nm": "태림포장",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

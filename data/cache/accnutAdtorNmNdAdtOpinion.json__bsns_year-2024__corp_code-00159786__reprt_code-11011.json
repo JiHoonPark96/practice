@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제45기 \n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "화학사업부 수출 매출의 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제45기 \n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "화학사업부 수출 매출의 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제44기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "화학사업부 수출 매출의 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제44기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "화학사업부 수출 매출의 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제43기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "화학사업부 수출 매출의 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제43기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "화학사업부 수출 매출의 기간귀속 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

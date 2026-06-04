@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "se": "소액주주",
+      "shrholdr_co": "7,002",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.73%",
+      "hold_stock_co": "102,960,953",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "51.17%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

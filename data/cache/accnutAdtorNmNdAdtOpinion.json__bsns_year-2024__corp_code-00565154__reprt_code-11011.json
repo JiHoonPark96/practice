@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001237",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001237",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001237",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001237",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001237",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "대규모기업집단 내 특수관계자 거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001237",
+      "corp_cls": "Y",
+      "corp_code": "00565154",
+      "corp_name": "이노션",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

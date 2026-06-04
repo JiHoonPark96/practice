@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제13기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "관계기업투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제13기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "관계기업투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제12기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제12기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제11기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "유의적인 보고기간 후 사건 \n전기 비교재무제표 재작성",
+      "core_adt_matter": "제품 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001355",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제11기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "유의적인 보고기간 후 사건 \n전기 비교재무제표 재작성",
+      "core_adt_matter": "제품 재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

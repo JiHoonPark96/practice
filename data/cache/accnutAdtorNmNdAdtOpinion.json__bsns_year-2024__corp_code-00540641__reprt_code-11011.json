@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001272",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운수사업부문 사업용자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001272",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운수사업부문 사업용자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001272",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운수사업부문 사업용자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001272",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "운수사업부문 사업용자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001272",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19영향",
+      "core_adt_matter": "운수사업부문 사업용자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001272",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19영향",
+      "core_adt_matter": "운수사업부문 사업용자산 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

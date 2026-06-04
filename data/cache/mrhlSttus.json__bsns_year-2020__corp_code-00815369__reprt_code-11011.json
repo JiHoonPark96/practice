@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001217",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "se": "소액주주",
+      "shrholdr_co": "5,161",
+      "shrholdr_tot_co": "5,170",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "5,277,459",
+      "stock_tot_co": "15,604,898",
+      "hold_stock_rate": "33.82%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

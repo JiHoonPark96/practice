@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2021.04.20",
+      "servc_cn": "PA",
+      "servc_exc_pd": "8개월",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230724000235",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2021.09.09",
+      "servc_cn": "내부회계고도화",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

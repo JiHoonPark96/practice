@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200331002450",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "해당사항 없음",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002450",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "bsns_year": "제39기(전기)",
+      "cntrct_cncls_de": "해당사항 없음",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002450",
+      "corp_cls": "Y",
+      "corp_code": "00140955",
+      "corp_name": "한솔케미칼",
+      "bsns_year": "제38기(전전기)",
+      "cntrct_cncls_de": "해당사항 없음",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

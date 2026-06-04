@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "보통주식",
+      "nm": "KDB산업은행",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "59,738,211",
+      "bsis_posesn_stock_qota_rt": "56.00",
+      "trmend_posesn_stock_co": "59,738,211",
+      "trmend_posesn_stock_qota_rt": "55.70",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "보통주식",
+      "nm": "정성립",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "7,456",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "7,456",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "보통주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "59,745,667",
+      "bsis_posesn_stock_qota_rt": "56.00",
+      "trmend_posesn_stock_co": "59,745,667",
+      "trmend_posesn_stock_qota_rt": "55.70",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "stock_knd": "우선주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401005121",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "se": "소액주주",
+      "shrholdr_co": "7,078",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "13,915,754",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "38.72%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

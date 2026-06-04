@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000965",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식 등 회사의 회계정책\n2) 총계약원가에 대한 추정의 불확실성\n3) 산정된 공사진행률의 적정성\n4) 계약자산의 회수가능성\n5) 현금창출단위의 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000965",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식\n2) 계약자산의 회수가능성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000965",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식\n2) 계약자산의 회수가능성",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

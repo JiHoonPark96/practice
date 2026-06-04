@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001095",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자 MDS테크 회수가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001095",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 MDS테크 CGU 의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001095",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자(MDS테크)의 회수가능액 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001095",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권을 포함한 현금창출단위(MDS테크) 의 회수가능액 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001095",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속회사투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001095",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권의 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001372",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 4기 (당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중요한 회계추정 및 가정은 광주사고로 인한 영업정지\n및 신용등급 하락 가능성의 변동에 따라 조정가능성 있음",
+      "core_adt_matter": " - 투입법에 따른 수익인식\n - 신용손상의 징후 발생 현장에 대한 금융자산 등의 회수가능성\n - 광주화정아이파크사고 관련 충당부채의 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001372",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 3기 (전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 신용손상의 징후 발생 현장에 대한 금융자산 회수가능성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001372",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 2기 (전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 신용손상의 징후 발생 현장에 대한 금융자산 회수가능성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

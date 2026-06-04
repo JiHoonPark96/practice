@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003195",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제110기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분, 반기, 지점 기중감사, 연도말 감사",
+      "mendng": "650",
+      "tot_reqre_time": "9,874시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003195",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제109기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분, 반기, 지점 기중감사, 연도말 감사",
+      "mendng": "404",
+      "tot_reqre_time": "6,740시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003195",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "bsns_year": "제108기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분, 반기, 지점 기중감사, 연도말 감사",
+      "mendng": "285",
+      "tot_reqre_time": "4,365시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

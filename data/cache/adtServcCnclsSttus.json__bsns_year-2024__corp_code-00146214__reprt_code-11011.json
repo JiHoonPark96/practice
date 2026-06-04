@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002739",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "bsns_year": "제65기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "재무제표에 대한\n감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "173",
+      "adt_cntrct_dtls_time": "1,495",
+      "real_exc_dtls_mendng": "173",
+      "real_exc_dtls_time": "1,445",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002739",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "bsns_year": "제64기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "재무제표에 대한\n감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "173",
+      "adt_cntrct_dtls_time": "1,495",
+      "real_exc_dtls_mendng": "173",
+      "real_exc_dtls_time": "1,503",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002739",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "재무제표에 대한\n감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "99",
+      "adt_cntrct_dtls_time": "1,494",
+      "real_exc_dtls_mendng": "99",
+      "real_exc_dtls_time": "1,473",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

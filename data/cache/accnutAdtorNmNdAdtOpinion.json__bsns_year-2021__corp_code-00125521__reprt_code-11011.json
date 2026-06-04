@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220930000533",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정 ",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 현금창출단위에 대한 손상평가\n- 종속/관계기업에 대한 손상검토\n- 재고자산 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220930000533",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정 ",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산 평가\n- 충당부채의 측정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220930000533",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결기업의 종속기업인 SL LUMAX LTD.의 \n2018년 재무제표 오류로 인한 전기오류수정",
+      "core_adt_matter": "- 매출채권 손실충당금\n- 재고자산 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001248",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제6기(당)기",
+      "adtor": "한영 회계법인",
+      "cn": "분기,반기,개별,연결재무제표와 영문보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "463",
+      "adt_cntrct_dtls_time": "5,095",
+      "real_exc_dtls_mendng": "463",
+      "real_exc_dtls_time": "5,095",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001248",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제5기(전기)",
+      "adtor": "한영 회계법인",
+      "cn": "분기,반기,개별,연결재무제표와 영문보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360",
+      "adt_cntrct_dtls_time": "4,155",
+      "real_exc_dtls_mendng": "360",
+      "real_exc_dtls_time": "4,155",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001248",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼일 회계법인",
+      "cn": "분기,반기,개별,연결재무제표와 영문보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "4,455",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "4,455",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

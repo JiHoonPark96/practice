@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328001604",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출액 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001604",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출액 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001604",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 수익인식\n2. 총계약원가 추정의 불확실성\n3. 진행율 산정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001604",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 수익인식\n2. 총계약원가 추정의 불확실성\n3. 진행율 산정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001604",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 수익인식\n2. 총계약원가 추정의 불확실성\n3. 진행율 산정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001604",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 수익인식\n2. 총계약원가 추정의 불확실성\n3. 진행율 산정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000789",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표에 대한 감사 및 검토,순자본비율 검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410",
+      "adt_cntrct_dtls_time": "4,031",
+      "real_exc_dtls_mendng": "410",
+      "real_exc_dtls_time": "4,350",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000789",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제71기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표에 대한 감사 및 검토,\n순자본비율 검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410",
+      "adt_cntrct_dtls_time": "4,031",
+      "real_exc_dtls_mendng": "410",
+      "real_exc_dtls_time": "4,275",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000789",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표에 대한 감사 및 검토,\n순자본비율 검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "510",
+      "adt_cntrct_dtls_time": "4,250",
+      "real_exc_dtls_mendng": "510",
+      "real_exc_dtls_time": "5,242",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

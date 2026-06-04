@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제05기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제05기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제04기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제04기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제05기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001375",
+      "corp_cls": "Y",
+      "corp_code": "01267684",
+      "corp_name": "쿠쿠홈시스",
+      "bsns_year": "제05기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

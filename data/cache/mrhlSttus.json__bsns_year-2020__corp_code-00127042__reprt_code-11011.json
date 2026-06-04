@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001144",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "se": "소액주주",
+      "shrholdr_co": "5,010",
+      "shrholdr_tot_co": "5,022",
+      "shrholdr_rate": "99.76%",
+      "hold_stock_co": "851,651",
+      "stock_tot_co": "3,000,000",
+      "hold_stock_rate": "28.38%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "308,551",
+      "shrholdr_tot_co": "308,619",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "49,942,837",
+      "stock_tot_co": "75,625,572",
+      "hold_stock_rate": "66.04%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

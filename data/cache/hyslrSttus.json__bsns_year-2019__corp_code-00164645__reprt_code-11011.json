@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "보통주",
+      "nm": "한국산업은행",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "41,199,297",
+      "bsis_posesn_stock_qota_rt": "13.13",
+      "trmend_posesn_stock_co": "41,199,297",
+      "trmend_posesn_stock_qota_rt": "12.94",
+      "rm": "유상증자참여",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "보통주",
+      "nm": "한국해양진흥공사(*)",
+      "relate": "최대주주의특수관계인",
+      "bsis_posesn_stock_co": "13,943,850",
+      "bsis_posesn_stock_qota_rt": "4.45",
+      "trmend_posesn_stock_co": "13,943,850",
+      "trmend_posesn_stock_qota_rt": "4.38",
+      "rm": "제3자유상증자",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "55,143,147",
+      "bsis_posesn_stock_qota_rt": "17.58",
+      "trmend_posesn_stock_co": "55,143,147",
+      "trmend_posesn_stock_qota_rt": "17.32",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

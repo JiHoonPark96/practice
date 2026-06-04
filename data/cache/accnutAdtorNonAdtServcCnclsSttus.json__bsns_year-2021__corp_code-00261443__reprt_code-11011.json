@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000959",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2021.01.22",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2021.01.22~2021.03.31",
+      "servc_mendng": "23",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000959",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2020.01.30",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2020.01.30~2020.03.31",
+      "servc_mendng": "23",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000959",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2017.12.11",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2017.12.11~2021.03.31",
+      "servc_mendng": "25",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000959",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2019.09.09",
+      "servc_cn": "BEPS Compliance",
+      "servc_exc_pd": "2019.09.09~2020.03.25",
+      "servc_mendng": "40",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

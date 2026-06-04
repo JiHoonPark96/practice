@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000800",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에 영향을 미치지 않는 사항으로서 이용자는 주석 3에 주의를 기울여야 할 필요가 있습니다. 주석 3은 경영진이 COVID-19(코로나바이러스감염증-19)의 확산이 연결회사의 생산능력 및 재무상태 등에 미칠 수 있는 영향의 불확실성을 설명합니다.",
+      "core_adt_matter": "현금창출단위 손상검사\n종속기업투자 손상검사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000800",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상검사\n수익인식의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000800",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000356",
+      "corp_cls": "Y",
+      "corp_code": "01128613",
+      "corp_name": "화승엔터프라이즈",
+      "se": "소액주주",
+      "shrholdr_co": "11,171",
+      "shrholdr_tot_co": "11,180",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "12,985,889",
+      "stock_tot_co": "60,570,805",
+      "hold_stock_rate": "21.44%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

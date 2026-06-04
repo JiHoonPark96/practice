@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220422000699",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "보통주",
+      "nm": "(주)대양홀딩스컴퍼니",
+      "relate": "본인 ",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "7,326,007",
+      "trmend_posesn_stock_qota_rt": "24.78",
+      "rm": "주2)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220422000699",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "우선주",
+      "nm": "이옥순",
+      "relate": "대표\n이사",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "793,308",
+      "trmend_posesn_stock_qota_rt": "6.22",
+      "rm": "주1)\n주2)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220422000699",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "7,326,007",
+      "trmend_posesn_stock_qota_rt": "24.78",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220422000699",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "793,308",
+      "trmend_posesn_stock_qota_rt": "6.22",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

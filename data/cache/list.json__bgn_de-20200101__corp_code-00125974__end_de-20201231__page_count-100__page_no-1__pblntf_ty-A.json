@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001048",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001888",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515000683",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20200515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330002690",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20200330",
+      "rm": "정연"
+    }
+  ]
+}

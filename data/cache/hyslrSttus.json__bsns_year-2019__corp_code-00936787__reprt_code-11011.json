@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001789",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_knd": "보통주",
+      "nm": "에이케이홀딩스(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "14,253,510",
+      "bsis_posesn_stock_qota_rt": "44.49",
+      "trmend_posesn_stock_co": "14,858,310",
+      "trmend_posesn_stock_qota_rt": "46.37",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001789",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_knd": "보통주",
+      "nm": "김태윤",
+      "relate": "계열사 임원",
+      "bsis_posesn_stock_co": "5,000",
+      "bsis_posesn_stock_qota_rt": "0.02",
+      "trmend_posesn_stock_co": "5,000",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001789",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "14,258,510",
+      "bsis_posesn_stock_qota_rt": "44.50",
+      "trmend_posesn_stock_co": "14,863,310",
+      "trmend_posesn_stock_qota_rt": "46.39",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001789",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

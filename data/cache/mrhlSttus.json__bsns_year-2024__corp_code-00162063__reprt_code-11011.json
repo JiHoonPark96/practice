@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002318",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "se": "소액주주",
+      "shrholdr_co": "13,803",
+      "shrholdr_tot_co": "13,809",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "6,740,502",
+      "stock_tot_co": "11,570,702",
+      "hold_stock_rate": "58.25%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

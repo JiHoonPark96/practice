@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001010",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000487",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517001795",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210318000956",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210318",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20210316001218",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210316",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.09)",
+      "rcept_no": "20210316001070",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210316",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2020.06)",
+      "rcept_no": "20210316001057",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210316",
+      "rm": ""
+    },
+    {
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "stock_code": "344820",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20210316001047",
+      "flr_nm": "케이씨씨글라스",
+      "rcept_dt": "20210316",
+      "rm": "정"
+    }
+  ]
+}

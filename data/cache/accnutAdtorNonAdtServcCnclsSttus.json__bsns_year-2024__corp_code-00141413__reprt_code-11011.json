@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000559",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "25.03.05",
+      "servc_cn": "2024년 사업년도 세무조정",
+      "servc_exc_pd": "25.03.10-25.03.31",
+      "servc_mendng": "11,000,000",
+      "rm": "대주회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000559",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "24.03.05",
+      "servc_cn": "2023년 사업년도 세무조정",
+      "servc_exc_pd": "24.03.10-24.03.31",
+      "servc_mendng": "11,000,000",
+      "rm": "대주회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000559",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "23.03.05",
+      "servc_cn": "2022년 사업년도 세무조정",
+      "servc_exc_pd": "23.03.10-23.03.31",
+      "servc_mendng": "11,000,000",
+      "rm": "대주회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

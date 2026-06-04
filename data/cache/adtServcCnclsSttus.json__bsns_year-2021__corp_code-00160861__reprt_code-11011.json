@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000292",
+      "corp_cls": "Y",
+      "corp_code": "00160861",
+      "corp_name": "한농화성",
+      "bsns_year": "제46기(당기)",
+      "adtor": "정진세림\n회계법인",
+      "cn": "반기,중간검토/ 결산감사등 정기 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "158백만원",
+      "adt_cntrct_dtls_time": "1,413시간",
+      "real_exc_dtls_mendng": "158백만원",
+      "real_exc_dtls_time": "1,302시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000292",
+      "corp_cls": "Y",
+      "corp_code": "00160861",
+      "corp_name": "한농화성",
+      "bsns_year": "제45기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기,중간검토/ 결산감사등 정기 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100백만원",
+      "adt_cntrct_dtls_time": "1,000시간",
+      "real_exc_dtls_mendng": "100백만원",
+      "real_exc_dtls_time": "1,198시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000292",
+      "corp_cls": "Y",
+      "corp_code": "00160861",
+      "corp_name": "한농화성",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기,중간검토/ 결산감사등 정기 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100백만원",
+      "adt_cntrct_dtls_time": "1,100시간",
+      "real_exc_dtls_mendng": "100백만원",
+      "real_exc_dtls_time": "1,102시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

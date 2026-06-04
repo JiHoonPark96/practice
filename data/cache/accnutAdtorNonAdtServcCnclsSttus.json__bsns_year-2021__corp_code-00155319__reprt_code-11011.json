@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제54기(당기)",
+      "cntrct_cncls_de": "'21.12.07",
+      "servc_cn": "분할계획서에 포함되는 분할 재무상태표에 대한 검토보고서 작성",
+      "servc_exc_pd": "'21.11.22~'21.12.23",
+      "servc_mendng": "200백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제54기(당기)",
+      "cntrct_cncls_de": "'21.08.13",
+      "servc_cn": "Comfort Letter 발행",
+      "servc_exc_pd": "'21.08.13~'21.09.01",
+      "servc_mendng": "180백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제54기(당기)",
+      "cntrct_cncls_de": "'21.04.01",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'21.04.01~'22.03.31",
+      "servc_mendng": "95백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제53기(전기)",
+      "cntrct_cncls_de": "'20.07.02",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'20.04.01~'21.03.31",
+      "servc_mendng": "95백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "'19.10.14",
+      "servc_cn": "Comfort Letter 발행",
+      "servc_exc_pd": "'19.10.14~'20.01.17",
+      "servc_mendng": "258백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "'19.07.23",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'19.04.01~'20.03.31",
+      "servc_mendng": "95백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221114000599",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "'19.05.15",
+      "servc_cn": "Comfort Letter 발행",
+      "servc_exc_pd": "'19.05.15~'19.07.15",
+      "servc_mendng": "164백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

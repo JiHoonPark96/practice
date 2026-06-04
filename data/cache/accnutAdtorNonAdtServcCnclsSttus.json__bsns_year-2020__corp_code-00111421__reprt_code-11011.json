@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001215",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제52기\n(2020년)",
+      "cntrct_cncls_de": "2020.03.19",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2021.01.01-2021.04.30",
+      "servc_mendng": "16,000천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001215",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제51기\n(2019년)",
+      "cntrct_cncls_de": "2019.04.30",
+      "servc_cn": "법인세 세무조정 ",
+      "servc_exc_pd": "2020.01.01-2020.04.30",
+      "servc_mendng": "10,000천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001215",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제50기\n(2018년)",
+      "cntrct_cncls_de": "2018.04.30",
+      "servc_cn": "법인세 세무조정 ",
+      "servc_exc_pd": "2019.01.01-2019.04.30",
+      "servc_mendng": "10,000천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

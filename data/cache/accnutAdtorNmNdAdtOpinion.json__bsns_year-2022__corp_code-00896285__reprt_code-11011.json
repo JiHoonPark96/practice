@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001060",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수익인식과 관련된 부정위험 평가\n삼양패키징 관련 영업권 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001060",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "삼양패키징 관련 영업권 손상평가\n화학 수출매출의 발생",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001060",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "종속기업 관련 영업권 손상평가\n식품 내수매출 및 화학 수출매출의 발생",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

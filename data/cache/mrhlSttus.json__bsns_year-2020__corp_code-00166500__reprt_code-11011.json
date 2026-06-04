@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000728",
+      "corp_cls": "Y",
+      "corp_code": "00166500",
+      "corp_name": "화천기계",
+      "se": "소액주주",
+      "shrholdr_co": "10,060",
+      "shrholdr_tot_co": "10,066",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "12,201,840",
+      "stock_tot_co": "22,000,000",
+      "hold_stock_rate": "55.46%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329003575",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제63기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적  정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- \n파생상품자산의 가치평가, \n관계기업투자주식 취득 관련 매수가격배분",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003575",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제62기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적  정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 파생상품자산의 가치평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003575",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제61기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적  정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 파생상품자산의 가치평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

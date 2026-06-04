@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240516002209",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제58기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당사항 없음",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20240516002209",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제57기",
+      "cntrct_cncls_de": "2019.10.30",
+      "servc_cn": "국고보조금에 의한 이월결손금 보전 관련 세무자문",
+      "servc_exc_pd": "2019.11 ~ 2019.12",
+      "servc_mendng": "500",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20240516002209",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제56기",
+      "cntrct_cncls_de": "2018.04.30",
+      "servc_cn": "해외채권발행 관련 Comfort Letter",
+      "servc_exc_pd": "2018.04 ~ 2018.05",
+      "servc_mendng": "140",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

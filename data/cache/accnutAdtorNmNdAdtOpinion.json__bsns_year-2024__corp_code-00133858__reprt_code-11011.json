@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수출매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수출매출의 기간귀속\n금융상품의 분류 및 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수출매출의 기간귀속\n금융상품의 분류 및 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

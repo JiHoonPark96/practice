@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003986",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제8기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제품 재고자산의 평가,\n종속기업 투자주식(Chongqing Hankook Tire Co.,Ltd)의 손상검사",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003986",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제7기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제품 재고자산의 평가,\n모델솔루션(주) 사업결합 시 매수가격 배분의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003986",
+      "corp_cls": "Y",
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

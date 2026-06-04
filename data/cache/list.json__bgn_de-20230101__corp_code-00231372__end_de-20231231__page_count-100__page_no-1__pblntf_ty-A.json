@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "stock_code": "032350",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231110000594",
+      "flr_nm": "롯데관광개발",
+      "rcept_dt": "20231110",
+      "rm": ""
+    },
+    {
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "stock_code": "032350",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811002458",
+      "flr_nm": "롯데관광개발",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "stock_code": "032350",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230512001445",
+      "flr_nm": "롯데관광개발",
+      "rcept_dt": "20230512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "stock_code": "032350",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230418000483",
+      "flr_nm": "롯데관광개발",
+      "rcept_dt": "20230418",
+      "rm": ""
+    },
+    {
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "stock_code": "032350",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230316001517",
+      "flr_nm": "롯데관광개발",
+      "rcept_dt": "20230316",
+      "rm": "정연"
+    }
+  ]
+}

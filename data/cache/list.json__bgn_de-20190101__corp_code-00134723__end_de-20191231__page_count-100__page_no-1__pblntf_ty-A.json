@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_code": "001020",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114000888",
+      "flr_nm": "페이퍼코리아",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_code": "001020",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002097",
+      "flr_nm": "페이퍼코리아",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_code": "001020",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190814002065",
+      "flr_nm": "페이퍼코리아",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_code": "001020",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190814002034",
+      "flr_nm": "페이퍼코리아",
+      "rcept_dt": "20190814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_code": "001020",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001961",
+      "flr_nm": "페이퍼코리아",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_code": "001020",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004724",
+      "flr_nm": "페이퍼코리아",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813001273",
+      "corp_cls": "Y",
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "se": "소액주주",
+      "shrholdr_co": "15,302",
+      "shrholdr_tot_co": "15,313",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "12,331,762",
+      "stock_tot_co": "33,720,000",
+      "hold_stock_rate": "36.57%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

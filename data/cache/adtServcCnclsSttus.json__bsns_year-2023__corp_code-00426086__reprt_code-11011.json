@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001436",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제22기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "-제22기 연간,반/분기 별도/연결\n  재무제표 감사 및 검토-제22기 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310 ",
+      "adt_cntrct_dtls_time": "3,100 ",
+      "real_exc_dtls_mendng": "310 ",
+      "real_exc_dtls_time": "3,386",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001436",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제21기\n(전기)",
+      "adtor": "안진회계법인",
+      "cn": "-제21기 연간,반/분기 개별\n  재무제표 감사 및 검토-제21기 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "   446",
+      "adt_cntrct_dtls_time": "  3,840",
+      "real_exc_dtls_mendng": "   446",
+      "real_exc_dtls_time": "  3,818",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001436",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제20기\n(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "-제20기 연간,반/분기 별도/연결    재무제표 감사 및 검토-제20기 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "471",
+      "adt_cntrct_dtls_time": "4,040",
+      "real_exc_dtls_mendng": "471",
+      "real_exc_dtls_time": "3,904",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

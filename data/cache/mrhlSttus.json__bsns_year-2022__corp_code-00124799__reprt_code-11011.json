@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001388",
+      "corp_cls": "Y",
+      "corp_code": "00124799",
+      "corp_name": "사조산업",
+      "se": "소액주주",
+      "shrholdr_co": "6,601",
+      "shrholdr_tot_co": "6,612",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "1,993,357",
+      "stock_tot_co": "5,000,000",
+      "hold_stock_rate": "39.87%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

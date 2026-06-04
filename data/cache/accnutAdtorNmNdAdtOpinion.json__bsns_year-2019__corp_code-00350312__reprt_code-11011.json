@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003567",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "bsns_year": "제21기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "투입법에 따른 수익인식의 정확성 및 발생사실",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003567",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "bsns_year": "제20기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "투입법에 따른 수익인식의 정확성 및 발생사실",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003567",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "투입법에 따른 수익인식의 정확성 및 발생사실",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

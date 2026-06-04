@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001112",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제9기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "개별, 연결재무제표\n(분기, 반기 및 연간)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "108백만원",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "108백만원",
+      "real_exc_dtls_time": "1,631시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001112",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제8기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별, 연결재무제표\n(분기, 반기 및 연간)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90백만원",
+      "adt_cntrct_dtls_time": "1,100시간",
+      "real_exc_dtls_mendng": "90백만원",
+      "real_exc_dtls_time": "1,318시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001112",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제7기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별, 연결재무제표\n(분기, 반기 및 연간)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70백만원",
+      "adt_cntrct_dtls_time": "주1)",
+      "real_exc_dtls_mendng": "70백만원",
+      "real_exc_dtls_time": "982시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

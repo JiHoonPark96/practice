@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310001209",
+      "corp_cls": "Y",
+      "corp_code": "00153861",
+      "corp_name": "태영건설",
+      "se": "소액주주",
+      "shrholdr_co": "19,578",
+      "shrholdr_tot_co": "19,586",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "14,811,916",
+      "stock_tot_co": "38,899,098",
+      "hold_stock_rate": "38.1%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

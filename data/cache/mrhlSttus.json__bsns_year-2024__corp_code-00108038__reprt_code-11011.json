@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001553",
+      "corp_cls": "Y",
+      "corp_code": "00108038",
+      "corp_name": "엔피씨",
+      "se": "소액주주",
+      "shrholdr_co": "19,035",
+      "shrholdr_tot_co": "19,053",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "10,594,419",
+      "stock_tot_co": "36,720,000",
+      "hold_stock_rate": "28.85%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

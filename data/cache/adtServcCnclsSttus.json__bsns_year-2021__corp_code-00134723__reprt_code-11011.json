@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220330001348",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제69기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "반기, 중간, 기말 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "255",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "255",
+      "real_exc_dtls_time": "2,310",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001348",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제68기(전기)",
+      "adtor": "신우회계법인",
+      "cn": "반기, 중간, 기말 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "2,291",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220330001348",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "진일회계법인",
+      "cn": "반기, 중간, 기말 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "2,250",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

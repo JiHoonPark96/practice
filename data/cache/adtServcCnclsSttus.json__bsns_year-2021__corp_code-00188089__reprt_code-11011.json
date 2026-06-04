@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816002184",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제35기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기재무제표, 반기재무제표, \n별도재무제표, 연결재무제표의 검토\n내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "435,000",
+      "adt_cntrct_dtls_time": "4,265시간",
+      "real_exc_dtls_mendng": "435,000",
+      "real_exc_dtls_time": "4,105시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002184",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제34기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기재무제표, 반기재무제표, \n별도재무제표, 연결재무제표의 검토\n내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "395,000",
+      "adt_cntrct_dtls_time": "3,800시간",
+      "real_exc_dtls_mendng": "395,000",
+      "real_exc_dtls_time": "3,985시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002184",
+      "corp_cls": "Y",
+      "corp_code": "00188089",
+      "corp_name": "한섬",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기재무제표, 반기재무제표, \n별도재무제표, 연결재무제표의 검토\n내부관리회계제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "278,000",
+      "adt_cntrct_dtls_time": "2,727시간",
+      "real_exc_dtls_mendng": "278,000",
+      "real_exc_dtls_time": "2,727시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

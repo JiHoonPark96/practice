@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240307000835",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제13기\n(당기)",
+      "cntrct_cncls_de": "2023.06.05",
+      "servc_cn": "로보틱애플리케이션의 이용",
+      "servc_exc_pd": "'23.07 ~ '26.06",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000835",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제12기\n(전기)",
+      "cntrct_cncls_de": "2022.09.19",
+      "servc_cn": "해외법인설립 관련 세무자문",
+      "servc_exc_pd": "'22.09 ~ '22.10",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000835",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제11기\n(전전기)",
+      "cntrct_cncls_de": "2021.02.23",
+      "servc_cn": "해외생산공장 입지선정 자문",
+      "servc_exc_pd": "'21.02 ~ '21.03",
+      "servc_mendng": " USD 295,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

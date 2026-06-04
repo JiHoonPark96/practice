@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240325000904",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "마일리지 이연수익의 인식 및 측정,\n이연법인세자산의 실현가능성 평가\n종속기업투자주식의 손상평가(별도)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000904",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "마일리지 이연수익의 인식 및 측정,\n이연법인세자산의 실현가능성 평가\n종속기업투자주식의 손상평가(별도)\n현금창출단위의 손상평가(연결)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000904",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련 중요한 불확실성",
+      "core_adt_matter": "마일리지 이연수익의 인식 및 측정,\n이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

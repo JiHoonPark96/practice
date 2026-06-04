@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001316",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "0",
+      "mdstrm_resig": "0",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

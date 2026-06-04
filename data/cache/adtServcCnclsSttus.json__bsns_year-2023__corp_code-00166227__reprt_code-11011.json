@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000083",
+      "corp_cls": "Y",
+      "corp_code": "00166227",
+      "corp_name": "화승인더스트리",
+      "bsns_year": "제55기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "IFRS분반기별도·연결재무제표 검토\nIFRS별도·연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "205백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "205백만원",
+      "real_exc_dtls_time": "2,012",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000083",
+      "corp_cls": "Y",
+      "corp_code": "00166227",
+      "corp_name": "화승인더스트리",
+      "bsns_year": "제54기(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "IFRS분반기별도·연결재무제표 검토\nIFRS별도·연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220백만원",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "220백만원",
+      "real_exc_dtls_time": "2,326",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000083",
+      "corp_cls": "Y",
+      "corp_code": "00166227",
+      "corp_name": "화승인더스트리",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "IFRS분반기별도·연결재무제표 검토\nIFRS별도·연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220백만원",
+      "adt_cntrct_dtls_time": "1,850",
+      "real_exc_dtls_mendng": "220백만원",
+      "real_exc_dtls_time": "1,848",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

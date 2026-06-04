@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001573",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제60기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당사항 없음",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001573",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제59기",
+      "cntrct_cncls_de": "2021.09.30",
+      "servc_cn": "두산에너빌리티 중장기 ESG 대응방안 자문",
+      "servc_exc_pd": "2021.10 ~ 2021.12",
+      "servc_mendng": "500",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001573",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제58기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당사항 없음",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

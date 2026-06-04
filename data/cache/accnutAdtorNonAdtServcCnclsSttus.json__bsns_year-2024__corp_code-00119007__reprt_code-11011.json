@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001672",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "bsns_year": "제51기\n(당기)",
+      "cntrct_cncls_de": "2024.02.26",
+      "servc_cn": "기후변화 대응전략 수립 자문",
+      "servc_exc_pd": "2024.08.31",
+      "servc_mendng": "150,800,000원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001672",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "bsns_year": "제50기\n(전기)",
+      "cntrct_cncls_de": "2023.11.16",
+      "servc_cn": "세액공제 경정청구 용역 계약",
+      "servc_exc_pd": "계약체결일부터 환급결정서 수령일까지",
+      "servc_mendng": "용역결과에 따라 환급세액의 18% 지급",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001672",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "bsns_year": "제49기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

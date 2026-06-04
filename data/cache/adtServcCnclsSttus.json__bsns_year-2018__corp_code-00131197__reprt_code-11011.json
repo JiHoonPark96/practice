@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002996",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "bsns_year": "제31기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토보고서,중간감사,재고감사,연결감사,기말감사",
+      "mendng": "63",
+      "tot_reqre_time": "802",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002996",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "bsns_year": "제30기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기검토보고서,중간감사,재고감사,연결감사,기말감사",
+      "mendng": "60",
+      "tot_reqre_time": "793",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002996",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "삼경회계법인",
+      "cn": "반기검토보고서,중간감사,재고감사,연결감사,기말감사",
+      "mendng": "55",
+      "tot_reqre_time": "857",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

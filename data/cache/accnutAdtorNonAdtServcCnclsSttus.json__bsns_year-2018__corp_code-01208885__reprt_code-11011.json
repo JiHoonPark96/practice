@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004969",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2018. 5. 2",
+      "servc_cn": "공급비용 산정기준 개정 용역",
+      "servc_exc_pd": "2018. 5. 2 ~\n2018. 5. 25",
+      "servc_mendng": "1.6백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004969",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004969",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2017. 6. 23",
+      "servc_cn": "중장기 공급비용 안정화 방안 연구용역",
+      "servc_exc_pd": "2017. 6. 23 ~\n2018. 6. 23",
+      "servc_mendng": "10.3백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004969",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2017. 10. 23",
+      "servc_cn": "가스산업 자유화 대응전략 연구 용역",
+      "servc_exc_pd": "2017. 10.30 ~\n2018. 6. 30",
+      "servc_mendng": "10.4백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004969",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004969",
+      "corp_cls": "Y",
+      "corp_code": "01208885",
+      "corp_name": "경동도시가스",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

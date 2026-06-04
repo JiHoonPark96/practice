@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000975",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "se": "소액주주",
+      "shrholdr_co": "49,968",
+      "shrholdr_tot_co": "49,983",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "28,958,621",
+      "stock_tot_co": "65,907,330",
+      "hold_stock_rate": "43.94%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

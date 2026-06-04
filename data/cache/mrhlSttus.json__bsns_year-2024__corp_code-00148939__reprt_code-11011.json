@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814000431",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "se": "소액주주",
+      "shrholdr_co": "2,047",
+      "shrholdr_tot_co": "2,055",
+      "shrholdr_rate": "99.61%",
+      "hold_stock_co": "456,549",
+      "stock_tot_co": "6,649,138",
+      "hold_stock_rate": "6.87%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

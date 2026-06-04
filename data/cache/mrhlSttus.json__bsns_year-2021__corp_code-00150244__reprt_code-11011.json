@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000772",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "se": "소액주주",
+      "shrholdr_co": "133,079",
+      "shrholdr_tot_co": "133,090",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "25,213,741",
+      "stock_tot_co": "70,133,611",
+      "hold_stock_rate": "35.95%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

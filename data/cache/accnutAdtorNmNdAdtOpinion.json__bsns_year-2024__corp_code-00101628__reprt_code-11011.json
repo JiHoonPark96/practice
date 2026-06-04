@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001362",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제140기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "관계기업주식의 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001362",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제140기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "재고자산의 저가법 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001362",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제139기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "경방베트남 종속기업투자주식의 회수가능가액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001362",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제139기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "경방베트남 자산 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001362",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제138기\n(전전기)",
+      "adtor": "예교지성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "경방베트남 종속기업투자주식의 회수가능가액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001362",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제138기\n(전전기)",
+      "adtor": "예교지성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "경방베트남 자산 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

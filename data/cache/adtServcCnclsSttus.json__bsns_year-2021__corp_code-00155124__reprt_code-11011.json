@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001469",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "bsns_year": "제48기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225백만",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "147백만",
+      "real_exc_dtls_time": "1,839",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001469",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "bsns_year": "제47기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220백만",
+      "adt_cntrct_dtls_time": "1,860",
+      "real_exc_dtls_mendng": "220백만",
+      "real_exc_dtls_time": "2,274",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001469",
+      "corp_cls": "Y",
+      "corp_code": "00155124",
+      "corp_name": "평화홀딩스",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "92백만",
+      "adt_cntrct_dtls_time": "1,267",
+      "real_exc_dtls_mendng": "92백만",
+      "real_exc_dtls_time": "1,267",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

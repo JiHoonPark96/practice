@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000345",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "bsns_year": "제44기(당기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식 귀속시기",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000345",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "bsns_year": "제43기(전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식 귀속시기",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000345",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

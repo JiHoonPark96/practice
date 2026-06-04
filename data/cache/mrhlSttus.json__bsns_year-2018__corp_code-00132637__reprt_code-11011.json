@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000207",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "se": "소액주주",
+      "shrholdr_co": "13,344",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "5,208,164",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "20.12%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

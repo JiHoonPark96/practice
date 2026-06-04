@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003026",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "2018-7-25",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.03.01~\n2019.03.31",
+      "servc_mendng": "2,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003026",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "2017-4-28",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.01.27~\n2018.03.31",
+      "servc_mendng": "2,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003026",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "2016-4-29",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.01.27~\n2017.03.31",
+      "servc_mendng": "2,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

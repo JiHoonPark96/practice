@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000932",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제56기(당기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "투입법에 따른 수익인식\n(수주산업, 진행매출)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000932",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제55기(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000932",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "신아회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

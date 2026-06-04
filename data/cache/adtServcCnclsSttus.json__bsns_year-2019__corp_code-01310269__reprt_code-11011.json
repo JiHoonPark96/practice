@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제2기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기 연결 및 별도 검토, \n기말 연결 및 별도 감사",
+      "mendng": "727",
+      "tot_reqre_time": "7,504",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제1기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기 연결 및 별도 검토, \n기말 연결 및 별도 감사",
+      "mendng": "400",
+      "tot_reqre_time": "4,032",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "-",
+      "adtor": "삼일회계법인",
+      "cn": "개시 연결 및 별도 감사",
+      "mendng": "200",
+      "tot_reqre_time": "811",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

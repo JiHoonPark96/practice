@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000369",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제20기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 매출의 발생 사실\n- 연결회사의 매출인식 프로세스와 관련 통제의 이해 및 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000369",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위의 손상평가\n- 회사의 현금창출단위 손상평가에 대한 통제의 이해 및 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000369",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "3. 중요한 회계추정 및 가정 : 자산손상 및 코로나-19(COVID-19)의 영향",
+      "core_adt_matter": "(1) 현금창출단위의 손상평가\n- 회사의 현금창출단위 손상평가에 대한 통제의 이해 및 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

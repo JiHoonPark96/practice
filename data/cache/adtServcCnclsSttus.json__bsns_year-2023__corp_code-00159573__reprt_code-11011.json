@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000781",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "bsns_year": "제72기(당기)",
+      "adtor": "선일회계법인",
+      "cn": "반기, 기말, 연결 재무제표에 대한\n감사 및 감사보고서 작성",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "285백만원",
+      "adt_cntrct_dtls_time": "2,100",
+      "real_exc_dtls_mendng": "257백만원",
+      "real_exc_dtls_time": "2,055",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000781",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "bsns_year": "제71기(전기)",
+      "adtor": "선일회계법인",
+      "cn": "반기, 기말, 연결 재무제표에 대한\n감사 및 감사보고서 작성",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280백만원",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "284백만원",
+      "real_exc_dtls_time": "2,028",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000781",
+      "corp_cls": "Y",
+      "corp_code": "00159573",
+      "corp_name": "한국주철관공업",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "예일회계법인",
+      "cn": "반기, 기말, 연결 재무제표에 대한\n감사 및 감사보고서 작성",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "99백만원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "99백만원",
+      "real_exc_dtls_time": "1,168",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

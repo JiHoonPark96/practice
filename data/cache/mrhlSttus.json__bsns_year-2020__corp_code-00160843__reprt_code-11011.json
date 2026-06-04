@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001013",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "se": "소액주주",
+      "shrholdr_co": "60,815",
+      "shrholdr_tot_co": "60,822",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "31,641,129",
+      "stock_tot_co": "43,332,624",
+      "hold_stock_rate": "73.02%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

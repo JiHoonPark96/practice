@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제72기(당기)",
+      "adtor": "회계법인 광교",
+      "cn": "개별재무제표 및\n연결재무제표 검토",
+      "mendng": "40,000",
+      "tot_reqre_time": "1,324",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제71기(전기)",
+      "adtor": "회계법인 새시대",
+      "cn": "개별재무제표 및\n연결재무제표 감사",
+      "mendng": "40,000",
+      "tot_reqre_time": "1,316",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "회계법인 새시대",
+      "cn": "개별재무제표 및\n연결재무제표 감사",
+      "mendng": "40,000",
+      "tot_reqre_time": "1,357",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

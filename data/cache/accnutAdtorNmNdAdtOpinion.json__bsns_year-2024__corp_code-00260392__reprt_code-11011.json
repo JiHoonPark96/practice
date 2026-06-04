@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출채권 대손충당금 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출채권 대손충당금 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출채권 대손충당금 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출채권 대손충당금 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

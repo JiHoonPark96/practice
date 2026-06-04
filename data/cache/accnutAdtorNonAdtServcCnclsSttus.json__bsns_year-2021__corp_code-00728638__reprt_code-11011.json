@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 13 기(당기)",
+      "cntrct_cncls_de": "2021.11",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2021.11 ~ 현재",
+      "servc_mendng": "-",
+      "rm": "성공보수기반 계약으로 용역완료 후 산정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 13 기(당기)",
+      "cntrct_cncls_de": "2021.07",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2021.07 ~ 2022.06",
+      "servc_mendng": "\\13,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 13 기(당기)",
+      "cntrct_cncls_de": "2021.06",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2021.06 ~ 2021.12",
+      "servc_mendng": "\\20,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 13 기(당기)",
+      "cntrct_cncls_de": "2021.01",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2021.03 ~ 현재",
+      "servc_mendng": "-",
+      "rm": "성공보수기반 계약으로 용역완료 후 산정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 12 기(전기)",
+      "cntrct_cncls_de": "2020.10",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2020.10 ~ 2020.12",
+      "servc_mendng": "\\22,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 12 기(전기)",
+      "cntrct_cncls_de": "2020.07",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2020.07 ~ 2021.06",
+      "servc_mendng": "\\13,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 11 기(전전기)",
+      "cntrct_cncls_de": "2019.03",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2019.03~2019.05",
+      "servc_mendng": "\\270,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 11 기(전전기)",
+      "cntrct_cncls_de": "2019.03",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2019.01~2019.03",
+      "servc_mendng": "\\100,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 11 기(전전기)",
+      "cntrct_cncls_de": "2019.03",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2019.03",
+      "servc_mendng": "\\35,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

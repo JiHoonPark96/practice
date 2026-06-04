@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329001968",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제47기",
+      "cntrct_cncls_de": "2018년 7월",
+      "servc_cn": "법인세 신고조정",
+      "servc_exc_pd": "2019.01.01 ~ 2019.04.30",
+      "servc_mendng": "9,600",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001968",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제46기",
+      "cntrct_cncls_de": "2018년 3월",
+      "servc_cn": "법인세 신고조정",
+      "servc_exc_pd": "2018.03.12 ~ 2018.03.14",
+      "servc_mendng": "9,600",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001968",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제45기",
+      "cntrct_cncls_de": "2017년 3월",
+      "servc_cn": "법인세 신고조정",
+      "servc_exc_pd": "2017.03.13 ~ 2017.03.15",
+      "servc_mendng": "9,600",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

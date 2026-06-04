@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210701000250",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제50기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ손상징후가 발생한 현금창출단위에 대한 손상검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210701000250",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제49기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ손상징후가 발생한 현금창출단위에 대한 손상검토\nㆍ리스회계처리의 완전성과 정확성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210701000250",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ가맹점 상품매출인식\nㆍ지급장려금 및 수취장려금\nㆍ손상징후가 발생한 현금창출단위에 대한 손상검토",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

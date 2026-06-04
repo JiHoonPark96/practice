@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000781",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제11기(당기)",
+      "cntrct_cncls_de": "2023.12",
+      "servc_cn": "구독서비스\n소프트웨어",
+      "servc_exc_pd": "2023.12~\n2023.12~",
+      "servc_mendng": "120만원\n2천만원",
+      "rm": "월\n3년",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000781",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제10기(전기)",
+      "cntrct_cncls_de": "2022.11",
+      "servc_cn": "보유세 경정청구",
+      "servc_exc_pd": "2022.11~",
+      "servc_mendng": "환급금액의 약 25%",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000781",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제9기(전전기)",
+      "cntrct_cncls_de": "2021.05",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2021.05~",
+      "servc_mendng": "환급금액의 약 30%",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250327001173",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "개발비 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001173",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "개발비 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001173",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "개발비 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001173",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "개발비 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001173",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "개발비 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001173",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "개발비 회계처리의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

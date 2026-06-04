@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314000784",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "1. 영업권의 손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000784",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나바이러스감염증-19\n(COVID-19)의 영향 주)",
+      "core_adt_matter": "1. 영업권의 손상검사\n2. 현금창출단위의 손상검사",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220314000784",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "1. 영업권의 손상검사\n2. K-IFRS 제1116호 도입에 따른\n최초적용일 회계처리의 정확성 ",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

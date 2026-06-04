@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240306000534",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제6기(당기)\n(2023년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 검토 9일\n2분기 검토 10일3분기 검토 10일중간 감사 5일\n기말 감사 14일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,900",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "3,938",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240306000534",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제5기(전기)\n(2022년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 검토 8일\n2분기 검토 13일3분기 검토 8일\n중간 감사 8일\n기말 감사 17일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,900",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "3,831",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240306000534",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제4기(전전기)\n(2021년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 검토 5일2분기 검토 8일\n 3분기 검토 7일 \n중간 감사 10일\n기말 감사 14일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,900",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "3,893",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

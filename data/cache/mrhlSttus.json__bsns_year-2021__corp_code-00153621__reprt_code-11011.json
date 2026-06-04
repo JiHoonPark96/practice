@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000816",
+      "corp_cls": "Y",
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "se": "소액주주",
+      "shrholdr_co": "7,654",
+      "shrholdr_tot_co": "7,668",
+      "shrholdr_rate": "99.82%",
+      "hold_stock_co": "36,592,985",
+      "stock_tot_co": "55,528,564",
+      "hold_stock_rate": "65.90%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

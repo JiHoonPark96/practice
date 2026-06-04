@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329000905",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제42기(당기)",
+      "cntrct_cncls_de": "2023.02.10\n\n2024.01.18",
+      "servc_cn": "2017~2021 사업연도 \n미환류소득 법인세 경정청구\n2023 사업연도 법인세 세무조정",
+      "servc_exc_pd": "2023.02.10 ~ \n\n2024.01.01 ~ 03.31",
+      "servc_mendng": "79,225\n\n12,000",
+      "rm": "일부 미환급액 환급 확정 시 \n용역보수 추가 지급 예정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329000905",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제41기(전기)",
+      "cntrct_cncls_de": "2022.12.23",
+      "servc_cn": "2022 사업연도 법인세 세무조정",
+      "servc_exc_pd": "2023.01.01 ~ 03.31",
+      "servc_mendng": "12,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329000905",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제40기(전전기)",
+      "cntrct_cncls_de": "2022.01.06",
+      "servc_cn": "2021 사업연도 법인세 세무조정",
+      "servc_exc_pd": "2022.01.01 ~ 03.31",
+      "servc_mendng": "12,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318001114",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_knd": "보통주",
+      "nm": "사조산업(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "9,693,197",
+      "bsis_posesn_stock_qota_rt": "56.29",
+      "trmend_posesn_stock_co": "9,693,197",
+      "trmend_posesn_stock_qota_rt": "56.29",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318001114",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_knd": "보통주",
+      "nm": "(주)사조시스템즈",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,645",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "1,645",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318001114",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_knd": "보통주",
+      "nm": "(주)사조오양",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "557,593",
+      "trmend_posesn_stock_qota_rt": "3.24",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318001114",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "9,694,842",
+      "bsis_posesn_stock_qota_rt": "56.30",
+      "trmend_posesn_stock_co": "10,252,435",
+      "trmend_posesn_stock_qota_rt": "59.54",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318001114",
+      "corp_cls": "Y",
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

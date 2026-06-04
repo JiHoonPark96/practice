@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001039",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제46기(당기)",
+      "adtor": "세일원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001039",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제45기(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001039",
+      "corp_cls": "Y",
+      "corp_code": "00144720",
+      "corp_name": "와이투솔루션",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "의견거절",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "※",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

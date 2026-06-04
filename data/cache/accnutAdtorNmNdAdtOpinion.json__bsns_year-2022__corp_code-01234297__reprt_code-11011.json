@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001384",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제 6기 (당기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금 및 현금성자산의 실재성과\n현금흐름표 표시",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001384",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제 5기(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 특수관계자에 대한 수익 인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001384",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제 4기(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외매출금액",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

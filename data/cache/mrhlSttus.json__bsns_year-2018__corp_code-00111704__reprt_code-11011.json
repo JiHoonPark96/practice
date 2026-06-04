@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "se": "소액주주",
+      "shrholdr_co": "75,551",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "29,953,471",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "27.94%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

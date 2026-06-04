@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310001197",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "se": "소액주주",
+      "shrholdr_co": "13,592",
+      "shrholdr_tot_co": "13,601",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "1,249,692",
+      "stock_tot_co": "3,190,126",
+      "hold_stock_rate": "39.17%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

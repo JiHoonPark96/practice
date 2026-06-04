@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327001319",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제47기",
+      "cntrct_cncls_de": "2019년 4월",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2019.04~2020.03",
+      "servc_mendng": "30,000,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001319",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제47기",
+      "cntrct_cncls_de": "2019년 6월",
+      "servc_cn": "이전가격보고서 용역",
+      "servc_exc_pd": "2019.06~2019.12",
+      "servc_mendng": "24,000,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001319",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제46기",
+      "cntrct_cncls_de": "2018년 4월",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2018.04~2019.03",
+      "servc_mendng": "30,000,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001319",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제46기",
+      "cntrct_cncls_de": "2018년 5월",
+      "servc_cn": "이전가격보고서 용역",
+      "servc_exc_pd": "2018.06~2018.09",
+      "servc_mendng": "27,000,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001319",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제45기",
+      "cntrct_cncls_de": "2017년 4월",
+      "servc_cn": "이전가격보고서 용역",
+      "servc_exc_pd": "2017.04~2017.09",
+      "servc_mendng": "48,000,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

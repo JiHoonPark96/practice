@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000808",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "bsns_year": "제63기(당기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000808",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "bsns_year": "제62기(전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000808",
+      "corp_cls": "Y",
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가의 적정성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

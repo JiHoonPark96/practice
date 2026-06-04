@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190328001211",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "(주)코다코",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "9,030,893",
+      "bsis_posesn_stock_qota_rt": "17.88",
+      "trmend_posesn_stock_co": "10,676,202",
+      "trmend_posesn_stock_qota_rt": "21.13",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190328001211",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "인귀승",
+      "relate": "대표이사",
+      "bsis_posesn_stock_co": "250,000",
+      "bsis_posesn_stock_qota_rt": "0.49",
+      "trmend_posesn_stock_co": "250,000",
+      "trmend_posesn_stock_qota_rt": "0.49",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190328001211",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "조만영",
+      "relate": "대표이사",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "413,793",
+      "trmend_posesn_stock_qota_rt": "0.82",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190328001211",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "9,280,893",
+      "bsis_posesn_stock_qota_rt": "18.37",
+      "trmend_posesn_stock_co": "11,339,995",
+      "trmend_posesn_stock_qota_rt": "22.45",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190328001211",
+      "corp_cls": "Y",
+      "corp_code": "00147860",
+      "corp_name": "에스엠벡셀",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

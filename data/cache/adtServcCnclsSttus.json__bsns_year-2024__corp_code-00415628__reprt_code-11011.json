@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000960",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제26기  (당기)",
+      "adtor": "광교회계법인",
+      "cn": "반기 재무제표 검토(연결, 별도)\n재무제표 감사(연결, 별도)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,760시간",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,761시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000960",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제25기 (전기)",
+      "adtor": "광교회계법인",
+      "cn": "반기 재무제표 검토(연결, 별도)\n재무제표 감사(연결, 별도)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,760시간",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,789시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000960",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "bsns_year": "제24기 (전전기)",
+      "adtor": "다산회계법인",
+      "cn": "반기 재무제표 검토(연결, 별도)\n재무제표 감사(연결, 별도)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "253백만원",
+      "adt_cntrct_dtls_time": "1,913시간",
+      "real_exc_dtls_mendng": "253백만원",
+      "real_exc_dtls_time": "1,889시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

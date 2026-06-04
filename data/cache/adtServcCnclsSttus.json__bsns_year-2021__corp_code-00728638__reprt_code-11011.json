@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 13 기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기검토, 개별 및 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "\\501,800,000 ",
+      "adt_cntrct_dtls_time": "5,018 ",
+      "real_exc_dtls_mendng": "\\501,800,000 ",
+      "real_exc_dtls_time": "5,198 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 12 기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기검토, 개별 및 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "\\457,000,000 ",
+      "adt_cntrct_dtls_time": "4,570 ",
+      "real_exc_dtls_mendng": "\\457,000,000 ",
+      "real_exc_dtls_time": "4,885 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제 11 기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기검토, 개별 및 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "\\281,000,000 ",
+      "adt_cntrct_dtls_time": "3,120 ",
+      "real_exc_dtls_mendng": "\\281,000,000 ",
+      "real_exc_dtls_time": "3,310 ",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

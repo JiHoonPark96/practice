@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000730",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제48기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기검토,중간감사,결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95,000,000",
+      "adt_cntrct_dtls_time": "1,132",
+      "real_exc_dtls_mendng": "95,000,000",
+      "real_exc_dtls_time": "1,132",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000730",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제47기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토,중간감사,결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000,000",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "85,000,000",
+      "real_exc_dtls_time": "1,100",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000730",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토,중간감사,결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "50,000,000",
+      "adt_cntrct_dtls_time": "1,026",
+      "real_exc_dtls_mendng": "50,000,000",
+      "real_exc_dtls_time": "1,026",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

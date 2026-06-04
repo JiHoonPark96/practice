@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제55기(당     기)",
+      "adtor": "회계법인 하나로",
+      "cn": "재무제표 감사 및 반기검토\n통제의 설계 및 운영의 효과성 평가\n입증절차의 수행 및 내부회계관리제도 검토",
+      "mendng": "99,000,000",
+      "tot_reqre_time": "838",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제54기(전     기)",
+      "adtor": "회계법인 하나로",
+      "cn": "재무제표 감사 및 반기검토\n통제의 설계 및 운영의 효과성 평가\n입증절차의 수행 및 내부회계관리제도 검토",
+      "mendng": "82,500,000",
+      "tot_reqre_time": "860",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제53기(전 전 기)",
+      "adtor": "회계법인 하나로",
+      "cn": "재무제표 감사 및 반기검토\n통제의 설계 및 운영의 효과성 평가\n입증절차의 수행 및 내부회계관리제도 검토",
+      "mendng": "82,500,000",
+      "tot_reqre_time": "740",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003834",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "se": "소액주주",
+      "shrholdr_co": "11,878",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "14,237,969",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "46.08%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

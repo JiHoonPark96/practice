@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제57 기 \n(당기)",
+      "cntrct_cncls_de": "2018.08.20\n\n\n2018.03.06",
+      "servc_cn": "세무조정 검토 등\n\n\n해외채권 발행 관련\nComfort Letter 발행 등",
+      "servc_exc_pd": "2018.08.08 ~ 2018.08.102019.02.18~ 2019.03.29\n\n2018.03.06~2018.03.13",
+      "servc_mendng": "21.3\n\n\n107",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제56기\n(전기)",
+      "cntrct_cncls_de": "2017.06.22",
+      "servc_cn": "세무조정 검토 등",
+      "servc_exc_pd": "2017.08.02 ~ 2017.08.04\n2018.02.19 ~ 2018.03.31",
+      "servc_mendng": "21.3",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제56기\n(전기)",
+      "cntrct_cncls_de": "2017.06.05",
+      "servc_cn": "영구채 발행 관련 \nComfort Letter 발행 등",
+      "servc_exc_pd": "2017.06.05 ~ 2017.06.12",
+      "servc_mendng": "160",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제55기\n(전전기)",
+      "cntrct_cncls_de": "2016.07.05",
+      "servc_cn": "세무조정 검토 등",
+      "servc_exc_pd": "2016.08.01 ~ 2016.08.05\n2017.02.16 ~ 2017.03.29",
+      "servc_mendng": "21.3",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

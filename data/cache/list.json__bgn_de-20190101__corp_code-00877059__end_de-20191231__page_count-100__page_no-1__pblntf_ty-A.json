@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001378",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001253",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190723000170",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190723",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001554",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401002260",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190401",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.09)",
+      "rcept_no": "20190314001332",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190314",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2018.06)",
+      "rcept_no": "20190314001318",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190314",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.03)",
+      "rcept_no": "20190314001305",
+      "flr_nm": "삼성바이오로직스",
+      "rcept_dt": "20190314",
+      "rm": ""
+    }
+  ]
+}

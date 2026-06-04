@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004680",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제45기",
+      "cntrct_cncls_de": "18.10\n18.05\n18.01",
+      "servc_cn": "세무자문용역\n세무조정용역\n지속가능경영보고서 자문용역",
+      "servc_exc_pd": "18.10\n18.04~19.03\n18.01~18.05",
+      "servc_mendng": "50,000\n50,000\n72,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004680",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제44기",
+      "cntrct_cncls_de": "17.05",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "17.04~18.03",
+      "servc_mendng": "50,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004680",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제43기",
+      "cntrct_cncls_de": "16.06\n16.04",
+      "servc_cn": "자금프로세스 자문용역\n세무조정용역",
+      "servc_exc_pd": "16.06\n16.04~17.03",
+      "servc_mendng": "80,000\n50,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

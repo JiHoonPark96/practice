@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000561",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 계약수익 및 총예정원가 추정의 \n불확실성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000561",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법 기준 진행매출 인식 대상 \n시스템 구축용역의 총예정원가 추정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000561",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법 기준 진행매출 인식 대상 \n시스템 구축용역의 총예정원가 추정",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

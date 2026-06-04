@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_code": "003060",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000700",
+      "flr_nm": "에이프로젠바이오로직스",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_code": "003060",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812000915",
+      "flr_nm": "에이프로젠바이오로직스",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_code": "003060",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220513001101",
+      "flr_nm": "에이프로젠바이오로직스",
+      "rcept_dt": "20220513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_code": "003060",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220314001107",
+      "flr_nm": "에이프로젠바이오로직스",
+      "rcept_dt": "20220314",
+      "rm": "연"
+    }
+  ]
+}

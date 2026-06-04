@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001580",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "se": "소액주주",
+      "shrholdr_co": "55,886",
+      "shrholdr_tot_co": "55,890",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "36,354,059",
+      "stock_tot_co": "47,794,806",
+      "hold_stock_rate": "76.06%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220218001040",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "bsns_year": "제59기",
+      "adtor": "대주회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350백만원",
+      "adt_cntrct_dtls_time": "2,545",
+      "real_exc_dtls_mendng": "350백만원",
+      "real_exc_dtls_time": "2,589",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220218001040",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "bsns_year": "제58기",
+      "adtor": "대주회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350백만원",
+      "adt_cntrct_dtls_time": "2,545",
+      "real_exc_dtls_mendng": "350백만원",
+      "real_exc_dtls_time": "2,488",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220218001040",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "bsns_year": "제57기",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225백만원",
+      "adt_cntrct_dtls_time": "2,497",
+      "real_exc_dtls_mendng": "225백만원",
+      "real_exc_dtls_time": "2,605",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

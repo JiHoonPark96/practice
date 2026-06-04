@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230308000675",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "se": "소액주주",
+      "shrholdr_co": "15,093",
+      "shrholdr_tot_co": "15,112",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "2,928,387",
+      "stock_tot_co": "6,767,600",
+      "hold_stock_rate": "43.27%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

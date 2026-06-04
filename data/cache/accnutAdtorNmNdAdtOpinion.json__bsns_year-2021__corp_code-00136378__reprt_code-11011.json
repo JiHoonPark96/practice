@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000691",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제65기(당   기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위의 손상평가 외",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000691",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제64기(전   기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위의 손상평가\n파생상품 관련 감사 외",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000691",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 처분,\n파생상품 관련 감사 외",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000626",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제47기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "A/S용 부품사업 매출의 기간 귀속,\n재고자산 평가손실 충당금의 측정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000626",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제46기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "A/S용 부품사업 매출의 기간 귀속,\n재고자산 평가손실 충당금의 측정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000626",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현대오토넷 영업권에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

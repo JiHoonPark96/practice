@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201222000443",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제30기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201222000443",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제29기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201222000443",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 수주산업 핵심감사항목에 대한 강조사항 등\n- 인적분할에 대한 감사인의 강조사항",
+      "core_adt_matter": "- 수주산업 핵심감사항목",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

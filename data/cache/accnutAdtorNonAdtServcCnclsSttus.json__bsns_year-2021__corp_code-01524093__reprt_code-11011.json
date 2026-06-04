@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기\n(당기)",
+      "cntrct_cncls_de": "2021.01.29",
+      "servc_cn": "- 건설부문 5개년(15년~19년) \n  별도 및 연결 재무제표 검토",
+      "servc_exc_pd": "2021.01.29 ~ 2021.03.10",
+      "servc_mendng": "101",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기\n(당기)",
+      "cntrct_cncls_de": "2021.08.06",
+      "servc_cn": "- 적격분할 요건 관련 세무자문",
+      "servc_exc_pd": "2021.08.06 ~ 2021.09.30",
+      "servc_mendng": "55",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기\n(당기)",
+      "cntrct_cncls_de": "2021.09.07",
+      "servc_cn": "- 사채관리계약이행상황보고서 ",
+      "servc_exc_pd": "2021.09.07 ~ 2022.09.07",
+      "servc_mendng": "1",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001326",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제1기\n(당기)",
+      "cntrct_cncls_de": "2021.10.01",
+      "servc_cn": "- 재무현황 확인서 작성용역",
+      "servc_exc_pd": "2021.10.01 ~ 2021.10.31",
+      "servc_mendng": "3",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003009",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제43기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법 기준 진행매출 인식 대상 \n   시스템 구축용역의 총예정원가 추정",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003009",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제42기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 시스템 구축용역의 수익인식 시점\n2) 투입법 기준 진행매출 인식 대상 \n   시스템 구축용역의 총예정원가 추정",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003009",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제41기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 수주산업 핵심감사항목에 대한 \n    감사인의 강조사항 등\n 가. 투입법에 따른 수익인식 및\n      프로젝트 진행률의 적절성\n 나. 총계약원가에 대한 추정의 \n      불확실성 및 프로젝트 변경에\n      따른 회계처리의 적절성",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

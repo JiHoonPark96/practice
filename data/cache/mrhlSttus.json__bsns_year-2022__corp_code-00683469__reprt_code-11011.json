@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000560",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "se": "소액주주",
+      "shrholdr_co": "19,946",
+      "shrholdr_tot_co": "19,950",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "13,779,759",
+      "stock_tot_co": "37,080,390",
+      "hold_stock_rate": "37.16%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

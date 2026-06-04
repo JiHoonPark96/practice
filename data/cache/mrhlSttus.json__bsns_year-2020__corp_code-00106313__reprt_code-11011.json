@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000696",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "se": "소액주주",
+      "shrholdr_co": "29,360",
+      "shrholdr_tot_co": "29,369",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "17,433,856",
+      "stock_tot_co": "36,633,924",
+      "hold_stock_rate": "47.60%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

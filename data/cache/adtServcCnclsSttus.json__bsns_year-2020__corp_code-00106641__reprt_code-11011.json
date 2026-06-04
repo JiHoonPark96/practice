@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211210000500",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제77기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 재무제표 검토\n2분기 재무제표 검토\n3분기 재무제표 검토\n4분기 재무제표 및 내부회계관리제도 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,630\n(연간)",
+      "adt_cntrct_dtls_time": "1,890\n2,150\n1,970\n12,199",
+      "real_exc_dtls_mendng": "1,630\n(연간)",
+      "real_exc_dtls_time": "1,890\n2,150\n1,970\n12,199",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20211210000500",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제76기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 재무제표 검토\n2분기 재무제표 검토\n3분기 재무제표 검토\n4분기 재무제표 및 내부회계관리제도 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,580\n(연간)",
+      "adt_cntrct_dtls_time": "1,870\n1,980\n1,930\n11,634",
+      "real_exc_dtls_mendng": "1,580\n(연간)",
+      "real_exc_dtls_time": "1,870\n1,980\n1,930\n11,634",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20211210000500",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제75기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 재무제표 검토\n2분기 재무제표 검토\n3분기 재무제표 검토\n4분기 재무제표 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,100\n(연간)",
+      "adt_cntrct_dtls_time": "1,950\n1,980\n2,150\n7,680",
+      "real_exc_dtls_mendng": "1,100\n(연간)",
+      "real_exc_dtls_time": "1,950\n1,980\n2,150\n7,680",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

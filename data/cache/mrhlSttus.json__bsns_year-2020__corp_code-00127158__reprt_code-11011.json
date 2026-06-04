@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210517001174",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "se": "소액주주",
+      "shrholdr_co": "5,220",
+      "shrholdr_tot_co": "5,226",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "13,253,172",
+      "stock_tot_co": "24,382,390",
+      "hold_stock_rate": "54.36%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

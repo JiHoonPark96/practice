@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003130",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제9기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 증권선물위원회의 조치에 대한\n  행정소송 및 검찰조사 등",
+      "core_adt_matter": "- 관계기업 및 공동기업 투자주식의 손상검사\n- CMO 수익인식의 적정성\n- 중요한 회계기록의 부적절한 변경 및 삭제로 인한\n  재무제표의 왜곡표시 가능성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003130",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제8기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 콜옵션 행사\n- 증권선물위원회의 조치에 대한\n  행정소송 및 효력정지신청 ",
+      "core_adt_matter": "- 관계기업 및 공동기업 투자주식의 손상검사\n- 수익인식의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003130",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제7기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 해당사항 없음",
+      "core_adt_matter": "-해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

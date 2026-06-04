@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000620",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제41기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표 검토\n반기연결재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215,000천원",
+      "adt_cntrct_dtls_time": "2,147시간",
+      "real_exc_dtls_mendng": "215,000천원",
+      "real_exc_dtls_time": "2,182시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000620",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제40기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표 검토\n반기연결재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "198,000 천원",
+      "adt_cntrct_dtls_time": "2,184시간",
+      "real_exc_dtls_mendng": "198,000 천원",
+      "real_exc_dtls_time": "2,267시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000620",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기재무제표 검토\n반기연결재무제표 검토\n개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000 천원",
+      "adt_cntrct_dtls_time": "2,106시간",
+      "real_exc_dtls_mendng": "170,000 천원",
+      "real_exc_dtls_time": "2,106시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

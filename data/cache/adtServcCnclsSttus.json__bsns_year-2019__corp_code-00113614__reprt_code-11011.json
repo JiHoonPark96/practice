@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327000703",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제38기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "1. 반기재무제표 검토\n  - 검토기간 : 2019.07.23~07.26\n2. 중간기간 재무제표 검토\n  - 검토기간 : 2019.10.28~11.06\n3. 개별재무제표 감사\n  - 감사기간 : 2020.02.10~02.14",
+      "mendng": "98,000",
+      "tot_reqre_time": "1,263",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000703",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제37기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "1. 반기재무제표 검토\n  - 검토기간 : 2018.07.24~07.27\n2. 중간기간 재무제표 검토\n  - 검토기간 : 2018.10.29~11.02\n3. 개별재무제표 감사\n  - 감사기간 : 2019.02.11~02.15",
+      "mendng": "93,000",
+      "tot_reqre_time": "706",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000703",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "1. 반기재무제표 검토\n   - 검토기간 : 2017.07.24~07.27\n2. 중간기간 재무제표 검토\n   - 검토기간 : 2017.11.01~11.03\n3. 개별재무제표 감사\n   - 감사기간 : 2018.02.06~02.09",
+      "mendng": "90,000",
+      "tot_reqre_time": "570",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

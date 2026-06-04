@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 조선해양부문 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 조선해양부문 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 총계약원가에 대한 추정의 불확실성\n2) 현금창출단위의 손상평가\n3) 시추선 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 총계약원가에 대한 추정의 불확실성\n2) 현금창출단위의 손상평가\n3) 시추선 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

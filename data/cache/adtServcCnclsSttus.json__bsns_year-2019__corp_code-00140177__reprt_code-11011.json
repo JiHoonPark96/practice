@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210302003597",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 별도재무제표 검토 및 감사\n- 연결재무제표 검토 및 감사\n주1) (현장감사기간)\n별도재무제표(기말) : 2020.01.16~2020.01.29\n연결재무제표(기말) : 2020.01.30~2020.02.04\n내부회계 설계평가 : 2019.08.16~2019.10.13\n내부회계 운영평가 : 2019.11.17~2020.01.12",
+      "mendng": "610",
+      "tot_reqre_time": "10,859",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210302003597",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 별도재무제표 검토 및 감사\n- 연결재무제표 검토 및 감사\n주1) (현장감사기간)\n별도재무제표(기말) : 2019.01.15~2019.01.22\n연결재무제표(기말) : 2019.01.23~2019.01.25",
+      "mendng": "282",
+      "tot_reqre_time": "4,588",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210302003597",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 별도재무제표 검토 및 감사\n- 연결재무제표 검토 및 감사\n- 내부회계관리제도 검토\n주1) (현장감사기간)\n별도재무제표(기말) : 2018.01.11~2018.01.17\n연결재무제표(기말) : 2018.01.18~2018.01.19",
+      "mendng": "240",
+      "tot_reqre_time": "3,177",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

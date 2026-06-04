@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813000184",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "se": "소액주주",
+      "shrholdr_co": "56,576",
+      "shrholdr_tot_co": "56,582",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "49,663,789",
+      "stock_tot_co": "60,016,964",
+      "hold_stock_rate": "82.75%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

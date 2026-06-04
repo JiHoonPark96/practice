@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제 45기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제 45기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제 44 기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제 44 기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제 43 기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001310",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제 43 기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

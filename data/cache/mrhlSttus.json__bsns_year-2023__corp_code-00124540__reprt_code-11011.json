@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001313",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "se": "소액주주",
+      "shrholdr_co": "315,176",
+      "shrholdr_tot_co": "315,182",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "163,767,825",
+      "stock_tot_co": "410,885,720",
+      "hold_stock_rate": "39.86%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

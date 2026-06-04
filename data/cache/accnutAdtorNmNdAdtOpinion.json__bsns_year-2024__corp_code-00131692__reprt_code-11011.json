@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000847",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자거래(1개)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000847",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제52기\n(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자거래(1개)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000847",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자거래(1개)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000847",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제51기\n(전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자거래(1개)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000847",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자거래(1개)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000847",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "bsns_year": "제50기\n(전전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자거래(1개)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

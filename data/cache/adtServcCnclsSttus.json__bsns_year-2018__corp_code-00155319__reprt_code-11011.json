@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002526",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, \n별도 및 연결재무제표 감사,\n내부회계관리제도 검토,\n20-F filing 업무 및 SOX 404 감사 등",
+      "mendng": "2,464\n(1,934)",
+      "tot_reqre_time": "27,684\n(21,732)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002526",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, \n별도 및 연결재무제표 감사,\n내부회계관리제도 검토,\n20-F filing 업무 및 SOX 404 감사 등",
+      "mendng": "2,285(1,891)",
+      "tot_reqre_time": "27,200(22,510)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002526",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, \n별도 및 연결재무제표 감사,\n내부회계관리제도 검토,\n20-F filing 업무 및 SOX 404 감사 등",
+      "mendng": "2,033\n(1,609)",
+      "tot_reqre_time": "26,779\n(21,194)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "보통주",
+      "nm": "한국산업은행",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "201,199,297",
+      "bsis_posesn_stock_qota_rt": "29.20",
+      "trmend_posesn_stock_co": "297,199,297",
+      "trmend_posesn_stock_qota_rt": "33.73",
+      "rm": "전환사채 전환청구 행사에 따른 지분율 증가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "201,199,297",
+      "bsis_posesn_stock_qota_rt": "29.20",
+      "trmend_posesn_stock_co": "297,199,297",
+      "trmend_posesn_stock_qota_rt": "33.73",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

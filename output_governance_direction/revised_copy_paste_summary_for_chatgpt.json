@@ -1,0 +1,1557 @@
+{
+  "research_direction": {
+    "main_title_candidate": "Disclosure Corrections as a Signal of Reporting Quality: Governance, Ownership Structure, and Auditor Characteristics",
+    "main_focus": "Governance and ownership structure",
+    "auxiliary_focus": "Auditor characteristics and audit fee/non-audit fee variables",
+    "main_note": "MinorityShareholderRatio was dropped because it is entirely missing; LogMinorityShareholderCount is used instead."
+  },
+  "sample_info": {
+    "pilot_mode": false,
+    "number_of_firms": 711,
+    "number_of_firm_years": 4977,
+    "start_year": 2018,
+    "end_year": 2024,
+    "number_of_sectors": 119
+  },
+  "variable_summary": {
+    "CorrectionDummy": {
+      "non_missing": 4977,
+      "mean": 0.19931685754470566,
+      "median": 0.0,
+      "std": 0.39952686983202484,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "CorrectionCount": {
+      "non_missing": 4977,
+      "mean": 0.2943540285312437,
+      "median": 0.0,
+      "std": 0.8265795738107635,
+      "min": 0.0,
+      "max": 13.0
+    },
+    "MaterialCorrectionDummy": {
+      "non_missing": 4977,
+      "mean": 0.06951979103877838,
+      "median": 0.0,
+      "std": 0.25436153295943553,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "MaterialCorrectionCount": {
+      "non_missing": 4977,
+      "mean": 0.09363070122563794,
+      "median": 0.0,
+      "std": 0.45460489833591483,
+      "min": 0.0,
+      "max": 10.0
+    },
+    "OutsideDirectorRatio": {
+      "non_missing": 3322,
+      "mean": 0.43904389392799986,
+      "median": 0.42857142857142855,
+      "std": 0.14957915085194895,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "LargestShareholderOwnership": {
+      "non_missing": 4632,
+      "mean": 44.42077504317789,
+      "median": 45.01,
+      "std": 16.581939304644497,
+      "min": 2.0,
+      "max": 100.0
+    },
+    "MinorityShareholderCount": {
+      "non_missing": 4449,
+      "mean": 46581.50101146325,
+      "median": 14815.0,
+      "std": 188683.20346046326,
+      "min": 10.0,
+      "max": 5813977.0
+    },
+    "LogMinorityShareholderCount": {
+      "non_missing": 4449,
+      "mean": 9.692636801955548,
+      "median": 9.603462956885961,
+      "std": 1.2789821946857316,
+      "min": 2.3978952727983707,
+      "max": 15.575775576124071
+    },
+    "LogAssets": {
+      "non_missing": 4611,
+      "mean": 27.32182780763328,
+      "median": 27.082165474836497,
+      "std": 1.6615125876609793,
+      "min": 18.6561550461162,
+      "max": 33.874278764512916
+    },
+    "Leverage": {
+      "non_missing": 4610,
+      "mean": 0.46218883527442917,
+      "median": 0.4723548545267222,
+      "std": 0.20928862364542794,
+      "min": 0.017781295150886323,
+      "max": 1.2590652687644954
+    },
+    "ROA": {
+      "non_missing": 4610,
+      "mean": 0.014674611833387113,
+      "median": 0.023248093591923813,
+      "std": 0.09105294640260751,
+      "min": -1.3752547035828149,
+      "max": 1.7185523551559234
+    },
+    "Loss": {
+      "non_missing": 4611,
+      "mean": 0.2648015614834092,
+      "median": 0.0,
+      "std": 0.44127533901392707,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Big4Auditor": {
+      "non_missing": 4631,
+      "mean": 0.5337939969768949,
+      "median": 1.0,
+      "std": 0.4989105278394213,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "CleanOpinion": {
+      "non_missing": 4631,
+      "mean": 0.8859857482185273,
+      "median": 1.0,
+      "std": 0.3178628944486179,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "NonAuditFeeRatio": {
+      "non_missing": 1155,
+      "mean": 0.10380031974935615,
+      "median": 0.0,
+      "std": 0.3219451842250347,
+      "min": 0.0,
+      "max": 4.814814814814815
+    },
+    "AuditFee": {
+      "non_missing": 1188,
+      "mean": 39779724.343939394,
+      "median": 129000.0,
+      "std": 125249523.86706896,
+      "min": 3.0,
+      "max": 1690000000.0
+    },
+    "NonAuditFee": {
+      "non_missing": 4977,
+      "mean": 3481641.2889712676,
+      "median": 0.0,
+      "std": 30650019.750071265,
+      "min": 0.0,
+      "max": 900722264.0
+    }
+  },
+  "missing_rates": {
+    "CorrectionDummy": 0.0,
+    "CorrectionCount": 0.0,
+    "MaterialCorrectionDummy": 0.0,
+    "MaterialCorrectionCount": 0.0,
+    "OutsideDirectorRatio": 0.3325296363271047,
+    "LargestShareholderOwnership": 0.06931886678722121,
+    "MinorityShareholderCount": 0.10608800482218204,
+    "LogMinorityShareholderCount": 0.10608800482218204,
+    "LogAssets": 0.07353827606992164,
+    "Leverage": 0.0737392003214788,
+    "ROA": 0.0737392003214788,
+    "Loss": 0.07353827606992164,
+    "Big4Auditor": 0.06951979103877838,
+    "CleanOpinion": 0.06951979103877838,
+    "NonAuditFeeRatio": 0.7679324894514767,
+    "AuditFee": 0.7613019891500904,
+    "NonAuditFee": 0.0
+  },
+  "yearly_summary": [
+    {
+      "year": 2018,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.20534458509142053,
+      "avg_correction_count": 0.350210970464135,
+      "material_rate": 0.0
+    },
+    {
+      "year": 2019,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.18424753867791843,
+      "avg_correction_count": 0.270042194092827,
+      "material_rate": 0.0
+    },
+    {
+      "year": 2020,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.12376933895921238,
+      "avg_correction_count": 0.18706047819971872,
+      "material_rate": 0.0014064697609001407
+    },
+    {
+      "year": 2021,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.22925457102672292,
+      "avg_correction_count": 0.3530239099859353,
+      "material_rate": 0.0014064697609001407
+    },
+    {
+      "year": 2022,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.2616033755274262,
+      "avg_correction_count": 0.35443037974683544,
+      "material_rate": 0.10689170182841069
+    },
+    {
+      "year": 2023,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.1659634317862166,
+      "avg_correction_count": 0.23066104078762306,
+      "material_rate": 0.1617440225035162
+    },
+    {
+      "year": 2024,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.2250351617440225,
+      "avg_correction_count": 0.3150492264416315,
+      "material_rate": 0.21518987341772153
+    }
+  ],
+  "regression_sample_sizes": [
+    {
+      "model": "M1_controls",
+      "n_obs": 4610,
+      "n_firms": 689,
+      "dep_mean": 0.21344902386117137
+    },
+    {
+      "model": "M2_governance",
+      "n_obs": 3218,
+      "n_firms": 682,
+      "dep_mean": 0.21193287756370416
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "n_obs": 3217,
+      "n_firms": 682,
+      "dep_mean": 0.2119987566055331
+    },
+    {
+      "model": "M4_audit_fee_aux",
+      "n_obs": 1,
+      "n_firms": 1,
+      "dep_mean": 0.0
+    },
+    {
+      "model": "M5_material_controls",
+      "n_obs": 4610,
+      "n_firms": 689,
+      "dep_mean": 0.07483731019522777
+    },
+    {
+      "model": "M6_material_governance",
+      "n_obs": 3218,
+      "n_firms": 682,
+      "dep_mean": 0.10472343070229956
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "n_obs": 3217,
+      "n_firms": 682,
+      "dep_mean": 0.10475598383587192
+    },
+    {
+      "model": "P1_count_controls",
+      "n_obs": 4610,
+      "n_firms": 689,
+      "dep_mean": 0.313882863340564
+    },
+    {
+      "model": "P2_count_governance",
+      "n_obs": 3218,
+      "n_firms": 682,
+      "dep_mean": 0.3057799875699192
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "n_obs": 3217,
+      "n_firms": 682,
+      "dep_mean": 0.3058750388560771
+    }
+  ],
+  "regression_key_coefficients": [
+    {
+      "model": "M1_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.021953718684039326,
+      "std_err": 0.005623334818070218,
+      "t_or_z": 3.9040390434324643,
+      "p_value": 9.460050936355589e-05,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M1_controls",
+      "variable": "Leverage_w",
+      "coef": 0.10259743153611105,
+      "std_err": 0.04508808332420137,
+      "t_or_z": 2.2754888647271705,
+      "p_value": 0.022876619916045927,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M1_controls",
+      "variable": "ROA_w",
+      "coef": -0.3637576708469263,
+      "std_err": 0.13709535347845989,
+      "t_or_z": -2.653318742156196,
+      "p_value": 0.007970456568019361,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M1_controls",
+      "variable": "Loss",
+      "coef": 0.013719432364253999,
+      "std_err": 0.021695910400265524,
+      "t_or_z": 0.6323510795880727,
+      "p_value": 0.5271574929538011,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "LogAssets_w",
+      "coef": 0.028877846566618435,
+      "std_err": 0.007832533567616123,
+      "t_or_z": 3.686910029471801,
+      "p_value": 0.00022699356531701254,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "Leverage_w",
+      "coef": 0.06029387519174902,
+      "std_err": 0.04997574800708286,
+      "t_or_z": 1.2064626863254515,
+      "p_value": 0.2276391381018953,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "ROA_w",
+      "coef": -0.2944100965949826,
+      "std_err": 0.15524942764275024,
+      "t_or_z": -1.8963683220298866,
+      "p_value": 0.05791135766928716,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "Loss",
+      "coef": 0.033131634704437155,
+      "std_err": 0.02559733487723592,
+      "t_or_z": 1.2943392295852487,
+      "p_value": 0.19554827161498356,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.07069610236460917,
+      "std_err": 0.06276721147628618,
+      "t_or_z": 1.1263221784405473,
+      "p_value": 0.26002917345651844,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.0018662300719019035,
+      "std_err": 0.0005576754293173591,
+      "t_or_z": -3.34644485626043,
+      "p_value": 0.0008185495868280429,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M2_governance",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.007506261639772714,
+      "std_err": 0.010167467960672744,
+      "t_or_z": -0.7382626302641482,
+      "p_value": 0.46035487047598833,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "LogAssets_w",
+      "coef": 0.031966000215016714,
+      "std_err": 0.008327404878064626,
+      "t_or_z": 3.8386508982190786,
+      "p_value": 0.00012371217615671633,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "Leverage_w",
+      "coef": 0.05996544559326052,
+      "std_err": 0.04990028135692122,
+      "t_or_z": 1.201705560823321,
+      "p_value": 0.22947762589639675,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "ROA_w",
+      "coef": -0.2923055842773696,
+      "std_err": 0.15551407829324593,
+      "t_or_z": -1.8796085054510758,
+      "p_value": 0.06016145323034604,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "Loss",
+      "coef": 0.03194745904400373,
+      "std_err": 0.0256715317973761,
+      "t_or_z": 1.2444703064921547,
+      "p_value": 0.21332652121489482,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.07605744183184003,
+      "std_err": 0.06274697205462486,
+      "t_or_z": 1.2121292763836897,
+      "p_value": 0.22546289853740709,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.0018002536128031042,
+      "std_err": 0.0005619647468508535,
+      "t_or_z": -3.203499192594184,
+      "p_value": 0.0013576842074950943,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.005888827764489824,
+      "std_err": 0.010169165933445176,
+      "t_or_z": -0.5790866038602213,
+      "p_value": 0.5625307386163454,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "Big4Auditor",
+      "coef": -0.028044618172517147,
+      "std_err": 0.017853258553943183,
+      "t_or_z": -1.5708403083829778,
+      "p_value": 0.11621974660856299,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "CleanOpinion",
+      "coef": 0.013180439065449565,
+      "std_err": 0.02603353075837324,
+      "t_or_z": 0.5062870337405272,
+      "p_value": 0.6126551640916862,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.016504548002755196,
+      "std_err": 0.003203982463794264,
+      "t_or_z": 5.151260404593462,
+      "p_value": 2.587416276698798e-07,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "Leverage_w",
+      "coef": -0.00316192831262832,
+      "std_err": 0.024759877339503827,
+      "t_or_z": -0.1277037147346257,
+      "p_value": 0.8983834502330831,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "ROA_w",
+      "coef": -0.18254798329144306,
+      "std_err": 0.07891550160557885,
+      "t_or_z": -2.3132081730129688,
+      "p_value": 0.02071119643062985,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "Loss",
+      "coef": 0.008395335465061637,
+      "std_err": 0.012722662002329636,
+      "t_or_z": 0.6598725536781826,
+      "p_value": 0.509335618605427,
+      "nobs": 4610.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "LogAssets_w",
+      "coef": 0.023063650715931278,
+      "std_err": 0.005699572936164101,
+      "t_or_z": 4.0465576937512555,
+      "p_value": 5.197631869800461e-05,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "Leverage_w",
+      "coef": -0.021434385269024053,
+      "std_err": 0.03467666834986199,
+      "t_or_z": -0.6181212408518295,
+      "p_value": 0.5364954216430431,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "ROA_w",
+      "coef": -0.20352842198155324,
+      "std_err": 0.10693416532407107,
+      "t_or_z": -1.90330584584213,
+      "p_value": 0.05700064850462189,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "Loss",
+      "coef": 0.014987445234069441,
+      "std_err": 0.01874539828859683,
+      "t_or_z": 0.7995266359950634,
+      "p_value": 0.4239851082000825,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.09368220054519291,
+      "std_err": 0.044565592680680007,
+      "t_or_z": 2.102119480749234,
+      "p_value": 0.03554281080432688,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.001375648100719677,
+      "std_err": 0.0004091619194740375,
+      "t_or_z": -3.3621117588069334,
+      "p_value": 0.0007734881126585925,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.010546130297790004,
+      "std_err": 0.007227080580966987,
+      "t_or_z": -1.4592517932571505,
+      "p_value": 0.14449581823034513,
+      "nobs": 3218.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "LogAssets_w",
+      "coef": 0.02394156587529593,
+      "std_err": 0.006012465909797914,
+      "t_or_z": 3.981987795769579,
+      "p_value": 6.834128980207517e-05,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "Leverage_w",
+      "coef": -0.022974725224562814,
+      "std_err": 0.03488810555418031,
+      "t_or_z": -0.6585260179542759,
+      "p_value": 0.5102001842175355,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "ROA_w",
+      "coef": -0.20932679040946756,
+      "std_err": 0.10688500217933129,
+      "t_or_z": -1.9584299587537994,
+      "p_value": 0.05017958225182552,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "Loss",
+      "coef": 0.014402625329629895,
+      "std_err": 0.018776804548765298,
+      "t_or_z": 0.7670434706941105,
+      "p_value": 0.44305567007861535,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.0959951895857551,
+      "std_err": 0.0447001211164289,
+      "t_or_z": 2.147537572341687,
+      "p_value": 0.03175050932761037,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.0013764934364280778,
+      "std_err": 0.0004118032656001074,
+      "t_or_z": -3.3425996134881517,
+      "p_value": 0.0008299755981650454,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.010431679224621144,
+      "std_err": 0.007261007389041027,
+      "t_or_z": -1.436671065831111,
+      "p_value": 0.15081148014704526,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "Big4Auditor",
+      "coef": -0.006206565721729691,
+      "std_err": 0.012933521809004745,
+      "t_or_z": -0.4798821089402327,
+      "p_value": 0.6313112236172536,
+      "nobs": 3217.0
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "CleanOpinion",
+      "coef": 0.021644785015645523,
+      "std_err": 0.017108356346722208,
+      "t_or_z": 1.2651586497841711,
+      "p_value": 0.20581446202083797,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.10878263511116992,
+      "std_err": 0.020080382369883187,
+      "t_or_z": 5.417358748821611,
+      "p_value": 6.04859000759958e-08,
+      "nobs": 4610.0
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "Leverage_w",
+      "coef": 0.5630974855754289,
+      "std_err": 0.16023386410774215,
+      "t_or_z": 3.514222718842997,
+      "p_value": 0.0004410428565918032,
+      "nobs": 4610.0
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "ROA_w",
+      "coef": -2.6753591902682023,
+      "std_err": 0.47221607610605265,
+      "t_or_z": -5.665540259301458,
+      "p_value": 1.4656200657556451e-08,
+      "nobs": 4610.0
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "Loss",
+      "coef": 0.08199990731132532,
+      "std_err": 0.08251239581827859,
+      "t_or_z": 0.9937889513221512,
+      "p_value": 0.320325626235079,
+      "nobs": 4610.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "LogAssets_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "Leverage_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "ROA_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "Loss",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "LogAssets_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "Leverage_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "ROA_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "Loss",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "Big4Auditor",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "CleanOpinion",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0
+    }
+  ],
+  "paper_style_coefficients": [
+    {
+      "model": "M1_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.021953718684039326,
+      "std_err": 0.005623334818070218,
+      "t_or_z": 3.9040390434324643,
+      "p_value": 9.460050936355589e-05,
+      "nobs": 4610.0,
+      "stars": "***",
+      "coef_stars": "0.0220***",
+      "std_err_fmt": "(0.0056)"
+    },
+    {
+      "model": "M1_controls",
+      "variable": "Leverage_w",
+      "coef": 0.10259743153611105,
+      "std_err": 0.04508808332420137,
+      "t_or_z": 2.2754888647271705,
+      "p_value": 0.022876619916045927,
+      "nobs": 4610.0,
+      "stars": "**",
+      "coef_stars": "0.1026**",
+      "std_err_fmt": "(0.0451)"
+    },
+    {
+      "model": "M1_controls",
+      "variable": "ROA_w",
+      "coef": -0.3637576708469263,
+      "std_err": 0.13709535347845989,
+      "t_or_z": -2.653318742156196,
+      "p_value": 0.007970456568019361,
+      "nobs": 4610.0,
+      "stars": "***",
+      "coef_stars": "-0.3638***",
+      "std_err_fmt": "(0.1371)"
+    },
+    {
+      "model": "M1_controls",
+      "variable": "Loss",
+      "coef": 0.013719432364253999,
+      "std_err": 0.021695910400265524,
+      "t_or_z": 0.6323510795880727,
+      "p_value": 0.5271574929538011,
+      "nobs": 4610.0,
+      "stars": "",
+      "coef_stars": "0.0137",
+      "std_err_fmt": "(0.0217)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "LogAssets_w",
+      "coef": 0.028877846566618435,
+      "std_err": 0.007832533567616123,
+      "t_or_z": 3.686910029471801,
+      "p_value": 0.00022699356531701254,
+      "nobs": 3218.0,
+      "stars": "***",
+      "coef_stars": "0.0289***",
+      "std_err_fmt": "(0.0078)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "Leverage_w",
+      "coef": 0.06029387519174902,
+      "std_err": 0.04997574800708286,
+      "t_or_z": 1.2064626863254515,
+      "p_value": 0.2276391381018953,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "0.0603",
+      "std_err_fmt": "(0.0500)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "ROA_w",
+      "coef": -0.2944100965949826,
+      "std_err": 0.15524942764275024,
+      "t_or_z": -1.8963683220298866,
+      "p_value": 0.05791135766928716,
+      "nobs": 3218.0,
+      "stars": "*",
+      "coef_stars": "-0.2944*",
+      "std_err_fmt": "(0.1552)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "Loss",
+      "coef": 0.033131634704437155,
+      "std_err": 0.02559733487723592,
+      "t_or_z": 1.2943392295852487,
+      "p_value": 0.19554827161498356,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "0.0331",
+      "std_err_fmt": "(0.0256)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.07069610236460917,
+      "std_err": 0.06276721147628618,
+      "t_or_z": 1.1263221784405473,
+      "p_value": 0.26002917345651844,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "0.0707",
+      "std_err_fmt": "(0.0628)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.0018662300719019035,
+      "std_err": 0.0005576754293173591,
+      "t_or_z": -3.34644485626043,
+      "p_value": 0.0008185495868280429,
+      "nobs": 3218.0,
+      "stars": "***",
+      "coef_stars": "-0.0019***",
+      "std_err_fmt": "(0.0006)"
+    },
+    {
+      "model": "M2_governance",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.007506261639772714,
+      "std_err": 0.010167467960672744,
+      "t_or_z": -0.7382626302641482,
+      "p_value": 0.46035487047598833,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "-0.0075",
+      "std_err_fmt": "(0.0102)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "LogAssets_w",
+      "coef": 0.031966000215016714,
+      "std_err": 0.008327404878064626,
+      "t_or_z": 3.8386508982190786,
+      "p_value": 0.00012371217615671633,
+      "nobs": 3217.0,
+      "stars": "***",
+      "coef_stars": "0.0320***",
+      "std_err_fmt": "(0.0083)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "Leverage_w",
+      "coef": 0.05996544559326052,
+      "std_err": 0.04990028135692122,
+      "t_or_z": 1.201705560823321,
+      "p_value": 0.22947762589639675,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "0.0600",
+      "std_err_fmt": "(0.0499)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "ROA_w",
+      "coef": -0.2923055842773696,
+      "std_err": 0.15551407829324593,
+      "t_or_z": -1.8796085054510758,
+      "p_value": 0.06016145323034604,
+      "nobs": 3217.0,
+      "stars": "*",
+      "coef_stars": "-0.2923*",
+      "std_err_fmt": "(0.1555)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "Loss",
+      "coef": 0.03194745904400373,
+      "std_err": 0.0256715317973761,
+      "t_or_z": 1.2444703064921547,
+      "p_value": 0.21332652121489482,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "0.0319",
+      "std_err_fmt": "(0.0257)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.07605744183184003,
+      "std_err": 0.06274697205462486,
+      "t_or_z": 1.2121292763836897,
+      "p_value": 0.22546289853740709,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "0.0761",
+      "std_err_fmt": "(0.0627)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.0018002536128031042,
+      "std_err": 0.0005619647468508535,
+      "t_or_z": -3.203499192594184,
+      "p_value": 0.0013576842074950943,
+      "nobs": 3217.0,
+      "stars": "***",
+      "coef_stars": "-0.0018***",
+      "std_err_fmt": "(0.0006)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.005888827764489824,
+      "std_err": 0.010169165933445176,
+      "t_or_z": -0.5790866038602213,
+      "p_value": 0.5625307386163454,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "-0.0059",
+      "std_err_fmt": "(0.0102)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "Big4Auditor",
+      "coef": -0.028044618172517147,
+      "std_err": 0.017853258553943183,
+      "t_or_z": -1.5708403083829778,
+      "p_value": 0.11621974660856299,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "-0.0280",
+      "std_err_fmt": "(0.0179)"
+    },
+    {
+      "model": "M3_governance_auditor_basic",
+      "variable": "CleanOpinion",
+      "coef": 0.013180439065449565,
+      "std_err": 0.02603353075837324,
+      "t_or_z": 0.5062870337405272,
+      "p_value": 0.6126551640916862,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "0.0132",
+      "std_err_fmt": "(0.0260)"
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.016504548002755196,
+      "std_err": 0.003203982463794264,
+      "t_or_z": 5.151260404593462,
+      "p_value": 2.587416276698798e-07,
+      "nobs": 4610.0,
+      "stars": "***",
+      "coef_stars": "0.0165***",
+      "std_err_fmt": "(0.0032)"
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "Leverage_w",
+      "coef": -0.00316192831262832,
+      "std_err": 0.024759877339503827,
+      "t_or_z": -0.1277037147346257,
+      "p_value": 0.8983834502330831,
+      "nobs": 4610.0,
+      "stars": "",
+      "coef_stars": "-0.0032",
+      "std_err_fmt": "(0.0248)"
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "ROA_w",
+      "coef": -0.18254798329144306,
+      "std_err": 0.07891550160557885,
+      "t_or_z": -2.3132081730129688,
+      "p_value": 0.02071119643062985,
+      "nobs": 4610.0,
+      "stars": "**",
+      "coef_stars": "-0.1825**",
+      "std_err_fmt": "(0.0789)"
+    },
+    {
+      "model": "M5_material_controls",
+      "variable": "Loss",
+      "coef": 0.008395335465061637,
+      "std_err": 0.012722662002329636,
+      "t_or_z": 0.6598725536781826,
+      "p_value": 0.509335618605427,
+      "nobs": 4610.0,
+      "stars": "",
+      "coef_stars": "0.0084",
+      "std_err_fmt": "(0.0127)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "LogAssets_w",
+      "coef": 0.023063650715931278,
+      "std_err": 0.005699572936164101,
+      "t_or_z": 4.0465576937512555,
+      "p_value": 5.197631869800461e-05,
+      "nobs": 3218.0,
+      "stars": "***",
+      "coef_stars": "0.0231***",
+      "std_err_fmt": "(0.0057)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "Leverage_w",
+      "coef": -0.021434385269024053,
+      "std_err": 0.03467666834986199,
+      "t_or_z": -0.6181212408518295,
+      "p_value": 0.5364954216430431,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "-0.0214",
+      "std_err_fmt": "(0.0347)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "ROA_w",
+      "coef": -0.20352842198155324,
+      "std_err": 0.10693416532407107,
+      "t_or_z": -1.90330584584213,
+      "p_value": 0.05700064850462189,
+      "nobs": 3218.0,
+      "stars": "*",
+      "coef_stars": "-0.2035*",
+      "std_err_fmt": "(0.1069)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "Loss",
+      "coef": 0.014987445234069441,
+      "std_err": 0.01874539828859683,
+      "t_or_z": 0.7995266359950634,
+      "p_value": 0.4239851082000825,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "0.0150",
+      "std_err_fmt": "(0.0187)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.09368220054519291,
+      "std_err": 0.044565592680680007,
+      "t_or_z": 2.102119480749234,
+      "p_value": 0.03554281080432688,
+      "nobs": 3218.0,
+      "stars": "**",
+      "coef_stars": "0.0937**",
+      "std_err_fmt": "(0.0446)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.001375648100719677,
+      "std_err": 0.0004091619194740375,
+      "t_or_z": -3.3621117588069334,
+      "p_value": 0.0007734881126585925,
+      "nobs": 3218.0,
+      "stars": "***",
+      "coef_stars": "-0.0014***",
+      "std_err_fmt": "(0.0004)"
+    },
+    {
+      "model": "M6_material_governance",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.010546130297790004,
+      "std_err": 0.007227080580966987,
+      "t_or_z": -1.4592517932571505,
+      "p_value": 0.14449581823034513,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "-0.0105",
+      "std_err_fmt": "(0.0072)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "LogAssets_w",
+      "coef": 0.02394156587529593,
+      "std_err": 0.006012465909797914,
+      "t_or_z": 3.981987795769579,
+      "p_value": 6.834128980207517e-05,
+      "nobs": 3217.0,
+      "stars": "***",
+      "coef_stars": "0.0239***",
+      "std_err_fmt": "(0.0060)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "Leverage_w",
+      "coef": -0.022974725224562814,
+      "std_err": 0.03488810555418031,
+      "t_or_z": -0.6585260179542759,
+      "p_value": 0.5102001842175355,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "-0.0230",
+      "std_err_fmt": "(0.0349)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "ROA_w",
+      "coef": -0.20932679040946756,
+      "std_err": 0.10688500217933129,
+      "t_or_z": -1.9584299587537994,
+      "p_value": 0.05017958225182552,
+      "nobs": 3217.0,
+      "stars": "*",
+      "coef_stars": "-0.2093*",
+      "std_err_fmt": "(0.1069)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "Loss",
+      "coef": 0.014402625329629895,
+      "std_err": 0.018776804548765298,
+      "t_or_z": 0.7670434706941105,
+      "p_value": 0.44305567007861535,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "0.0144",
+      "std_err_fmt": "(0.0188)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": 0.0959951895857551,
+      "std_err": 0.0447001211164289,
+      "t_or_z": 2.147537572341687,
+      "p_value": 0.03175050932761037,
+      "nobs": 3217.0,
+      "stars": "**",
+      "coef_stars": "0.0960**",
+      "std_err_fmt": "(0.0447)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": -0.0013764934364280778,
+      "std_err": 0.0004118032656001074,
+      "t_or_z": -3.3425996134881517,
+      "p_value": 0.0008299755981650454,
+      "nobs": 3217.0,
+      "stars": "***",
+      "coef_stars": "-0.0014***",
+      "std_err_fmt": "(0.0004)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": -0.010431679224621144,
+      "std_err": 0.007261007389041027,
+      "t_or_z": -1.436671065831111,
+      "p_value": 0.15081148014704526,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "-0.0104",
+      "std_err_fmt": "(0.0073)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "Big4Auditor",
+      "coef": -0.006206565721729691,
+      "std_err": 0.012933521809004745,
+      "t_or_z": -0.4798821089402327,
+      "p_value": 0.6313112236172536,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "-0.0062",
+      "std_err_fmt": "(0.0129)"
+    },
+    {
+      "model": "M7_material_auditor_basic",
+      "variable": "CleanOpinion",
+      "coef": 0.021644785015645523,
+      "std_err": 0.017108356346722208,
+      "t_or_z": 1.2651586497841711,
+      "p_value": 0.20581446202083797,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "0.0216",
+      "std_err_fmt": "(0.0171)"
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.10878263511116992,
+      "std_err": 0.020080382369883187,
+      "t_or_z": 5.417358748821611,
+      "p_value": 6.04859000759958e-08,
+      "nobs": 4610.0,
+      "stars": "***",
+      "coef_stars": "0.1088***",
+      "std_err_fmt": "(0.0201)"
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "Leverage_w",
+      "coef": 0.5630974855754289,
+      "std_err": 0.16023386410774215,
+      "t_or_z": 3.514222718842997,
+      "p_value": 0.0004410428565918032,
+      "nobs": 4610.0,
+      "stars": "***",
+      "coef_stars": "0.5631***",
+      "std_err_fmt": "(0.1602)"
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "ROA_w",
+      "coef": -2.6753591902682023,
+      "std_err": 0.47221607610605265,
+      "t_or_z": -5.665540259301458,
+      "p_value": 1.4656200657556451e-08,
+      "nobs": 4610.0,
+      "stars": "***",
+      "coef_stars": "-2.6754***",
+      "std_err_fmt": "(0.4722)"
+    },
+    {
+      "model": "P1_count_controls",
+      "variable": "Loss",
+      "coef": 0.08199990731132532,
+      "std_err": 0.08251239581827859,
+      "t_or_z": 0.9937889513221512,
+      "p_value": 0.320325626235079,
+      "nobs": 4610.0,
+      "stars": "",
+      "coef_stars": "0.0820",
+      "std_err_fmt": "(0.0825)"
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "LogAssets_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "Leverage_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "ROA_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "Loss",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P2_count_governance",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3218.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "LogAssets_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "Leverage_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "ROA_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "Loss",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "OutsideDirectorRatio_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "LargestShareholderOwnership_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "LogMinorityShareholderCount_w",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "Big4Auditor",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    },
+    {
+      "model": "P3_count_auditor_basic",
+      "variable": "CleanOpinion",
+      "coef": NaN,
+      "std_err": NaN,
+      "t_or_z": NaN,
+      "p_value": NaN,
+      "nobs": 3217.0,
+      "stars": "",
+      "coef_stars": "nan",
+      "std_err_fmt": ""
+    }
+  ]
+}

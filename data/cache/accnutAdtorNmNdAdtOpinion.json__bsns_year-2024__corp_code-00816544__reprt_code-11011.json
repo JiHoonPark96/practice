@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000852",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": "해외매출 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000852",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": " 해외매출 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000852",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "한길회게법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": "매출채권 손실충당금 인식\n종속기업투자주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000852",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "한길회게법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": "매출채권 손실충당금 인식,\n 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000852",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "한길회게법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": "현금창출단위 손상검사\n종속기업투자주식 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000852",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "한길회게법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 \n없음",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

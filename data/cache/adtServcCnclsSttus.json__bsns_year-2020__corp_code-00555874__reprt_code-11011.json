@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331003341",
+      "corp_cls": "Y",
+      "corp_code": "00555874",
+      "corp_name": "제주항공",
+      "bsns_year": "제16기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "개별/연결 재무제표에 대한 감사, \n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "2,267",
+      "real_exc_dtls_mendng": "127,500",
+      "real_exc_dtls_time": "4,160",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220331003341",
+      "corp_cls": "Y",
+      "corp_code": "00555874",
+      "corp_name": "제주항공",
+      "bsns_year": "제15기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별/연결 재무제표에 대한 감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "2,267",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "2,224",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20220331003341",
+      "corp_cls": "Y",
+      "corp_code": "00555874",
+      "corp_name": "제주항공",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별/연결 재무제표에 대한 감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000",
+      "adt_cntrct_dtls_time": "4,160",
+      "real_exc_dtls_mendng": "90,000",
+      "real_exc_dtls_time": "1,551",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

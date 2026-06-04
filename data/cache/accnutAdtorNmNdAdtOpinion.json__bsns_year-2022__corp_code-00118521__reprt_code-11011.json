@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230711000247",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결)비교표시 전년도 재무제표 재작성",
+      "core_adt_matter": "- 전환사채 관련 파생상품자산 및 부채 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230711000247",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 전환사채 관련 파생상품자산 및 부채 평가\n- CMO 수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230711000247",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 전환사채 관련 파생상품부채 평가\n- CMO 수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

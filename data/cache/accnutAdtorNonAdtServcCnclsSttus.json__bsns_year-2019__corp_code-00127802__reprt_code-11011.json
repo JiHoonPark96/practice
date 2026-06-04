@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제55기(당     기)",
+      "cntrct_cncls_de": "2019 .03. 04",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.05 - 2020.04",
+      "servc_mendng": "8,800,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제54기(전     기)",
+      "cntrct_cncls_de": "2018. 04. 30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.05 - 2019.04",
+      "servc_mendng": "8,800,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000263",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제53기(전 전 기)",
+      "cntrct_cncls_de": "2017. 04. 28",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.05 - 2018.04",
+      "servc_mendng": "8,800,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

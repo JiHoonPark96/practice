@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002456",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제67기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표에\n대한 감사 및 검토",
+      "mendng": "353",
+      "tot_reqre_time": "5,345",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002456",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제66기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표에 \n대한 감사 및 검토",
+      "mendng": "165",
+      "tot_reqre_time": "2,299",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002456",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표에\n대한 감사 및 검토",
+      "mendng": "125",
+      "tot_reqre_time": "2,068",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

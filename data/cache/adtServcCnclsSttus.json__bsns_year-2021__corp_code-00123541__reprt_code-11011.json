@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001204",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제70기(당  기)",
+      "adtor": "안진회계법인",
+      "cn": "반기재무제표 검토\n별도 재무제표에 대한 회계감사\n연결 재무제표에 대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260,000",
+      "adt_cntrct_dtls_time": "1,300이상",
+      "real_exc_dtls_mendng": "200,000",
+      "real_exc_dtls_time": "2,024",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001204",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제69기(전  기)",
+      "adtor": "안진회계법인",
+      "cn": "반기재무제표 검토\n별도 재무제표에 대한 회계감사\n연결 재무제표에 대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230,000",
+      "adt_cntrct_dtls_time": "2,052",
+      "real_exc_dtls_mendng": "300,000",
+      "real_exc_dtls_time": "2,490",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001204",
+      "corp_cls": "Y",
+      "corp_code": "00123541",
+      "corp_name": "보해양조",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "반기재무제표 검토\n별도 재무제표에 대한 회계감사\n연결 재무제표에 대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "143,000",
+      "adt_cntrct_dtls_time": "1,416",
+      "real_exc_dtls_mendng": "143,000",
+      "real_exc_dtls_time": "1,416",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001027",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "bsns_year": "제42기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, \n개별재무제표 감사, 전산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "117",
+      "real_exc_dtls_time": "1,554",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001027",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "bsns_year": "제41기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, \n개별재무제표 감사, 전산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "1,350",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "1,411",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001027",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "bsns_year": "제40기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, \n개별재무제표 감사, 전산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "84",
+      "adt_cntrct_dtls_time": "(주1)",
+      "real_exc_dtls_mendng": "84",
+      "real_exc_dtls_time": "1,381",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

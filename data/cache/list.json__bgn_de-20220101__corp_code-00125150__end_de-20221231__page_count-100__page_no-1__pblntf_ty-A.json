@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "stock_code": "005090",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114002042",
+      "flr_nm": "SGC에너지",
+      "rcept_dt": "20221114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "stock_code": "005090",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812000757",
+      "flr_nm": "SGC에너지",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "stock_code": "005090",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220812000745",
+      "flr_nm": "SGC에너지",
+      "rcept_dt": "20220812",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "stock_code": "005090",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220513001494",
+      "flr_nm": "SGC에너지",
+      "rcept_dt": "20220513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "stock_code": "005090",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220310001037",
+      "flr_nm": "SGC에너지",
+      "rcept_dt": "20220310",
+      "rm": "정연"
+    }
+  ]
+}

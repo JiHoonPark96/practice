@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001086",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "stock_knd": "보통주",
+      "nm": "REALTY ADVISORS, INC.",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "34,522,638",
+      "bsis_posesn_stock_qota_rt": "31.06",
+      "trmend_posesn_stock_co": "34,522,638",
+      "trmend_posesn_stock_qota_rt": "31.06",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001086",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "34,522,638",
+      "bsis_posesn_stock_qota_rt": "31.06",
+      "trmend_posesn_stock_co": "34,522,638",
+      "trmend_posesn_stock_qota_rt": "31.06",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001086",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210504000460",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제22기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210504000460",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제22기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210504000460",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210504000460",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210504000460",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210504000460",
+      "corp_cls": "Y",
+      "corp_code": "00416654",
+      "corp_name": "유엔젤",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

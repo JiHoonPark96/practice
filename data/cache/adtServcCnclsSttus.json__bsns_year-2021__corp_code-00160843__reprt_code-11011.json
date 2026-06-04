@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001280",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제69기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 용역계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430백만원",
+      "adt_cntrct_dtls_time": "4,200",
+      "real_exc_dtls_mendng": "430백만원",
+      "real_exc_dtls_time": "4,299",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001280",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제68기 (전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 용역계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410백만원",
+      "adt_cntrct_dtls_time": "3,500",
+      "real_exc_dtls_mendng": "410백만원",
+      "real_exc_dtls_time": "4,238",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001280",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제67기 (전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사 용역계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230백만원",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "230백만원",
+      "real_exc_dtls_time": "2,910",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

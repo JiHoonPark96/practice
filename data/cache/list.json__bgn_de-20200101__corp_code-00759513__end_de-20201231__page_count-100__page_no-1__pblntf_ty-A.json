@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_code": "108670",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001749",
+      "flr_nm": "LX하우시스",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_code": "108670",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814002282",
+      "flr_nm": "LX하우시스",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_code": "108670",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001669",
+      "flr_nm": "LX하우시스",
+      "rcept_dt": "20200515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_code": "108670",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330003717",
+      "flr_nm": "LX하우시스",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    }
+  ]
+}

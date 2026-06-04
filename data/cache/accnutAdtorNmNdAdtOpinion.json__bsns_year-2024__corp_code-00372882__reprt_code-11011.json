@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "매출의 기간귀속　",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "매출의 기간귀속　",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "매출의 기간귀속　",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "매출의 기간귀속　",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "판매촉진비의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "판매촉진비의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

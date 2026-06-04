@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000794",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "se": "소액주주",
+      "shrholdr_co": "88,684",
+      "shrholdr_tot_co": "88,695",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "19,753,515",
+      "stock_tot_co": "46,110,835",
+      "hold_stock_rate": "42.84%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000677",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "se": "소액주주",
+      "shrholdr_co": "19,009",
+      "shrholdr_tot_co": "19,036",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "15,670,844",
+      "stock_tot_co": "33,442,000",
+      "hold_stock_rate": "46.86%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

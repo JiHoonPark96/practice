@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004312",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제43기 3분기",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "해외주재원 종합소득세 신고용역",
+      "servc_exc_pd": "2018.04~2018.05",
+      "servc_mendng": "43백만",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004312",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제42기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004312",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제41기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000665",
+      "corp_cls": "Y",
+      "corp_code": "00409672",
+      "corp_name": "티비에이치글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "5,872",
+      "shrholdr_tot_co": "5,901",
+      "shrholdr_rate": "99.51%",
+      "hold_stock_co": "9,494,575",
+      "stock_tot_co": "20,856,819",
+      "hold_stock_rate": "45.52%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

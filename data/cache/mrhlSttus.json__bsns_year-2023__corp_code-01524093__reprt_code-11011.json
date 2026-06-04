@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001465",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "se": "소액주주",
+      "shrholdr_co": "78,163",
+      "shrholdr_tot_co": "78,176",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "21,433,087",
+      "stock_tot_co": "38,693,623",
+      "hold_stock_rate": "55.39%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

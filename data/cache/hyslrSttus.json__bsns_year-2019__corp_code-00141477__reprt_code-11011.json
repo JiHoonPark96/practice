@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "stock_knd": "보통주",
+      "nm": "장세일",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "14,703,833",
+      "bsis_posesn_stock_qota_rt": "17.13",
+      "trmend_posesn_stock_co": "14,703,833",
+      "trmend_posesn_stock_qota_rt": "17.13",
+      "rm": "(주2)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "stock_knd": "보통주",
+      "nm": "(주)대유코아",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "10,715,709",
+      "bsis_posesn_stock_qota_rt": "12.48",
+      "trmend_posesn_stock_co": "10,715,709",
+      "trmend_posesn_stock_qota_rt": "12.48",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "stock_knd": "보통주",
+      "nm": "조경은",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "140,866",
+      "bsis_posesn_stock_qota_rt": "0.16",
+      "trmend_posesn_stock_co": "140,866",
+      "trmend_posesn_stock_qota_rt": "0.16",
+      "rm": "(주1)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "25,560,408",
+      "bsis_posesn_stock_qota_rt": "29.78",
+      "trmend_posesn_stock_co": "25,560,408",
+      "trmend_posesn_stock_qota_rt": "29.78",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001700",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

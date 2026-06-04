@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000602",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "se": "소액주주",
+      "shrholdr_co": "34,984",
+      "shrholdr_tot_co": "34,987",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "41,338,867",
+      "stock_tot_co": "141,806,193",
+      "hold_stock_rate": "29.15%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

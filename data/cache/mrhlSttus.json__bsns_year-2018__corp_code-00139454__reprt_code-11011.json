@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190702000212",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "se": "소액주주",
+      "shrholdr_co": "18,618",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "5,742,760",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "21.9%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

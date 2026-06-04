@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240307000864",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "se": "소액주주",
+      "shrholdr_co": "14,726",
+      "shrholdr_tot_co": "14,745",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "3,038,345",
+      "stock_tot_co": "9,010,616",
+      "hold_stock_rate": "33.72%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

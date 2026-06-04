@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001359",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "의결권있는 보통주",
+      "nm": "(주)에스엔텍",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "6,313,900",
+      "bsis_posesn_stock_qota_rt": "14.10",
+      "trmend_posesn_stock_co": "8,313,900",
+      "trmend_posesn_stock_qota_rt": "15.34",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001359",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "의결권있는 보통주",
+      "nm": "김대영",
+      "relate": "계열사임원",
+      "bsis_posesn_stock_co": "772,395",
+      "bsis_posesn_stock_qota_rt": "1.72",
+      "trmend_posesn_stock_co": "772,395",
+      "trmend_posesn_stock_qota_rt": "1.43",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001359",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "의결권있는 보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,086,295",
+      "bsis_posesn_stock_qota_rt": "15.82",
+      "trmend_posesn_stock_co": "7,086,295",
+      "trmend_posesn_stock_qota_rt": "16.77",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001359",
+      "corp_cls": "Y",
+      "corp_code": "00127158",
+      "corp_name": "씨아이테크",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

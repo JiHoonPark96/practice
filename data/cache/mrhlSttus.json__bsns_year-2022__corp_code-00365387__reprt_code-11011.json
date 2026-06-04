@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001546",
+      "corp_cls": "Y",
+      "corp_code": "00365387",
+      "corp_name": "AJ네트웍스",
+      "se": "소액주주",
+      "shrholdr_co": "6,703",
+      "shrholdr_tot_co": "6,710",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "13,318,871",
+      "stock_tot_co": "46,822,295",
+      "hold_stock_rate": "28.45%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

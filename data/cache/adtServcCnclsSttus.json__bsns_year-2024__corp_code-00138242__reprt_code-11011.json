@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제63기(당기)",
+      "adtor": "서현회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토,\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "792",
+      "adt_cntrct_dtls_time": "6,500",
+      "real_exc_dtls_mendng": "792",
+      "real_exc_dtls_time": "8,023",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제62기(전기)",
+      "adtor": "서현회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토,\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "704",
+      "adt_cntrct_dtls_time": "5,400",
+      "real_exc_dtls_mendng": "704",
+      "real_exc_dtls_time": "7,740",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토,\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "709",
+      "adt_cntrct_dtls_time": "5,615",
+      "real_exc_dtls_mendng": "709",
+      "real_exc_dtls_time": "8,333",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

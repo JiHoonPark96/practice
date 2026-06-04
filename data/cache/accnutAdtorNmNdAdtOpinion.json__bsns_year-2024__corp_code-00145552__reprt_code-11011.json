@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 수출매출 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 종속기업 투자주식에 대한 손상 평가, \n 수출매출 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": " 매출 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": " 종속기업 투자주식에 대한 손상 평가, \n 매출 수익인식 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 특수관계자와의 매출거래",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003414",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " 종속기업 투자주식에 대한 손상 평가, \n 특수관계자와의 매출거래",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

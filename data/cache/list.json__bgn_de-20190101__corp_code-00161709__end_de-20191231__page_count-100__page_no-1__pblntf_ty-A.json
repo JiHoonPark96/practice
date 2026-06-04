@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001910",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002464",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002006",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00161709",
+      "corp_name": "퍼시스",
+      "stock_code": "016800",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401002604",
+      "flr_nm": "퍼시스",
+      "rcept_dt": "20190401",
+      "rm": ""
+    }
+  ]
+}

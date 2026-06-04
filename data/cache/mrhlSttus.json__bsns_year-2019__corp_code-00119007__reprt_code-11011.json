@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001796",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "se": "소액주주",
+      "shrholdr_co": "11,949",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "20,596,971",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "33.02%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001534",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제33기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기 개별 검토,\n기말 개별 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "136,000천원",
+      "adt_cntrct_dtls_time": "1,250",
+      "real_exc_dtls_mendng": "136,000천원",
+      "real_exc_dtls_time": "1,095",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001534",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제32기",
+      "adtor": "삼일회계법인",
+      "cn": "반기 개별 검토,\n기말 개별 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130,000천원",
+      "adt_cntrct_dtls_time": "1,300",
+      "real_exc_dtls_mendng": "130,000천원",
+      "real_exc_dtls_time": "1,369",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001534",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제31기",
+      "adtor": "한울회계법인",
+      "cn": "반기 개별 검토,\n기말 개별 감사,\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "76,000천원",
+      "adt_cntrct_dtls_time": "1,000",
+      "real_exc_dtls_mendng": "76,000천원",
+      "real_exc_dtls_time": "1,000",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

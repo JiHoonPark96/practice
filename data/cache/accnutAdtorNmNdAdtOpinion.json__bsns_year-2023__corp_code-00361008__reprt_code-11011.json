@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000730",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 충당금\n - 재고자산 평가충당금 및 손실부담계약 충당부채 추정 관련 \n    회사의 회계 정책 및 금액산정방법의 적정성 평가 및 재계산\n    검증, 추정 정책의 일관성 및 적절성 검토\n - 전망원가 변동 건에 대한 원인 파악과 필요시 증빙 확인,\n    당기발생 실제원가와 전기말 전망원가 대사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000730",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산평가충당금 및 손실부담계약충당\n - 금액 산정방법 적정성 평가\n - 전망원가 추정자료 및 합리성 검토 등",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000730",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석 3. 중요한 회계추정\n          (코로나-19의 영향)",
+      "core_adt_matter": "재고자산평가충당금\n - 금액 산정방법 적정성 평가\n - 전망원가 추정자료 및 합리성 검토 등",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

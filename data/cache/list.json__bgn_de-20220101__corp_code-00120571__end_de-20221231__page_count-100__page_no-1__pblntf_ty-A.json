@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "stock_code": "005300",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221111000752",
+      "flr_nm": "롯데칠성음료",
+      "rcept_dt": "20221111",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "stock_code": "005300",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220812000761",
+      "flr_nm": "롯데칠성음료",
+      "rcept_dt": "20220812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "stock_code": "005300",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.03)",
+      "rcept_no": "20220513001636",
+      "flr_nm": "롯데칠성음료",
+      "rcept_dt": "20220513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "stock_code": "005300",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220513001146",
+      "flr_nm": "롯데칠성음료",
+      "rcept_dt": "20220513",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "stock_code": "005300",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220317000852",
+      "flr_nm": "롯데칠성음료",
+      "rcept_dt": "20220317",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "stock_code": "005300",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220315001119",
+      "flr_nm": "롯데칠성음료",
+      "rcept_dt": "20220315",
+      "rm": "정연"
+    }
+  ]
+}

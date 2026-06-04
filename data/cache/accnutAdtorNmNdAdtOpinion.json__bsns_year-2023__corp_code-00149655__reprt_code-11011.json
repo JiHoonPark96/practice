@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329002523",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제60기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 건설계약 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002523",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제59기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 건설계약 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329002523",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제58기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 주석3. 중요한 회계추정 및 가정\n : COVID-19의 확산이 기업의 생산 능력과\n   고객에 대한 주문 이행능력에 미칠수 있는영향",
+      "core_adt_matter": "- 수주산업 투입법에 따른 수익인식 및\n   미청구공사금액의 회수가능성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

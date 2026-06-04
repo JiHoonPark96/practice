@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식(후성글로벌(주)) 손상평가\n현금창출단위 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(주)한텍에 대한 지배력 획득(사업결합)\n수익인식 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식 발생 사실",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

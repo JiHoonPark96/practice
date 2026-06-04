@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311000605",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 등 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000605",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000605",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 등 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000605",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000605",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 등 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000605",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

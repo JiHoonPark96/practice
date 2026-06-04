@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310001006",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "7,467",
+      "shrholdr_tot_co": "7,476",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "19,614,223",
+      "stock_tot_co": "55,895,292",
+      "hold_stock_rate": "35.09%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

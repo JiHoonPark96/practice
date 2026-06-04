@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004578",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제2기(당기)\n(2019년 1~12월)",
+      "adtor": "삼덕회계법인",
+      "cn": "1분기 검토 3일,\n2분기 검토 3일,\n3분기 검토 3일,\n중간 감사 5일,\n기말 감사 5일 ",
+      "mendng": "190\n(연간 총 보수)",
+      "tot_reqre_time": "1,597",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004578",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제1기(전기)\n(2018년 6~12월)",
+      "adtor": "삼덕회계법인",
+      "cn": "2분기 검토 8일,\n3분기 검토 14일,\n중간 감사 5일,\n기말 감사 5일 ",
+      "mendng": "139\n(연간 총 보수)",
+      "tot_reqre_time": "1,092",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004578",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

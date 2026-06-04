@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230714000061",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제47기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "1분기,반기,3분기,47기 재무제표검토\n별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,690백만원",
+      "adt_cntrct_dtls_time": "14,100",
+      "real_exc_dtls_mendng": "1,690백만원",
+      "real_exc_dtls_time": "13,692",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230714000061",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제46기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "1분기,반기,3분기,46기 재무제표검토\n별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,370백만원",
+      "adt_cntrct_dtls_time": "12,250",
+      "real_exc_dtls_mendng": "1,370백만원",
+      "real_exc_dtls_time": "11,746",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230714000061",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "1분기,반기,3분기,45기 재무제표검토\n별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,290백만원",
+      "adt_cntrct_dtls_time": "11,500",
+      "real_exc_dtls_mendng": "1,290백만원",
+      "real_exc_dtls_time": "11,058",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

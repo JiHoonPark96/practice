@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001398",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001398",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001398",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001398",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001398",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "리스식별의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001398",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "리스식별의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

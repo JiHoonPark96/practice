@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002763",
+      "corp_cls": "Y",
+      "corp_code": "00508274",
+      "corp_name": "일진다이아",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2020.01.20",
+      "servc_cn": "제16기 법인세세무조정 등 세무용역",
+      "servc_exc_pd": "2020.01.02~2020.03.31",
+      "servc_mendng": "6백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002763",
+      "corp_cls": "Y",
+      "corp_code": "00508274",
+      "corp_name": "일진다이아",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "2018.12.19",
+      "servc_cn": "제15기 법인세세무조정 등 세무용역",
+      "servc_exc_pd": "2019.01.02~2019.03.31",
+      "servc_mendng": "6백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002763",
+      "corp_cls": "Y",
+      "corp_code": "00508274",
+      "corp_name": "일진다이아",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "2018.01.02",
+      "servc_cn": "제14기 법인세세무조정 등 세무용역",
+      "servc_exc_pd": "2018.01.02~2018.03.31",
+      "servc_mendng": "6백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

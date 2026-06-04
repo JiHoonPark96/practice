@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000045",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제 25기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "분기 별도/연결 재무제표 검토\n반기 별도/연결 재무제표 검토\n연간 별도/연결 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220 ",
+      "adt_cntrct_dtls_time": "2,310 ",
+      "real_exc_dtls_mendng": "220 ",
+      "real_exc_dtls_time": "2,340 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000045",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제 24기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "분기 별도/연결 재무제표 검토\n반기 별도/연결 재무제표 검토\n연간 별도/연결 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220 ",
+      "adt_cntrct_dtls_time": "2,200 ",
+      "real_exc_dtls_mendng": "220 ",
+      "real_exc_dtls_time": "2,328 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000045",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제 23기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "분기 별도/연결 재무제표 검토\n반기 별도/연결 재무제표 검토\n연간 별도/연결 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220 ",
+      "adt_cntrct_dtls_time": "2,200 ",
+      "real_exc_dtls_mendng": "220 ",
+      "real_exc_dtls_time": "2,324 ",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

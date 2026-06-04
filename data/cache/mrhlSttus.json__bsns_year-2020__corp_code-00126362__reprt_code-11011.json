@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210309000252",
+      "corp_cls": "Y",
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI",
+      "se": "소액주주",
+      "shrholdr_co": "201,566",
+      "shrholdr_tot_co": "201,669",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "39,378,129",
+      "stock_tot_co": "68,764,530",
+      "hold_stock_rate": "57.27%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

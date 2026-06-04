@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004578",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제2기(당기)\n(2019년 1~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 100% 자회사인 Hyosung Vina Chemicals Co., Ltd. 에 대해 2020년 2월 25일 미화 1억불을 추가출자함",
+      "core_adt_matter": "- 회사의 소송 및 우발 채무",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004578",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제1기(전기)\n(2018년 6~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 소송사건과 관련한 중요한 불확실성\n- 100% 자회사인 Hyosung Vina Chemicals Co., Ltd. 에 대해 2019년 1월 30일 783억을 추가출자함",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004578",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

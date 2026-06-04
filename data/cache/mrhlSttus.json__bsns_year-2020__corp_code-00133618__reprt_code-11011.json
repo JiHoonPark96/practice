@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326001276",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "se": "소액주주",
+      "shrholdr_co": "940",
+      "shrholdr_tot_co": "946",
+      "shrholdr_rate": "99.37%",
+      "hold_stock_co": "180,748",
+      "stock_tot_co": "407,592",
+      "hold_stock_rate": "44.35%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

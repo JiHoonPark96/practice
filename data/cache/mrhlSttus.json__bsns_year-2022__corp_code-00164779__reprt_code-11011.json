@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001209",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "se": "소액주주",
+      "shrholdr_co": "1,007,087",
+      "shrholdr_tot_co": "1,007,093",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "471,759,790",
+      "stock_tot_co": "728,002,365",
+      "hold_stock_rate": "64.80%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

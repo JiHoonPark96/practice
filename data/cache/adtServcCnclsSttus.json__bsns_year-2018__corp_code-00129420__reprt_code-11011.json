@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001396",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "bsns_year": "제40기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, \n개별재무제표 감사, 전산감사",
+      "mendng": "84,000",
+      "tot_reqre_time": "254(반기)\n1,127(감사)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001396",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "bsns_year": "제39기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, \n개별재무제표 감사, 전산감사",
+      "mendng": "60,000",
+      "tot_reqre_time": "273(반기)\n801(감사)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001396",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "bsns_year": "제38기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, 개별재무제표 감사",
+      "mendng": "55,000",
+      "tot_reqre_time": "269(반기)\n567(감사)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

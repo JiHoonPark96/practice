@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002218",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814003010",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516002038",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240502000551",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20240502",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20240502000538",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20240502",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240408002597",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20240408",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "stock_code": "007610",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서제출기한연장신고서 (2023.12)",
+      "rcept_no": "20240320001429",
+      "flr_nm": "선도전기",
+      "rcept_dt": "20240320",
+      "rm": ""
+    }
+  ]
+}

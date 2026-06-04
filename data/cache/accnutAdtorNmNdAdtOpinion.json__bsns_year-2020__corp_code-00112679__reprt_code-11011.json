@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000405",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제40기(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 재고자산 평가\n재고자산은 최초에 원가로 측정되며, 순실현가능가치가 취득원가보다 작은 경우에는 차이금액을 재고자산평가충당금과 평가손실로 회계처리 합니다.\n당기중 재고자산과 관련하여 매출원가로 인식한 평가손실은 별도 394백만원, 연결  279백만원입니다.,",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000405",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제39기(전기)",
+      "adtor": "성도이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000405",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "성도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000466",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제42기(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 미청구공사금액 회수가능성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000466",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제41기(전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 총계약원가(또는 공사예정원가) 추정의 불확실성\n- 공사진행률 산정\n- 미청구공사금액 회수가능성\n- 공사변경에 대한 회계처리",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000466",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "핵심감사사항\n- 투입법에 따른 수익인식\n- 총계약원가(또는 공사예정원가) 추정의 불확실성\n- 공사진행률 산정\n- 미청구공사금액 회수가능성\n- 공사변경에 대한 회계처리",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000775",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "420,000",
+      "adt_cntrct_dtls_time": "4,000",
+      "real_exc_dtls_mendng": "420,000",
+      "real_exc_dtls_time": "4,244",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000775",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "bsns_year": "제43기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "420,000",
+      "adt_cntrct_dtls_time": "4,200",
+      "real_exc_dtls_mendng": "420,000",
+      "real_exc_dtls_time": "4,643",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000775",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "406,000",
+      "adt_cntrct_dtls_time": "4,200",
+      "real_exc_dtls_mendng": "406,000",
+      "real_exc_dtls_time": "4,516",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

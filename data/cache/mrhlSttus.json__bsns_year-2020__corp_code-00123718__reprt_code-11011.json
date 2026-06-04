@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210324000661",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "se": "소액주주",
+      "shrholdr_co": "87,340",
+      "shrholdr_tot_co": "87,375",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "33,033,517",
+      "stock_tot_co": "64,837,978",
+      "hold_stock_rate": "50.95%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

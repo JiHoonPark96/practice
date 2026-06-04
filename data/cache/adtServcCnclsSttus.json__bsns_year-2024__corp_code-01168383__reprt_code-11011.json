@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001280",
+      "corp_cls": "Y",
+      "corp_code": "01168383",
+      "corp_name": "일동제약",
+      "bsns_year": "제9기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표검토\n(분반기,연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440",
+      "adt_cntrct_dtls_time": "4,000",
+      "real_exc_dtls_mendng": "440",
+      "real_exc_dtls_time": "3,709",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001280",
+      "corp_cls": "Y",
+      "corp_code": "01168383",
+      "corp_name": "일동제약",
+      "bsns_year": "제8기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표검토\n(분반기,연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440",
+      "adt_cntrct_dtls_time": "3,700",
+      "real_exc_dtls_mendng": "440",
+      "real_exc_dtls_time": "3,544",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001280",
+      "corp_cls": "Y",
+      "corp_code": "01168383",
+      "corp_name": "일동제약",
+      "bsns_year": "제7기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표검토\n(분반기,연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "3,645",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "3,645",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

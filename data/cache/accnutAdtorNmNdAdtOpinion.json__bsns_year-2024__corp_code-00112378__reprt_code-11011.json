@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "종속기업투자주식에 대한 처분",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "종속기업 매각",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "현금창출단위의 손상평가\n\n종속기업투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "전환사채 공정가치 평가의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "전환사채 공정가치 평가의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

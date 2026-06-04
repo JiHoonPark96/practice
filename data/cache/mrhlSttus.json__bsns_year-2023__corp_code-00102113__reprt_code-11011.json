@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001432",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "se": "소액주주",
+      "shrholdr_co": "21,062",
+      "shrholdr_tot_co": "21,072",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "25,384,032",
+      "stock_tot_co": "41,516,765",
+      "hold_stock_rate": "61.14%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

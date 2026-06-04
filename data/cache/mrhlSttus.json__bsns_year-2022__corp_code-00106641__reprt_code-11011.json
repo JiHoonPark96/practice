@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000734",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "se": "소액주주",
+      "shrholdr_co": "620,723",
+      "shrholdr_tot_co": "620,730",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "223,469,217",
+      "stock_tot_co": "405,363,347",
+      "hold_stock_rate": "55.12%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000454",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "bsns_year": "제 26 기(2020년)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000454",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "bsns_year": "제 25 기(2019년)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000454",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "bsns_year": "제 24 기(2018년)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

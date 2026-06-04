@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제11기\n(당기)",
+      "cntrct_cncls_de": "2021.02.01",
+      "servc_cn": "연구개발세액공제 검토",
+      "servc_exc_pd": "2021.02 ~ 2021.06",
+      "servc_mendng": "300,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제11기\n(당기)",
+      "cntrct_cncls_de": "2021.09.17",
+      "servc_cn": "2020 사업연도 CBCR 작성 지원",
+      "servc_exc_pd": "2021.10 ~ 2021.12",
+      "servc_mendng": "6,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2020.02.10",
+      "servc_cn": "연구개발세액공제 검토",
+      "servc_exc_pd": "2020.02 ~ 2020.12",
+      "servc_mendng": "300,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2020.10.29",
+      "servc_cn": "이전가격 검토",
+      "servc_exc_pd": "2020.11 ~ 2021.02",
+      "servc_mendng": "30,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2020.11.01",
+      "servc_cn": "상시세무자문",
+      "servc_exc_pd": "2020.11 ~ 2021.10",
+      "servc_mendng": "(주)",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2020.11.30",
+      "servc_cn": "2019 사업연도 CBCR 작성 지원",
+      "servc_exc_pd": "2020.12 ~ 2020.12",
+      "servc_mendng": "5,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제9기\n(전전기)",
+      "cntrct_cncls_de": "2019.12.04",
+      "servc_cn": "2018 사업연도 CBCR 작성 지원",
+      "servc_exc_pd": "2019.12 ~ 2020.01",
+      "servc_mendng": "5,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

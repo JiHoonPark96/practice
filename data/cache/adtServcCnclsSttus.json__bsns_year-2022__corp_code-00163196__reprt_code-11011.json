@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001313",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "bsns_year": "제66기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기 재무제표 검토, \n내부회계관리제도 감사,\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000,000",
+      "adt_cntrct_dtls_time": "2,083.00",
+      "real_exc_dtls_mendng": "250,000,000",
+      "real_exc_dtls_time": "3,133.00",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001313",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "bsns_year": "제65기(전기)",
+      "adtor": "성현회계법인",
+      "cn": "반기 재무제표 검토, \n내부회계관리제도 검토,\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "50,000,000",
+      "adt_cntrct_dtls_time": "820.00",
+      "real_exc_dtls_mendng": "50,000,000",
+      "real_exc_dtls_time": "1,167.00",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001313",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "성현회계법인",
+      "cn": "반기 재무제표 검토, \n내부회계관리제도 검토,\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "50,000,000",
+      "adt_cntrct_dtls_time": "820.00",
+      "real_exc_dtls_mendng": "50,000,000",
+      "real_exc_dtls_time": "1,216.00",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

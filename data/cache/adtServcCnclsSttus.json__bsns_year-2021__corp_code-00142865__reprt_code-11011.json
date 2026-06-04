@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000365",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼도회계법인",
+      "cn": "반기재무제표 검토 개별재무제표 감사\n내부회계관리제도 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135,000천원",
+      "adt_cntrct_dtls_time": "1,200",
+      "real_exc_dtls_mendng": "135,000천원",
+      "real_exc_dtls_time": "1,428",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000365",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제43기(전기)",
+      "adtor": "대현회계법인",
+      "cn": "반기재무제표 검토 개별재무제표 감사\n내부회계관리제도 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "50,000천원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "50,000천원",
+      "real_exc_dtls_time": "1,117",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000365",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼영회계법인",
+      "cn": "반기재무제표 검토 개별재무제표 감사\n내부회계관리제도 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "43,000천원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "43,000천원",
+      "real_exc_dtls_time": "1,100",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

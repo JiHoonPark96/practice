@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002981",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "bsns_year": "제 32기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 기타 감사업무",
+      "mendng": "325,000",
+      "tot_reqre_time": "3,986",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002981",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "bsns_year": "제 31기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 기타 감사업무",
+      "mendng": "245,000",
+      "tot_reqre_time": "3,545 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002981",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "bsns_year": "제 30기(전전기)",
+      "adtor": "삼정\n회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 기타 감사업무",
+      "mendng": "225,000",
+      "tot_reqre_time": "3,339 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

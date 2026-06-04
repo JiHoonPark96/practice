@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004905",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "se": "소액주주",
+      "shrholdr_co": "4,133",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "2,849,640",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "19.95%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

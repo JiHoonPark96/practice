@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제56기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 수익인식 시기의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제56기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 수익인식 시기의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제55기",
+      "adtor": "딜로이트 안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 수익인식 시기의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제55기",
+      "adtor": "딜로이트 안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 수익인식 시기의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제54기",
+      "adtor": "딜로이트 안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 수익인식 시기의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제54기",
+      "adtor": "딜로이트 안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출 수익인식 시기의 적절성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

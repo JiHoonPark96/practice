@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001893",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "se": "소액주주",
+      "shrholdr_co": "952",
+      "shrholdr_tot_co": "963",
+      "shrholdr_rate": "98.86%",
+      "hold_stock_co": "307,491",
+      "stock_tot_co": "1,200,000",
+      "hold_stock_rate": "25.62%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001033",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "se": "소액주주",
+      "shrholdr_co": "3,915",
+      "shrholdr_tot_co": "3,929",
+      "shrholdr_rate": "99.64%",
+      "hold_stock_co": "31,457,467",
+      "stock_tot_co": "56,857,860",
+      "hold_stock_rate": "55.33%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

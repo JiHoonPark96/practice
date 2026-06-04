@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000451",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "bsns_year": "제50기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "58,000천원",
+      "adt_cntrct_dtls_time": "962시간",
+      "real_exc_dtls_mendng": "58,000천원",
+      "real_exc_dtls_time": "1,035시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000451",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "bsns_year": "제49기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "58,000천원",
+      "adt_cntrct_dtls_time": "890시간",
+      "real_exc_dtls_mendng": "58,000천원",
+      "real_exc_dtls_time": "890시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000451",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "경신회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "45,000천원",
+      "adt_cntrct_dtls_time": "680시간",
+      "real_exc_dtls_mendng": "45,000천원",
+      "real_exc_dtls_time": "680시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

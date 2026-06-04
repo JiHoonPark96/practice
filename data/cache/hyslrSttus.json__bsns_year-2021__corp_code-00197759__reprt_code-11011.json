@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221006000468",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "stock_knd": "보통주",
+      "nm": "(주)인피니티엔티",
+      "relate": "최대주주본인",
+      "bsis_posesn_stock_co": "2,422,094",
+      "bsis_posesn_stock_qota_rt": "12.98",
+      "trmend_posesn_stock_co": "359,712",
+      "trmend_posesn_stock_qota_rt": "8.08",
+      "rm": "1. 액면병합(5:1) (주1)\n2. 장외매도 (주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221006000468",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "stock_knd": "보통주",
+      "nm": "(주)광림",
+      "relate": "최대주주\n특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "124,706",
+      "trmend_posesn_stock_qota_rt": "2.80",
+      "rm": "(주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221006000468",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,422,094",
+      "bsis_posesn_stock_qota_rt": "12.98",
+      "trmend_posesn_stock_co": "484,418",
+      "trmend_posesn_stock_qota_rt": "10.88",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221006000468",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

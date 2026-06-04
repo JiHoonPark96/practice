@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "stock_knd": "보통주",
+      "nm": "허정훈",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "1,440,000",
+      "bsis_posesn_stock_qota_rt": "36.00",
+      "trmend_posesn_stock_co": "1,440,000",
+      "trmend_posesn_stock_qota_rt": "36.00",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "stock_knd": "보통주",
+      "nm": "허봉삼",
+      "relate": "친척",
+      "bsis_posesn_stock_co": "229,000",
+      "bsis_posesn_stock_qota_rt": "5.72",
+      "trmend_posesn_stock_co": "229,000",
+      "trmend_posesn_stock_qota_rt": "5.72",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "stock_knd": "보통주",
+      "nm": "산천교역",
+      "relate": "기타",
+      "bsis_posesn_stock_co": "153,500",
+      "bsis_posesn_stock_qota_rt": "3.84",
+      "trmend_posesn_stock_co": "153,500",
+      "trmend_posesn_stock_qota_rt": "3.84",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,822,500",
+      "bsis_posesn_stock_qota_rt": "45.56",
+      "trmend_posesn_stock_co": "1,822,500",
+      "trmend_posesn_stock_qota_rt": "45.56",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

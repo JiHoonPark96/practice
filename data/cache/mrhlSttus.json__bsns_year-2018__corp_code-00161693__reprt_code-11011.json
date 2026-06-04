@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004239",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "se": "소액주주",
+      "shrholdr_co": "18,093",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.63%",
+      "hold_stock_co": "4,847,380",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "25.72%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

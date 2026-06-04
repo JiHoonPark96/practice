@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제42기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "- 회계감사 용역 계약\n: 반기 검토\n * 연결 (2018.07.23~2018.07.27)\n * 별도 (2018.07.23~2018.07.27)\n: 감사\n * 연결 (2019.02.07~2018.02.15)\n * 별도 (2019.02.07~2018.02.15)",
+      "mendng": "96백만원",
+      "tot_reqre_time": "1,448시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제41기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 회계감사 용역 계약\n: 반기 검토\n * 연결 (2017.07.24~2017.07.28)\n * 별도 (2017.07.24~2017.07.28)\n: 감사\n * 연결 (2018.02.05~2018.02.09)\n * 별도 (2018.02.05~2018.02.09)",
+      "mendng": "80백만원",
+      "tot_reqre_time": "1,357시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002927",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 회계감사 용역 계약\n: 반기 검토\n * 연결 (2016.07.25~2016.07.29)\n * 별도 (2016.07.25~2016.07.29)\n: 감사\n * 연결 (2017.02.06~2017.02.10)\n * 별도 (2017.02.06~2017.02.10)",
+      "mendng": "80백만원",
+      "tot_reqre_time": "1,213시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

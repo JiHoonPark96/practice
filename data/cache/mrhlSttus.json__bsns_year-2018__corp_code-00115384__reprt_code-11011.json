@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003899",
+      "corp_cls": "Y",
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "se": "소액주주",
+      "shrholdr_co": "2,713",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.74%",
+      "hold_stock_co": "2,457,818",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "23.34%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

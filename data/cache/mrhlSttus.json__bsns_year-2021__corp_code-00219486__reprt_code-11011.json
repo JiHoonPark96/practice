@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816001345",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "se": "소액주주",
+      "shrholdr_co": "11,478",
+      "shrholdr_tot_co": "11,483",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "512,868",
+      "stock_tot_co": "1,720,000",
+      "hold_stock_rate": "29.82%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

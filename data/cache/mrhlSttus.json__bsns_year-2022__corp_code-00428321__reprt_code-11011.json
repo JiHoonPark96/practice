@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230330001815",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "se": "소액주주",
+      "shrholdr_co": "18,409",
+      "shrholdr_tot_co": "18,415",
+      "shrholdr_rate": "100.0%",
+      "hold_stock_co": "6,864,235",
+      "stock_tot_co": "26,517,662",
+      "hold_stock_rate": "25.9%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

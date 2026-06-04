@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310001057",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제48기",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "19.0",
+      "adt_cntrct_dtls_time": "15,389",
+      "real_exc_dtls_mendng": "19.0",
+      "real_exc_dtls_time": "14,866",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001057",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제47기",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "19.0",
+      "adt_cntrct_dtls_time": "16,335",
+      "real_exc_dtls_mendng": "19.0",
+      "real_exc_dtls_time": "15,532",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001057",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제46기",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "14.0",
+      "adt_cntrct_dtls_time": "14,000",
+      "real_exc_dtls_mendng": "14.0",
+      "real_exc_dtls_time": "13,312",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

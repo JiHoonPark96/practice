@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 43기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결 재무제표 감사",
+      "mendng": "1,275",
+      "tot_reqre_time": "15,383",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 42기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결 재무제표 감사",
+      "mendng": "690",
+      "tot_reqre_time": "8,125",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 41기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결 재무제표 감사",
+      "mendng": "610",
+      "tot_reqre_time": "7,359",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

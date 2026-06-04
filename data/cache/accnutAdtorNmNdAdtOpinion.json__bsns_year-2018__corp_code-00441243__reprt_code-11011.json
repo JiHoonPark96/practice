@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 17기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 16기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-06-30"
+    },
+    {
+      "rcept_no": "20180928000437",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제 15기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-06-30"
+    }
+  ]
+}

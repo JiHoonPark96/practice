@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328000090",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "se": "소액주주",
+      "shrholdr_co": "4,387",
+      "shrholdr_tot_co": "4,393",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "2,197,030",
+      "stock_tot_co": "6,797,310",
+      "hold_stock_rate": "32.34%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

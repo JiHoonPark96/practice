@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002616",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제50기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도,연결 제무제표 등에 대한 검토 등\n반기 별도,연결 제무제표 등에 대한 검토 등\n3분기 별도,연결 제무제표 등에 대한 검토 등\n50기 별도,연결 제무제표 등에 대한 감사 등",
+      "mendng": "920",
+      "tot_reqre_time": "2,030\n1,750\n1,609\n5,807",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002616",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제49기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도,연결 제무제표 등에 대한 검토 등\n반기 별도,연결 제무제표 등에 대한 검토 등\n3분기 별도,연결 제무제표 등에 대한 검토 등\n49기 별도,연결 제무제표 등에 대한 감사 등",
+      "mendng": "630",
+      "tot_reqre_time": "1,850\n1,790\n1,808\n5,594",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002616",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제48기",
+      "adtor": "한영회계법인",
+      "cn": "1분기 별도,연결 제무제표 등에 대한 검토 등\n반기 별도,연결 제무제표 등에 대한 검토 등\n3분기 별도,연결 제무제표 등에 대한 검토 등\n48기 별도,연결 제무제표 등에 대한 감사 등",
+      "mendng": "570",
+      "tot_reqre_time": "1,656\n2,048\n1,751\n4,077",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

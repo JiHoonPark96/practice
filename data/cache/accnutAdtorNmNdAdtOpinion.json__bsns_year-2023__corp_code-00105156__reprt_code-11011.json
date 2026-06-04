@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000846",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제44기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "윤활유사업부 및 ASP사업부 매출의 과대계상 위험",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000846",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제43기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "윤활유사업부 및 ASP사업부 매출의 과대계상 위험",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000846",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제42기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "윤활유사업부 및 ASP사업부 매출의 과대계상 위험",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

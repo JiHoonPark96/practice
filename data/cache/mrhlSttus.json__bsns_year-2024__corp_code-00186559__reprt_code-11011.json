@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319001103",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "se": "소액주주",
+      "shrholdr_co": "19,046",
+      "shrholdr_tot_co": "19,048",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "89,014,599",
+      "stock_tot_co": "121,051,466",
+      "hold_stock_rate": "73.53%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000736",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n 1. 메모리 반도체 재고자산 순실현가치 평가\n 2. 재화의 판매장려활동에 대한 매출차감의 정확성과 완전성\n(별도재무제표)\n 1. 메모리 반도체 재고자산 순실현가치 평가\n 2. 재화의 판매장려활동에 대한 매출차감의 정확성과 완전성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000736",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감\n (별도재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000736",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 재화의 판매장려활동에 대한 매출차감\n(별도재무제표)\n1. 재화의 판매장려활동에 대한 매출차감",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

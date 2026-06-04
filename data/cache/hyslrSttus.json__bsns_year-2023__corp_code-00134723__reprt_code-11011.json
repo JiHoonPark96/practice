@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001475",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "유암코기업리바운스제칠차\n기업재무안정사모투자합자회사",
+      "relate": "최대주주본인",
+      "bsis_posesn_stock_co": "25,348,983",
+      "bsis_posesn_stock_qota_rt": "53.29",
+      "trmend_posesn_stock_co": "154,140,336",
+      "trmend_posesn_stock_qota_rt": "86.60",
+      "rm": "주주배정유상증자\n참여",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001475",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_knd": "의결권\n없는 주식",
+      "nm": "유암코기업리바운스제칠차\n기업재무안정사모투자합자회사",
+      "relate": "최대주주본인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001475",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "25,348,983",
+      "bsis_posesn_stock_qota_rt": "53.29",
+      "trmend_posesn_stock_co": "154,140,336",
+      "trmend_posesn_stock_qota_rt": "86.60",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001475",
+      "corp_cls": "Y",
+      "corp_code": "00134723",
+      "corp_name": "페이퍼코리아",
+      "stock_knd": "의결권\n없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

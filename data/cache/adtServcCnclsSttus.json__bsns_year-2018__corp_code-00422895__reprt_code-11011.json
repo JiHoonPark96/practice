@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002810",
+      "corp_cls": "Y",
+      "corp_code": "00422895",
+      "corp_name": "세이브존I&C",
+      "bsns_year": "제17기 (당기)",
+      "adtor": "신한회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "100,000",
+      "tot_reqre_time": "별도 1,450\n연결 1,450",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002810",
+      "corp_cls": "Y",
+      "corp_code": "00422895",
+      "corp_name": "세이브존I&C",
+      "bsns_year": "제16기 (전기)",
+      "adtor": "신한회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "100,000",
+      "tot_reqre_time": "별도 1,080\n연결 1,080",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002810",
+      "corp_cls": "Y",
+      "corp_code": "00422895",
+      "corp_name": "세이브존I&C",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "100,000",
+      "tot_reqre_time": "별도 1,075\n연결 1,075",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

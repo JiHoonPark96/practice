@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220303000725",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제26기 연간",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 재무제표감사(분기/반기/연간) 및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,420\n (연간)",
+      "adt_cntrct_dtls_time": "14,000\n (연간)",
+      "real_exc_dtls_mendng": "1,420\n (연간)",
+      "real_exc_dtls_time": "12,814\n (연간)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220303000725",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제25기 연간",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 재무제표감사(분기/반기/연간) 및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,350\n (연간)",
+      "adt_cntrct_dtls_time": "13,500\n (연간)",
+      "real_exc_dtls_mendng": "1,350\n (연간)",
+      "real_exc_dtls_time": "12,868\n  (연간)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220303000725",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제24기 연간",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 재무제표감사(분기/반기/연간) 및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,150\n (연간)",
+      "adt_cntrct_dtls_time": "11,500\n (연간)",
+      "real_exc_dtls_mendng": "1,150\n (연간)",
+      "real_exc_dtls_time": "11,565\n (연간)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

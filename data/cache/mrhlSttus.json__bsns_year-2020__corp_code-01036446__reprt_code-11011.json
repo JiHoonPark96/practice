@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "se": "소액주주",
+      "shrholdr_co": "10,411",
+      "shrholdr_tot_co": "10,420",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "10,545,196",
+      "stock_tot_co": "27,022,751",
+      "hold_stock_rate": "39.0%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

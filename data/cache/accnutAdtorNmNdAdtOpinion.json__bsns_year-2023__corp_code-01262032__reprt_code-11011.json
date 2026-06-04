@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001559",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "bsns_year": "제7기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "해당사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "장기간에 걸쳐 진행되는 대규모 프로젝트에 대한 수익의 기간 귀속",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001559",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "bsns_year": "제6기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "장기간에 걸쳐 진행되는 대규모 프로젝트에 대한 수익의 기간 귀속",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001559",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "계약수익 및 총계약원가 추정의 불확실성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

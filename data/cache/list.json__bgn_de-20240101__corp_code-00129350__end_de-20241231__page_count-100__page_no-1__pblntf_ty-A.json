@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "stock_code": "001820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002081",
+      "flr_nm": "삼화콘덴서공업",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "stock_code": "001820",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814002775",
+      "flr_nm": "삼화콘덴서공업",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "stock_code": "001820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240514000282",
+      "flr_nm": "삼화콘덴서공업",
+      "rcept_dt": "20240514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "stock_code": "001820",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240314001464",
+      "flr_nm": "삼화콘덴서공업",
+      "rcept_dt": "20240314",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000980",
+      "corp_cls": "Y",
+      "corp_code": "00158501",
+      "corp_name": "에스원",
+      "se": "소액주주",
+      "shrholdr_co": "12,616",
+      "shrholdr_tot_co": "12,626",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "12,886,487",
+      "stock_tot_co": "37,999,178",
+      "hold_stock_rate": "33.91%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

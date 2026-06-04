@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001075",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "보통주",
+      "nm": "글로벌세아(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "34,151,683",
+      "bsis_posesn_stock_qota_rt": "57.95",
+      "trmend_posesn_stock_co": "45,931,683",
+      "trmend_posesn_stock_qota_rt": "64.96",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001075",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "34,151,683",
+      "bsis_posesn_stock_qota_rt": "57.95",
+      "trmend_posesn_stock_co": "45,931,683",
+      "trmend_posesn_stock_qota_rt": "64.96",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001075",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

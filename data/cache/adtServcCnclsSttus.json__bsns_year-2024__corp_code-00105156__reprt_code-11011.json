@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001025",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제45기",
+      "adtor": "삼일회계법인",
+      "cn": "반기,중간,재고실사,기말감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "326백만원",
+      "adt_cntrct_dtls_time": "2,350",
+      "real_exc_dtls_mendng": "326백만원",
+      "real_exc_dtls_time": "2,414",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001025",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제44기",
+      "adtor": "삼정회계법인",
+      "cn": "반기,중간,재고실사,기말감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "2,100",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "2,169",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001025",
+      "corp_cls": "Y",
+      "corp_code": "00105156",
+      "corp_name": "극동유화",
+      "bsns_year": "제43기",
+      "adtor": "삼정회계법인",
+      "cn": "반기,중간,재고실사,기말감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "2,307",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

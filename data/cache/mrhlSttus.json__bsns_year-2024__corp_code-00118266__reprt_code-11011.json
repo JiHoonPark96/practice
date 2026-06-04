@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000850",
+      "corp_cls": "Y",
+      "corp_code": "00118266",
+      "corp_name": "DRB동일",
+      "se": "소액주주",
+      "shrholdr_co": "5,429",
+      "shrholdr_tot_co": "5,437",
+      "shrholdr_rate": "99.85%",
+      "hold_stock_co": "4,792,888",
+      "stock_tot_co": "19,930,000",
+      "hold_stock_rate": "24.05%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

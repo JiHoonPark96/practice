@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002701",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "보통주",
+      "nm": "(주)이마트",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "613,170",
+      "bsis_posesn_stock_qota_rt": "35.65",
+      "trmend_posesn_stock_co": "613,170",
+      "trmend_posesn_stock_qota_rt": "35.65",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002701",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "보통주",
+      "nm": "김장욱",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "1,220",
+      "bsis_posesn_stock_qota_rt": "0.07",
+      "trmend_posesn_stock_co": "1,220",
+      "trmend_posesn_stock_qota_rt": "0.07",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002701",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "614,390",
+      "bsis_posesn_stock_qota_rt": "35.72",
+      "trmend_posesn_stock_co": "614,390",
+      "trmend_posesn_stock_qota_rt": "35.72",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002701",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "stock_knd": "합 계",
+      "nm": "계",
+      "bsis_posesn_stock_co": "614,390",
+      "bsis_posesn_stock_qota_rt": "35.72",
+      "trmend_posesn_stock_co": "614,390",
+      "trmend_posesn_stock_qota_rt": "35.72",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

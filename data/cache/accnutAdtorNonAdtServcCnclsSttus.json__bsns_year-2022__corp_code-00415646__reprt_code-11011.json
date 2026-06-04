@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001080",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제 25(당) 기 ",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001080",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제 24(전) 기 ",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001080",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제 23(전전) 기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

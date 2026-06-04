@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000376",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제10기",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역비, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "358",
+      "adt_cntrct_dtls_time": "3,600",
+      "real_exc_dtls_mendng": "358",
+      "real_exc_dtls_time": "3,542",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000376",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제9기",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역비, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "345",
+      "adt_cntrct_dtls_time": "3,600",
+      "real_exc_dtls_mendng": "345",
+      "real_exc_dtls_time": "3,682",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000376",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제8기",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역비, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290",
+      "adt_cntrct_dtls_time": "3,078",
+      "real_exc_dtls_mendng": "290",
+      "real_exc_dtls_time": "3,343",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

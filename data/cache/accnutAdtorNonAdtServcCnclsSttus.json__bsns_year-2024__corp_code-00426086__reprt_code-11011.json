@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제23기(당기)",
+      "cntrct_cncls_de": "2024년 4월 15일",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "2024년 4월 ~ 2025년 3월",
+      "servc_mendng": "27",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제22기(전기)",
+      "cntrct_cncls_de": "2023년 4월 14일",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "2023년 4월 ~ 2024년 3월",
+      "servc_mendng": "142",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001222",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제21기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당사항 없음",
+      "servc_exc_pd": "해당사항 없음",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

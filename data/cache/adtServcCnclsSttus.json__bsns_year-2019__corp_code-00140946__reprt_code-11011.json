@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002411",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "bsns_year": "제47기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "- 반기검토(별도,연결)\n - 중간감사\n - 재고 및 자금실사\n - 기말회계감사(별도,연결)\n - 내부회계관리제도검토",
+      "mendng": "120",
+      "tot_reqre_time": "1,172",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002411",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "bsns_year": "제46기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 반기검토(별도,연결)\n - 중간감사\n - 재고 및 자금실사\n - 기말회계감사(별도,연결)\n - 내부회계관리제도검토",
+      "mendng": "115",
+      "tot_reqre_time": "1,369",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002411",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 반기검토(별도,연결)\n - 중간감사\n - 재고 및 자금실사\n - 기말회계감사(별도,연결)\n - 내부회계관리제도검토",
+      "mendng": "80",
+      "tot_reqre_time": "1,087",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

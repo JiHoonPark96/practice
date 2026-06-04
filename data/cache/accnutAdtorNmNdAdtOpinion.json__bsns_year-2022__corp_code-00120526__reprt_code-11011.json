@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001405",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "bsns_year": "제 53 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 전자제품전문점 부문 영업권 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001405",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "bsns_year": "제 52 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 코로나바이러스감염증-19\n(COVID-19)의 불확실성",
+      "core_adt_matter": "(1) 전자제품전문점 부문 영업권 손상\n(2) 백화점, 할인점 및 영화상영업 부문 \n현금창출단위 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001405",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "bsns_year": "제 51 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 코로나바이러스감염증-19\n(COVID-19)의 불확실성",
+      "core_adt_matter": "(1) 현금창출단위 손상\n(2) 구조조정 회계처리",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

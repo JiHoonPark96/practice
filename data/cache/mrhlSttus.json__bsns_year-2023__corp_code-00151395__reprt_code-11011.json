@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001343",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "se": "소액주주",
+      "shrholdr_co": "2,426",
+      "shrholdr_tot_co": "2,430",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "203,753",
+      "stock_tot_co": "1,429,220",
+      "hold_stock_rate": "14.26%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

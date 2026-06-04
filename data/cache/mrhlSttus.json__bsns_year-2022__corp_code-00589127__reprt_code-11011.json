@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230329001071",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "se": "소액주주",
+      "shrholdr_co": "66,591",
+      "shrholdr_tot_co": "66,601",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "91,768,963",
+      "stock_tot_co": "144,763,141",
+      "hold_stock_rate": "63.39%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

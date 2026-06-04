@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001648",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 48 기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간 감사, 연결감사, 반기검토\n내부관리회계제도 검토",
+      "mendng": "123/년",
+      "tot_reqre_time": "2,184시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001648",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 47 기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간 감사, 연결감사, 반기검토\n내부관리회계제도 검토",
+      "mendng": "115/년",
+      "tot_reqre_time": "1,616시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001648",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 46 기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연간 감사, 연결감사, 반기검토\n내부관리회계제도 검토",
+      "mendng": "95/년",
+      "tot_reqre_time": "1,565시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

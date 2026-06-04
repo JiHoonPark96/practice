@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000193",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "bsns_year": "제56기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000",
+      "adt_cntrct_dtls_time": "2,500H",
+      "real_exc_dtls_mendng": "250,000",
+      "real_exc_dtls_time": "2,084H",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000193",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "223,000",
+      "adt_cntrct_dtls_time": "2,091H",
+      "real_exc_dtls_mendng": "223,000",
+      "real_exc_dtls_time": "2,004H",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000193",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000",
+      "adt_cntrct_dtls_time": "1,300H",
+      "real_exc_dtls_mendng": "145,000",
+      "real_exc_dtls_time": "1,240H",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

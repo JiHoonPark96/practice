@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000816",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "bsns_year": "제15기(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000816",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "bsns_year": "제14기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000816",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항 없음",
+      "core_adt_matter": "천연가스매출 중 미고지매출에 대한 수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

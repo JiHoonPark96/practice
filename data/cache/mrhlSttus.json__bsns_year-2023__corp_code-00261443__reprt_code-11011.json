@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000989",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "se": "소액주주",
+      "shrholdr_co": "154,242",
+      "shrholdr_tot_co": "154,258",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "11,887,667",
+      "stock_tot_co": "21,954,022",
+      "hold_stock_rate": "54.2%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

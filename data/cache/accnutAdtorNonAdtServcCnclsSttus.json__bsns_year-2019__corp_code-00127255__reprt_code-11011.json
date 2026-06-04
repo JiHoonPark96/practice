@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004600",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제57기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004600",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제57기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004600",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004600",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004600",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004600",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

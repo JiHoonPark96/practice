@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "se": "소액주주",
+      "shrholdr_co": "11,005",
+      "shrholdr_tot_co": "11,024",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "5,814,695",
+      "stock_tot_co": "25,000,000",
+      "hold_stock_rate": "23.26%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

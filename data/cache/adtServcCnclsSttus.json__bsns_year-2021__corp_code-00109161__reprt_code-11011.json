@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000755",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제52기(당기)",
+      "adtor": "대현회계법인",
+      "cn": "반기개별,연결재무제표검토\n중간감사\n기말개별,연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "연간 145,000천원",
+      "adt_cntrct_dtls_time": "1,184시간",
+      "real_exc_dtls_mendng": "145,000천원",
+      "real_exc_dtls_time": "1,208시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000755",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제51기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기개별,연결재무제표검토\n중간감사\n기말개별,연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "연간 90,000천원",
+      "adt_cntrct_dtls_time": "1,050시간",
+      "real_exc_dtls_mendng": "95,500천원",
+      "real_exc_dtls_time": "1,296시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000755",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기개별,연결재무제표검토\n중간감사\n기말개별,연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "연간 80,000천원",
+      "adt_cntrct_dtls_time": "800시간",
+      "real_exc_dtls_mendng": "85,800천원",
+      "real_exc_dtls_time": "1,288시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

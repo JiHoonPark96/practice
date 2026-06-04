@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000646",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "5",
+      "apnt": "4",
+      "rlsofc": "-",
+      "mdstrm_resig": "3",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

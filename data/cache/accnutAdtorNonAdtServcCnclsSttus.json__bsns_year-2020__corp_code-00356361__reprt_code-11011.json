@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001094",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제20기 (당기)",
+      "cntrct_cncls_de": "2020년 1월",
+      "servc_cn": "'19년도 법인세 세무자문 ",
+      "servc_exc_pd": "3개월",
+      "servc_mendng": "35",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001094",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제19기 (전기)",
+      "cntrct_cncls_de": "2019년 7월\n2019년 7월\n2019년 3월\n2019년 3월",
+      "servc_cn": "해외지점의 법인전환 세무자문\n세무컨설팅\n'18년 사업연도 법인세 신고대행\n재무확인서 (Comfort Letter) 발행",
+      "servc_exc_pd": "2개월\n1개월\n1개월\n2개월",
+      "servc_mendng": "84\n430\n35\n230",
+      "rm": "(USD 70천)\n",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001094",
+      "corp_cls": "Y",
+      "corp_code": "00356361",
+      "corp_name": "LG화학",
+      "bsns_year": "제18기 (전전기)",
+      "cntrct_cncls_de": "2018년 11월\n2018년 10월\n2018년 2월\n2018년 1월",
+      "servc_cn": "한국증권금융 합의된 절차 수행 결과 보고\nLG사이언스파크 지방세 세무조사 지원\n세무조정\nLG사이언스파크 취득세 신고대행",
+      "servc_exc_pd": "2일\n1개월\n3개월\n1개월",
+      "servc_mendng": "10\n18\n35\n41",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

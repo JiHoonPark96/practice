@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000553",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "맥주사업부 현금창출단위 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000553",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "bsns_year": "제71기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "보일러등 환경규제관련 유형자산 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000553",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "전주공장 맥주제품생산 관련 유형자산 손상검사",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

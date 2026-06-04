@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000937",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "se": "소액주주",
+      "shrholdr_co": "27,520",
+      "shrholdr_tot_co": "27,535",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "11,525,468",
+      "stock_tot_co": "39,239,470",
+      "hold_stock_rate": "29.37%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

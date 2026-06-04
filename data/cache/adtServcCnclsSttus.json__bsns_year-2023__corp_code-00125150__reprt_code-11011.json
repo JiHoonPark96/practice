@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001769",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "외감법에 대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "590",
+      "adt_cntrct_dtls_time": "5,100",
+      "real_exc_dtls_mendng": "590",
+      "real_exc_dtls_time": "5,072",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001769",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제56기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "외감법에 대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "750",
+      "adt_cntrct_dtls_time": "5,600",
+      "real_exc_dtls_mendng": "750",
+      "real_exc_dtls_time": "5,421",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001769",
+      "corp_cls": "Y",
+      "corp_code": "00125150",
+      "corp_name": "SGC에너지",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "외감법에 대한 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "720",
+      "adt_cntrct_dtls_time": "5,600",
+      "real_exc_dtls_mendng": "720",
+      "real_exc_dtls_time": "5,704",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

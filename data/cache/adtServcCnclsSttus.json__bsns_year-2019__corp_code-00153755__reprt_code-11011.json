@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220630000614",
+      "corp_cls": "Y",
+      "corp_code": "00153755",
+      "corp_name": "태양금속공업",
+      "bsns_year": "제55기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "반기재무제표 검토\n연간재무제표 감사",
+      "mendng": "135백만원",
+      "tot_reqre_time": "320\n1,313",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20220630000614",
+      "corp_cls": "Y",
+      "corp_code": "00153755",
+      "corp_name": "태양금속공업",
+      "bsns_year": "제54기(전기)",
+      "adtor": "신우회계법인",
+      "cn": "반기재무제표 검토\n연간재무제표 감사",
+      "mendng": "135백만원",
+      "tot_reqre_time": "327\n1,309",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20220630000614",
+      "corp_cls": "Y",
+      "corp_code": "00153755",
+      "corp_name": "태양금속공업",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "신우회계법인",
+      "cn": "반기재무제표 검토\n연간재무제표 감사",
+      "mendng": "99백만원",
+      "tot_reqre_time": "239\n1,081",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

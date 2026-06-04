@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "bsns_year": "제66기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225,000,000",
+      "adt_cntrct_dtls_time": "1,325시간",
+      "real_exc_dtls_mendng": "225,000,000",
+      "real_exc_dtls_time": "1,325시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "bsns_year": "제65기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "154,000,000",
+      "adt_cntrct_dtls_time": "1,325시간",
+      "real_exc_dtls_mendng": "154,000,000",
+      "real_exc_dtls_time": "1,325시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000812",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "154,000,000",
+      "adt_cntrct_dtls_time": "1,270시간",
+      "real_exc_dtls_mendng": "154,000,000",
+      "real_exc_dtls_time": "1,270시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

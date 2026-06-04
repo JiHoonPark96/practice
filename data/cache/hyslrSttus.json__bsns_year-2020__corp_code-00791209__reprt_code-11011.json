@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "우선주",
+      "nm": "그린러스크\n투자조합",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "3,160,727",
+      "trmend_posesn_stock_qota_rt": "5.90",
+      "rm": "제3자배정\n유상증자",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "보통주",
+      "nm": "스노우월드\n투자조합",
+      "relate": "계열사",
+      "bsis_posesn_stock_co": "2,744,425",
+      "bsis_posesn_stock_qota_rt": "7.81",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "제3자배정\n유상증자",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,744,425",
+      "bsis_posesn_stock_qota_rt": "7.81",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001108",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "3,160,727",
+      "trmend_posesn_stock_qota_rt": "5.90",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

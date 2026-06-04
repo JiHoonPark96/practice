@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001257",
+      "corp_cls": "Y",
+      "corp_code": "00161383",
+      "corp_name": "한미반도체",
+      "bsns_year": "제44기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 외부감사 및\n내부회계관리제도에 대한 감사\n(반기 검토 및 연결재무제표에 대한 감사 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "280,000천원",
+      "real_exc_dtls_time": "2,404시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001257",
+      "corp_cls": "Y",
+      "corp_code": "00161383",
+      "corp_name": "한미반도체",
+      "bsns_year": "제43기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 외부감사 및\n내부회계관리제도에 대한 감사\n(반기 검토 및 연결재무제표에 대한 감사 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "280,000천원",
+      "real_exc_dtls_time": "3,095시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001257",
+      "corp_cls": "Y",
+      "corp_code": "00161383",
+      "corp_name": "한미반도체",
+      "bsns_year": "제42기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표에 대한 외부감사\n(반기 검토 및 연결재무제표에 대한 감사 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "130,000천원",
+      "real_exc_dtls_time": "1,715시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

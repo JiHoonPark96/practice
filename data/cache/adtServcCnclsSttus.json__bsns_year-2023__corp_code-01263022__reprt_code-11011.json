@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240412003349",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "bsns_year": "제7기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분ㆍ반기 재무제표 검토,\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "725",
+      "adt_cntrct_dtls_time": "6,970",
+      "real_exc_dtls_mendng": "725",
+      "real_exc_dtls_time": "6,972",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240412003349",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "bsns_year": "제6기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분ㆍ반기 재무제표 검토,\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "660",
+      "adt_cntrct_dtls_time": "6,400",
+      "real_exc_dtls_mendng": "660",
+      "real_exc_dtls_time": "6,278",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240412003349",
+      "corp_cls": "Y",
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "bsns_year": "제5기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 분ㆍ반기 재무제표 검토,\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "600",
+      "adt_cntrct_dtls_time": "6,000",
+      "real_exc_dtls_mendng": "600",
+      "real_exc_dtls_time": "6,058",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

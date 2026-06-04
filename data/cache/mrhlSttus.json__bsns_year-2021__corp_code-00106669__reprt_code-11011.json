@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000967",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "se": "소액주주",
+      "shrholdr_co": "28,705",
+      "shrholdr_tot_co": "28,711",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "12,473,422",
+      "stock_tot_co": "35,862,119",
+      "hold_stock_rate": "34.78%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

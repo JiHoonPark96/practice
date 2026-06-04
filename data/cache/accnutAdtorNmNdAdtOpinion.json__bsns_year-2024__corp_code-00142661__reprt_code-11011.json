@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003765",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 수익인식의 발생사실\n2) 종속기업투자(주식회사 우성사료)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003765",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제55기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1) 수익인식의 발생사실\n2) 현금창출단위(논산부문, 아산부문, 경산부문)의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003765",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003765",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제54기\n(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003765",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003765",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제53기\n(전전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 발생사실",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

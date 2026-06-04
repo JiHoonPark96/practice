@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000640",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "4",
+      "rlsofc": "-",
+      "mdstrm_resig": "3",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

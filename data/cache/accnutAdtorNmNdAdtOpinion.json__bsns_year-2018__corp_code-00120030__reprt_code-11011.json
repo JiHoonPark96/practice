@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002616",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제50기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002616",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제49기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002616",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제48기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

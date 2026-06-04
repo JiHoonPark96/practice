@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002709",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "bsns_year": "제15기",
+      "adtor": "삼덕회계법인",
+      "cn": "연결 및 개별재무제표 등에 대한  감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "85",
+      "real_exc_dtls_time": "908",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002709",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "bsns_year": "제14기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연결 및 개별재무제표 등에 대한  감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "85",
+      "real_exc_dtls_time": "1,074",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002709",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "bsns_year": "제13기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "연결 및 개별재무제표 등에 대한  감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95",
+      "adt_cntrct_dtls_time": "1,003",
+      "real_exc_dtls_mendng": "120",
+      "real_exc_dtls_time": "1,197",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

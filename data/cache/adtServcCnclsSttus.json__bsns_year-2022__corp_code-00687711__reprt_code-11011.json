@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230324001254",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제15기\n(당기)",
+      "adtor": "선일회계법인",
+      "cn": "1분기,반기, 3분기, 기말 재무제표감사,\n내부회계관리제도 감사, 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130백만원",
+      "adt_cntrct_dtls_time": "2,000시간",
+      "real_exc_dtls_mendng": "130백만원",
+      "real_exc_dtls_time": "2,005시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324001254",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제14기\n(전기)",
+      "adtor": "선일회계법인",
+      "cn": "1분기,반기, 3분기, 기말 재무제표감사,\n내부회계관리제도 감사, 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120백만원",
+      "adt_cntrct_dtls_time": "1,750시간",
+      "real_exc_dtls_mendng": "120백만원",
+      "real_exc_dtls_time": "1,750시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230324001254",
+      "corp_cls": "Y",
+      "corp_code": "00687711",
+      "corp_name": "한국철강",
+      "bsns_year": "제13기\n(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "1분기,반기, 3분기, 기말 재무제표감사,\n내부회계관리제도 감사, 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110백만원",
+      "adt_cntrct_dtls_time": "1,521시간",
+      "real_exc_dtls_mendng": "110백만원",
+      "real_exc_dtls_time": "1,476시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

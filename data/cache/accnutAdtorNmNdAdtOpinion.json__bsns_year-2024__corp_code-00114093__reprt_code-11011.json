@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000503",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 손실충당금 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000503",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 손실충당금 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000503",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 손실충당금 인식\n특수관계자 및 연결회사 내 거래의 발생사실과 표시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000503",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 손실충당금 인식\n특수관계자 및 연결회사 내 거래의 발생사실과 표시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000503",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 손실충당금 인식\n특수관계자 및 연결회사 내 거래의 발생사실과 표시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000503",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 손실충당금 인식\n특수관계자 및 연결회사 내 거래의 발생사실과 표시",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

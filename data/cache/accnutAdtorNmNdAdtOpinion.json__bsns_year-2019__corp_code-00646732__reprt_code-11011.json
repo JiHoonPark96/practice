@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001692",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001692",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001692",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002910",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "se": "소액주주",
+      "shrholdr_co": "14,872",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "5,975,297",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "33.87%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

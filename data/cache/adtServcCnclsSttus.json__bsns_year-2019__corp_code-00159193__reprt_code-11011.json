@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200402000541",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제59기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "외부회계감사",
+      "mendng": "2,868,331",
+      "tot_reqre_time": "34,134",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200402000541",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제58기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "1,364,704",
+      "tot_reqre_time": "20,264",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200402000541",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "1,364,704",
+      "tot_reqre_time": "18,576",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

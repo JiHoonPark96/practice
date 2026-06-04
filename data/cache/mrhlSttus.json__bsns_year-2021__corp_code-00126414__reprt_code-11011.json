@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "se": "소액주주",
+      "shrholdr_co": "93,067",
+      "shrholdr_tot_co": "93,070",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "56,020,502",
+      "stock_tot_co": "67,162,079",
+      "hold_stock_rate": "83.41%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

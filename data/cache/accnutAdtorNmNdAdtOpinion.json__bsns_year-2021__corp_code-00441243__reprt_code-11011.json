@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211006000667",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제20기(당기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산평가\n매출채권 손상평가",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20211006000667",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제19기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20211006000667",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2021-06-30"
+    }
+  ]
+}

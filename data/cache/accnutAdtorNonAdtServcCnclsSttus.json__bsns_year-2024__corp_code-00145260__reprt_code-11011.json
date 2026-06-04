@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 52기(당기)",
+      "cntrct_cncls_de": "2024.12.18",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.12.18~2025.04.30",
+      "servc_mendng": "10",
+      "rm": "회계감사인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 52기(당기)",
+      "cntrct_cncls_de": "2024.12.18",
+      "servc_cn": "세무용역",
+      "servc_exc_pd": "2024.12.18~2025.02.19",
+      "servc_mendng": "100",
+      "rm": "회계감사인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 51기(전기)",
+      "cntrct_cncls_de": "2023.12.31",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.12.20~2024.03.31",
+      "servc_mendng": "10",
+      "rm": "회계감사인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 51기(전기)",
+      "cntrct_cncls_de": "2023.06.09",
+      "servc_cn": "외부평가 용역",
+      "servc_exc_pd": "2023.05.23~2023.10.23",
+      "servc_mendng": "80",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 51기(전기)",
+      "cntrct_cncls_de": "2023.01.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.01.12~2023.03.31",
+      "servc_mendng": "10",
+      "rm": "회계감사인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000659",
+      "corp_cls": "Y",
+      "corp_code": "00145260",
+      "corp_name": "율촌화학",
+      "bsns_year": "제 50기(전전기)",
+      "cntrct_cncls_de": "2022.01.17",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.01.17~2022.03.31",
+      "servc_mendng": "10",
+      "rm": "회계감사인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

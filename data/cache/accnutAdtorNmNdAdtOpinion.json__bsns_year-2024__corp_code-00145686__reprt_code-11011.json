@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제76기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음.",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제76기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제75기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "2022년 12 월 31 일로 종료되는 보고기간의 수정 전 재무제표는 계정분류 오류로 인하여 유형자산 2,690백만원 과대계상 및 투자부동산 2,690백만원 과소계상 되었습니다. 따라서, 별첨된 재무제표의 비교표시 전기 재무제표는 이러한 수정사항을 반영하여 재작성된 것입니다.이러한 회계오류의 수정으로 인하여 2022년 12월 31일 현재 자산총액 및 부채총액에 미치는 영향은 없습니다.",
+      "core_adt_matter": "수익인식의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제75기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음.",
+      "core_adt_matter": "수익인식의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제74기\n(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음.",
+      "core_adt_matter": "재고자산평가충당금 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제74기\n(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결회사의 2022년 12월 31일로 종료되는 보고기간의 수정전 연결재무제표의 법인세비용과 당기순이익은 각각 1,133백만원 과대계상 및 과소계상, 총자산과 총부채가 각각 271백만원과 23,789백만원 과대계상 및 과소계상 되었고, 2021년 12월 31일로 종료되는 보고기간의 수정전 연결재무제표의 법인세비용과 당기순이익은 각각 12백만원 과소계상 및 과대계상, 총자산과 총부채가 각각 138백만원과 25,055백만원 과대계상 및 과소계상 되었습니다. \n별첨된 2022년 12월 31일 및 2021년 12월 31일로 종료되는 양 보고기간의 연결재무제표는 이러한 수정사항을 반영하여 재작성 되었습니다.",
+      "core_adt_matter": "재고자산평가충당금 적정성 검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "stock_code": "023450",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114000577",
+      "flr_nm": "동남합성",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "stock_code": "023450",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814000329",
+      "flr_nm": "동남합성",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "stock_code": "023450",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190514000380",
+      "flr_nm": "동남합성",
+      "rcept_dt": "20190514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "stock_code": "023450",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401001358",
+      "flr_nm": "동남합성",
+      "rcept_dt": "20190401",
+      "rm": ""
+    }
+  ]
+}

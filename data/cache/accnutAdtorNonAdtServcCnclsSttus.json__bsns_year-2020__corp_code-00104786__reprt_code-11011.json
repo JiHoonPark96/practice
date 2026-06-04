@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000715",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제50기(당기)",
+      "cntrct_cncls_de": "2020.07.31",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "2020.01.01-2020.12.31",
+      "servc_mendng": "12,000,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000715",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제49기(전기)",
+      "cntrct_cncls_de": "2019.04.30",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "2019.01.01~2019.12.31",
+      "servc_mendng": "6,500,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000715",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제48기(전전기)",
+      "cntrct_cncls_de": "2018.04.24",
+      "servc_cn": "세무조정업무",
+      "servc_exc_pd": "2018.01.12-2018.12.31",
+      "servc_mendng": "6,500,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

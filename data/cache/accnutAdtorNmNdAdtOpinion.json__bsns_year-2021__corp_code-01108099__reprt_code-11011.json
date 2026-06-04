@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제7기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현대코퍼레이션 주식회사\n관계기업투자의 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제6기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "브랜드매출의 발생사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001338",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "무형자산 매각 후 재임차 계약의 \n수익인식 및 이연법인세자산 인식",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

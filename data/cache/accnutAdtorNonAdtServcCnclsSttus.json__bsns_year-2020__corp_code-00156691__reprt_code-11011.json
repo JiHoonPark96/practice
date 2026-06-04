@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001204",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "bsns_year": "제54기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001204",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "bsns_year": "제53기(전기)",
+      "cntrct_cncls_de": "2019.02.27",
+      "servc_cn": "리스 자문 용역",
+      "servc_exc_pd": "2019.03.11 ~ 2019.04.05",
+      "servc_mendng": "25,190천원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001204",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250605000472",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "se": "소액주주",
+      "shrholdr_co": "11,741",
+      "shrholdr_tot_co": "11,742",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "16,582,298",
+      "stock_tot_co": "24,831,982",
+      "hold_stock_rate": "66.78%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

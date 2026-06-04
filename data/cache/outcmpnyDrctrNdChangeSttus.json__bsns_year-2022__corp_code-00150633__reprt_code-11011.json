@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260206000232",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "drctr_co": "10",
+      "otcmp_drctr_co": "3",
+      "apnt": "3",
+      "rlsofc": "0",
+      "mdstrm_resig": "3",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

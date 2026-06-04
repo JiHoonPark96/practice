@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2021.09.09",
+      "servc_cn": "내부회계관리제도 고도화 자문용역",
+      "servc_exc_pd": "2021.09.13~2022.09.12",
+      "servc_mendng": "120,000,000원",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2021.09.09",
+      "servc_cn": "회계자문용역",
+      "servc_exc_pd": "2021.08.10~2022.03.31",
+      "servc_mendng": "80,000,000원",
+      "rm": "44기(당기) 감사 회계자문용역",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2021.04.20",
+      "servc_cn": "회계자문용역",
+      "servc_exc_pd": "2021.04.21~2021.12.31",
+      "servc_mendng": "100,000,000원",
+      "rm": "43기(전기)재감사 회계자문용역",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220728000414",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

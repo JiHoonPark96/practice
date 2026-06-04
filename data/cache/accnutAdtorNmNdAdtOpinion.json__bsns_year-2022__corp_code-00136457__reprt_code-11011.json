@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000490",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제65기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "합성수지 관련 \n수익의 발생사실",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000490",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스 영향으로 인한 불확실성 존재",
+      "core_adt_matter": "합성수지 관련 \n수익의 발생사실",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000490",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스 영향으로 인한 불확실성 존재",
+      "core_adt_matter": "합성수지 관련 \n수익의 발생사실",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

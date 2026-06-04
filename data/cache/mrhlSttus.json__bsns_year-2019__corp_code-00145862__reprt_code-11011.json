@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002382",
+      "corp_cls": "Y",
+      "corp_code": "00145862",
+      "corp_name": "인천도시가스",
+      "se": "소액주주",
+      "shrholdr_co": "2,333",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.53%",
+      "hold_stock_co": "799,755",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "18.28%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

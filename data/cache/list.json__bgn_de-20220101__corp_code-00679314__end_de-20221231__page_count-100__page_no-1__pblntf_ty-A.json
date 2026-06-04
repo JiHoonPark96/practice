@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_code": "102260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114001267",
+      "flr_nm": "동성케미컬",
+      "rcept_dt": "20221114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_code": "102260",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816002511",
+      "flr_nm": "동성케미컬",
+      "rcept_dt": "20220816",
+      "rm": ""
+    },
+    {
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_code": "102260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220527000618",
+      "flr_nm": "동성케미컬",
+      "rcept_dt": "20220527",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_code": "102260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516002293",
+      "flr_nm": "동성케미컬",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_code": "102260",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220322000981",
+      "flr_nm": "동성케미컬",
+      "rcept_dt": "20220322",
+      "rm": "정연"
+    }
+  ]
+}

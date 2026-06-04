@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003227",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "bsns_year": "제6기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "연결/별도 재무제표 감사\n연결/별도 반기 재무제표 검토",
+      "mendng": "180",
+      "tot_reqre_time": "2,435",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003227",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "bsns_year": "제5기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "연결/별도 재무제표 감사\n연결/별도 반기재무제표 검토",
+      "mendng": "97",
+      "tot_reqre_time": "2,435",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003227",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "연결/별도 재무제표 감사\n연결/별도 재무제표 검토",
+      "mendng": "72",
+      "tot_reqre_time": "2,560",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

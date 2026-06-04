@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분,반기재무제표검토\n별도재무제표 감사\n연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,250백만원",
+      "adt_cntrct_dtls_time": "9,700HR",
+      "real_exc_dtls_mendng": "1,250백만원",
+      "real_exc_dtls_time": "10,125HR",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표검토\n별도재무제표 감사\n연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "670백만원",
+      "adt_cntrct_dtls_time": "6,700HR",
+      "real_exc_dtls_mendng": "670백만원",
+      "real_exc_dtls_time": "6,676HR",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표검토\n별도재무제표 감사\n연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "570백만원",
+      "adt_cntrct_dtls_time": "6,000HR",
+      "real_exc_dtls_mendng": "570백만원",
+      "real_exc_dtls_time": "6,431HR",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

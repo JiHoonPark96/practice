@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000140",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "21년 2월\n21년 2월",
+      "servc_cn": "법인세 세무조정 대리인\n세무자문용역",
+      "servc_exc_pd": "2021년 3월\n2021년 2월 ~ 12월",
+      "servc_mendng": "22백만원\n24백만원",
+      "rm": "부가세 및 부대비용 별도\n부가세 별도 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000140",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "20년 3월",
+      "servc_cn": "법인세 세무조정 대리인",
+      "servc_exc_pd": "2020년 3월",
+      "servc_mendng": "23백만원",
+      "rm": "부가세 및 부대비용 별도",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000140",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "19년 3월",
+      "servc_cn": "법인세 세무조정 대리인",
+      "servc_exc_pd": "2019년 3월",
+      "servc_mendng": "23백만원",
+      "rm": "부가세 및 부대비용 별도",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000140",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "19년 7월",
+      "servc_cn": "브랜드 가치재평가 용역",
+      "servc_exc_pd": "2019년 7월 ~ 12월",
+      "servc_mendng": "120백만원",
+      "rm": "부가세 및 부대비용 별도",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

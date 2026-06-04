@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001967",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상\n2) 종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001967",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상\n2) 영업권 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001967",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001967",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001967",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001967",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

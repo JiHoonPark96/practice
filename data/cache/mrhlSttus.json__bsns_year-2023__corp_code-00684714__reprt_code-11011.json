@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001650",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "se": "소액주주",
+      "shrholdr_co": "50,659",
+      "shrholdr_tot_co": "50,688",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "13,439,273",
+      "stock_tot_co": "27,314,278",
+      "hold_stock_rate": "49.20%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

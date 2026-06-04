@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001016",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제57기\n(당기) (주1)",
+      "cntrct_cncls_de": "2023.08.01",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2023.08.01 ~ 2024.07.31",
+      "servc_mendng": "70백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001016",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제57기\n(당기) (주1)",
+      "cntrct_cncls_de": "2024.05.17",
+      "servc_cn": "포스코홀딩스 해외법인 주재원 종합소득세 신고",
+      "servc_exc_pd": "2024.05.17 ~ 2024.12.31",
+      "servc_mendng": "22백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001016",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제56기\n(전기) (주2)",
+      "cntrct_cncls_de": "2023.04.01",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2023.04.01 ~ 2024.03.31",
+      "servc_mendng": "50백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001016",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제55기\n(전전기) (주2)",
+      "cntrct_cncls_de": "2022.04.01",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2022.04.01 ~ 2023.03.31",
+      "servc_mendng": "95백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001016",
+      "corp_cls": "Y",
+      "corp_code": "00155319",
+      "corp_name": "POSCO홀딩스",
+      "bsns_year": "제55기\n(전전기) (주2)",
+      "cntrct_cncls_de": "2022.03.14",
+      "servc_cn": "분할 재무상태표 감사",
+      "servc_exc_pd": "2022.03.14 ~ 2023.03.30",
+      "servc_mendng": "430백만원",
+      "rm": "(주3)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

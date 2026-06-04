@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230713000378",
+      "corp_cls": "Y",
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "bsns_year": "제36기(당기)",
+      "adtor": "서우회계법인",
+      "cn": "연결 및 별도 재무제표 감사\n분반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "460",
+      "adt_cntrct_dtls_time": "4,300",
+      "real_exc_dtls_mendng": "460",
+      "real_exc_dtls_time": "4,495",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000378",
+      "corp_cls": "Y",
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "bsns_year": "제35기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도 재무제표 감사\n분반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430",
+      "adt_cntrct_dtls_time": "4,300",
+      "real_exc_dtls_mendng": "430",
+      "real_exc_dtls_time": "4,373",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000378",
+      "corp_cls": "Y",
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도 재무제표 감사\n분반기 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "314",
+      "adt_cntrct_dtls_time": "3,400",
+      "real_exc_dtls_mendng": "345",
+      "real_exc_dtls_time": "3,392",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

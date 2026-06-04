@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "투자부동산과 유형자산의 분류가 적절하게 수행되지 않을 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "Acushnet Holdings Corp. 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "Acushnet Holdings Corp. 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001837",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "Acushnet Holdings Corp. 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

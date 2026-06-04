@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001247",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "se": "소액주주",
+      "shrholdr_co": "89,146",
+      "shrholdr_tot_co": "89,152",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "14,302,811",
+      "stock_tot_co": "27,195,083",
+      "hold_stock_rate": "52.59%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

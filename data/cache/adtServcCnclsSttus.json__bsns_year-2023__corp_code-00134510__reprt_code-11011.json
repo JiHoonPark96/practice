@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000878",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "bsns_year": "제48기(당기)",
+      "adtor": "동현회계법인",
+      "cn": "분반기,중간,기말재고실사,결산\n연결재무제표에 대한 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "700,000,000원",
+      "adt_cntrct_dtls_time": "5,100",
+      "real_exc_dtls_mendng": "700,000,000원",
+      "real_exc_dtls_time": "5,207",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000878",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "bsns_year": "제47기(전기)",
+      "adtor": "동현회계법인",
+      "cn": "분반기,중간,기말재고실사,결산\n연결재무제표에 대한 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "690,000,000원",
+      "adt_cntrct_dtls_time": "4,439",
+      "real_exc_dtls_mendng": "552,000,000원",
+      "real_exc_dtls_time": "4,856",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000878",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기,중간,기말재고실사,결산\n연결재무제표에 대한 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550,000,000원",
+      "adt_cntrct_dtls_time": "5,200",
+      "real_exc_dtls_mendng": "550,000,000원",
+      "real_exc_dtls_time": "6,520",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

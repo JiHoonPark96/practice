@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200626000321",
+      "corp_cls": "Y",
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "bsns_year": "제32기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 감사와\n반기 연결 및 별도재무제표 검토",
+      "mendng": "95,000 ",
+      "tot_reqre_time": "992시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-03-31"
+    },
+    {
+      "rcept_no": "20200626000321",
+      "corp_cls": "Y",
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "bsns_year": "제31기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 감사와\n반기 연결 및 별도재무제표 검토",
+      "mendng": "90,000 ",
+      "tot_reqre_time": "1,027시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-03-31"
+    },
+    {
+      "rcept_no": "20200626000321",
+      "corp_cls": "Y",
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 감사와\n반기 연결 및 별도재무제표 검토",
+      "mendng": "90,000 ",
+      "tot_reqre_time": "1,167시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2020-03-31"
+    }
+  ]
+}

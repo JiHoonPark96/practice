@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004174",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004174",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "전년도 재무제표의 발전용 정산손익 인식오류로\n 비교 표시된 제34기(전년도) 재무제표 재작성",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004174",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

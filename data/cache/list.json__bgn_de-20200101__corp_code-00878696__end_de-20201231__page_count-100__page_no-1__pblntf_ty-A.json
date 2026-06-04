@@ -1,0 +1,32 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 2,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "stock_code": "326030",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201127000888",
+      "flr_nm": "에스케이바이오팜",
+      "rcept_dt": "20201127",
+      "rm": ""
+    },
+    {
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "stock_code": "326030",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200827000690",
+      "flr_nm": "에스케이바이오팜",
+      "rcept_dt": "20200827",
+      "rm": ""
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000440",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권있는 주식",
+      "nm": "㈜에이프로젠\n(구 ㈜에이프로젠메디신)",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "179,343,916",
+      "bsis_posesn_stock_qota_rt": "45.00",
+      "trmend_posesn_stock_co": "356,106,055",
+      "trmend_posesn_stock_qota_rt": "60.79",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000440",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권있는 주식",
+      "nm": "김정출",
+      "relate": "최대주주의 특수관계인",
+      "bsis_posesn_stock_co": "218,804",
+      "bsis_posesn_stock_qota_rt": "0.05",
+      "trmend_posesn_stock_co": "218,804",
+      "trmend_posesn_stock_qota_rt": "0.04",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000440",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "179,562,720",
+      "bsis_posesn_stock_qota_rt": "45.05",
+      "trmend_posesn_stock_co": "356,324,859",
+      "trmend_posesn_stock_qota_rt": "60.83",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000440",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002181",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "1)",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002181",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제56기(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음.",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002181",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음.",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

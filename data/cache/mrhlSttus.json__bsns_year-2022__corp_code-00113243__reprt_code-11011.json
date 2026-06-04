@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001412",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "se": "소액주주",
+      "shrholdr_co": "7,709",
+      "shrholdr_tot_co": "7,735",
+      "shrholdr_rate": "99.68%",
+      "hold_stock_co": "692,460",
+      "stock_tot_co": "1,690,000",
+      "hold_stock_rate": "40.98%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

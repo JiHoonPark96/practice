@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "stock_code": "136490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241112000446",
+      "flr_nm": "선진",
+      "rcept_dt": "20241112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "stock_code": "136490",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2024.06)",
+      "rcept_no": "20240813001616",
+      "flr_nm": "선진",
+      "rcept_dt": "20240813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "stock_code": "136490",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240813001102",
+      "flr_nm": "선진",
+      "rcept_dt": "20240813",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "stock_code": "136490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240513000793",
+      "flr_nm": "선진",
+      "rcept_dt": "20240513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "stock_code": "136490",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240319000764",
+      "flr_nm": "선진",
+      "rcept_dt": "20240319",
+      "rm": "연"
+    }
+  ]
+}

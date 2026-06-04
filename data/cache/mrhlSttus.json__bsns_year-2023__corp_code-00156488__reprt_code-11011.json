@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001603",
+      "corp_cls": "Y",
+      "corp_code": "00156488",
+      "corp_name": "휴스틸",
+      "se": "소액주주",
+      "shrholdr_co": "18,919",
+      "shrholdr_tot_co": "18,932",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "27,345,077",
+      "stock_tot_co": "56,188,075",
+      "hold_stock_rate": "48.67%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

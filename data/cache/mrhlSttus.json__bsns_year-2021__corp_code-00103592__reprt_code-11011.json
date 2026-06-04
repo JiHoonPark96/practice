@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000780",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "se": "소액주주",
+      "shrholdr_co": "37,608",
+      "shrholdr_tot_co": "37,630",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "23,615,024",
+      "stock_tot_co": "52,420,851",
+      "hold_stock_rate": "45.05%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

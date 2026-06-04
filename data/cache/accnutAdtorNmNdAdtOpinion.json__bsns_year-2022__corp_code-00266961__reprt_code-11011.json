@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001049",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제24기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "검색광고 수익인식, 관계기업투자주식 손상평가, 영업권의 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001049",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제23기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "검색광고 수익인식, 수준 3으로 분류된 금융자산의 공정가치 평가, \n관계기업의 식별가능한 무형자산 공정가치 측정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001049",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "검색광고 수익인식, 수준 3으로 분류된 금융자산의 공정가치 평가, \n매각예정자산ㆍ부채 및 중단영업의 표시와 공시",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

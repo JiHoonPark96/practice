@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000725",
+      "corp_cls": "Y",
+      "corp_code": "00114093",
+      "corp_name": "덕성",
+      "se": "소액주주",
+      "shrholdr_co": "28,145",
+      "shrholdr_tot_co": "28,155",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "10,622,735",
+      "stock_tot_co": "15,680,000",
+      "hold_stock_rate": "67.75%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

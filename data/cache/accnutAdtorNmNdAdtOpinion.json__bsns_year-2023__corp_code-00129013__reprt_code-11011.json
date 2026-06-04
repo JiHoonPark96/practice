@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000639",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제48기\n (당  기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 별도 : 특수관계자 매출의 발생사실\n- 연결 : 특수관계자 매출의 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000639",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제47기\n (전  기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 개별 : 특수관계자 매출의 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000639",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "bsns_year": "제46기\n (전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 개별 : 관계기업에 대한 지분법 회계처리",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

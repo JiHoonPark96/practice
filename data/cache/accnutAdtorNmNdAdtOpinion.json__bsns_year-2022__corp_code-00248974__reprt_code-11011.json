@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230712000281",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제45기(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주석 38은 회사가 식품의약품안전처장을 상대로 소송을 제기하였으며, 소송의 결과는 불확실하다고 기술하고 있습니다. 우리의 의견은 이 사항과 관련하여 영향을 받지 아니합니다.",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230712000281",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제44기(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230712000281",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "환불부채의 적정한 추정",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

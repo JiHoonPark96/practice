@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제64기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "반기검토,중간감사,\n기말감사,재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "74,500",
+      "adt_cntrct_dtls_time": "1,236",
+      "real_exc_dtls_mendng": "74,500",
+      "real_exc_dtls_time": "1,256",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제63기(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "반기검토,중간감사,\n기말감사,재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "74,500",
+      "adt_cntrct_dtls_time": "1,236",
+      "real_exc_dtls_mendng": "74,500",
+      "real_exc_dtls_time": "1,256",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000798",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "반기검토,중간감사,\n기말감사,재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "74,500",
+      "adt_cntrct_dtls_time": "1,321",
+      "real_exc_dtls_mendng": "74,500",
+      "real_exc_dtls_time": "1,321",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

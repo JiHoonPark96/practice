@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000400",
+      "corp_cls": "Y",
+      "corp_code": "00104722",
+      "corp_name": "국제약품",
+      "se": "소액주주",
+      "shrholdr_co": "19,420",
+      "shrholdr_tot_co": "19,439",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "10,254,833",
+      "stock_tot_co": "18,381,192",
+      "hold_stock_rate": "55.79%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

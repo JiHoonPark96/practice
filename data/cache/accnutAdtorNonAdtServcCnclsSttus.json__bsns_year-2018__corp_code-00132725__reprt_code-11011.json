@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002423",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제58기(당기)",
+      "cntrct_cncls_de": "2019년 3월13일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.3.13-2019.5.31",
+      "servc_mendng": "3,300",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002423",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제57기(전기)",
+      "cntrct_cncls_de": "2018년 3월13일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.3.13-2018.5.31",
+      "servc_mendng": "3,300",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002423",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제56기(전전기)",
+      "cntrct_cncls_de": "2017년 3월 6일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.3.6-2017.5.31",
+      "servc_mendng": "3,300",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

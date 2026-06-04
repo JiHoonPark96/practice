@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001076",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "se": "소액주주",
+      "shrholdr_co": "54,642",
+      "shrholdr_tot_co": "54,683",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "10,569,210",
+      "stock_tot_co": "38,043,505",
+      "hold_stock_rate": "27.78%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

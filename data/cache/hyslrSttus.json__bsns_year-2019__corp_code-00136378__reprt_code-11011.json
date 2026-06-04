@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003822",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "stock_knd": "보통주",
+      "nm": "이명희",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "1,794,186",
+      "bsis_posesn_stock_qota_rt": "18.22",
+      "trmend_posesn_stock_co": "1,794,186",
+      "trmend_posesn_stock_qota_rt": "18.22",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003822",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "stock_knd": "보통주",
+      "nm": "정유경",
+      "relate": "최대주주의 자녀",
+      "bsis_posesn_stock_co": "967,853",
+      "bsis_posesn_stock_qota_rt": "9.83",
+      "trmend_posesn_stock_co": "967,853",
+      "trmend_posesn_stock_qota_rt": "9.83",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003822",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "stock_knd": "보통주",
+      "nm": "장재영",
+      "relate": "계열회사의 임원",
+      "bsis_posesn_stock_co": "281",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "281",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003822",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,762,320",
+      "bsis_posesn_stock_qota_rt": "28.06",
+      "trmend_posesn_stock_co": "2,762,320",
+      "trmend_posesn_stock_qota_rt": "28.06",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003822",
+      "corp_cls": "Y",
+      "corp_code": "00136378",
+      "corp_name": "신세계",
+      "stock_knd": "기    타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

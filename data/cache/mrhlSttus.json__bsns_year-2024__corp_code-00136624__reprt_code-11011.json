@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000876",
+      "corp_cls": "Y",
+      "corp_code": "00136624",
+      "corp_name": "신영와코루",
+      "se": "소액주주",
+      "shrholdr_co": "1,589",
+      "shrholdr_tot_co": "1,598",
+      "shrholdr_rate": "99.4%",
+      "hold_stock_co": "1,685,082",
+      "stock_tot_co": "9,000,000",
+      "hold_stock_rate": "18.72%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

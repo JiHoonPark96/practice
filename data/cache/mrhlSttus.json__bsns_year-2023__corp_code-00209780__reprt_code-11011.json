@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001938",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "se": "소액주주",
+      "shrholdr_co": "14,195",
+      "shrholdr_tot_co": "14,214",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "6,626,053",
+      "stock_tot_co": "13,554,044",
+      "hold_stock_rate": "44.57%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

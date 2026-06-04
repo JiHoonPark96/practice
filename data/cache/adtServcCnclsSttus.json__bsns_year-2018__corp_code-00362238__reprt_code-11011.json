@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002228",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제19기 (당기)",
+      "adtor": "한영회계법인",
+      "cn": "외감법에 의한 회계감사를 위한 계약",
+      "mendng": "188",
+      "tot_reqre_time": "2,416",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002228",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제18기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "외감법에 의한 회계감사를 위한 계약",
+      "mendng": "160",
+      "tot_reqre_time": "2,435",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002228",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "외감법에 의한 회계감사를 위한 계약",
+      "mendng": "160",
+      "tot_reqre_time": "2,159",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

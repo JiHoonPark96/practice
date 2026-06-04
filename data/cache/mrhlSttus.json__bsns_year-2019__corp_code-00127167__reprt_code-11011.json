@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001486",
+      "corp_cls": "Y",
+      "corp_code": "00127167",
+      "corp_name": "삼영무역",
+      "se": "소액주주",
+      "shrholdr_co": "2,920",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.35%",
+      "hold_stock_co": "5,377,812",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "30.54%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

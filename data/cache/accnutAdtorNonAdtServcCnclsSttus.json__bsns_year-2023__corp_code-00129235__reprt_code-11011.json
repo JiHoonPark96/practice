@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001652",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제58기(당기)",
+      "cntrct_cncls_de": "2024.02.26",
+      "servc_cn": "플라스틱 캡 로열티 감사",
+      "servc_exc_pd": "2일",
+      "servc_mendng": "2.6 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001652",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제57기(전기)",
+      "cntrct_cncls_de": "2023.02.03",
+      "servc_cn": "플라스틱 캡 로열티 감사",
+      "servc_exc_pd": "2일",
+      "servc_mendng": "2.6 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001652",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제56기(전전기)",
+      "cntrct_cncls_de": "2022.02.11",
+      "servc_cn": "플라스틱 캡 로열티 감사",
+      "servc_exc_pd": "2일",
+      "servc_mendng": "2.6 ",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

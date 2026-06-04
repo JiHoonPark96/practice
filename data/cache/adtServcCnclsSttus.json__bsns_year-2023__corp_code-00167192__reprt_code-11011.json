@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000622",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제56기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "3,019",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000622",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제55기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "315",
+      "adt_cntrct_dtls_time": "3,800",
+      "real_exc_dtls_mendng": "315",
+      "real_exc_dtls_time": "3,812",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000622",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "3,469",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "3,740",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001107",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "se": "소액주주",
+      "shrholdr_co": "10,245",
+      "shrholdr_tot_co": "10,253",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "896,050",
+      "stock_tot_co": "3,166,355",
+      "hold_stock_rate": "28.30%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

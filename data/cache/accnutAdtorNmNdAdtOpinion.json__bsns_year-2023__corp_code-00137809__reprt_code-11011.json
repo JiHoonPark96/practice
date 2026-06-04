@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000855",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제68기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "부정위험과 관련한 매출채권의 실재성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000855",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제67기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "부정위험과 관련한 매출채권의 실재성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000855",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제66기 (전전기)\n제66기 (전전반기)",
+      "adtor": "한영회계법인\n정인회계법인",
+      "adt_opinion": "적정\n-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-\n-",
+      "core_adt_matter": "부정위험과 관련한 매출채권의 실재성\n-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

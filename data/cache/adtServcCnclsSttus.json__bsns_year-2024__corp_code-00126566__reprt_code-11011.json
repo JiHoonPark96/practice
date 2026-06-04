@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000990",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제48기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 별도 및 연결 분/반기 재무제표에 대한 감사\n- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,475백만원",
+      "adt_cntrct_dtls_time": "13,400시간",
+      "real_exc_dtls_mendng": "1,033백만원",
+      "real_exc_dtls_time": "13,003시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000990",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제47기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 별도 및 연결 분/반기 재무제표에 대한 감사\n- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,200백만원",
+      "adt_cntrct_dtls_time": "11,500시간",
+      "real_exc_dtls_mendng": "1,250백만원",
+      "real_exc_dtls_time": "11,273시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000990",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 별도 및 연결 분/반기 재무제표에 대한 감사\n- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "930백만원",
+      "adt_cntrct_dtls_time": "7,900시간",
+      "real_exc_dtls_mendng": "932백만원",
+      "real_exc_dtls_time": "8,679시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

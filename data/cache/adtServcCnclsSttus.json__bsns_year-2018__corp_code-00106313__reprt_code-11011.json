@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제47기(당)기",
+      "adtor": "한울회계법인",
+      "cn": "-분,반기 개별재무제표, 연결재무제표에 대한 감사\n-영문감사보고서 발행업무",
+      "mendng": "350",
+      "tot_reqre_time": "5,193",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제46기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "분,반기 개별재무제표, 연결재무제표에 대한 감사",
+      "mendng": "300",
+      "tot_reqre_time": "5,420",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분,반기 개별재무제표, 연결재무제표에 대한 감사",
+      "mendng": "330",
+      "tot_reqre_time": "5,546",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

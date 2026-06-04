@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004026",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제70기",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기재무제표 검토, 별도재무제표ㆍ연결재무제표 감사",
+      "mendng": "1,800",
+      "tot_reqre_time": "19,511시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004026",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제69기",
+      "adtor": "신한회계법인",
+      "cn": "분ㆍ반기재무제표 검토, 별도재무제표ㆍ연결재무제표 감사",
+      "mendng": "1,230",
+      "tot_reqre_time": "12,280시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004026",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제68기",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기재무제표 검토, 별도재무제표ㆍ연결재무제표 감사",
+      "mendng": "1,120",
+      "tot_reqre_time": "12,600시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

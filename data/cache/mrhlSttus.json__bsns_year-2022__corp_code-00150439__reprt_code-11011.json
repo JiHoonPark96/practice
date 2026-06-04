@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230308000725",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "se": "소액주주",
+      "shrholdr_co": "7,829",
+      "shrholdr_tot_co": "7,832",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "6,703,695",
+      "stock_tot_co": "13,000,000",
+      "hold_stock_rate": "51.56%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001067",
+      "corp_cls": "Y",
+      "corp_code": "00117726",
+      "corp_name": "DYP",
+      "bsns_year": "제46기(당기)",
+      "adtor": "신한회계빕인",
+      "cn": "반기,별도,연결 재무제표, 내부회계에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,509",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001067",
+      "corp_cls": "Y",
+      "corp_code": "00117726",
+      "corp_name": "DYP",
+      "bsns_year": "제45기(전기)",
+      "adtor": "신한회계법인",
+      "cn": " 반기,별도,연결 재무제표에 \n대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "103백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "103백만원",
+      "real_exc_dtls_time": "1,372",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001067",
+      "corp_cls": "Y",
+      "corp_code": "00117726",
+      "corp_name": "DYP",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": " 반기,별도,연결 재무제표에 \n대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "95백만원",
+      "real_exc_dtls_time": "1,248",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

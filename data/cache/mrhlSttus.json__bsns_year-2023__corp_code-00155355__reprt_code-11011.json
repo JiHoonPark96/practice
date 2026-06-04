@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001580",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "se": "소액주주",
+      "shrholdr_co": "48,230",
+      "shrholdr_tot_co": "48,264",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "7,887,798",
+      "stock_tot_co": "36,770,842",
+      "hold_stock_rate": "21.45%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

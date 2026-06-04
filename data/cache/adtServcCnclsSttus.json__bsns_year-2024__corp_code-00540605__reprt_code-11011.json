@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000580",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "bsns_year": "제20기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기,중간,기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310",
+      "adt_cntrct_dtls_time": "2,820",
+      "real_exc_dtls_mendng": "310",
+      "real_exc_dtls_time": "2,924",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000580",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "bsns_year": "제19기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기,중간,기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "299",
+      "adt_cntrct_dtls_time": "2,990",
+      "real_exc_dtls_mendng": "299",
+      "real_exc_dtls_time": "2,712",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000580",
+      "corp_cls": "Y",
+      "corp_code": "00540605",
+      "corp_name": "이월드",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기,중간,기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "353",
+      "adt_cntrct_dtls_time": "3,400",
+      "real_exc_dtls_mendng": "353",
+      "real_exc_dtls_time": "3,676",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

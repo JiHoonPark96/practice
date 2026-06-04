@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230313000866",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "se": "소액주주",
+      "shrholdr_co": "15,404",
+      "shrholdr_tot_co": "15,413",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "27,002,118",
+      "stock_tot_co": "110,202,945",
+      "hold_stock_rate": "24.49%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

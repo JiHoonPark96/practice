@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000879",
+      "corp_cls": "Y",
+      "corp_code": "00173795",
+      "corp_name": "신흥",
+      "bsns_year": "제 54기 (당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기재무제표,\n별도ㆍ연결재무제표",
+      "mendng": "105,000",
+      "tot_reqre_time": "1,606H",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000879",
+      "corp_cls": "Y",
+      "corp_code": "00173795",
+      "corp_name": "신흥",
+      "bsns_year": "제 53기 (전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기재무제표,\n별도ㆍ연결재무제표",
+      "mendng": "96,000",
+      "tot_reqre_time": "1,109H",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000879",
+      "corp_cls": "Y",
+      "corp_code": "00173795",
+      "corp_name": "신흥",
+      "bsns_year": "제 52기 (전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기재무제표,\n별도ㆍ연결재무제표",
+      "mendng": "96,000",
+      "tot_reqre_time": "1,237H",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

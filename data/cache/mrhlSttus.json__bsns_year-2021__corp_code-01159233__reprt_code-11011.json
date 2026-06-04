@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000896",
+      "corp_cls": "Y",
+      "corp_code": "01159233",
+      "corp_name": "솔루엠",
+      "se": "소액주주",
+      "shrholdr_co": "70,840",
+      "shrholdr_tot_co": "70,851",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "31,196,182",
+      "stock_tot_co": "50,005,551",
+      "hold_stock_rate": "62.39%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

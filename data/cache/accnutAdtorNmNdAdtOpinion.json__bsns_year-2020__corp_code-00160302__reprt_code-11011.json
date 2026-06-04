@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001274",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "전환사채 관련 파생상품부채 평가\n(연결회사는 전환사채에 내재된 전환권과 기타 파생요소를 금융부채인 파생상품부채로 분류하고 2020년 12월 31일 현재 공정가치인 15,338백만원으로 계상하였습니다. 해당 파생상품과 관련하여 당기에 10,747백만원의 파생상품평가손실을 인식한 바 동 사항이 연결재무제표에서 차지하는 금액이 유의적이므로 전환사채에 내재된 파생상품부채의 평가를 핵심감사사항으로 판단하였습니다.)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001274",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제52기(당기)",
+      "adtor": "정일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "종속회사 투자에 대한  평가에 대한 적정성 검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001274",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "정일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003368",
+      "corp_cls": "Y",
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "bsns_year": "제63기(당기)",
+      "adtor": "회계법인지평",
+      "cn": "외부회계감사",
+      "mendng": "120,000",
+      "tot_reqre_time": "989",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003368",
+      "corp_cls": "Y",
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "bsns_year": "제62기(전기)",
+      "adtor": "회계법인지평",
+      "cn": "외부회계감사",
+      "mendng": "96,500",
+      "tot_reqre_time": "820",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003368",
+      "corp_cls": "Y",
+      "corp_code": "00129350",
+      "corp_name": "삼화콘덴서공업",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "회계법인지평",
+      "cn": "외부회계감사",
+      "mendng": "91,850",
+      "tot_reqre_time": "807",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

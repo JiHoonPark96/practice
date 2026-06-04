@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000750",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "bsns_year": "제40기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000750",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "bsns_year": "제39기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000750",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "대명회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

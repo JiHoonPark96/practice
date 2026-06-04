@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001329",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제36기\n(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중요한 회계\n 추정 및 가정",
+      "core_adt_matter": "1) 영업권 손상평가\n2) 종속기업투자의 손상평가 환입",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001329",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제35기\n(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 중요한 회계\n추정 및 가정",
+      "core_adt_matter": "1) 영업권 손상평가\n2) 종속기업투자의 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001329",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 중요한 회계\n추정 및 가정",
+      "core_adt_matter": "1) 영업권 손상평가\n2) 종속기업투자의 손상평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

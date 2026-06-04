@@ -1,0 +1,109 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 9,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.09)",
+      "rcept_no": "20211231000209",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20211231",
+      "rm": ""
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20211231000205",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20211231",
+      "rm": ""
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115000514",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20211115",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20211115000501",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20211115",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20210824000092",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20210824",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000717",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20210817",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000764",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210317000776",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20210317",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "stock_code": "004970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20210317000593",
+      "flr_nm": "신라교역",
+      "rcept_dt": "20210317",
+      "rm": "연"
+    }
+  ]
+}

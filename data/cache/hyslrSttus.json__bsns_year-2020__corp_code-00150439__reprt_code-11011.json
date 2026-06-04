@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310000533",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "stock_knd": "보통주",
+      "nm": "(주)진양홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "5,624,819",
+      "bsis_posesn_stock_qota_rt": "43.27",
+      "trmend_posesn_stock_co": "5,873,790",
+      "trmend_posesn_stock_qota_rt": "45.18",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000533",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,624,819",
+      "bsis_posesn_stock_qota_rt": "43.27",
+      "trmend_posesn_stock_co": "5,873,790",
+      "trmend_posesn_stock_qota_rt": "45.18",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000533",
+      "corp_cls": "Y",
+      "corp_code": "00150439",
+      "corp_name": "진양산업",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

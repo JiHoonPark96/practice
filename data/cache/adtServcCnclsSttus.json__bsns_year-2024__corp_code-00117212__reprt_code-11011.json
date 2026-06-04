@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002379",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제88기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부관리회계제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,040",
+      "adt_cntrct_dtls_time": "18,160",
+      "real_exc_dtls_mendng": "2,040",
+      "real_exc_dtls_time": "16,494",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002379",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제87기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": " 분/반기 재무제표 검토\n 재무제표에 대한 감사\n 내부관리회계제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,980",
+      "adt_cntrct_dtls_time": "19,000",
+      "real_exc_dtls_mendng": "1,980",
+      "real_exc_dtls_time": "19,278",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002379",
+      "corp_cls": "Y",
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "bsns_year": "제86기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": " 분/반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부관리회계제도의 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,700",
+      "adt_cntrct_dtls_time": "17,300",
+      "real_exc_dtls_mendng": "1,700",
+      "real_exc_dtls_time": "18,912",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

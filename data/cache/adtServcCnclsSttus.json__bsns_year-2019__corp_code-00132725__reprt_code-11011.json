@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002569",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제59기(당기)",
+      "adtor": "영앤진회계법인",
+      "cn": "반기검토,중간감사,재고실사",
+      "mendng": "55,000",
+      "tot_reqre_time": "801",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002569",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제58기(전기)",
+      "adtor": "신정회계법인",
+      "cn": "반기검토,중간감사,재고실사",
+      "mendng": "39,000",
+      "tot_reqre_time": "668",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002569",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "신정회계법인",
+      "cn": "반기검토,중간감사,재고실사",
+      "mendng": "38,000",
+      "tot_reqre_time": "537",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001279",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2018.10.17",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2019년 1월~2019년 3월",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001279",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2018.01.04",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2018년 1월~2018년 3월",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001279",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2017.01.04",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2017년 1월~2017년 3월",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001279",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2016.01.16",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2016년 1월~2016년 3월",
+      "servc_mendng": "7",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

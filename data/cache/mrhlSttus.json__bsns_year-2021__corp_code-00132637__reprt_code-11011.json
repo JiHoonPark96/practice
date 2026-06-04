@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220510000724",
+      "corp_cls": "Y",
+      "corp_code": "00132637",
+      "corp_name": "동원시스템즈",
+      "se": "소액주주",
+      "shrholdr_co": "18,696",
+      "shrholdr_tot_co": "18,699",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "4,465,418",
+      "stock_tot_co": "29,453,769",
+      "hold_stock_rate": "15.16%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

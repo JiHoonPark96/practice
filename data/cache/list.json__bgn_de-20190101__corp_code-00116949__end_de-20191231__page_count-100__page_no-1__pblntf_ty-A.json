@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_code": "007340",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114000772",
+      "flr_nm": "DN오토모티브",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_code": "007340",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001025",
+      "flr_nm": "DN오토모티브",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_code": "007340",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190701000100",
+      "flr_nm": "DN오토모티브",
+      "rcept_dt": "20190701",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_code": "007340",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001234",
+      "flr_nm": "DN오토모티브",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_code": "007340",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329002701",
+      "flr_nm": "DN오토모티브",
+      "rcept_dt": "20190329",
+      "rm": "정연"
+    }
+  ]
+}

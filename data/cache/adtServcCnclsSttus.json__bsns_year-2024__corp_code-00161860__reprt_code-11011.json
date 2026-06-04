@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제56기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "개별재무제표에 대한 감사(검토)\n내부회계관리감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,485",
+      "real_exc_dtls_mendng": "113",
+      "real_exc_dtls_time": "1,503",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제55기(전기)",
+      "adtor": "신우회계법인",
+      "cn": "개별재무제표에 대한 감사(검토)\n내부회계관리감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,485",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,426",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001322",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "개별재무제표에 대한 감사(검토)\n내부회계관리감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "2,022",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "1,922",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "stock_knd": "보통주",
+      "nm": "인화정공㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "15,629,971",
+      "bsis_posesn_stock_qota_rt": "33.45",
+      "trmend_posesn_stock_co": "23,728,245",
+      "trmend_posesn_stock_qota_rt": "33.17",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "stock_knd": "보통주",
+      "nm": "고영열",
+      "relate": "대표이사",
+      "bsis_posesn_stock_co": "30,000",
+      "bsis_posesn_stock_qota_rt": "0.06",
+      "trmend_posesn_stock_co": "45,542",
+      "trmend_posesn_stock_qota_rt": "0.06",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "stock_knd": "보통주",
+      "nm": "김관식",
+      "relate": "사내이사",
+      "bsis_posesn_stock_co": "5,000",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "7,588",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "15,664,971",
+      "bsis_posesn_stock_qota_rt": "33.53",
+      "trmend_posesn_stock_co": "23,781,375",
+      "trmend_posesn_stock_qota_rt": "33.24",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001359",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제 39 기\n(당기)",
+      "adtor": "삼화회계법인",
+      "cn": "연결 및 별도 기준 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "1,500시간",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "1,358시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제 38 기\n(전기)",
+      "adtor": "성현회계법인",
+      "cn": "연결 및 별도 기준 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "1,334시간",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "1,334시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220328001029",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제 37 기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "개별 기준 외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000",
+      "adt_cntrct_dtls_time": "760시간",
+      "real_exc_dtls_mendng": "90,000",
+      "real_exc_dtls_time": "760시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

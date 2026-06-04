@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001314",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "se": "소액주주",
+      "shrholdr_co": "34,016",
+      "shrholdr_tot_co": "34,021",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "39,501,317",
+      "stock_tot_co": "108,394,549",
+      "hold_stock_rate": "36.44%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

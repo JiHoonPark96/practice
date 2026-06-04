@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002608",
+      "corp_cls": "Y",
+      "corp_code": "00852087",
+      "corp_name": "시디즈",
+      "se": "소액주주",
+      "shrholdr_co": "1,244",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.20%",
+      "hold_stock_co": "326,117",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "16.32%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

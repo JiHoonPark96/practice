@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004678",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제8기 (당기)",
+      "cntrct_cncls_de": "2019년 1월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.01 ~ 2019.12",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004678",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제7기(전기)",
+      "cntrct_cncls_de": "2018년 1월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.01 ~ 2018.12",
+      "servc_mendng": "10,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004678",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2017년 1월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.01 ~ 2017.12",
+      "servc_mendng": "10,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

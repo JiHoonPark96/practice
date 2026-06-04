@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "2024.03",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2024.07 ~ 2025.03",
+      "servc_mendng": "24,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "2024.12",
+      "servc_cn": "이전가격 용역",
+      "servc_exc_pd": "2024.12 ~ 2024.12",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "2024.03",
+      "servc_cn": "경정청구 용역",
+      "servc_exc_pd": "2024.03 ~ 2025.02",
+      "servc_mendng": "59,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제52기(전기)",
+      "cntrct_cncls_de": "2023.07",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2023.07 ~ 2024.03",
+      "servc_mendng": "24,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제52기(전기)",
+      "cntrct_cncls_de": "2023.11",
+      "servc_cn": "이전가격 용역",
+      "servc_exc_pd": "2023.11 ~ 2023.12",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2022.07",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2022.07 ~ 2023.03",
+      "servc_mendng": "24,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2022.10",
+      "servc_cn": "이전가격 용역",
+      "servc_exc_pd": "2022.10 ~ 2022.12",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

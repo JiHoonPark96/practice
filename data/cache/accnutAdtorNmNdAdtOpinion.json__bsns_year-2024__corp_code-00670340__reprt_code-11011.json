@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002092",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": " 삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- CS Wind Portugal, S.A. 종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002092",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": " 삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 타워부문 현금창출단위에 배부된 영업권의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002092",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": " 삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- CS Wind Turkey Klue Imalati AS. 종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002092",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": " 삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 타워부문 현금창출단위에 배부된 영업권의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002092",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": " 삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- CS Wind Turkey Klue Imalati AS. 종속기업투자주식 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002092",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": " 삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 타워부문 현금창출단위에 배부된 영업권의 손상검사\n- CS Wind Portugal, S.A.의 식별가능한 무형자산 공정가치 측정과정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

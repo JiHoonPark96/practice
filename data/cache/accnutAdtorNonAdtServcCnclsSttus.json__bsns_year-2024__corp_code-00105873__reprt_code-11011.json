@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000906",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2024년 2월",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2024년 3월 ~ 2024년 12월",
+      "servc_mendng": "50백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000906",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2024년 9월",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "2024년 9월 ~ 2025년 3월",
+      "servc_mendng": "40백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000906",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제39기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000906",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제39기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000906",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제38기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000906",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "bsns_year": "제38기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

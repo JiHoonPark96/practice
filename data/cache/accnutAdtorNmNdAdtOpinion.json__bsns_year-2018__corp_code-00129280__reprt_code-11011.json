@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002352",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제43기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "\"연결 및 별도재무제표에 대한 감사보고서 중 강조사항 및 기타사항 참조\"",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002352",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제42기(전기)",
+      "adtor": "대명회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002352",
+      "corp_cls": "Y",
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "대명회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

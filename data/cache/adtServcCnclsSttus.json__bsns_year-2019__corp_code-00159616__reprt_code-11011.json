@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제57기",
+      "adtor": "삼정회계법인",
+      "cn": "1분기 검토\n반기 검토\n3분기 검토\n전산감사\n중간감사/내부통제\n기말감사",
+      "mendng": "1,370",
+      "tot_reqre_time": "1,597\n1,750\n1,780\n400\n9,632\n7,692",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제56기",
+      "adtor": "삼정회계법인",
+      "cn": "1분기 검토\n반기 검토\n3분기 검토\n전산감사\n중간감사/내부통제\n기말감사",
+      "mendng": "760 ",
+      "tot_reqre_time": "1,300\n1,550\n1,250\n152\n889\n5,419",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제55기",
+      "adtor": "삼정회계법인",
+      "cn": "1분기 검토\n반기 검토\n3분기 검토\n전산감사\n중간감사/내부통제\n기말감사",
+      "mendng": "720 ",
+      "tot_reqre_time": "1,250\n1,650\n1,350\n290\n684\n4,744",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

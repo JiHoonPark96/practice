@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326000766",
+      "corp_cls": "Y",
+      "corp_code": "00131939",
+      "corp_name": "선도전기",
+      "se": "소액주주",
+      "shrholdr_co": "7,230",
+      "shrholdr_tot_co": "7,235",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "12,002,265",
+      "stock_tot_co": "18,000,000",
+      "hold_stock_rate": "66.68%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

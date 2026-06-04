@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000022",
+      "corp_cls": "Y",
+      "corp_code": "00653024",
+      "corp_name": "진에어",
+      "se": "소액주주",
+      "shrholdr_co": "46,744",
+      "shrholdr_tot_co": "46,797",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "19,139,139",
+      "stock_tot_co": "51,533,634",
+      "hold_stock_rate": "37.14%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

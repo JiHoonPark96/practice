@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제36기 \n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 개발비 자본화\n2. 영업권 손상평가\n3. 투자주식 손상평가\n4. 사업결합의 이전대가 배분",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제35기 \n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향",
+      "core_adt_matter": "1.영업권 손상평가 \n2.내부개발비용 자본화",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제34기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. FP&C 사업부문인수에 따른 이전대가 배분\n2. 영업권 손상평가\n3. 내부개발비용 자본화",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

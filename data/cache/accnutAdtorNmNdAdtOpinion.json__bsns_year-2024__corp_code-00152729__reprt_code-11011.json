@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000952",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000952",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000952",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000952",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000952",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000952",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식 발생사실",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

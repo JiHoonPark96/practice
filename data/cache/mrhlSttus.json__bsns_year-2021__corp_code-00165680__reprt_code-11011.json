@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310000632",
+      "corp_cls": "Y",
+      "corp_code": "00165680",
+      "corp_name": "호텔신라",
+      "se": "소액주주",
+      "shrholdr_co": "257,917",
+      "shrholdr_tot_co": "257,925",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "26,171,369",
+      "stock_tot_co": "39,248,121",
+      "hold_stock_rate": "66.68%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003937",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "bsns_year": "제14기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 및 연결재무제표에 대한 감사보고서의 \n핵심감사사항 참조",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003937",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "bsns_year": "제13기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "별도 및 연결재무제표에 대한 감사보고서의 \n강조사항 참조",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003937",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

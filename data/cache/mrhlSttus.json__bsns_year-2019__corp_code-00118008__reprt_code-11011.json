@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200116000259",
+      "corp_cls": "Y",
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "se": "소액주주",
+      "shrholdr_co": "5,710",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.77%",
+      "hold_stock_co": "28,702,935",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "61.39%",
+      "stlm_dt": "2019-03-31"
+    }
+  ]
+}

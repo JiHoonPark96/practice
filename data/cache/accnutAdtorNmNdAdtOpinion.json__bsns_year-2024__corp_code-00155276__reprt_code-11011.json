@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "① 에너지소재사업 수출매출의 수익인식 시점 조정 위험\n② 인조흑연음극재 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "① 에너지소재사업 수출매출의 수익인식 시점 조정 위험\n② 인조흑연음극재 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "에너지소재사업 수출매출의 수익인식 시점 조정 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "에너지소재사업 수출매출의 수익인식 시점 조정 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "양극재 사업으로부터 발생하는 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "양극재 사업으로부터 발생하는 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

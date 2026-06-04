@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000409",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제12기 (당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ주식회사 에스에스지닷컴 사업부를 현금창출단위로 하는 영업권 손상평가\nㆍ아폴로코리아㈜를 현금창출단위로 하는 영업권 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000409",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ주식회사 에스에스지닷컴 사업부를 현금창출단위로 하는 영업권 손상평가\nㆍ주식회사 에스씨케이컴퍼니의 사업결합 (단계적 취득)\nㆍ아폴로코리아㈜의 사업결합",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000409",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "ㆍ주식회사 에스에스지닷컴을 현금창출단위로 하는 영업권 손상평가\nㆍ주식회사 신세계아이앤씨 사업결합 (단계적 취득)",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

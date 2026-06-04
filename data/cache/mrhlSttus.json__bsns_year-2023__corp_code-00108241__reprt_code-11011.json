@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000698",
+      "corp_cls": "Y",
+      "corp_code": "00108241",
+      "corp_name": "농심",
+      "se": "소액주주",
+      "shrholdr_co": "22,140",
+      "shrholdr_tot_co": "22,152",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "2,271,109",
+      "stock_tot_co": "6,082,642",
+      "hold_stock_rate": "37.34%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

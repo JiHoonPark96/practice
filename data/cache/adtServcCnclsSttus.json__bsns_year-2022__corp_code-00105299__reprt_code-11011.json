@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000643",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 44 기(당기)",
+      "adtor": "태성회계법인",
+      "cn": " - 분반기 검토\n - 개별 재무제표 감사\n - 연결재무제표 감사\n - 영문보고서 및 기타\n감사업무",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "3,224",
+      "real_exc_dtls_mendng": "258",
+      "real_exc_dtls_time": "3,124",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000643",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 43 기(전기)",
+      "adtor": "태성회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310",
+      "adt_cntrct_dtls_time": "2,815",
+      "real_exc_dtls_mendng": "248",
+      "real_exc_dtls_time": "2,800",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000643",
+      "corp_cls": "Y",
+      "corp_code": "00105299",
+      "corp_name": "금강공업",
+      "bsns_year": "제 42 기(전전기)",
+      "adtor": "태성회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310",
+      "adt_cntrct_dtls_time": "2,700",
+      "real_exc_dtls_mendng": "310",
+      "real_exc_dtls_time": "2,717",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

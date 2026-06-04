@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001452",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제68기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 검토 및 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "594",
+      "adt_cntrct_dtls_time": "4,950",
+      "real_exc_dtls_mendng": "597",
+      "real_exc_dtls_time": "4,864",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001452",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제67기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무감사(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "700",
+      "adt_cntrct_dtls_time": "8,000",
+      "real_exc_dtls_mendng": "700",
+      "real_exc_dtls_time": "7,735",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001452",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제66기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "회계 및 업무감사(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "540",
+      "adt_cntrct_dtls_time": "6,975",
+      "real_exc_dtls_mendng": "507",
+      "real_exc_dtls_time": "6,337",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

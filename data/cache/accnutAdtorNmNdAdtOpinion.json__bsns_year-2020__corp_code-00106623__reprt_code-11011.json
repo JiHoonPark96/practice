@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000797",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "2020년(제45기)\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가\n충당부채 측정",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000797",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "2019년(제44기)\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "기계사업부문 수익인식\n재고자산 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000797",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "2018년(제43기)\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "기계사업부문의 진행기준 수익인식\n매출채권 대손충당금",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

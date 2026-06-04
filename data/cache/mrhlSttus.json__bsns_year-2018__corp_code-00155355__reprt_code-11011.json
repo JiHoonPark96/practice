@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004722",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "se": "소액주주",
+      "shrholdr_co": "5,242",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.47%",
+      "hold_stock_co": "901,307",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "21.40%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

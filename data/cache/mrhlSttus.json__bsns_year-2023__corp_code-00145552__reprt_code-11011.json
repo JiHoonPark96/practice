@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001863",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "se": "소액주주",
+      "shrholdr_co": "81,538",
+      "shrholdr_tot_co": "81,549",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "14,968,886",
+      "stock_tot_co": "22,722,739",
+      "hold_stock_rate": "65.88%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

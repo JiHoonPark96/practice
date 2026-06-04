@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000204",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제21기",
+      "adtor": "대주회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "139/년",
+      "adt_cntrct_dtls_time": "1,287",
+      "real_exc_dtls_mendng": "139/년",
+      "real_exc_dtls_time": "1,278",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000204",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제20기",
+      "adtor": "대주회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "127/년",
+      "adt_cntrct_dtls_time": "1,180",
+      "real_exc_dtls_mendng": "127/년",
+      "real_exc_dtls_time": "1,273",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000204",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "제19기",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110/년",
+      "adt_cntrct_dtls_time": "1,255",
+      "real_exc_dtls_mendng": "110/년",
+      "real_exc_dtls_time": "1,475",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

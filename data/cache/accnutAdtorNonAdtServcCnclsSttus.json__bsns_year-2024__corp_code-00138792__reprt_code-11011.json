@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제37기\n (당기)",
+      "cntrct_cncls_de": "2024.6월",
+      "servc_cn": "법인세 세무조정 업무",
+      "servc_exc_pd": "2024.01 ~ 2024.12",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제36기\n (전기)",
+      "cntrct_cncls_de": "2023.6월",
+      "servc_cn": "경영자문용역계약",
+      "servc_exc_pd": "2023.06 ~ 2023.12",
+      "servc_mendng": "753",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제36기\n (전기)",
+      "cntrct_cncls_de": "2023.4월",
+      "servc_cn": "법인세 세무조정 업무",
+      "servc_exc_pd": "2023.01 ~ 2023.12",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제35기\n (전전기)",
+      "cntrct_cncls_de": "2022.5월 ",
+      "servc_cn": "법인세 세무조정 업무",
+      "servc_exc_pd": "2022.01 ~ 2022.12",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000756",
+      "corp_cls": "Y",
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공",
+      "bsns_year": "제35기\n (전전기)",
+      "cntrct_cncls_de": "2022.10월",
+      "servc_cn": "법인세 세무자문 ",
+      "servc_exc_pd": "2022.10 ~ 2023.09",
+      "servc_mendng": " 810",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

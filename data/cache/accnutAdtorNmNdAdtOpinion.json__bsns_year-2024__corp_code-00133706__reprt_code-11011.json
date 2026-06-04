@@ -1,0 +1,81 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001620",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "태일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 및 상품의 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001620",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "태일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 및 상품의 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001620",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 및 상품의 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001620",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 및 상품의 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001620",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 및 상품의 판매로 인한 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001620",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

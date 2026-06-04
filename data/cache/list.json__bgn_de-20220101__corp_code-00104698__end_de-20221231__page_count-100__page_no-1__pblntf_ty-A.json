@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "stock_code": "000680",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114001275",
+      "flr_nm": "LS네트웍스",
+      "rcept_dt": "20221114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "stock_code": "000680",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816001404",
+      "flr_nm": "LS네트웍스",
+      "rcept_dt": "20220816",
+      "rm": ""
+    },
+    {
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "stock_code": "000680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220519000247",
+      "flr_nm": "LS네트웍스",
+      "rcept_dt": "20220519",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "stock_code": "000680",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001407",
+      "flr_nm": "LS네트웍스",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "stock_code": "000680",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220317000748",
+      "flr_nm": "LS네트웍스",
+      "rcept_dt": "20220317",
+      "rm": "정연"
+    }
+  ]
+}

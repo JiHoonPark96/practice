@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000684",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무선통신매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000684",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무선통신매출의 기간귀속, \n유선통신사업 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000684",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무선통신매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000684",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무선통신매출의 기간귀속,\n\n유선통신사업 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000684",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무선통신매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000684",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "무선통신매출의 기간귀속, \n유선통신사업 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

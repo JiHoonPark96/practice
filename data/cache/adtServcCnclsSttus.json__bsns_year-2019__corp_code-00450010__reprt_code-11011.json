@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002167",
+      "corp_cls": "Y",
+      "corp_code": "00450010",
+      "corp_name": "씨티알모빌리티",
+      "bsns_year": "제26기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "별도/연결재무제표 감사\n분기 재무제표 검토",
+      "mendng": "50,000",
+      "tot_reqre_time": "850",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002167",
+      "corp_cls": "Y",
+      "corp_code": "00450010",
+      "corp_name": "씨티알모빌리티",
+      "bsns_year": "제25기(전기)",
+      "adtor": "다산회계법인",
+      "cn": "별도/연결재무제표 감사",
+      "mendng": "100,000",
+      "tot_reqre_time": "652",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002167",
+      "corp_cls": "Y",
+      "corp_code": "00450010",
+      "corp_name": "씨티알모빌리티",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "별도/연결재무제표 감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "500",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

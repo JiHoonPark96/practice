@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001220",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "se": "소액주주",
+      "shrholdr_co": "967",
+      "shrholdr_tot_co": "976",
+      "shrholdr_rate": "99.08%",
+      "hold_stock_co": "221,135",
+      "stock_tot_co": "1,328,000",
+      "hold_stock_rate": "16.65%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000363",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제75기",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290",
+      "adt_cntrct_dtls_time": "4,250",
+      "real_exc_dtls_mendng": "160",
+      "real_exc_dtls_time": "4,864",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000363",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제74기",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "266",
+      "adt_cntrct_dtls_time": "3,848",
+      "real_exc_dtls_mendng": "266",
+      "real_exc_dtls_time": "4,587",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000363",
+      "corp_cls": "Y",
+      "corp_code": "00129387",
+      "corp_name": "SP삼화",
+      "bsns_year": "제73기",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190",
+      "adt_cntrct_dtls_time": "2,850",
+      "real_exc_dtls_mendng": "190",
+      "real_exc_dtls_time": "3,657",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000981",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "bsns_year": "제30기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기 검토, 기말 연결 및 별도 감사,\n내부회계관리제도 검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "2,903",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "3,025",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000981",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "bsns_year": "제29기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기 검토, 기말 연결 및 별도 감사,\n내부회계관리제도 검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430",
+      "adt_cntrct_dtls_time": "3,628",
+      "real_exc_dtls_mendng": "430",
+      "real_exc_dtls_time": "3,650",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000981",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "합병 전 반기 검토, 합병 후 기말\n연결 및 별도 감사, \n피합병법인의 연결 및 별도 감사,\n내부회계관리제도 검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "482",
+      "adt_cntrct_dtls_time": "4,345",
+      "real_exc_dtls_mendng": "482",
+      "real_exc_dtls_time": "3,809",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000861",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 17 기\n(당기)",
+      "cntrct_cncls_de": "2023.11",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2023.11 ~ 2023.12",
+      "servc_mendng": "KRW 34",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000861",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 17 기\n(당기)",
+      "cntrct_cncls_de": "2023.12",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2023.12 ~ 2024.02",
+      "servc_mendng": "USD 79",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000861",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 16 기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "한영회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000861",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 15 기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "한영회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

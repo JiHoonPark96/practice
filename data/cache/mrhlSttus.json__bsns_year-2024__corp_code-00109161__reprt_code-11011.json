@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000825",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "se": "소액주주",
+      "shrholdr_co": "14,125",
+      "shrholdr_tot_co": "14,130",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "4,142,753",
+      "stock_tot_co": "11,600,000",
+      "hold_stock_rate": "35.71%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

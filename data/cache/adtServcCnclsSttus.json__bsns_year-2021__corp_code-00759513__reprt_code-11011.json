@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001343",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제13기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "- 별도 및 연결재무제표에 대한 감사 (영문포함)\n- 내부회계관리제도에 대한 감사\n- 분반기 별도 및 연결재무제표에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "760\n (연간 총 보수)",
+      "adt_cntrct_dtls_time": "7,800시간\n (연간 총 누적)",
+      "real_exc_dtls_mendng": "760\n (연간 총 보수)",
+      "real_exc_dtls_time": "7,524시간\n (연간 총 누적)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001343",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제12기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 별도 및 연결재무제표에 대한 감사 (영문포함)\n- 내부회계관리제도에 대한 감사\n- 분반기 별도 및 연결재무제표에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "740\n (연간 총 보수)",
+      "adt_cntrct_dtls_time": "7,830시간\n (연간 총 누적)",
+      "real_exc_dtls_mendng": "740\n (연간 총 보수)",
+      "real_exc_dtls_time": "7,758시간\n (연간 총 누적)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001343",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "- 별도 및 연결재무제표에 대한 감사 (영문포함)\n- 내부회계관리제도에 대한 감사\n- 분반기 별도 및 연결재무제표에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "700\n (연간 총 보수)",
+      "adt_cntrct_dtls_time": "7,539시간\n(연간 총 누적)",
+      "real_exc_dtls_mendng": "700\n (연간 총 보수)",
+      "real_exc_dtls_time": "8,593시간\n  (연간 총 누적)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

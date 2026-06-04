@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319001050",
+      "corp_cls": "Y",
+      "corp_code": "00115977",
+      "corp_name": "아이에스동서",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "5",
+      "apnt": "4",
+      "rlsofc": "3",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

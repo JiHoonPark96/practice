@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000861",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "se": "소액주주",
+      "shrholdr_co": "71,613",
+      "shrholdr_tot_co": "71,629",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "6,534,843",
+      "stock_tot_co": "15,054,186",
+      "hold_stock_rate": "43.41%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

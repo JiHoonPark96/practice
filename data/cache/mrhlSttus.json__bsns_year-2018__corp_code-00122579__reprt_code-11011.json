@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003573",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "se": "소액주주",
+      "shrholdr_co": "2,366",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.12%",
+      "hold_stock_co": "264,631",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "31.50%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

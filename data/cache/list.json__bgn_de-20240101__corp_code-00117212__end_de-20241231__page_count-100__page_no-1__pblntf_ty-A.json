@@ -1,0 +1,153 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 13,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002588",
+      "flr_nm": "두산",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20241002000389",
+      "flr_nm": "두산",
+      "rcept_dt": "20241002",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20241002000388",
+      "flr_nm": "두산",
+      "rcept_dt": "20241002",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20241002000384",
+      "flr_nm": "두산",
+      "rcept_dt": "20241002",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20241002000378",
+      "flr_nm": "두산",
+      "rcept_dt": "20241002",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2024.06)",
+      "rcept_no": "20240830001779",
+      "flr_nm": "두산",
+      "rcept_dt": "20240830",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814004477",
+      "flr_nm": "두산",
+      "rcept_dt": "20240814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516001983",
+      "flr_nm": "두산",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20240418000399",
+      "flr_nm": "두산",
+      "rcept_dt": "20240418",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20240418000398",
+      "flr_nm": "두산",
+      "rcept_dt": "20240418",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20240418000394",
+      "flr_nm": "두산",
+      "rcept_dt": "20240418",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20240418000391",
+      "flr_nm": "두산",
+      "rcept_dt": "20240418",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00117212",
+      "corp_name": "두산",
+      "stock_code": "000150",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240320001953",
+      "flr_nm": "두산",
+      "rcept_dt": "20240320",
+      "rm": "연"
+    }
+  ]
+}

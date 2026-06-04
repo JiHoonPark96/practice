@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000850",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "se": "소액주주",
+      "shrholdr_co": "16,603",
+      "shrholdr_tot_co": "16,613",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "6,190,421",
+      "stock_tot_co": "12,010,966",
+      "hold_stock_rate": "51.54%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

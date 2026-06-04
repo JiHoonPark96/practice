@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004553",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제20기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004553",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제19기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004553",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제18기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

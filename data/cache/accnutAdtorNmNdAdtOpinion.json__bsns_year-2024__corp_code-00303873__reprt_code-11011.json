@@ -1,0 +1,82 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위의 손상평가\n파생상품계약의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중단영업",
+      "core_adt_matter": "현금창출단위의 손상평가\n파생상품계약의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위의 손상평가\n파생상품계약의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중단영업",
+      "core_adt_matter": "현금창출단위의 손상평가\n\n파생상품계약의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19영향으로 인한 불확실성",
+      "core_adt_matter": "현금창출단위의 손상평가\n파생상품계약의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19영향으로 인한 불확실성",
+      "core_adt_matter": "현금창출단위의 손상평가\n\n파생상품계약의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000884",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제36기(당기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000884",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제35기(전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000884",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "해당사항없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

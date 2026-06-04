@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "stock_code": "000220",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20231115000078",
+      "flr_nm": "유유제약",
+      "rcept_dt": "20231115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "stock_code": "000220",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002290",
+      "flr_nm": "유유제약",
+      "rcept_dt": "20231114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "stock_code": "000220",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811001855",
+      "flr_nm": "유유제약",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "stock_code": "000220",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001793",
+      "flr_nm": "유유제약",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "stock_code": "000220",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230322001027",
+      "flr_nm": "유유제약",
+      "rcept_dt": "20230322",
+      "rm": "연"
+    }
+  ]
+}

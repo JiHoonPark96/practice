@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230726000502",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "bsns_year": "제47기(당기)",
+      "adtor": "동현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230726000502",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "bsns_year": "제46기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "고객의 VAN system을 통하지 않는 매출거래",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230726000502",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "고객의 VAN system을 통하지 않는 매출거래",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001807",
+      "corp_cls": "Y",
+      "corp_code": "00145598",
+      "corp_name": "이연제약",
+      "bsns_year": "제60기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기, 중간 및\n연말재무제표 감사,\n내부통제구조 평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "2,006",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001807",
+      "corp_cls": "Y",
+      "corp_code": "00145598",
+      "corp_name": "이연제약",
+      "bsns_year": "제59기(전기)",
+      "adtor": "서현회계법인",
+      "cn": "반기, 중간 및\n연말재무제표 감사,\n내부통제구조 평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "241",
+      "adt_cntrct_dtls_time": "1,947",
+      "real_exc_dtls_mendng": "243",
+      "real_exc_dtls_time": "2,232",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001807",
+      "corp_cls": "Y",
+      "corp_code": "00145598",
+      "corp_name": "이연제약",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "서현회계법인",
+      "cn": "반기, 중간 및\n연말재무제표 감사,\n내부통제구조 평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "167",
+      "adt_cntrct_dtls_time": "1,284",
+      "real_exc_dtls_mendng": "167",
+      "real_exc_dtls_time": "1,405",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

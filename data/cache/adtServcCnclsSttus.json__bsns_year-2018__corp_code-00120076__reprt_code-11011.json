@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001745",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제66기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도ㆍ연결 재무제표 감사 등/ \n분ㆍ반기 재무제표 검토 ",
+      "mendng": "400",
+      "tot_reqre_time": "3,339/\n2,973",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001745",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제65기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도ㆍ연결 재무제표 감사 등/ \n분ㆍ반기 재무제표 검토 ",
+      "mendng": "385",
+      "tot_reqre_time": "3,342/\n3,081",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001745",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "한영회계법인 ",
+      "cn": "별도ㆍ연결 재무제표 감사 등/ \n분ㆍ반기 재무제표 검토 ",
+      "mendng": "375",
+      "tot_reqre_time": "2,655/\n3,040",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

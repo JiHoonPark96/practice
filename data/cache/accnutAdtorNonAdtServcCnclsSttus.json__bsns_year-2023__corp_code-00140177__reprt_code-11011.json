@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "2023.07.01",
+      "servc_cn": "해외파견주재원 종합소득세 신고대리 및 세금정산 업무 대행",
+      "servc_exc_pd": "2023.05.28~2023.12.31",
+      "servc_mendng": "4.8",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "사채관리계약 이행상황 보고서에 대한 외부감사인의 확인서",
+      "servc_exc_pd": "2023.07.01~2025.04.30",
+      "servc_mendng": "4",
+      "rm": "주1)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제52기(전기)",
+      "cntrct_cncls_de": "2022.08.12",
+      "servc_cn": "개정세법 교육과 종합소득세 신고지원 및 후속 대응",
+      "servc_exc_pd": "2022.08.12~2022.12.31",
+      "servc_mendng": "5.7",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2021.07.20",
+      "servc_cn": "통합법인 보안 거버넌스 및 ISMS 컨설팅",
+      "servc_exc_pd": "2021.07.20~2021.12.28",
+      "servc_mendng": "320",
+      "rm": "주2)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2021.09.28",
+      "servc_cn": "'21년 법인세 외부조정 신고 용역",
+      "servc_exc_pd": "2021.10.18~2021.11.01",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2021.07.01",
+      "servc_cn": "법인세 외부조정 담당 법인 으로써 정기 세무조사 지원",
+      "servc_exc_pd": "2021.07.01~2021.10.08",
+      "servc_mendng": "230",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2021.12.01",
+      "servc_cn": "법인세 및 부가가치세 경정청구 지원 (미환류소득에 대한 법인세 경정청구)",
+      "servc_exc_pd": "2021.12.01~2022.02.10",
+      "servc_mendng": "100",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2021.12.01",
+      "servc_cn": "임의적립금 사용 분에 대한 매출에누리 처리에 따라 부가가치세 경정청구",
+      "servc_exc_pd": "2021.12.01~2022.12.13",
+      "servc_mendng": "230",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401004251",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "2021.12.01",
+      "servc_cn": "종합부동산세 경정청구 지원",
+      "servc_exc_pd": "2021.12.01~현재 진행중",
+      "servc_mendng": "환급세액의 5%",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

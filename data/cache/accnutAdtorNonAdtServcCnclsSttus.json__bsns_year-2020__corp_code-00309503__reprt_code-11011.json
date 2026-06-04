@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210415000506",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2020년\n(제22기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210415000506",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2019년\n(제21기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210415000506",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2018년\n(제20기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

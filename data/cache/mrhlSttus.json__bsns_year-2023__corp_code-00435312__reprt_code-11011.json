@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001721",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "se": "소액주주",
+      "shrholdr_co": "15,067",
+      "shrholdr_tot_co": "15,084",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "8,960,159",
+      "stock_tot_co": "20,191,471",
+      "hold_stock_rate": "44.39%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

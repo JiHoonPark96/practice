@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000844",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "bsns_year": "제69기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기 및 반기 검토,연간 재무제표 감사,IFRS 검토 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "298,000",
+      "adt_cntrct_dtls_time": "3,318",
+      "real_exc_dtls_mendng": "298,000",
+      "real_exc_dtls_time": "3,073",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000844",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "bsns_year": "제68기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기 및 반기 검토,연간 재무제표 감사,IFRS 검토 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "273,000",
+      "adt_cntrct_dtls_time": "3,026",
+      "real_exc_dtls_mendng": "  273,000 ",
+      "real_exc_dtls_time": "3,429",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000844",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기 및 반기 검토,연간 재무제표 감사,IFRS 검토 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "198,000",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "  198,000 ",
+      "real_exc_dtls_time": "2,307",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

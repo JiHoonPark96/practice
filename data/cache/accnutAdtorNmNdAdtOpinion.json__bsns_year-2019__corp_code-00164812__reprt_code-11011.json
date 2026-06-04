@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼일 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자원개발사업 관련 투자지분의 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼일 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼일 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

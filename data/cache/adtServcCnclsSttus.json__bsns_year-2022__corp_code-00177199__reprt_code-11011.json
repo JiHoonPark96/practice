@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "bsns_year": "제36기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도반기검토,\n중간감사, 재고실사,\n별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000,000원",
+      "adt_cntrct_dtls_time": "1,720시간",
+      "real_exc_dtls_mendng": "195,000,000원",
+      "real_exc_dtls_time": "1,834시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "bsns_year": "제35기(전기)",
+      "adtor": "선일회계법인",
+      "cn": "별도반기검토,\n중간감사, 재고실사,\n별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "87,000,000원",
+      "adt_cntrct_dtls_time": "1,120시간",
+      "real_exc_dtls_mendng": "87,000,000원",
+      "real_exc_dtls_time": "1,144시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "별도반기검토,\n중간감사, 재고실사,\n별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75,000,000원",
+      "adt_cntrct_dtls_time": "1,060시간",
+      "real_exc_dtls_mendng": "75,000,000원",
+      "real_exc_dtls_time": "1,020시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

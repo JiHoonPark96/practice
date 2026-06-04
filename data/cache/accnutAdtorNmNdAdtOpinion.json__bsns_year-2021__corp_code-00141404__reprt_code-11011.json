@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제52기(당기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "투자부동산 손상차손 검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제51기(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권의 회수 가능성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000643",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제50기(전기)",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "자산 회수와 관련되어 이전\n최대주주에게 제공받는 보증",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

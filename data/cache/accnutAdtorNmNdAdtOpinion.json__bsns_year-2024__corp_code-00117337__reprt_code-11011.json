@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814004295",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출의 과대계상 위험\n2. 총예정원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004295",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출의 과대계상 위험\n2. 총예정원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004295",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출의 과대계상 위험\n2. 총예정원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004295",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출의 과대계상 위험\n2. 총예정원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004295",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출의 과대계상 위험\n2. 총예정원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004295",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 매출의 과대계상 위험\n2. 총예정원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

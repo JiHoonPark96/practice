@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000301",
+      "corp_cls": "Y",
+      "corp_code": "01199550",
+      "corp_name": "HD현대에너지솔루션",
+      "se": "소액주주",
+      "shrholdr_co": "26,062",
+      "shrholdr_tot_co": "26,143",
+      "shrholdr_rate": "99.69%",
+      "hold_stock_co": "2,806,140",
+      "stock_tot_co": "11,200,000",
+      "hold_stock_rate": "25.05%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

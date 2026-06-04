@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001690",
+      "corp_cls": "Y",
+      "corp_code": "00173102",
+      "corp_name": "모나리자",
+      "bsns_year": "제43기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001690",
+      "corp_cls": "Y",
+      "corp_code": "00173102",
+      "corp_name": "모나리자",
+      "bsns_year": "제42기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001690",
+      "corp_cls": "Y",
+      "corp_code": "00173102",
+      "corp_name": "모나리자",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

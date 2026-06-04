@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322001034",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제54기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기 검토, 연감감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "1,834",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "2,428",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322001034",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제53기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기 검토, 연감감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "1,834",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "1,835",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322001034",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "정일회계법인",
+      "cn": "분,반기 검토, 연감감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "105백만원",
+      "adt_cntrct_dtls_time": "1,668",
+      "real_exc_dtls_mendng": "105백만원",
+      "real_exc_dtls_time": "1,668",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

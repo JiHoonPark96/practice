@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001231",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "se": "소액주주",
+      "shrholdr_co": "76,685",
+      "shrholdr_tot_co": "76,701",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "92,980,967",
+      "stock_tot_co": "215,378,976",
+      "hold_stock_rate": "43.17%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

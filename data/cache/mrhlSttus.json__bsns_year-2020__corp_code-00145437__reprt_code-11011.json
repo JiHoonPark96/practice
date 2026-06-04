@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210416000602",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "se": "소액주주",
+      "shrholdr_co": "16,670",
+      "shrholdr_tot_co": "16,681",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "10,022,534",
+      "stock_tot_co": "62,022,534",
+      "hold_stock_rate": "16.16%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220222003015",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제46기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220222003015",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2020년 3월",
+      "servc_cn": "국제거래정보통합보고서 작성 용역",
+      "servc_exc_pd": "9개월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220222003015",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제45기(전기)",
+      "cntrct_cncls_de": "2020년 12월",
+      "servc_cn": "재산세 및 종합부동산세에 대한 제반 업무",
+      "servc_exc_pd": "12개월",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220222003015",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2019년 11월",
+      "servc_cn": "수출입은행차입관련 삼일회계법인의 \n추정현금흐름분석보고서 용역 ",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220222003015",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2019년 6월",
+      "servc_cn": "국제거래정보통합보고서 작성 용역",
+      "servc_exc_pd": "7개월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

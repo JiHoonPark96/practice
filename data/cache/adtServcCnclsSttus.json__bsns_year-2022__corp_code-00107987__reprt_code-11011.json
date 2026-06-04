@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001430",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "bsns_year": "제49기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "345,000,000",
+      "adt_cntrct_dtls_time": "3,450",
+      "real_exc_dtls_mendng": "230,000,000",
+      "real_exc_dtls_time": "3,616",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001430",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "bsns_year": "제48기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "298,000,000",
+      "adt_cntrct_dtls_time": "3,200",
+      "real_exc_dtls_mendng": "298,000,000",
+      "real_exc_dtls_time": "3,000",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001430",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,400,000",
+      "adt_cntrct_dtls_time": "1,560",
+      "real_exc_dtls_mendng": "270,000,000",
+      "real_exc_dtls_time": "3,000",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

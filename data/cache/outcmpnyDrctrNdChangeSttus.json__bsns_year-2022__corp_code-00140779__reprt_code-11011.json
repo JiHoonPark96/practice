@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000345",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "2",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001399",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제63기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기ㆍ연간재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "2,050",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "2,035",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001399",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제62기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기ㆍ연간재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195",
+      "adt_cntrct_dtls_time": "2,087",
+      "real_exc_dtls_mendng": "195",
+      "real_exc_dtls_time": "2,079",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001399",
+      "corp_cls": "Y",
+      "corp_code": "00111999",
+      "corp_name": "대원제약",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기ㆍ연간재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "158",
+      "adt_cntrct_dtls_time": "1,870",
+      "real_exc_dtls_mendng": "      158",
+      "real_exc_dtls_time": " 2,187",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

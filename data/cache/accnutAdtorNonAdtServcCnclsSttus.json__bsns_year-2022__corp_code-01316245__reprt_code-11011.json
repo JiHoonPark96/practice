@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000420",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제5기(당기)\n(2022.1~12월)",
+      "cntrct_cncls_de": "2022.2월",
+      "servc_cn": "해외지사 통합관리 마스터 계약",
+      "servc_exc_pd": "2022.2~완료시",
+      "servc_mendng": "-",
+      "rm": "해외지사 통합관리를 위한 제반사항에 대한 마스터 계약으로,\n국가별 세부 계약 체결에 따라 용역보수 등이 확정될 예정입니다.",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000420",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제5기(당기)\n(2022.1~12월)",
+      "cntrct_cncls_de": "2022.7월",
+      "servc_cn": "연구개발비 세액공제 경정청구 용역(HVDC)",
+      "servc_exc_pd": "2022.8~완료시",
+      "servc_mendng": "150",
+      "rm": "HVDC 국책과제 중 재고자산 처리한 일부 연구 지출 시제품 등에 대해, 연구개발비\n세액공제를 적용받지 못하여 법인세 경정청구를 진행하고자 합니다.",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000420",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제5기(당기)\n(2022.1~12월)",
+      "cntrct_cncls_de": "2022.11월",
+      "servc_cn": "BEPS 보고서 제출",
+      "servc_exc_pd": "2022.11~2022.12",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000420",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제4기(당기)\n(2021.1~12월)",
+      "cntrct_cncls_de": "2021.11월",
+      "servc_cn": "BEPS 보고서 제출\n이전가격 검토",
+      "servc_exc_pd": "2021.11~2021.12",
+      "servc_mendng": "42",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000420",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제3기(전전기)\n(2020.1~12월)",
+      "cntrct_cncls_de": "2020.3월",
+      "servc_cn": "이전가격 검토",
+      "servc_exc_pd": "2020.3~2020.9",
+      "servc_mendng": "17",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000420",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제3기(전전기)\n(2020.1~12월)",
+      "cntrct_cncls_de": "2020.10월",
+      "servc_cn": "BEPS 보고서 제출",
+      "servc_exc_pd": "2020.10~2020.12",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

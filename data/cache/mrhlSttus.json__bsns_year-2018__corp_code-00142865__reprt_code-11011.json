@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001399",
+      "corp_cls": "Y",
+      "corp_code": "00142865",
+      "corp_name": "WISCOM",
+      "se": "소액주주",
+      "shrholdr_co": "3,130",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.37%",
+      "hold_stock_co": "3,644,715",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "24.25%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

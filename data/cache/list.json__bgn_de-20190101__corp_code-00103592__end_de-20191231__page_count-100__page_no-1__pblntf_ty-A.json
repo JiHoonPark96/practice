@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001040",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002541",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190516000256",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20190516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001079",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "stock_code": "009290",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329002653",
+      "flr_nm": "광동제약",
+      "rcept_dt": "20190329",
+      "rm": "연"
+    }
+  ]
+}

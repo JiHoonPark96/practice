@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000677",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "se": "소액주주",
+      "shrholdr_co": "10,627",
+      "shrholdr_tot_co": "10,637",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "3,148,392",
+      "stock_tot_co": "6,209,515",
+      "hold_stock_rate": "50.70%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

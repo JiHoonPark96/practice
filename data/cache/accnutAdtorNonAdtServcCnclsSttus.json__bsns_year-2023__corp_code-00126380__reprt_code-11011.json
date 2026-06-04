@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000736",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제55기\n(당기)",
+      "cntrct_cncls_de": "2017.02\n2018.09\n2019.05\n2023.05",
+      "servc_cn": "세무자문업무(해외종속기업)\n세무자문업무(해외종속기업)\n세무자문업무(해외종속기업)\nESG인증업무(국내종속기업)",
+      "servc_exc_pd": "2023.01~2023.12\n2023.01~2023.12\n2023.01~2023.12\n2023.05~2023.07",
+      "servc_mendng": "202\n27\n79\n25",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000736",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제54기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000736",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제53기\n(전전기)",
+      "cntrct_cncls_de": "2017.06",
+      "servc_cn": "E-Discovery 자문업무",
+      "servc_exc_pd": "2021.01~2021.12",
+      "servc_mendng": "394",
+      "rm": "안진회계법인",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001985",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제56기(당기)",
+      "cntrct_cncls_de": "2019.02.14",
+      "servc_cn": "세무조정계산서 작성",
+      "servc_exc_pd": "19.03.01-19.03.31",
+      "servc_mendng": "3,700천원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001985",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제55기(전기)",
+      "cntrct_cncls_de": "2018.02.28",
+      "servc_cn": "세무조정계산서 작성",
+      "servc_exc_pd": "18.03.01-18.03.31",
+      "servc_mendng": "4,300천원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001985",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제54기(전전기)",
+      "cntrct_cncls_de": "2016.04.29",
+      "servc_cn": "세무조정계산서 작성",
+      "servc_exc_pd": "17.03.01-17.03.31",
+      "servc_mendng": "4,300천원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114003023",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814001971",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.03)",
+      "rcept_no": "20230515002958",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002896",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20230515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230322001080",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20230322",
+      "rm": "정연"
+    }
+  ]
+}

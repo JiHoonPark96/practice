@@ -1,0 +1,72 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제45기(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식에 대한\n 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제45기(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제44기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "무형자산(광업권)\n손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제44기(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "이연법인세 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

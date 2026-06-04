@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001045",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "se": "소액주주",
+      "shrholdr_co": "53,870",
+      "shrholdr_tot_co": "53,879",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "10,940,670",
+      "stock_tot_co": "22,628,813",
+      "hold_stock_rate": "48.35%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

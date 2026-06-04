@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "se": "소액주주",
+      "shrholdr_co": "33,833",
+      "shrholdr_tot_co": "33,852",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "15,797,905",
+      "stock_tot_co": "27,931,470",
+      "hold_stock_rate": "56.56%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

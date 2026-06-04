@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000564",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제71기(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 물환경보전법 위반에 따른 행정소송 \n2. 오염토지 정화명령",
+      "core_adt_matter": "유형자산손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000564",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제70기(전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 물환경보전법 위반에 따른 행정소송 \n2. 오염토지 정화명령\n3. COVID-19(코로나) 바이러스",
+      "core_adt_matter": "토양정화충당부채",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000564",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제69기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "자산손상",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

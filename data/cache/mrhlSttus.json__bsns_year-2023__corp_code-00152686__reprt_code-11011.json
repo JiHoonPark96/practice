@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000596",
+      "corp_cls": "Y",
+      "corp_code": "00152686",
+      "corp_name": "코리아써키트",
+      "se": "소액주주",
+      "shrholdr_co": "39,048",
+      "shrholdr_tot_co": "39,920",
+      "shrholdr_rate": "97.82%",
+      "hold_stock_co": "12,176,476",
+      "stock_tot_co": "27,369,140",
+      "hold_stock_rate": "44.49%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

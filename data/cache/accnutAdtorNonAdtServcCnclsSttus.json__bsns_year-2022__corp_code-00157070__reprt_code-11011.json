@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000756",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "bsns_year": "제50기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323000756",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "bsns_year": "제49기(전기)",
+      "cntrct_cncls_de": "2021.06\n2021.12",
+      "servc_cn": "세무자문업무",
+      "servc_exc_pd": "2021.06~2021.10\n2021.12~2022.06",
+      "servc_mendng": "160 \n경정청구금액의 15%",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323000756",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "bsns_year": "제48기(전전기)",
+      "cntrct_cncls_de": "2020.10",
+      "servc_cn": "이전가격 BEPS 보고서",
+      "servc_exc_pd": "2020.10~2020.12\n2021.09~2021.12\n2022.09~2022.12",
+      "servc_mendng": "110 ",
+      "rm": "3년계약",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

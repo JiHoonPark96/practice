@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000800",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "se": "소액주주",
+      "shrholdr_co": "29,955",
+      "shrholdr_tot_co": "29,970",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "11,535,055",
+      "stock_tot_co": "23,898,571",
+      "hold_stock_rate": "48.27%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

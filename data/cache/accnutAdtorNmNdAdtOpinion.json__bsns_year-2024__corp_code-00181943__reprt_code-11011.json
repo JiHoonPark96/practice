@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001596",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자의 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001596",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001596",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자의 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001596",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001596",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자의 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001596",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

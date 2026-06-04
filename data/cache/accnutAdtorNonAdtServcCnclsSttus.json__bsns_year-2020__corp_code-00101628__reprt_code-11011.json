@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000402",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제136기(당기)",
+      "cntrct_cncls_de": "2020년3월",
+      "servc_cn": "세무조정 등",
+      "servc_exc_pd": "2020.04.01~2021.03.31",
+      "servc_mendng": "6,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000402",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제135기(당기)",
+      "cntrct_cncls_de": "2019년3월",
+      "servc_cn": "세무조정 등",
+      "servc_exc_pd": "2019.04.01~2020.03.31",
+      "servc_mendng": "6,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000402",
+      "corp_cls": "Y",
+      "corp_code": "00101628",
+      "corp_name": "경방",
+      "bsns_year": "제134기(전기)",
+      "cntrct_cncls_de": "2018년3월",
+      "servc_cn": "세무조정 등",
+      "servc_exc_pd": "2018.04.01~2019.03.31",
+      "servc_mendng": "6,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

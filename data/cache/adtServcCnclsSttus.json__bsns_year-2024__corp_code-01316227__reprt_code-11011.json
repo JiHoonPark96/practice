@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000116",
+      "corp_cls": "Y",
+      "corp_code": "01316227",
+      "corp_name": "효성티앤씨",
+      "bsns_year": "제7기(당기)\n(2024년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 검토 13일\n2분기 검토 13일\n3분기 검토 15일\n기말감사    13일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "630",
+      "adt_cntrct_dtls_time": "6,000",
+      "real_exc_dtls_mendng": "630",
+      "real_exc_dtls_time": "5,589",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000116",
+      "corp_cls": "Y",
+      "corp_code": "01316227",
+      "corp_name": "효성티앤씨",
+      "bsns_year": "제6기(전기)\n(2023년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 검토 13일\n2분기 검토 13일\n3분기 검토 17일\n 기말감사   13일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "600",
+      "adt_cntrct_dtls_time": "6,000",
+      "real_exc_dtls_mendng": "600",
+      "real_exc_dtls_time": "5,529",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000116",
+      "corp_cls": "Y",
+      "corp_code": "01316227",
+      "corp_name": "효성티앤씨",
+      "bsns_year": "제5기(전전기)\n(2022년 1~12월)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기 검토 11일\n 2분기 검토 13일\n 3분기 검토 11일\n 기말감사   15일",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "600",
+      "adt_cntrct_dtls_time": "6,000",
+      "real_exc_dtls_mendng": "600",
+      "real_exc_dtls_time": "5,525",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

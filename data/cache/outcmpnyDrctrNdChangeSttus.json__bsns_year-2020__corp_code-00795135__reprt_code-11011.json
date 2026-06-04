@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000459",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

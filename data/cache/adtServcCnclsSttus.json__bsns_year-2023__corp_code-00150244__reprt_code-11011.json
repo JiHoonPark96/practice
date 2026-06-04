@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000553",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기,중간,기말,연결, 감사 및 검토,\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "950,000",
+      "adt_cntrct_dtls_time": "8,000 시간",
+      "real_exc_dtls_mendng": "950,000",
+      "real_exc_dtls_time": "7,780 시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000553",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "bsns_year": "제71기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,중간,기말,연결, 감사 및 검토,\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "755,000",
+      "adt_cntrct_dtls_time": "7,350 시간",
+      "real_exc_dtls_mendng": "755,000",
+      "real_exc_dtls_time": "6,919 시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000553",
+      "corp_cls": "Y",
+      "corp_code": "00150244",
+      "corp_name": "하이트진로",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,중간,기말,연결, 감사 및 검토,\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "730,000",
+      "adt_cntrct_dtls_time": "7,000 시간",
+      "real_exc_dtls_mendng": "730,000",
+      "real_exc_dtls_time": "7,092 시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

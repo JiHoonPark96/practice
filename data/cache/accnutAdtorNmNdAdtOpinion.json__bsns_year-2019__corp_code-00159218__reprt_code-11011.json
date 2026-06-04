@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200406002229",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제36기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": " 해당사항 없음",
+      "core_adt_matter": "- 변동공사의 총예정원가 추정이 잘못되어 수익이 과대 인식될 위험\n- 계약금액 변경이 적시 반영되지 않아 수익이 과대 인식될 위험\n- 비관계사 채권 및 미청구공사의 회수 가능성 평가가 잘못될 위험",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200406002229",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제35기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업 핵심감사사항\n(감사보고서 기재)",
+      "core_adt_matter": " 해당사항 없음(한전KPS 2019년부터 KAM 적용)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200406002229",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제34기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업 핵심감사사항\n(감사보고서 기재)",
+      "core_adt_matter": " 해당사항 없음(한전KPS 2019년부터 KAM 적용)",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000527",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "se": "소액주주",
+      "shrholdr_co": "42,863",
+      "shrholdr_tot_co": "42,872",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "44,203,690",
+      "stock_tot_co": "89,791,232",
+      "hold_stock_rate": "49.23%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814001365",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "se": "소액주주",
+      "shrholdr_co": "11,556",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "14,540,139",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "51.35%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

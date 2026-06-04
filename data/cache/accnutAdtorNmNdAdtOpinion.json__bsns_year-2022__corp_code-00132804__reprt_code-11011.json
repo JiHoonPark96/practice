@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001035",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제57기(당기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실 및 유형자산 손상 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001035",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제56기(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실 및 유형자산 손상 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001035",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결재무제표에\n 대한 주석3",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

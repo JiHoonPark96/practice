@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311001196",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "광고제작매출 수익인식의 발생사실,\n사업결합 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001196",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "광고제작매출 수익인식의 발생사실,\n사업결합 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001196",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "광고제작매출 수익인식의 기간귀속, \n동일지배하의 사업결합 회계처리",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001196",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "광고제작매출 수익인식의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001196",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자주식의 손상평가가 \n적정하게 이루어지지 않을 위험",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311001196",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "광고제작매출의 수익인식 기간귀속이 \n적정하게 이루어지지 않을 위험",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

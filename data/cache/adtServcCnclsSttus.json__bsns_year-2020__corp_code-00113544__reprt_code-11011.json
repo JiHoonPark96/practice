@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001220",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제58기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 재무제표감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280",
+      "adt_cntrct_dtls_time": "2,700",
+      "real_exc_dtls_mendng": "280",
+      "real_exc_dtls_time": "3,139",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001220",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제57기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 재무제표감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,959",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001220",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제56기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토, 별도 재무제표감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120",
+      "adt_cntrct_dtls_time": "2,260",
+      "real_exc_dtls_mendng": "120",
+      "real_exc_dtls_time": "2,260",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

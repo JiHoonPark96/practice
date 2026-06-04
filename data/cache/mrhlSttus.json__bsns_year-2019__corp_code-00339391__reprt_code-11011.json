@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327002114",
+      "corp_cls": "Y",
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "se": "소액주주",
+      "shrholdr_co": "16,984",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "22.86%",
+      "hold_stock_co": "25,205,082",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "22.86%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

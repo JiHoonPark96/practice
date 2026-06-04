@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002938",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_knd": "보통주",
+      "nm": "(주)한솔케미칼",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "2,141,300",
+      "bsis_posesn_stock_qota_rt": "45.40",
+      "trmend_posesn_stock_co": "2,141,300",
+      "trmend_posesn_stock_qota_rt": "45.40",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002938",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_knd": "보통주",
+      "nm": "조연주",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "10,000",
+      "bsis_posesn_stock_qota_rt": "0.20",
+      "trmend_posesn_stock_co": "10,000",
+      "trmend_posesn_stock_qota_rt": "0.20",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002938",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,151,300",
+      "bsis_posesn_stock_qota_rt": "45.60",
+      "trmend_posesn_stock_co": "2,151,300",
+      "trmend_posesn_stock_qota_rt": "45.60",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002938",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

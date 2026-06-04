@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004005",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "se": "소액주주",
+      "shrholdr_co": "185,401",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "170,515,847",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "47.65%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

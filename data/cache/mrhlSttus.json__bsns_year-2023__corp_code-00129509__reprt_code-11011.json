@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240416000412",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "se": "소액주주",
+      "shrholdr_co": "10,102",
+      "shrholdr_tot_co": "10,114",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "5,461,516",
+      "stock_tot_co": "12,000,000",
+      "hold_stock_rate": "45.51%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

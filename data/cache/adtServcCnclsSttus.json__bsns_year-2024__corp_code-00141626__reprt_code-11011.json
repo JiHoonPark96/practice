@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240620000211",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제67기(당기)",
+      "adtor": "성현회계법인",
+      "cn": "- 반기재무제표(개별) 검토\n- 연차재무제표(개별) 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130,000천원",
+      "adt_cntrct_dtls_time": "1,361",
+      "real_exc_dtls_mendng": "130,000천원",
+      "real_exc_dtls_time": "1,508",
+      "stlm_dt": "2024-03-31"
+    },
+    {
+      "rcept_no": "20240620000211",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제66기(전기)",
+      "adtor": "회계법인리안",
+      "cn": "- 분반기 재무제표 검토\n- 개별재무제표 및 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "205,000천원",
+      "adt_cntrct_dtls_time": "1,792",
+      "real_exc_dtls_mendng": "245,000천원",
+      "real_exc_dtls_time": "2,218",
+      "stlm_dt": "2024-03-31"
+    },
+    {
+      "rcept_no": "20240620000211",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "회계법인리안",
+      "cn": "- 분반기 재무제표 검토\n- 개별 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000천원",
+      "adt_cntrct_dtls_time": "856",
+      "real_exc_dtls_mendng": "180,000천원",
+      "real_exc_dtls_time": "1,771",
+      "stlm_dt": "2024-03-31"
+    }
+  ]
+}

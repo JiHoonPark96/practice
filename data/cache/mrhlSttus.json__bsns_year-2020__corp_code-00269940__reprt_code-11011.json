@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210329000797",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "se": "소액주주",
+      "shrholdr_co": "59,843",
+      "shrholdr_tot_co": "59,860",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "8,460,267",
+      "stock_tot_co": "13,939,185",
+      "hold_stock_rate": "60.71%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

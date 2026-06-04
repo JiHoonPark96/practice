@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제14기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제14기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제13기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제13기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제12기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제12기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

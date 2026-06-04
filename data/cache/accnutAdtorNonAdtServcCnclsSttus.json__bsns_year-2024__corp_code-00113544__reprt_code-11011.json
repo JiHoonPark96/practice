@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002004",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제62기(당기)",
+      "cntrct_cncls_de": "2024.10.21",
+      "servc_cn": "부동산 보유세 기납부 내역 검토 / 환급 가능성 진단\n경정청구ㆍ이의신청 및 그 후속절차(조세심판 등)에 의한 환급 용역",
+      "servc_exc_pd": "계약일(2024.10.21) ~\n경정청구 또는 조세불복 승소에 따른 경정청구 또는 조세불복 결정일",
+      "servc_mendng": "성공보수\n(환급세액의 25%)",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002004",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제61기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002004",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제60기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

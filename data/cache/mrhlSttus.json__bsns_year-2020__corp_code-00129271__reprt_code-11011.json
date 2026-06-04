@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000581",
+      "corp_cls": "Y",
+      "corp_code": "00129271",
+      "corp_name": "삼화전기",
+      "se": "소액주주",
+      "shrholdr_co": "11,718",
+      "shrholdr_tot_co": "11,723",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "3,354,951",
+      "stock_tot_co": "6,613,820",
+      "hold_stock_rate": "50.73%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

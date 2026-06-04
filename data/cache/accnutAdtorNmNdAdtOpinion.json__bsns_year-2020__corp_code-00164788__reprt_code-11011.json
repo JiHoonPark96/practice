@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326001090",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "MCQ 및 MBR 종속기업 현금창출단위 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001090",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 현금창출단위 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210326001090",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성, 재고자산의 실재성 및 평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003480",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제12기(당기)",
+      "cntrct_cncls_de": "2019.08.29",
+      "servc_cn": "세무조정 계약",
+      "servc_exc_pd": "2019.08.29 ~ 2020.03.31",
+      "servc_mendng": "15",
+      "rm": "2019년 사업연도에 대한 세무조정",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003480",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제11기(전기)",
+      "cntrct_cncls_de": "2018.06.21",
+      "servc_cn": "세무조정 계약",
+      "servc_exc_pd": "2018.06.21 ~ 2019.03.31",
+      "servc_mendng": "14",
+      "rm": "2018년 사업연도에 대한 세무조정",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003480",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제10기(전전기)",
+      "cntrct_cncls_de": "2017.05.12",
+      "servc_cn": "세무조정 계약",
+      "servc_exc_pd": "2017.05.12 ~ 2018.03.31",
+      "servc_mendng": "14",
+      "rm": "2017년 사업연도에 대한 세무조정",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

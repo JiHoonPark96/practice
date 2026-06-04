@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000448",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제15기 (당기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "79",
+      "adt_cntrct_dtls_time": "1163",
+      "real_exc_dtls_mendng": "63",
+      "real_exc_dtls_time": "1198",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000448",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제14기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75",
+      "adt_cntrct_dtls_time": "1187",
+      "real_exc_dtls_mendng": "75",
+      "real_exc_dtls_time": "1149",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000448",
+      "corp_cls": "Y",
+      "corp_code": "00816544",
+      "corp_name": "토니모리",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "67",
+      "adt_cntrct_dtls_time": "883",
+      "real_exc_dtls_mendng": "67",
+      "real_exc_dtls_time": "883",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

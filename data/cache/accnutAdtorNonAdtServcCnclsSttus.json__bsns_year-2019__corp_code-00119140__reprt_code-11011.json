@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제48기",
+      "cntrct_cncls_de": "2019.07.01",
+      "servc_cn": "해외관계회사간 거래 관련 세무자문용역",
+      "servc_exc_pd": "2019.07.01 ~ 종료일",
+      "servc_mendng": "25,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제48기",
+      "cntrct_cncls_de": "2019.08.01",
+      "servc_cn": "경정청구 및 조세불복에 대한 업무 지원",
+      "servc_exc_pd": "2019.08.01 - 환급결정서 수령일",
+      "servc_mendng": " 환급세액의 15%",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "2018.04.27",
+      "servc_cn": "국내외 특수관계 거래에 대한 이전가격 정책수립지원",
+      "servc_exc_pd": "2018.04.27 ~ 2019.02.28",
+      "servc_mendng": "88,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "2018.08.22",
+      "servc_cn": "통상임금 정산소득에 대한 수정신고 지원",
+      "servc_exc_pd": "2018.08.22 ~ 2018.09.30",
+      "servc_mendng": "1,350",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "2017.04.10",
+      "servc_cn": "통상임금 정산소득에 대한 수정신고 지원",
+      "servc_exc_pd": "2017.04.11 ~ 2017.05.15",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "2017.05.31",
+      "servc_cn": "세무조사지원",
+      "servc_exc_pd": "2017.05.31 ~ 2017.07.26",
+      "servc_mendng": "135,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "2017.09.01",
+      "servc_cn": "조세불복용역계약",
+      "servc_exc_pd": "2017.09.01 ~ 2018.01.11",
+      "servc_mendng": "120,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003945",
+      "corp_cls": "Y",
+      "corp_code": "00119140",
+      "corp_name": "핸즈코퍼레이션",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "2017.10.31",
+      "servc_cn": "해외 공장 신축 사업타당성 검토 용역",
+      "servc_exc_pd": "2017.10.31 ~ 2017.11.30",
+      "servc_mendng": "80,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

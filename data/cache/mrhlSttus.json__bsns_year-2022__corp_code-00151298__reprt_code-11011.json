@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000604",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "se": "소액주주",
+      "shrholdr_co": "12,202",
+      "shrholdr_tot_co": "12,213",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "5,777,043",
+      "stock_tot_co": "13,939,000",
+      "hold_stock_rate": "41.45%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

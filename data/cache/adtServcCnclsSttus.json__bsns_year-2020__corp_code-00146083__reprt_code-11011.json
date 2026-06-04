@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000013",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "bsns_year": "제78기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표검토(반기,연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "182.0",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "182.0",
+      "real_exc_dtls_time": "1,835",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000013",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "bsns_year": "제77기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표검토(반기,연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165.0",
+      "adt_cntrct_dtls_time": "1,044",
+      "real_exc_dtls_mendng": "165.0",
+      "real_exc_dtls_time": "1,044",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000013",
+      "corp_cls": "Y",
+      "corp_code": "00146083",
+      "corp_name": "일동홀딩스",
+      "bsns_year": "제76기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표검토(반기,연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80.0",
+      "adt_cntrct_dtls_time": "837",
+      "real_exc_dtls_mendng": "80.0",
+      "real_exc_dtls_time": "837",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

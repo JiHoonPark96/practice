@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002767",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제6기(당기)",
+      "cntrct_cncls_de": "2019.06.12",
+      "servc_cn": "경정청구용역",
+      "servc_exc_pd": "2019.06.12~\n환급결정서수령일",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002767",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제6기(당기)",
+      "cntrct_cncls_de": "2019.09.10",
+      "servc_cn": "내부회계검토용역",
+      "servc_exc_pd": "2019.09.10~\n2020.03.31",
+      "servc_mendng": "190,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002767",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제5기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002767",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제5기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002767",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제4기(전전기)",
+      "cntrct_cncls_de": "2017.07.27",
+      "servc_cn": "주식회사 삼양사 용기사업부문\nCarved Out 재무제표 검토용역",
+      "servc_exc_pd": "2017.07.27~\n2017.08.09",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002767",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "bsns_year": "제4기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

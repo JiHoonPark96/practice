@@ -1,0 +1,131 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 11,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001846",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2017.09)",
+      "rcept_no": "20190920000360",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190920",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2017.06)",
+      "rcept_no": "20190920000354",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190920",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2017.03)",
+      "rcept_no": "20190920000346",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190920",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001939",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002033",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190401005090",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190401",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004022",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.09)",
+      "rcept_no": "20190314001170",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190314",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2018.06)",
+      "rcept_no": "20190314001151",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190314",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2018.03)",
+      "rcept_no": "20190314001137",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "20190314",
+      "rm": ""
+    }
+  ]
+}

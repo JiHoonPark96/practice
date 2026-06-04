@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001197",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제14기(당기)",
+      "cntrct_cncls_de": "2021.05.13\n2021.07.22",
+      "servc_cn": "세무조정 계약\n절세자문 계약",
+      "servc_exc_pd": "2021.05.13 ~ 2022.03.31\n2021.07.22 ~ 2021.12.28",
+      "servc_mendng": "18\n32",
+      "rm": "2021년 사업연도에 대한 세무조정\n보유세 등에 대한 환급",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001197",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제13기(전기)",
+      "cntrct_cncls_de": "2020.03.05",
+      "servc_cn": "세무조정 계약",
+      "servc_exc_pd": "2020.03.05 ~ 2021.03.31",
+      "servc_mendng": "18",
+      "rm": "2020년 사업연도에 대한 세무조정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001197",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제12기(전전기)",
+      "cntrct_cncls_de": "2019.08.29",
+      "servc_cn": "세무조정 계약",
+      "servc_exc_pd": "2019.08.29 ~ 2020.03.31",
+      "servc_mendng": "15",
+      "rm": "2019년 사업연도에 대한 세무조정",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

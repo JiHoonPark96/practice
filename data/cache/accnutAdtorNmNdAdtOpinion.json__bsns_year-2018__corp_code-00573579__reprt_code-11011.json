@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004195",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "bsns_year": "제13기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004195",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "bsns_year": "제 12 기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004195",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "bsns_year": "제 11 기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004118",
+      "corp_cls": "Y",
+      "corp_code": "00145437",
+      "corp_name": "아센디오",
+      "se": "소액주주",
+      "shrholdr_co": "17,677",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "164,376,332",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "83.32%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

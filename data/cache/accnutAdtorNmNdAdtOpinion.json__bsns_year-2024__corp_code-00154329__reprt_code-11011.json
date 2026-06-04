@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제53기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "의류사업부문 및 우모사업부문 매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제53기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "의류사업부문 및 우모사업부문 매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제52기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "의류사업부문 및 우모사업부문 매출의 기간귀속\n\n종속기업투자에 대한 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제52기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "의류사업부문 및 우모사업부문 매출의 기간귀속\n\n종속기업투자에 대한 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제51기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "우모재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000833",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "bsns_year": "제51기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "우모재고자산 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

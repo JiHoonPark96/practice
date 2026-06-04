@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004026",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제70기",
+      "cntrct_cncls_de": "2019.03.01 등",
+      "servc_cn": "세무자문 등",
+      "servc_exc_pd": "2019.01.01~2019.12.31",
+      "servc_mendng": "304",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004026",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제69기",
+      "cntrct_cncls_de": "2018.02.28 등",
+      "servc_cn": "재무자문, 세무자문",
+      "servc_exc_pd": "2018.02.28~2018.12.31",
+      "servc_mendng": "301",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004026",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제68기",
+      "cntrct_cncls_de": "2017.06.01 등",
+      "servc_cn": "컨설팅용역, 세무자문",
+      "servc_exc_pd": "2017.06.01~2017.12.31",
+      "servc_mendng": "190",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

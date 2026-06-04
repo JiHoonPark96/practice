@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001771",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제68기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n표본점검(문서검증, 재계산 등)\n\n연결재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n표본점검(문서검증, 재계산 등)\n\n내부회계관리제도감사\n(내부통제 이해 및 평가)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "655",
+      "adt_cntrct_dtls_time": "6,550",
+      "real_exc_dtls_mendng": "655",
+      "real_exc_dtls_time": "6,029",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001771",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제67기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도재무제표 감사, 중요 계정잔액 및\n공시내용에 대해 질문, 분석적절차,\n표본점검(문서검증, 재계산 등)\n\n연결재무제표 감사, 중요 계정잔액 및\n공시내용에 대해 질문, 분석적절차,\n표본점검(문서검증, 재계산 등)\n\n내부회계관리제도감사\n(내부통제 이해 및 평가)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "920 ",
+      "adt_cntrct_dtls_time": "7,935",
+      "real_exc_dtls_mendng": " 920 ",
+      "real_exc_dtls_time": "8,287",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001771",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제66기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도재무제표 감사, 중요 계정잔액 및\n공시내용에 대해 질문, 분석적절차,\n표본점검(문서검증, 재계산 등)\n\n연결재무제표 감사, 중요 계정잔액 및\n공시내용에 대해 질문, 분석적절차,\n표본점검(문서검증, 재계산 등)\n\n내부회계관리제도감사\n(내부통제 이해 및 평가)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "920 ",
+      "adt_cntrct_dtls_time": "7,935 ",
+      "real_exc_dtls_mendng": "920",
+      "real_exc_dtls_time": "8,842",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

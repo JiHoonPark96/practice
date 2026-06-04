@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "보통주",
+      "nm": "에이치디한국조선해양㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "11,888,844",
+      "trmend_posesn_stock_qota_rt": "35.05",
+      "rm": "주식양수도 및 신주인수",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "보통주",
+      "nm": "강영",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "6,530",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "장내매수",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "보통주",
+      "nm": "여인표",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "2,075",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "장내매수",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "13,563,000",
+      "bsis_posesn_stock_qota_rt": "47.50",
+      "trmend_posesn_stock_co": "11,897,724",
+      "trmend_posesn_stock_qota_rt": "35.08",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000801",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

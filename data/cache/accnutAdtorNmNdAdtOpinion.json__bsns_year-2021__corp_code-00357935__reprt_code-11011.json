@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001149",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "HEP GUANGDONG, HEP YANCHENG 및 건자재사업부 현금창출단위의 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001149",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위의 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001149",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위의 손상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

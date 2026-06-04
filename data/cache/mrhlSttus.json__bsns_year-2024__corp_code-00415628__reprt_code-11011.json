@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000960",
+      "corp_cls": "Y",
+      "corp_code": "00415628",
+      "corp_name": "세진중공업",
+      "se": "소액주주",
+      "shrholdr_co": "18,150",
+      "shrholdr_tot_co": "18,154",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "25,021,329",
+      "stock_tot_co": "56,849,456",
+      "hold_stock_rate": "44.01%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

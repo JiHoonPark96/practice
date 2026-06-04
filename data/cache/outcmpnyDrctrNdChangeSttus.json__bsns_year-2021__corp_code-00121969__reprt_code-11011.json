@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220726000333",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "4",
+      "rlsofc": "-",
+      "mdstrm_resig": "3",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

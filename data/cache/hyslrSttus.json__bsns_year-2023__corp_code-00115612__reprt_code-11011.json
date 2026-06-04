@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000506",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_knd": "보통주",
+      "nm": "키스톤에코프라임㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "12,917,647",
+      "bsis_posesn_stock_qota_rt": "56.39",
+      "trmend_posesn_stock_co": "12,917,647",
+      "trmend_posesn_stock_qota_rt": "56.39",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000506",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "12,917,647",
+      "bsis_posesn_stock_qota_rt": "56.39",
+      "trmend_posesn_stock_co": "12,917,647",
+      "trmend_posesn_stock_qota_rt": "56.39",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000506",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

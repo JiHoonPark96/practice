@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000464",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_knd": "보통주",
+      "nm": "(주)SG고려",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "96,443,410",
+      "bsis_posesn_stock_qota_rt": "47.64",
+      "trmend_posesn_stock_co": "96,443,410",
+      "trmend_posesn_stock_qota_rt": "47.64",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000464",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_knd": "보통주",
+      "nm": "(주)케이엠엔아이",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "6,007,710",
+      "bsis_posesn_stock_qota_rt": "2.97",
+      "trmend_posesn_stock_co": "6,007,710",
+      "trmend_posesn_stock_qota_rt": "2.97",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000464",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "102,451,120",
+      "bsis_posesn_stock_qota_rt": "50.61",
+      "trmend_posesn_stock_co": "102,451,120",
+      "trmend_posesn_stock_qota_rt": "50.61",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000464",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211006000667",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제20기(당기)",
+      "adtor": "한길회계법인",
+      "cn": "재무제표감사/\n연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "194,000",
+      "adt_cntrct_dtls_time": "1,700",
+      "real_exc_dtls_mendng": "194,000",
+      "real_exc_dtls_time": "1,769",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20211006000667",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제19기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표감사/\n연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "146,700",
+      "adt_cntrct_dtls_time": "1,630",
+      "real_exc_dtls_mendng": "146,700",
+      "real_exc_dtls_time": "1,842",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20211006000667",
+      "corp_cls": "Y",
+      "corp_code": "00441243",
+      "corp_name": "형지엘리트",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표감사/\n연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "119,100",
+      "adt_cntrct_dtls_time": "1,435",
+      "real_exc_dtls_mendng": "114,000",
+      "real_exc_dtls_time": "1,480",
+      "stlm_dt": "2021-06-30"
+    }
+  ]
+}

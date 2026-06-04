@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003955",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제10기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 별도 및 연결 재무제표 검토\n - 별도 및 연결 재무제표 감사",
+      "mendng": "750,000천원",
+      "tot_reqre_time": "11,008",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003955",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제9기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 별도 및 연결 재무제표 검토\n - 별도 및 연결 재무제표 감사",
+      "mendng": "440,000천원",
+      "tot_reqre_time": "5,644 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003955",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제8기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 분반기 별도 및 연결 재무제표 검토\n - 별도 및 연결 재무제표 감사",
+      "mendng": "400,000천원",
+      "tot_reqre_time": "5,225 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

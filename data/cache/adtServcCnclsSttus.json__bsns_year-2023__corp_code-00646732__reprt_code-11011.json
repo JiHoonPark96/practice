@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240307000537",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제16기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토,중간감사\n,기말감사,연결기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "147,000,000원",
+      "adt_cntrct_dtls_time": "1,642시간",
+      "real_exc_dtls_mendng": "147,000,000원",
+      "real_exc_dtls_time": "1,322시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000537",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제15기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토,중간감사\n,기말감사,연결기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "147,000,000원",
+      "adt_cntrct_dtls_time": "1,642시간",
+      "real_exc_dtls_mendng": "147,000,000원",
+      "real_exc_dtls_time": "1,322시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000537",
+      "corp_cls": "Y",
+      "corp_code": "00646732",
+      "corp_name": "진양홀딩스",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기검토,중간감사\n,기말감사,연결기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95,000,000원",
+      "adt_cntrct_dtls_time": "1,050시간",
+      "real_exc_dtls_mendng": "95,000,000원",
+      "real_exc_dtls_time": "1,076시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

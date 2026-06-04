@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제20기 \n(당기)",
+      "cntrct_cncls_de": "2019년 4월",
+      "servc_cn": "1) 2018년 귀속 해외주재원 급여 세무조정 용역업무 수행",
+      "servc_exc_pd": "2019년 4월 ~\n2019년 12월",
+      "servc_mendng": "41백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제20기 \n(당기)",
+      "cntrct_cncls_de": "2019년 5월",
+      "servc_cn": "1) 법인세 세무조정 용역업무 수행",
+      "servc_exc_pd": "2019년 5월 ~\n2020년 4월",
+      "servc_mendng": "75 백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제20기 \n(당기)",
+      "cntrct_cncls_de": "2019년 5월",
+      "servc_cn": "1) 가스판매 및 운송 수익에 대한 연간 정산서 검증",
+      "servc_exc_pd": "2019년 5월 ~\n2019년 6월",
+      "servc_mendng": "USD 3,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제19기\n(전기)",
+      "cntrct_cncls_de": "2018년 8월",
+      "servc_cn": "1) 법인세 세무조정 용역업무 수행",
+      "servc_exc_pd": "2018년 8월 ~\n2019년 3월",
+      "servc_mendng": "65 백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제19기\n(전기)",
+      "cntrct_cncls_de": "2018년 5월",
+      "servc_cn": "1) 가스판매 및 운송 수익에 대한 연간 정산서 검증\n2) 미얀마내 법인세 신고를 위한 본사 발생비용 손금산입에 대한 검증",
+      "servc_exc_pd": "2018년 5월 ~\n2018년 6월",
+      "servc_mendng": "USD 6,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제18기\n(전전기)",
+      "cntrct_cncls_de": "2017년 4월",
+      "servc_cn": "1) 법인세 세무조정 용역업무 수행",
+      "servc_exc_pd": "2017년 4월 ~\n2018년 4월",
+      "servc_mendng": "65 백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002757",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "bsns_year": "제18기\n(전전기)",
+      "cntrct_cncls_de": "2017년 5월",
+      "servc_cn": "1) 가스판매 및 운송 수익에 대한 연간 정산서 검증\n2) 미얀마내 법인세 신고를 위한 본사 발생비용 손금산입에 대한 검증",
+      "servc_exc_pd": "2017년 5월 ~\n2017년 6월",
+      "servc_mendng": "USD 6,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

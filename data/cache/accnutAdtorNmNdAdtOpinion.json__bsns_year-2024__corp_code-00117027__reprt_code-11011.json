@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000832",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식의 발생사실 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000832",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식의 발생사실 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000832",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식의 발생사실 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000832",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식의 발생사실 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000832",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식의 발생사실 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000832",
+      "corp_cls": "Y",
+      "corp_code": "00117027",
+      "corp_name": "알루코",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 수익인식의 발생사실 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "2024.04",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2024.04",
+      "servc_mendng": "7백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "2024.08",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.08~2025.04",
+      "servc_mendng": "20백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "2023.01",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2023.01~",
+      "servc_mendng": "성공보수",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "2023.08",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.08~2024.04",
+      "servc_mendng": "20백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "2023.09",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2023.10~",
+      "servc_mendng": "성공보수",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제70기 (전전기)",
+      "cntrct_cncls_de": "2022.07",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2022.07~",
+      "servc_mendng": "100백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001130",
+      "corp_cls": "Y",
+      "corp_code": "00160843",
+      "corp_name": "DB하이텍",
+      "bsns_year": "제70기 (전전기)",
+      "cntrct_cncls_de": "2022.11",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.11~2023.04",
+      "servc_mendng": "15백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

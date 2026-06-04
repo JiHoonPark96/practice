@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003336",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "se": "소액주주",
+      "shrholdr_co": "8,765",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "1,611,167",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "18.67%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

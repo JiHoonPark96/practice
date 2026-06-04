@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000095",
+      "corp_cls": "Y",
+      "corp_code": "01128613",
+      "corp_name": "화승엔터프라이즈",
+      "bsns_year": "제9기 (당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 등과의 거래 및 잔액 공시의 적정성, 연결회사간 내부거래, 채권채무의 집계 및 상계의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000095",
+      "corp_cls": "Y",
+      "corp_code": "01128613",
+      "corp_name": "화승엔터프라이즈",
+      "bsns_year": "제8기 (전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 등과의 거래 및 잔액 공시의 적정성, 연결회사간 내부거래, 채권채무의 집계 및 상계의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000095",
+      "corp_cls": "Y",
+      "corp_code": "01128613",
+      "corp_name": "화승엔터프라이즈",
+      "bsns_year": "제7기 (전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 등과의 거래 및 잔액 공시의 적정성, 연결회사간 내부거래, 채권채무의 집계 및 상계의 적정성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

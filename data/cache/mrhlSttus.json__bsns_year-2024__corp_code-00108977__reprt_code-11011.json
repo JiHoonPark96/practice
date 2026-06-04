@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000349",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "se": "소액주주",
+      "shrholdr_co": "3,165",
+      "shrholdr_tot_co": "3,182",
+      "shrholdr_rate": "99.46%",
+      "hold_stock_co": "4,641,406",
+      "stock_tot_co": "10,821,611",
+      "hold_stock_rate": "42.89%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

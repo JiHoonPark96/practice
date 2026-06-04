@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003433",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "se": "소액주주",
+      "shrholdr_co": "34,372",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "37,620,828",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "50.18%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

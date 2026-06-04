@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230313000894",
+      "corp_cls": "Y",
+      "corp_code": "00123143",
+      "corp_name": "보령",
+      "se": "소액주주",
+      "shrholdr_co": "35,185",
+      "shrholdr_tot_co": "35,212",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "24,563,265",
+      "stock_tot_co": "68,690,000",
+      "hold_stock_rate": "35.76%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

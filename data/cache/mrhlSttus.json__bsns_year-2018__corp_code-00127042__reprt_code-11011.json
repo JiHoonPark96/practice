@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002594",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "se": "소액주주",
+      "shrholdr_co": "3,678",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.73%",
+      "hold_stock_co": "1,189,019",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "39.63%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

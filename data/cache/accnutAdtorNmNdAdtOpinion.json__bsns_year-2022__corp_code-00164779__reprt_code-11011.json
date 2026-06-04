@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001209",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제75기 \n(당기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결재무제표) 연결회사는 전기 중 인텔 NAND사업 인수 관련 \n자산과 부채의 공정가치 평가를 완료할 수 없었으므로 평가액을 \n잠정치로 보고하였으며, 당기 중 재측정한 공정가치 결과를 \n반영하여 비교표시된 전기 연결재무제표를 재작성함",
+      "core_adt_matter": "가. (별도ㆍ연결재무제표) 장기투자자산에 포함된 KIOXIA \n     Holdings Corporation 투자관련 금융자산의 공정가치 평가\n 나. (별도ㆍ연결재무제표) 기계장치의 감가상각개시시점에 대한 \n     적정성 검토\n 다. (연결재무제표) 현금창출단위의 손상평가\n 라. (별도재무제표) 종속기업, 관계기업 및 공동기업투자에 포함된 \n     SK hynix NAND Product Solution Corp. 및 \n     SK hynix Semiconductor (Dalian) Co., Ltd. 주식 회수가능액 검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001209",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제74기\n(전기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(별도ㆍ연결재무제표)\n가. 장기투자자산에 포함된 KIOXIA Holdings Corporation  \n      투자관련 금융자산의 공정가치 평가나. 기계장치의 감가상각개시시점에 대한 적정성 검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001209",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제73기\n(전전기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(별도ㆍ연결재무제표)\nCOVID-19(코로나)바이러스가 시장의 수요와 \n회사의 생산능력 등을 포함한 회사의 영업활동에 미칠 수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "(별도ㆍ연결재무제표)\n가. 장기투자자산에 포함된 KIOXIA Holdings Corporation  \n      투자관련 금융자산의 공정가치 평가나. 기계장치의 감가상각개시시점에 대한 적정성 검토",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

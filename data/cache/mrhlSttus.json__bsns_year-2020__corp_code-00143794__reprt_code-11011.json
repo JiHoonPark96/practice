@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000654",
+      "corp_cls": "Y",
+      "corp_code": "00143794",
+      "corp_name": "원림",
+      "se": "소액주주",
+      "shrholdr_co": "1,841",
+      "shrholdr_tot_co": "1,853",
+      "shrholdr_rate": "99.35%",
+      "hold_stock_co": "540,704",
+      "stock_tot_co": "2,200,000",
+      "hold_stock_rate": "24.58%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

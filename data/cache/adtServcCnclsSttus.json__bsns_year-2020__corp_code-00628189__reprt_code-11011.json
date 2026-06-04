@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001301",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제14기말(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도/연결 재무제표 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330,000",
+      "adt_cntrct_dtls_time": "3,500시간\n(연결감사 포함)",
+      "real_exc_dtls_mendng": "330,000",
+      "real_exc_dtls_time": "4,086\n(연결 감사 포함)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001301",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제13기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도/연결 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000",
+      "adt_cntrct_dtls_time": "2,750시간\n(연결감사 포함)",
+      "real_exc_dtls_mendng": "240,000",
+      "real_exc_dtls_time": "2,750시간\n(연결감사 포함)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001301",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도/연결 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125,000",
+      "adt_cntrct_dtls_time": "2,388시간\n(연결감사 포함)",
+      "real_exc_dtls_mendng": "125,000",
+      "real_exc_dtls_time": "2,388시간\n(연결감사 포함)",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

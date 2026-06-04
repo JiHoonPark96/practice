@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002370",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "bsns_year": "제53기(당기)",
+      "cntrct_cncls_de": "2019.06",
+      "servc_cn": "취득세 환급용역",
+      "servc_exc_pd": "2019.06-환급일",
+      "servc_mendng": "-",
+      "rm": "성공보수 환급액의 20%",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002370",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "bsns_year": "제52기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002370",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "bsns_year": "제51기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

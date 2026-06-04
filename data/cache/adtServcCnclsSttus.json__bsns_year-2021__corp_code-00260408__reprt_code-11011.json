@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230228005108",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "bsns_year": "제23기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기,반기,중간,기말감사,내부회계",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410,000,000",
+      "adt_cntrct_dtls_time": "4,100",
+      "real_exc_dtls_mendng": "410,000,000",
+      "real_exc_dtls_time": "3,700",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20230228005108",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "bsns_year": "제22기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기,반기,중간,기말감사,내부회계",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "380,000,000",
+      "adt_cntrct_dtls_time": "3,800",
+      "real_exc_dtls_mendng": "380,000,000",
+      "real_exc_dtls_time": "3,454",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20230228005108",
+      "corp_cls": "Y",
+      "corp_code": "00260408",
+      "corp_name": "팜스코",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기,반기,중간,기말감사,내부회계",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290,000,000",
+      "adt_cntrct_dtls_time": "2,900",
+      "real_exc_dtls_mendng": "290,000,000",
+      "real_exc_dtls_time": "3,091",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

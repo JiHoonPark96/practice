@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000919",
+      "corp_cls": "Y",
+      "corp_code": "00157991",
+      "corp_name": "한국석유공업",
+      "se": "소액주주",
+      "shrholdr_co": "3,313",
+      "shrholdr_tot_co": "3,334",
+      "shrholdr_rate": "99.37%",
+      "hold_stock_co": "266,180",
+      "stock_tot_co": "614,212",
+      "hold_stock_rate": "43.34%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

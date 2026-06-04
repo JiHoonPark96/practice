@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001251",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제11기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "470,000",
+      "adt_cntrct_dtls_time": "4,505",
+      "real_exc_dtls_mendng": "470,000",
+      "real_exc_dtls_time": "3,961",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001251",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제10기(전기)",
+      "adtor": "서현회계법인",
+      "cn": "분반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330,000",
+      "adt_cntrct_dtls_time": "3,300",
+      "real_exc_dtls_mendng": "330,000",
+      "real_exc_dtls_time": "         3,291",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001251",
+      "corp_cls": "Y",
+      "corp_code": "00939331",
+      "corp_name": "한국콜마",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "서현회계법인",
+      "cn": "분반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310,000",
+      "adt_cntrct_dtls_time": "3,100",
+      "real_exc_dtls_mendng": "310,000",
+      "real_exc_dtls_time": "3,112",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

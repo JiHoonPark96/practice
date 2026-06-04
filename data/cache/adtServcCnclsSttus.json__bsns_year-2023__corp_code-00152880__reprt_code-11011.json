@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240326000552",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제64기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "ㅇ 분기별 재무제표 검토\nㅇ 중간감사\nㅇ 온기 검토\nㅇ 개별재무제표감사\nㅇ 내부회계관리제도감사\nㅇ 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "695",
+      "adt_cntrct_dtls_time": "6,950",
+      "real_exc_dtls_mendng": "695",
+      "real_exc_dtls_time": "6,651",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000552",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제63기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "ㅇ 분기별 재무제표 검토\nㅇ 중간감사\nㅇ 온기 검토\nㅇ 개별재무제표감사\nㅇ 내부회계관리제도감사\nㅇ 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "925",
+      "adt_cntrct_dtls_time": "9,440",
+      "real_exc_dtls_mendng": "　925",
+      "real_exc_dtls_time": "9.427",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000552",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "ㅇ 분기별 재무제표 검토\nㅇ 중간감사\nㅇ 온기 검토\nㅇ 개별재무제표감사\nㅇ 내부회계관리제도감사\nㅇ 연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "895",
+      "adt_cntrct_dtls_time": "9,400",
+      "real_exc_dtls_mendng": "895",
+      "real_exc_dtls_time": "9,458",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

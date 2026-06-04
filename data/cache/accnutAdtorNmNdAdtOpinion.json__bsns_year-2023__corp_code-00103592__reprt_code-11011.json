@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322001015",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제51기(당기)",
+      "adtor": "현대회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "금융상품의 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322001015",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제50기(전기)",
+      "adtor": "현대회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322001015",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "반환제품회수권과 환불부채 추정의 적정성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

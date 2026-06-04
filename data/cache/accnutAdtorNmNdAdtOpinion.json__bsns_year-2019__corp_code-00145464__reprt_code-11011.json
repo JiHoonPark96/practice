@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003616",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제49기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003616",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제48기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003616",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

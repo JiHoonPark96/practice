@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000755",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜LG",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "55,094,582",
+      "bsis_posesn_stock_qota_rt": "33.67",
+      "trmend_posesn_stock_co": "55,094,582",
+      "trmend_posesn_stock_qota_rt": "33.67",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000755",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "권봉석",
+      "relate": "계열회사 임원",
+      "bsis_posesn_stock_co": "9,876",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "9,876",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000755",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "조주완",
+      "relate": "계열회사 임원",
+      "bsis_posesn_stock_co": "2,373",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "5,373",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "장내매수",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000755",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "55,106,831",
+      "bsis_posesn_stock_qota_rt": "33.67",
+      "trmend_posesn_stock_co": "55,109,831",
+      "trmend_posesn_stock_qota_rt": "33.68",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000755",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

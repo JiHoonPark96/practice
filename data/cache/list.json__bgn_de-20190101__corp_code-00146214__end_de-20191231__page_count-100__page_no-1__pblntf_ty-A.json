@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "stock_code": "003120",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001407",
+      "flr_nm": "일성아이에스",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "stock_code": "003120",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001356",
+      "flr_nm": "일성아이에스",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "stock_code": "003120",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515000285",
+      "flr_nm": "일성아이에스",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "stock_code": "003120",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329003847",
+      "flr_nm": "일성아이에스",
+      "rcept_dt": "20190329",
+      "rm": ""
+    }
+  ]
+}

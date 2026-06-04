@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000820",
+      "corp_cls": "Y",
+      "corp_code": "00116301",
+      "corp_name": "NI스틸",
+      "bsns_year": "제53기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기재무제표 검토\n내부통제 이해 및 평가\n기말 입증절차 계획\n연간재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,548",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,548",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000820",
+      "corp_cls": "Y",
+      "corp_code": "00116301",
+      "corp_name": "NI스틸",
+      "bsns_year": "제52기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기재무제표 검토\n내부통제 이해 및 평가\n기말 입증절차 계획\n연간재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,571",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,571",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000820",
+      "corp_cls": "Y",
+      "corp_code": "00116301",
+      "corp_name": "NI스틸",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "서현회계법인",
+      "cn": "반기재무제표 검토\n내부통제 이해 및 평가\n기말 입증절차 계획\n연간재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190백만원",
+      "adt_cntrct_dtls_time": "1,583",
+      "real_exc_dtls_mendng": "190백만원",
+      "real_exc_dtls_time": "1,583",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

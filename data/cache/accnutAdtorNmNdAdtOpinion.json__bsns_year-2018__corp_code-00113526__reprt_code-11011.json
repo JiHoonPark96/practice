@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "연결 및 별도 재무제표 재작성에 대한 감사인의 강조사항",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "수주산업 핵심감사항목에 대한 감사인의 강조사항 ",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200409002561",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "(1) 수주산업 핵심감사항목에 대한 감사인 강조사항\n(2) 한진해운에 대한 출자지분 및 보유 채권 손실 처리 완료",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

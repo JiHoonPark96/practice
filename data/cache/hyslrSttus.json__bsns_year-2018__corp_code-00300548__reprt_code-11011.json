@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003206",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "stock_knd": "보통주",
+      "nm": "(주)현대그린푸드",
+      "relate": "본  인",
+      "bsis_posesn_stock_co": "8,192,182",
+      "bsis_posesn_stock_qota_rt": "39.90",
+      "trmend_posesn_stock_co": "8,192,182",
+      "trmend_posesn_stock_qota_rt": "39.90",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003206",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "stock_knd": "보통주",
+      "nm": "(주)현대홈쇼핑",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "260,620",
+      "bsis_posesn_stock_qota_rt": "1.30",
+      "trmend_posesn_stock_co": "260,620",
+      "trmend_posesn_stock_qota_rt": "1.30",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003206",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "8,452,802",
+      "bsis_posesn_stock_qota_rt": "41.20",
+      "trmend_posesn_stock_co": "8,452,802",
+      "trmend_posesn_stock_qota_rt": "41.20",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003206",
+      "corp_cls": "Y",
+      "corp_code": "00300548",
+      "corp_name": "현대리바트",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

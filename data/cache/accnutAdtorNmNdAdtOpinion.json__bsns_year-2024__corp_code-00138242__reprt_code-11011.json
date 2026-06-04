@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제63기\n(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "상장유지 결정 및 주권 매매거래정지 해제",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제63기\n(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "상장유지 결정 및 주권 매매거래정지 해제",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제62기\n(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 회생절차 종결\n(2) 상장유지 결정 및 주권 매매거래정지 해제",
+      "core_adt_matter": "해외 매출의 발생사실 및 기간\n귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제62기\n(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 회생절차 종결\n(2) 상장유지 결정 및 주권 매매거래정지 해제",
+      "core_adt_matter": "해외 매출의 발생사실 및 기간\n귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제61기\n(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 회생절차 종결(2) 상장폐지사유 발생 및 개선계획 이행여부 심의 요청에 따른 개선기간 재부여",
+      "core_adt_matter": "현금창출단위에 대한 손상\n가능성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000528",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "bsns_year": "제61기\n(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 회생절차 종결(2) 상장폐지사유 발생 및 개선계획 이행여부 심의 요청에 따른 개선기간 재부여",
+      "core_adt_matter": "현금창출단위에 대한 손상\n가능성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

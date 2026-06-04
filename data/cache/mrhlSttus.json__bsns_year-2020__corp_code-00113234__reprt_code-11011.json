@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000297",
+      "corp_cls": "Y",
+      "corp_code": "00113234",
+      "corp_name": "대한제당",
+      "se": "소액주주",
+      "shrholdr_co": "2,499",
+      "shrholdr_tot_co": "2,531",
+      "shrholdr_rate": "98.74%",
+      "hold_stock_co": "2,048,507",
+      "stock_tot_co": "8,969,658",
+      "hold_stock_rate": "22.84%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

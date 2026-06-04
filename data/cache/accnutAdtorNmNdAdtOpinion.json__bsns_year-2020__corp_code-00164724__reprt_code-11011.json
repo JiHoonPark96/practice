@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001408",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제37기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정 ",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 대북사업 환경\n- 영업환경의 중요한 불확실성",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 영업권 손상검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001408",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제36기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "보고기간종료일 현재 종속기업인 현대아산(주)의\n 금강산 및 개성에 대한 관광사업과 개성공업지구 \n개발사업이 중단되었으며, 해당 대북사업의 재개\n시점은 보고기간종료일 현재 확정되지 않았습니다. \n이러한 어려운 영업상황이 연결회사의 재무상태에 미칠\n 궁극적인 영향은 현재로서는 측정할 수 없으며연결회사의\n 연결재무제표에는 이로 인한 영향이 반영되지 아니하였습니다.",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 영업권 손상검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001408",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제35기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 공사진행률 산정",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

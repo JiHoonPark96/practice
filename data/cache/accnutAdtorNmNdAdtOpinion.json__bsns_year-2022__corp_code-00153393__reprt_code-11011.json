@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001281",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제62기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적   정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 파생상품자산의 가치평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001281",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제61기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적   정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 파생상품자산의 가치평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001281",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "bsns_year": "제60기",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적   정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 종속기업인 ㈜티브로드가 SK브로드밴드㈜에 흡수합병됨에 따라 SK브로드밴드㈜ 주식 취득으로 관계기업 편입 및 주주간계약 권리를 파생상품자산으로 인식",
+      "core_adt_matter": "- 파생상품자산의 가치평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190426000540",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "bsns_year": "제10기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "외부감사계약(2018년)",
+      "mendng": "88,726천원",
+      "tot_reqre_time": "880시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190426000540",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "bsns_year": "제9기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "외부감사계약(2017년)",
+      "mendng": "67,000천원",
+      "tot_reqre_time": "880시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190426000540",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "bsns_year": "제8기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "외부감사계약(2016년)\n(코라오디벨로핑 외부감사 포함)",
+      "mendng": "320,000천원",
+      "tot_reqre_time": "2,674시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

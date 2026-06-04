@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000774",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제 66기(당기)",
+      "cntrct_cncls_de": "22.02.25",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "22.02.25\n~22.03.31",
+      "servc_mendng": "8,000,000원",
+      "rm": "(전기)감사인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000774",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "제 65기(전기)",
+      "cntrct_cncls_de": "21.03.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "21.03.12\n~ 21.03.31",
+      "servc_mendng": "8,000,000원",
+      "rm": "(전기)감사인",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000774",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "bsns_year": "    제 64기(전전기)",
+      "cntrct_cncls_de": "20.03.11",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "20.03.11\n~ 20.03.31",
+      "servc_mendng": "8,000,000원",
+      "rm": "(전기)감사인",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

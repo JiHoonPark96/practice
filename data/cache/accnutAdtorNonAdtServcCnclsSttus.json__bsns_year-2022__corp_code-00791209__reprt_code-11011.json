@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제14기(당기)",
+      "cntrct_cncls_de": "2022.09\n2022.05",
+      "servc_cn": "세무자문업무\n세무조정업무",
+      "servc_exc_pd": "2022.9~2022.9\n2023.1~2023.3",
+      "servc_mendng": "3,000천원\n7,000천원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제13기(전기)",
+      "cntrct_cncls_de": "2021.03\n2021.01",
+      "servc_cn": "합병 관련 세무검토\n세무조정업무",
+      "servc_exc_pd": "2021.4~2021.4\n2021.1~2021.3",
+      "servc_mendng": "10,000천원\n8,000천원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제12기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

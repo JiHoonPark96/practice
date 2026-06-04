@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000964",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제33기(당기)",
+      "adtor": "안진회계법인",
+      "cn": " 분 ·반기 재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610백만원",
+      "adt_cntrct_dtls_time": "5,314",
+      "real_exc_dtls_mendng": "610백만원",
+      "real_exc_dtls_time": "5,238",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000964",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제32기(전기)",
+      "adtor": "안진회계법인",
+      "cn": " 분 ·반기 재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "590백만원",
+      "adt_cntrct_dtls_time": "5,168",
+      "real_exc_dtls_mendng": "590백만원",
+      "real_exc_dtls_time": "5,330",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000964",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": " 분 ·반기 재무제표 검토\n별도 및 연결재무제표 감사\n내부회계관리제도 감사\n8월말 임의감사(TY홀딩스관련)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "\n530백만원\n\n190백만원",
+      "adt_cntrct_dtls_time": "\n4,642\n\n1,809",
+      "real_exc_dtls_mendng": "\n530백만원\n\n190백만원",
+      "real_exc_dtls_time": "\n5,848\n\n1,690",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

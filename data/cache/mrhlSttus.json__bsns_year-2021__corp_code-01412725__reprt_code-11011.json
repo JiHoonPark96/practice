@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001227",
+      "corp_cls": "Y",
+      "corp_code": "01412725",
+      "corp_name": "두산퓨얼셀",
+      "se": "소액주주",
+      "shrholdr_co": "185,134",
+      "shrholdr_tot_co": "185,207",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "40,952,234",
+      "stock_tot_co": "81,838,794",
+      "hold_stock_rate": "50.04%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

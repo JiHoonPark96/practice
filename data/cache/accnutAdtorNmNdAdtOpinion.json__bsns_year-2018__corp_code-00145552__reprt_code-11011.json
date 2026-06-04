@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004921",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제51기(당기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004921",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제50기(전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004921",
+      "corp_cls": "Y",
+      "corp_code": "00145552",
+      "corp_name": "이수화학",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "연결 : 적정\n별도 : 적정",
+      "adt_reprt_spcmnt_matter": "해당사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

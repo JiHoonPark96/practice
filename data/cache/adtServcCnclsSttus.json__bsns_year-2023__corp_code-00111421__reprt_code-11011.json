@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240311000760",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제55기\n(2023년)",
+      "adtor": "한미회계법인",
+      "cn": "외부회계감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "152,000천원",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "152,000천원",
+      "real_exc_dtls_time": "1,351",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240311000760",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제54기\n(2022년)",
+      "adtor": "한미회계법인",
+      "cn": "외부회계감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000천원",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "145,000천원",
+      "real_exc_dtls_time": "1,294",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240311000760",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "bsns_year": "제53기\n(2021년)",
+      "adtor": "회계법인 세일원",
+      "cn": "외부회계감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000천원",
+      "adt_cntrct_dtls_time": "1,176",
+      "real_exc_dtls_mendng": "195,000천원",
+      "real_exc_dtls_time": "1,202",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

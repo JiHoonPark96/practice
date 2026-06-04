@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제16기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 반기 검토\n- 별도 재무제표 감사\n- 연결 재무제표 감사\n- 내부회계관리제도 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260,000",
+      "adt_cntrct_dtls_time": "3,600",
+      "real_exc_dtls_mendng": "330,000",
+      "real_exc_dtls_time": "2,790",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제15기(전기)",
+      "adtor": "서현회계법인",
+      "cn": "- 반기 검토\n- 별도 재무제표 감사\n- 연결 재무제표 감사\n- 내부회계관리제도 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "435,000",
+      "adt_cntrct_dtls_time": "4,190",
+      "real_exc_dtls_mendng": "435,000",
+      "real_exc_dtls_time": "2,327",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001503",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "서현회계법인",
+      "cn": "- 반기 검토\n- 별도 재무제표 감사\n- 연결 재무제표 감사\n- 내부회계관리제도 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340,000",
+      "adt_cntrct_dtls_time": "3,190",
+      "real_exc_dtls_mendng": "340,000",
+      "real_exc_dtls_time": "2,743",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

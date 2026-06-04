@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004145",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제2기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "연결감사보고서 중 \n핵심감사사항 참조",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004145",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제1기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "연결감사보고서 중 \n강조사항 참조",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004145",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "bsns_year": "제1기(반기 임의감사)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "반기연결감사보고서 중\n 강조사항 참조",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

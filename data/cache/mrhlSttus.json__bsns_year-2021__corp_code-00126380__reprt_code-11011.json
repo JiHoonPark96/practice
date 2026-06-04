@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000798",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "se": "소액주주",
+      "shrholdr_co": "5,066,351",
+      "shrholdr_tot_co": "5,066,466",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "3,922,911,893",
+      "stock_tot_co": "5,969,782,550",
+      "hold_stock_rate": "65.71%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "(주)한화",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "17,189,609",
+      "bsis_posesn_stock_qota_rt": "32.68",
+      "trmend_posesn_stock_co": "17,189,609",
+      "trmend_posesn_stock_qota_rt": "33.03",
+      "rm": "자기주식 소각에 따른 지분율 변동",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "신현우",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "5,000",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "5,000",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "최강수",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,000",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,000",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "17,195,609",
+      "bsis_posesn_stock_qota_rt": "32.69",
+      "trmend_posesn_stock_co": "17,195,609",
+      "trmend_posesn_stock_qota_rt": "33.04",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003444",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000949",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "제56기\n(당기)",
+      "cntrct_cncls_de": "2020.01 外",
+      "servc_cn": "APA정책수립 등",
+      "servc_exc_pd": "2020.01 ~ 최종확정시",
+      "servc_mendng": "491백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000949",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "제55기\n(전기)",
+      "cntrct_cncls_de": "2019.01 外",
+      "servc_cn": "통상관련 자문용역 외",
+      "servc_exc_pd": "2019.01 ~ 최종확정시",
+      "servc_mendng": "2,010백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000949",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "bsns_year": "제54기\n(전전기)",
+      "cntrct_cncls_de": "2018.07 外",
+      "servc_cn": "BEPS정책수립 등",
+      "servc_exc_pd": "2018.07 ~ 최종확정시",
+      "servc_mendng": "241백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210330001057",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제59기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토,중간,기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165백만원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "165백만원",
+      "real_exc_dtls_time": "1,102",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330001057",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제58기(전기)",
+      "adtor": "대현회계법인",
+      "cn": "반기검토,중간,기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90백만원",
+      "adt_cntrct_dtls_time": "1,095",
+      "real_exc_dtls_mendng": "90백만원",
+      "real_exc_dtls_time": "1,095",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330001057",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼영회계법인",
+      "cn": "반기검토,중간,기말",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80백만원",
+      "adt_cntrct_dtls_time": "1,054",
+      "real_exc_dtls_mendng": "80백만원",
+      "real_exc_dtls_time": "1,054",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

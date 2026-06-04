@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001075",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "se": "소액주주",
+      "shrholdr_co": "15,653",
+      "shrholdr_tot_co": "15,673",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "4,323,563",
+      "stock_tot_co": "8,446,588",
+      "hold_stock_rate": "51.19%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

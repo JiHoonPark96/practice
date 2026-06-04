@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제75기(당기)",
+      "cntrct_cncls_de": "2024.07.17",
+      "servc_cn": "미국 TEXAS 태양광 개발 재무타당성 및  세무 자문 업무",
+      "servc_exc_pd": "2024.07.17~2024.12.31",
+      "servc_mendng": "240",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제75기(당기)",
+      "cntrct_cncls_de": "2024.01.29",
+      "servc_cn": "지속가능경영보고서 발간 및 ESG평가 대응 자문",
+      "servc_exc_pd": "2024.02.01~2024.11.30",
+      "servc_mendng": "240",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제74기(전기)",
+      "cntrct_cncls_de": "2023.10.13",
+      "servc_cn": "복정역세권 복합개발사업 재무자문",
+      "servc_exc_pd": "2023.10.13~2023.11.07",
+      "servc_mendng": "130",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제74기(전기)",
+      "cntrct_cncls_de": "2023.08.01",
+      "servc_cn": "신사동 디에이치 전용 전시관 취득세 세무자문",
+      "servc_exc_pd": "2023.08.07~2023.10.24",
+      "servc_mendng": "80",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제73기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251017000151",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제73기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

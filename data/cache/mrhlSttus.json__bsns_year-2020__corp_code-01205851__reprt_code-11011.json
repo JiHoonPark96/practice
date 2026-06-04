@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315001064",
+      "corp_cls": "Y",
+      "corp_code": "01205851",
+      "corp_name": "HD현대일렉트릭",
+      "se": "소액주주",
+      "shrholdr_co": "48,181",
+      "shrholdr_tot_co": "48,187",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "17,597,449",
+      "stock_tot_co": "36,047,135",
+      "hold_stock_rate": "48.82%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000347",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제58기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.매출채권의 실재성 및 회수가능성의 평가\n2.순확정급여부채",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000347",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제57기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000347",
+      "corp_cls": "Y",
+      "corp_code": "00154055",
+      "corp_name": "태원물산",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000627",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토,중간감사,결산감사,내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160,000,000",
+      "adt_cntrct_dtls_time": "1,300",
+      "real_exc_dtls_mendng": "160,000,000",
+      "real_exc_dtls_time": "1,383",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000627",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토,중간감사,결산감사,내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160,000,000",
+      "adt_cntrct_dtls_time": "1,300",
+      "real_exc_dtls_mendng": "160,000,000",
+      "real_exc_dtls_time": "1,540",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000627",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "제원회계법인",
+      "cn": "반기검토,중간감사,결산감사,내부회계관리제도검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000,000",
+      "adt_cntrct_dtls_time": "657",
+      "real_exc_dtls_mendng": "80,000,000",
+      "real_exc_dtls_time": "657",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

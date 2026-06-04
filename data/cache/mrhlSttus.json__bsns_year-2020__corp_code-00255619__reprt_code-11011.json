@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001172",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "se": "소액주주",
+      "shrholdr_co": "93,151",
+      "shrholdr_tot_co": "93,162",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "77,104,990",
+      "stock_tot_co": "202,738,998",
+      "hold_stock_rate": "38.03%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

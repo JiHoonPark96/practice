@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000775",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "59,830",
+      "shrholdr_tot_co": "59,850",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "29,610,899",
+      "stock_tot_co": "60,752,222",
+      "hold_stock_rate": "48.75%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

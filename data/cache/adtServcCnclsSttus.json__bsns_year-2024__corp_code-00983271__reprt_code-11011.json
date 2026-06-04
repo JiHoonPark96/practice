@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부감사\n연결재무제표 및 재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "830 ",
+      "adt_cntrct_dtls_time": "7,545 ",
+      "real_exc_dtls_mendng": "830 ",
+      "real_exc_dtls_time": "7,041 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "외부감사\n연결재무제표 및 재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": " 795 ",
+      "adt_cntrct_dtls_time": "7,227 ",
+      "real_exc_dtls_mendng": "795 ",
+      "real_exc_dtls_time": "8,240 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331004208",
+      "corp_cls": "Y",
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부감사\n연결재무제표 및 재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": " 675 ",
+      "adt_cntrct_dtls_time": " 7,200 ",
+      "real_exc_dtls_mendng": "675 ",
+      "real_exc_dtls_time": " 7,491 ",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310001083",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "se": "소액주주",
+      "shrholdr_co": "156,264",
+      "shrholdr_tot_co": "156,273",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "61,035,000",
+      "stock_tot_co": "109,142,000",
+      "hold_stock_rate": "55.9%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

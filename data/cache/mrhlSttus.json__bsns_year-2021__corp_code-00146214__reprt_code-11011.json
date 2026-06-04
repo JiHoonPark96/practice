@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000838",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "se": "소액주주",
+      "shrholdr_co": "2,952",
+      "shrholdr_tot_co": "2,969",
+      "shrholdr_rate": "99.44%",
+      "hold_stock_co": "419,628",
+      "stock_tot_co": "1,533,768",
+      "hold_stock_rate": "27.36%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

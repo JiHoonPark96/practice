@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000994",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "se": "소액주주",
+      "shrholdr_co": "51,428",
+      "shrholdr_tot_co": "51,443",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "30,617,029",
+      "stock_tot_co": "74,958,735",
+      "hold_stock_rate": "40.85%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_code": "014710",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221109000311",
+      "flr_nm": "사조씨푸드",
+      "rcept_dt": "20221109",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_code": "014710",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220811000317",
+      "flr_nm": "사조씨푸드",
+      "rcept_dt": "20220811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_code": "014710",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220512000188",
+      "flr_nm": "사조씨푸드",
+      "rcept_dt": "20220512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_code": "014710",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220318001114",
+      "flr_nm": "사조씨푸드",
+      "rcept_dt": "20220318",
+      "rm": ""
+    },
+    {
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_code": "014710",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220318001100",
+      "flr_nm": "사조씨푸드",
+      "rcept_dt": "20220318",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00124780",
+      "corp_name": "사조씨푸드",
+      "stock_code": "014710",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220316001380",
+      "flr_nm": "사조씨푸드",
+      "rcept_dt": "20220316",
+      "rm": "정"
+    }
+  ]
+}

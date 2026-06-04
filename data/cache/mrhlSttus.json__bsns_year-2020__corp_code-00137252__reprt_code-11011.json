@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000423",
+      "corp_cls": "Y",
+      "corp_code": "00137252",
+      "corp_name": "사조동아원",
+      "se": "소액주주",
+      "shrholdr_co": "9,555",
+      "shrholdr_tot_co": "9,560",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "57,334,220",
+      "stock_tot_co": "141,144,600",
+      "hold_stock_rate": "40.62%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

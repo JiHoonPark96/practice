@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000964",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "se": "소액주주",
+      "shrholdr_co": "13,563",
+      "shrholdr_tot_co": "13,572",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "6,604,364",
+      "stock_tot_co": "17,683,296",
+      "hold_stock_rate": "37.35%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

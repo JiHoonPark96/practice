@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.09)",
+      "rcept_no": "20201210000497",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20201210",
+      "rm": ""
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001821",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20201116",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200811000187",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20200811",
+      "rm": ""
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200630000689",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20200630",
+      "rm": ""
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200630000680",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20200630",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20200630000654",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20200630",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515002172",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "stock_code": "294870",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330004562",
+      "flr_nm": "IPARK현대산업개발",
+      "rcept_dt": "20200330",
+      "rm": "정연"
+    }
+  ]
+}

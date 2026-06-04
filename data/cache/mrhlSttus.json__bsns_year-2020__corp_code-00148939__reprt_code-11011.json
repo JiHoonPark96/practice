@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220818000308",
+      "corp_cls": "Y",
+      "corp_code": "00148939",
+      "corp_name": "조광피혁",
+      "se": "소액주주",
+      "shrholdr_co": "2,214",
+      "shrholdr_tot_co": "2,222",
+      "shrholdr_rate": "99.64%",
+      "hold_stock_co": "499,877",
+      "stock_tot_co": "3,552,923",
+      "hold_stock_rate": "14.07%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

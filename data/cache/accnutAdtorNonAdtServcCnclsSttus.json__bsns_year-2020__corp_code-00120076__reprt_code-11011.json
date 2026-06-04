@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000546",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제68기 (당기)",
+      "cntrct_cncls_de": "2020년 4월\n2020년 12월",
+      "servc_cn": "사채관리계약 준수여부 확인 용역\n이전가격 컨설팅 용역",
+      "servc_exc_pd": "20일\n8개월",
+      "servc_mendng": "2\n20",
+      "rm": "-\n-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000546",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제67기 (전기)",
+      "cntrct_cncls_de": "2019년 4월\n2019년 12월",
+      "servc_cn": "사채관리계약 준수여부 확인 용역\n이전가격 컨설팅 용역",
+      "servc_exc_pd": "20일\n3개월",
+      "servc_mendng": "2\n20",
+      "rm": "-\n-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000546",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제66기(전전기)",
+      "cntrct_cncls_de": "2018년 3월\n2018년 12월",
+      "servc_cn": "사채관리계약 준수여부 확인 용역\n이전가격 컨설팅 용역",
+      "servc_exc_pd": "20일\n3개월",
+      "servc_mendng": "2\n30",
+      "rm": "-\n-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

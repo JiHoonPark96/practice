@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003277",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_knd": "보통주",
+      "nm": "(주)태주원",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "10,575,736",
+      "bsis_posesn_stock_qota_rt": "20.74",
+      "trmend_posesn_stock_co": "10,575,736",
+      "trmend_posesn_stock_qota_rt": "17.52",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003277",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_knd": "보통주",
+      "nm": "이장원",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "401,876",
+      "bsis_posesn_stock_qota_rt": "0.79",
+      "trmend_posesn_stock_co": "401,876",
+      "trmend_posesn_stock_qota_rt": "0.67",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003277",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_knd": "보통주",
+      "nm": "이은경",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "635,700",
+      "bsis_posesn_stock_qota_rt": "1.25",
+      "trmend_posesn_stock_co": "635,700",
+      "trmend_posesn_stock_qota_rt": "1.05",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003277",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "11,613,312",
+      "bsis_posesn_stock_qota_rt": "22.78",
+      "trmend_posesn_stock_co": "11,613,312",
+      "trmend_posesn_stock_qota_rt": "19.24",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003277",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

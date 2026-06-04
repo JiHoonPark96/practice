@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310001175",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "bsns_year": "제4기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기재무제표,개별재무제표,연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "4,250",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "4,338",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001175",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "bsns_year": "제3기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기재무제표,개별재무제표,연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320",
+      "adt_cntrct_dtls_time": "3,510",
+      "real_exc_dtls_mendng": "320",
+      "real_exc_dtls_time": "3,608",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001175",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "bsns_year": "제2기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기재무제표,개별재무제표,연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215",
+      "adt_cntrct_dtls_time": "3,565",
+      "real_exc_dtls_mendng": "215",
+      "real_exc_dtls_time": "3,565",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000507",
+      "corp_cls": "Y",
+      "corp_code": "00148461",
+      "corp_name": "제일연마",
+      "se": "소액주주",
+      "shrholdr_co": "1,788",
+      "shrholdr_tot_co": "1,798",
+      "shrholdr_rate": "99.44%",
+      "hold_stock_co": "1,325,414",
+      "stock_tot_co": "7,500,000",
+      "hold_stock_rate": "17.67%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

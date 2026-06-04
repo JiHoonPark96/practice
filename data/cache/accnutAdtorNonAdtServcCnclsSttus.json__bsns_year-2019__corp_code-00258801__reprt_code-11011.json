@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004659",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "bsns_year": "제25기\n(당기)",
+      "cntrct_cncls_de": "2019년",
+      "servc_cn": "세무조정 수임용역\n기타 자문용역",
+      "servc_exc_pd": "2019년",
+      "servc_mendng": "305",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004659",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "bsns_year": "제24기\n(전기)",
+      "cntrct_cncls_de": "2018년",
+      "servc_cn": "세무조정 수임용역\n기타 자문용역",
+      "servc_exc_pd": "2018년",
+      "servc_mendng": "970",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004659",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "bsns_year": "제23기\n(전전기)",
+      "cntrct_cncls_de": "2017년",
+      "servc_cn": "세무 자문용역\n세무조정 수임용역\n기타 자문용역",
+      "servc_exc_pd": "2017년",
+      "servc_mendng": "345",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

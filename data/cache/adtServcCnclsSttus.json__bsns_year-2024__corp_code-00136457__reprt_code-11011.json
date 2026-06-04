@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000777",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제67기(당기)",
+      "adtor": "한영회계법인",
+      "cn": " 별도 및 연결 반기 재무제표에 대한 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235",
+      "adt_cntrct_dtls_time": "1,960",
+      "real_exc_dtls_mendng": "235",
+      "real_exc_dtls_time": "2,046",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000777",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제66기(전기)",
+      "adtor": "한영회계법인",
+      "cn": " 별도 및 연결 반기 재무제표에 대한 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "1,920",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "2,195",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000777",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": " 별도 및 연결 분반기 재무제표에 대한 검토\n 별도 및 연결 재무제표에 대한 감사\n 내부회계관리제도 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "1,675",
+      "real_exc_dtls_mendng": "175",
+      "real_exc_dtls_time": "1,725",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

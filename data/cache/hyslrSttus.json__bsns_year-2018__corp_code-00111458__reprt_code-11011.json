@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003444",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "stock_knd": "보통주",
+      "nm": "신대양제지(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "28,076,585",
+      "bsis_posesn_stock_qota_rt": "26.34",
+      "trmend_posesn_stock_co": "49,830,425",
+      "trmend_posesn_stock_qota_rt": "45.97",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003444",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "stock_knd": "보통주",
+      "nm": "대양제지공업(주)",
+      "relate": "계열사",
+      "bsis_posesn_stock_co": "20,563,206",
+      "bsis_posesn_stock_qota_rt": "19.29",
+      "trmend_posesn_stock_co": "3,093,286",
+      "trmend_posesn_stock_qota_rt": "2.85",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003444",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "stock_knd": "보통주",
+      "nm": "권혁홍",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "100,000",
+      "bsis_posesn_stock_qota_rt": "0.09",
+      "trmend_posesn_stock_co": "100,000",
+      "trmend_posesn_stock_qota_rt": "0.09",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003444",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "48,739,791",
+      "bsis_posesn_stock_qota_rt": "45.73",
+      "trmend_posesn_stock_co": "53,023,711",
+      "trmend_posesn_stock_qota_rt": "48.92",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003444",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

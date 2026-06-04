@@ -1,0 +1,75 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제34기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "전산시스템 개발용역 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제34기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제33기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "전산시스템 개발용역 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제33기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제32기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "전산시스템 개발용역 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제32기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

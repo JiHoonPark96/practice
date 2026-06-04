@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001824",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "bsns_year": "    제51기",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001824",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "bsns_year": "    제50기",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001824",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "bsns_year": "    제49기",
+      "adtor": "정동회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

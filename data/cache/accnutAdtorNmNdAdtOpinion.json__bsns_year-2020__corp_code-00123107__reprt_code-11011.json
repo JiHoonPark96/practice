@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310000273",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제58기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산 금액의 중요성\n- 경영진이 사용한 추정 및 판단의 \n   불확실성을 고려한 재고자산의 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000273",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제57기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000273",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

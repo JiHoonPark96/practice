@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000994",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제69기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나바이러스감염증-19의 확산이 기업의 생산 능력과 고객에 대한 주문 이행능력에 미칠 수 있는 영향과 관련한 불확실성및 이러한 사건이나 상황을 다루기 위해 취해진 조치와 계획",
+      "core_adt_matter": "보험료적립금의 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000994",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제68기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "보험료적립금의 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000994",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "보험료적립금의 평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

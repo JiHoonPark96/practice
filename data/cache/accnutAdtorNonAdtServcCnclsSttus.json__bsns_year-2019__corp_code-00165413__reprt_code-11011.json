@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "영문감사보고서(감사용역계약에 포함)",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "영문감사보고서(감사용역계약에 포함)",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2018.03.02",
+      "servc_cn": "합작사업 관련세무자문 용역",
+      "servc_exc_pd": "2018.03.02 ?2018.03.16",
+      "servc_mendng": "20백만원(VAT 별도)",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "영문감사보고서(감사용역계약에 포함)",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

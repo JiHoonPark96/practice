@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190726000472",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제43기(당기)",
+      "cntrct_cncls_de": "-\n\n\n2018.03.02",
+      "servc_cn": "영문감사보고서(감사용역계약에 포함)\n합작사업 관련세무자문 용역",
+      "servc_exc_pd": "\n-\n2018.03.02 ~2018.03.16",
+      "servc_mendng": "\n-\n20백만원(VAT 별도)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190726000472",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제42기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "영문감사보고서(감사용역계약에 포함)",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190726000472",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제41기(전전기)",
+      "cntrct_cncls_de": "-\n\n\n2016.02.25",
+      "servc_cn": "영문감사보고서(감사용역계약에 포함)\n합작사업 관련세무자문 용역",
+      "servc_exc_pd": "\n-\n\n2016.02.25 ~\n 2017.02.24",
+      "servc_mendng": "\n-\n시간당 임율에 의한 보수(USD 42,000 한도)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

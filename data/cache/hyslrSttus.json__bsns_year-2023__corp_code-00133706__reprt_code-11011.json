@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001202",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "해성산업(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "29,204,504",
+      "bsis_posesn_stock_qota_rt": "50.73",
+      "trmend_posesn_stock_co": "161,819,744",
+      "trmend_posesn_stock_qota_rt": "85.09",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001202",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "29,204,504",
+      "bsis_posesn_stock_qota_rt": "50.73",
+      "trmend_posesn_stock_co": "161,819,744",
+      "trmend_posesn_stock_qota_rt": "85.09",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001202",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

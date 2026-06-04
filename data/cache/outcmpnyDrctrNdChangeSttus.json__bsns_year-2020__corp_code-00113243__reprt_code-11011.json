@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001080",
+      "corp_cls": "Y",
+      "corp_code": "00113243",
+      "corp_name": "대한제분",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "1",
+      "apnt": "1",
+      "rlsofc": "0",
+      "mdstrm_resig": "0",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

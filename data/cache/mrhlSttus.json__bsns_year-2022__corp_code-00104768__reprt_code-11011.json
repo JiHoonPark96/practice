@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001078",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "se": "소액주주",
+      "shrholdr_co": "11,481",
+      "shrholdr_tot_co": "11,485",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "2,942,903",
+      "stock_tot_co": "6,358,926",
+      "hold_stock_rate": "46.28%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

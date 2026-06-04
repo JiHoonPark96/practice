@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001233",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "bsns_year": "제48기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "분기검토, 반기검토, 중간감사,\n재고감사, 연결감사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "420",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "420",
+      "real_exc_dtls_time": "3,540",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001233",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "bsns_year": "제47기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "분기검토, 반기검토, 중간감사,\n재고감사, 연결감사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "420",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "420",
+      "real_exc_dtls_time": "3,490",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001233",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "분기검토, 반기검토, 중간감사,\n재고감사, 연결감사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,689",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

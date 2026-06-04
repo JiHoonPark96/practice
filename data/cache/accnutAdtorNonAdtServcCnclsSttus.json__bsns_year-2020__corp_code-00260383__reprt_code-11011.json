@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001060",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제52기(2020)",
+      "cntrct_cncls_de": "2020.07",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "2020.07~2021.03",
+      "servc_mendng": "13",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001060",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제51기(2019)",
+      "cntrct_cncls_de": "2019.02",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "2020.03~2020.03",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001060",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제50기(2018)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "2019.03~2019.03",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000162",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제60기 1분기\n제60기 반기\n제60기 3분기\n제60기 연간",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "예외사항 없음\n예외사항 없음\n예외사항 없음\n적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음\n해당사항없음\n해당사항없음\n해당사항없음",
+      "core_adt_matter": "복합기 및 프린터등 재화의 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000162",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제59기 1분기\n제59기 반기\n제59기 3분기\n제59기 연간",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "예외사항 없음\n예외사항 없음\n예외사항 없음\n적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음\n해당사항없음\n해당사항없음\n해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000162",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제58기 1분기\n제58기 반기\n제58기 3분기\n제58기 연간",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "예외사항 없음\n예외사항 없음\n예외사항 없음\n적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음\n해당사항없음\n해당사항없음\n해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

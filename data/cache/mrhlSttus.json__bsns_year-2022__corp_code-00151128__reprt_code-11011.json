@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000602",
+      "corp_cls": "Y",
+      "corp_code": "00151128",
+      "corp_name": "모토닉",
+      "se": "소액주주",
+      "shrholdr_co": "15,832",
+      "shrholdr_tot_co": "15,844",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "5,582,697",
+      "stock_tot_co": "33,000,000",
+      "hold_stock_rate": "16.92%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

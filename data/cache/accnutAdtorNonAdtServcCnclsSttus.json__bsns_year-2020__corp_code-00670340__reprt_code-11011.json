@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001106",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제15기(당기)",
+      "cntrct_cncls_de": "2020-10-13",
+      "servc_cn": "국제거래정보통합보고서 작성",
+      "servc_exc_pd": "2020/10/13~2020/12/31",
+      "servc_mendng": "60",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001106",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제14기(당전기)",
+      "cntrct_cncls_de": "2019-04-15",
+      "servc_cn": "국제거래정보통합보고서 작성",
+      "servc_exc_pd": "2019/04/15~2019/12/31",
+      "servc_mendng": "40",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001106",
+      "corp_cls": "Y",
+      "corp_code": "00670340",
+      "corp_name": "씨에스윈드",
+      "bsns_year": "제13기(전전기)",
+      "cntrct_cncls_de": "2018-10-24",
+      "servc_cn": "국제거래정보통합보고서 작성",
+      "servc_exc_pd": "2018/10/24~2018/12/31",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

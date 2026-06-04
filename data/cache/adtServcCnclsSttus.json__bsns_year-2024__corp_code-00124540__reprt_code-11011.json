@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813000868",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "bsns_year": "제25기",
+      "adtor": "삼일회계법인",
+      "cn": "별도재무제표 감사\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,620 백만원",
+      "adt_cntrct_dtls_time": "15,500 시간",
+      "real_exc_dtls_mendng": "1,620 백만원",
+      "real_exc_dtls_time": "14,488 시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000868",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "bsns_year": "제24기",
+      "adtor": "삼일회계법인",
+      "cn": "별도재무제표 감사\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,910 백만원",
+      "adt_cntrct_dtls_time": "17,500 시간",
+      "real_exc_dtls_mendng": "1,910 백만원",
+      "real_exc_dtls_time": "17,461 시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000868",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "bsns_year": "제23기",
+      "adtor": "삼일회계법인",
+      "cn": "별도재무제표 감사\n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,880 백만원",
+      "adt_cntrct_dtls_time": "17,500 시간",
+      "real_exc_dtls_mendng": "1,880 백만원",
+      "real_exc_dtls_time": "15,618 시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

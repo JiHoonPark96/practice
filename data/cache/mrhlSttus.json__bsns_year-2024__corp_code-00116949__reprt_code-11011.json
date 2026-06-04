@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001452",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "se": "소액주주",
+      "shrholdr_co": "7,222",
+      "shrholdr_tot_co": "7,234",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "16,087,345",
+      "stock_tot_co": "59,065,865",
+      "hold_stock_rate": "27.24%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

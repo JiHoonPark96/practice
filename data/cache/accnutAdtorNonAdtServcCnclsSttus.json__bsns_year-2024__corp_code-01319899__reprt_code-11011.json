@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000856",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제7기\n(당기)",
+      "cntrct_cncls_de": "2024.05.31",
+      "servc_cn": "영문감사보고서 발행",
+      "servc_exc_pd": "2024.05.31~2024.06.30",
+      "servc_mendng": "9.5 ",
+      "rm": "한영회계법인 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000856",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제6기\n(전기)",
+      "cntrct_cncls_de": "2023.06.08",
+      "servc_cn": "영문감사보고서 발행",
+      "servc_exc_pd": "2023.06.08~2023.06.30",
+      "servc_mendng": "9.5 ",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000856",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제5기\n(전전기)",
+      "cntrct_cncls_de": "2022.04.11",
+      "servc_cn": "사채관리계약이행상황보고서 관련\n외부감사인 확인서 발행",
+      "servc_exc_pd": "2022.04.11~2022.04.14",
+      "servc_mendng": "5 ",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000856",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "bsns_year": "제5기\n(전전기)",
+      "cntrct_cncls_de": "2022.06.20",
+      "servc_cn": "영문감사보고서 발행",
+      "servc_exc_pd": "2022.06.20~2022.06.30",
+      "servc_mendng": "9.5 ",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

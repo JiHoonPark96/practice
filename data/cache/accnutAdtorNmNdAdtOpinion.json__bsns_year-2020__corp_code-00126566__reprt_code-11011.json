@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000790",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제44기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사의견에는 영향을 미치지 않는 사항으로서 이용자는 연결재무제표에\n대한 주석 3에 주의를 기울여야 할 필요가 있습니다. 연결재무제표에 대한 \n주석 3은 COVID-19(코로나)바이러스가 기업의 재무상태 및 경영성과 등에 \n미칠 수 있는 영향과 관련한 불확실성 및 이에 대한 경영진의 판단을 설명\n합니다.",
+      "core_adt_matter": "- 영업권 및 국제공동사업권의 손상 평가\n- 원가기준 투입에 따른 수익인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000790",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제43기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- Hanwha Aerospace USA Co.,의 인수\n- 영업권 및 국제공동사업권의 손상 평가\n- 원가기준 투입에 따른 수익인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000790",
+      "corp_cls": "Y",
+      "corp_code": "00126566",
+      "corp_name": "한화에어로스페이스",
+      "bsns_year": "제42기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 한화에스앤씨㈜를 흡수합병(사업결합)\n- 영업권 및 국제공동사업권의 손상 평가\n- 원가기준 투입에 따른 수익인식",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001276",
+      "corp_cls": "Y",
+      "corp_code": "00109514",
+      "corp_name": "티웨이홀딩스",
+      "bsns_year": "제58기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001276",
+      "corp_cls": "Y",
+      "corp_code": "00109514",
+      "corp_name": "티웨이홀딩스",
+      "bsns_year": "제57기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001276",
+      "corp_cls": "Y",
+      "corp_code": "00109514",
+      "corp_name": "티웨이홀딩스",
+      "bsns_year": "제56기(전전기)",
+      "cntrct_cncls_de": "2022.08",
+      "servc_cn": "2022년 세무조정",
+      "servc_exc_pd": "2022.01~2022.12",
+      "servc_mendng": "10백만원",
+      "rm": "대성삼경회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

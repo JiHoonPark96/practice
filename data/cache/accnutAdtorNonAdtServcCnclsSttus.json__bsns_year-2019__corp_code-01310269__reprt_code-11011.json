@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2019.02",
+      "servc_cn": "세무조정&자문",
+      "servc_exc_pd": "2019.02 ~ 2020.03",
+      "servc_mendng": "30",
+      "rm": "VAT 별도",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제2기(당기)",
+      "cntrct_cncls_de": "2019.07",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2019.07 ~ 미정",
+      "servc_mendng": "240",
+      "rm": "VAT 별도",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2018.12",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2018.12 ~ 2018.12",
+      "servc_mendng": "25",
+      "rm": "VAT 별도",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제1기(전기)",
+      "cntrct_cncls_de": "2018.05",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2018.05 ~ 2018.12",
+      "servc_mendng": "50",
+      "rm": "VAT 별도",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200630000680",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "-",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

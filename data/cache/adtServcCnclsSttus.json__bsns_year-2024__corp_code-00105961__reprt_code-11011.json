@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001384",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결ㆍ별도 재무제표 감사분ㆍ반기 재무제표 검토\n연결ㆍ별도 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,550",
+      "adt_cntrct_dtls_time": "13,500",
+      "real_exc_dtls_mendng": "1,240",
+      "real_exc_dtls_time": "13,604",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001384",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결ㆍ별도 재무제표 감사분ㆍ반기 재무제표 검토\n연결ㆍ별도 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,550",
+      "adt_cntrct_dtls_time": "13,500",
+      "real_exc_dtls_mendng": "1,550",
+      "real_exc_dtls_time": "15,015",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001384",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결ㆍ별도 재무제표 감사분ㆍ반기 재무제표 검토\n별도 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,380",
+      "adt_cntrct_dtls_time": "12,000",
+      "real_exc_dtls_mendng": "1,380",
+      "real_exc_dtls_time": "15,014",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

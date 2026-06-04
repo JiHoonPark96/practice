@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004346",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "유암코워크아웃제일차기업재무안정 사모투자전문회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "21,180,047",
+      "bsis_posesn_stock_qota_rt": "71.64",
+      "trmend_posesn_stock_co": "21,180,047",
+      "trmend_posesn_stock_qota_rt": "71.64",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004346",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "21,180,047",
+      "bsis_posesn_stock_qota_rt": "71.64",
+      "trmend_posesn_stock_co": "21,180,047",
+      "trmend_posesn_stock_qota_rt": "71.64",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004346",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

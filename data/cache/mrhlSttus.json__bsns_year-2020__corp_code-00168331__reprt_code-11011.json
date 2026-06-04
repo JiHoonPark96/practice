@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318001096",
+      "corp_cls": "Y",
+      "corp_code": "00168331",
+      "corp_name": "온타이드",
+      "se": "소액주주",
+      "shrholdr_co": "10,159",
+      "shrholdr_tot_co": "10,169",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "33,874,628",
+      "stock_tot_co": "38,845,864",
+      "hold_stock_rate": "87.22%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

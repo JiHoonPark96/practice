@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001162",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "se": "소액주주",
+      "shrholdr_co": "369,653",
+      "shrholdr_tot_co": "369,669",
+      "shrholdr_rate": "99.996%",
+      "hold_stock_co": "52,408,460",
+      "stock_tot_co": "94,285,094",
+      "hold_stock_rate": "55.59%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

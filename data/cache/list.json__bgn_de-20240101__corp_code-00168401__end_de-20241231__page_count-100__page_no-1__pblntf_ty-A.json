@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00168401",
+      "corp_name": "금비",
+      "stock_code": "008870",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.09)",
+      "rcept_no": "20241219000451",
+      "flr_nm": "금비",
+      "rcept_dt": "20241219",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00168401",
+      "corp_name": "금비",
+      "stock_code": "008870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.06)",
+      "rcept_no": "20240814002138",
+      "flr_nm": "금비",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00168401",
+      "corp_name": "금비",
+      "stock_code": "008870",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.03)",
+      "rcept_no": "20240516000749",
+      "flr_nm": "금비",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00168401",
+      "corp_name": "금비",
+      "stock_code": "008870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.12)",
+      "rcept_no": "20240214001636",
+      "flr_nm": "금비",
+      "rcept_dt": "20240214",
+      "rm": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해외물류사업 및 해운업 \n진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해외물류사업 및 해운업 진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해외물류사업 및 해운업 진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해외물류사업 및 해운업 진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해외물류 및 해운업 진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001025",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해외물류 및 해운업 진행률 산정의 적정성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

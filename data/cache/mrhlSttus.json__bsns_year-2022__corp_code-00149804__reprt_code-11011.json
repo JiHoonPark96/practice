@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001273",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "se": "소액주주",
+      "shrholdr_co": "34,188",
+      "shrholdr_tot_co": "3,195",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "57,868,596",
+      "stock_tot_co": "115,341,128",
+      "hold_stock_rate": "50.17%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

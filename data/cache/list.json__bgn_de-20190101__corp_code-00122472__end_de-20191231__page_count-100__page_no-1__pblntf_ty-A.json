@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "stock_code": "001340",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114000571",
+      "flr_nm": "PKC",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "stock_code": "001340",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814000489",
+      "flr_nm": "PKC",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "stock_code": "001340",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190814000485",
+      "flr_nm": "PKC",
+      "rcept_dt": "20190814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "stock_code": "001340",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20190814000481",
+      "flr_nm": "PKC",
+      "rcept_dt": "20190814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "stock_code": "001340",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002198",
+      "flr_nm": "PKC",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "stock_code": "001340",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004817",
+      "flr_nm": "PKC",
+      "rcept_dt": "20190401",
+      "rm": "정"
+    }
+  ]
+}

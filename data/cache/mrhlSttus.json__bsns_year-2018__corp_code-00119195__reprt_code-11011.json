@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001980",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "se": "소액주주",
+      "shrholdr_co": "6,778",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.59%",
+      "hold_stock_co": "13,491,325",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "48.29%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

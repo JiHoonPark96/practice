@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001126",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "drctr_co": "9",
+      "otcmp_drctr_co": "5",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

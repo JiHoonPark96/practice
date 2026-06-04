@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "stock_code": "053690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002008",
+      "flr_nm": "한미글로벌",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "stock_code": "053690",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240813000768",
+      "flr_nm": "한미글로벌",
+      "rcept_dt": "20240813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "stock_code": "053690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516000171",
+      "flr_nm": "한미글로벌",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "stock_code": "053690",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240313000849",
+      "flr_nm": "한미글로벌",
+      "rcept_dt": "20240313",
+      "rm": "연"
+    }
+  ]
+}

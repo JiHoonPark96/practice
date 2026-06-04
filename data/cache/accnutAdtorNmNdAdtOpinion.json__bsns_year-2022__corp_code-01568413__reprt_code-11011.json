@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230831001367",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제2기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특정매입계약 매출의 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831001367",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제1기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특정매입계약 매출의 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831001367",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

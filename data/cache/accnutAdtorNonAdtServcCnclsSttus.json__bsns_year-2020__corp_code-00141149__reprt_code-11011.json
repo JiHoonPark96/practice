@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제59기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제58기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000691",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제57기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

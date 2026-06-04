@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000018",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제43기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도\n반기검토, 중간감사, 기말감사,\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260백만원",
+      "adt_cntrct_dtls_time": "1,850",
+      "real_exc_dtls_mendng": "208백만원",
+      "real_exc_dtls_time": "1,964",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000018",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제42기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "연결 및 별도\n반기검토, 중간감사, 기말감사,\n 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "2,130",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "1,964",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000018",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토, 중간감사, 기말감사,\n 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90백만원",
+      "adt_cntrct_dtls_time": "860",
+      "real_exc_dtls_mendng": "90백만원",
+      "real_exc_dtls_time": "836",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

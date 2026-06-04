@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230814002466",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "bsns_year": "제4기\n(2022년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "국외 수출매출의 발생사실",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814002466",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "bsns_year": "제3기\n(2021년)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "국외 수출매출의 발생사실 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814002466",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "bsns_year": "제2기\n(2020년)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당 사항 없음",
+      "core_adt_matter": "해당 사항 없음",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000724",
+      "corp_cls": "Y",
+      "corp_code": "00526599",
+      "corp_name": "덴티움",
+      "bsns_year": "제22기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "별도재무제표 및 \n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "40백만원",
+      "real_exc_dtls_time": "2,018",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000724",
+      "corp_cls": "Y",
+      "corp_code": "00526599",
+      "corp_name": "덴티움",
+      "bsns_year": "제21기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "별도재무제표 및 \n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190백만원",
+      "adt_cntrct_dtls_time": "2,594",
+      "real_exc_dtls_mendng": "190백만원",
+      "real_exc_dtls_time": "2,973",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000724",
+      "corp_cls": "Y",
+      "corp_code": "00526599",
+      "corp_name": "덴티움",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도재무제표 및 \n연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "120백만원",
+      "real_exc_dtls_time": "4,850",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

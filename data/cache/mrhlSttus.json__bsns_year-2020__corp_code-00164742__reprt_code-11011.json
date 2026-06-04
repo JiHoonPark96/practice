@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220217001036",
+      "corp_cls": "Y",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차",
+      "se": "소액주주",
+      "shrholdr_co": "581,803",
+      "shrholdr_tot_co": "581,875",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "111,742,403",
+      "stock_tot_co": "213,668,187",
+      "hold_stock_rate": "52.30%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

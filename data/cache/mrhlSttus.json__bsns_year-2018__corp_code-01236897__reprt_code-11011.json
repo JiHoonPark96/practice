@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003179",
+      "corp_cls": "Y",
+      "corp_code": "01236897",
+      "corp_name": "제일약품",
+      "se": "소액주주",
+      "shrholdr_co": "8,329",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "5,392,827",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "36.67%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

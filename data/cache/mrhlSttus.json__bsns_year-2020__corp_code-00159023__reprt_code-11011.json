@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000804",
+      "corp_cls": "Y",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤",
+      "se": "소액주주",
+      "shrholdr_co": "156,093",
+      "shrholdr_tot_co": "156,099",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "31,513,010",
+      "stock_tot_co": "80,745,711",
+      "hold_stock_rate": "39.0%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

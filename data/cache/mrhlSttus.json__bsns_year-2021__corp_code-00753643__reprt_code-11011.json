@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001098",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "se": "소액주주",
+      "shrholdr_co": "7,991",
+      "shrholdr_tot_co": "8,006",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "9,021,597",
+      "stock_tot_co": "17,549,275",
+      "hold_stock_rate": "51.41%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

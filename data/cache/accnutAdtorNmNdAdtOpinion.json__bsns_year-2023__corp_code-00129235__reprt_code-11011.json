@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001652",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제58기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001652",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제57기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001652",
+      "corp_cls": "Y",
+      "corp_code": "00129235",
+      "corp_name": "삼화왕관",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

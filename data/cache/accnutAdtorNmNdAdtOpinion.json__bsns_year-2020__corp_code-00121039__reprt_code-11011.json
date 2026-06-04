@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000320",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "bsns_year": "제35기(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속기업에 대한 지급보증 등",
+      "core_adt_matter": "수익인식 기간귀속의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000320",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "bsns_year": "제34기(전기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속기업에 대한 지급보증 등",
+      "core_adt_matter": "도매상 매출인식의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000320",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속기업에 대한 지급보증 등",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

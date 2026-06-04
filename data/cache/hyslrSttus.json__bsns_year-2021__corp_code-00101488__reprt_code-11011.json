@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001363",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "stock_knd": "보통주",
+      "nm": "(주)경동원",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "7,299,425",
+      "bsis_posesn_stock_qota_rt": "53.65",
+      "trmend_posesn_stock_co": "8,263,287",
+      "trmend_posesn_stock_qota_rt": "56.72",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001363",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "stock_knd": "보통주",
+      "nm": "손연호",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "129,262",
+      "bsis_posesn_stock_qota_rt": "0.95",
+      "trmend_posesn_stock_co": "129,262",
+      "trmend_posesn_stock_qota_rt": "0.89",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001363",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,428,687",
+      "bsis_posesn_stock_qota_rt": "54.60",
+      "trmend_posesn_stock_co": "8,392,549",
+      "trmend_posesn_stock_qota_rt": "57.61",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001363",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

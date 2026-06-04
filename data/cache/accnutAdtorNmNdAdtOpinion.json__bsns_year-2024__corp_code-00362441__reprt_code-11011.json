@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계획원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제25기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계획원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계획원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제24기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "총계획원가 추정의 불확실성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권(차량전장S/W 및 내비게이션S/W\n현금창출단위) 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "bsns_year": "제23기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권(차량전장S/W 및 내비게이션S/W\n현금창출단위) 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

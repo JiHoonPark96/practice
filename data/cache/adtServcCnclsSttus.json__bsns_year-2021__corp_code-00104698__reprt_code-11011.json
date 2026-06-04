@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220519000247",
+      "corp_cls": "Y",
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 중간(분기, 반기) 재무제표에 대한 검토\n- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 검토(감사) 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "490",
+      "adt_cntrct_dtls_time": "4,500",
+      "real_exc_dtls_mendng": "490",
+      "real_exc_dtls_time": "4,408",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220519000247",
+      "corp_cls": "Y",
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "bsns_year": "제71기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 중간(분기, 반기) 재무제표에 대한 검토\n- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 검토(감사) 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "385",
+      "adt_cntrct_dtls_time": "3,500",
+      "real_exc_dtls_mendng": "498",
+      "real_exc_dtls_time": "4,975",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220519000247",
+      "corp_cls": "Y",
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 중간(분기, 반기) 재무제표에 대한 검토\n- 별도 및 연결 재무제표에 대한 감사\n- 내부회계관리제도에 대한 검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "2,500",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "2,967",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

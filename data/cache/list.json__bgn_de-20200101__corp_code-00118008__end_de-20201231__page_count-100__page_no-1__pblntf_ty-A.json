@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "stock_code": "018500",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.09)",
+      "rcept_no": "20201116001231",
+      "flr_nm": "동원금속",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "stock_code": "018500",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.06)",
+      "rcept_no": "20200820000231",
+      "flr_nm": "동원금속",
+      "rcept_dt": "20200820",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "stock_code": "018500",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.06)",
+      "rcept_no": "20200814001015",
+      "flr_nm": "동원금속",
+      "rcept_dt": "20200814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "stock_code": "018500",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.03)",
+      "rcept_no": "20200629000448",
+      "flr_nm": "동원금속",
+      "rcept_dt": "20200629",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "stock_code": "018500",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.12)",
+      "rcept_no": "20200214000385",
+      "flr_nm": "동원금속",
+      "rcept_dt": "20200214",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118008",
+      "corp_name": "동원금속",
+      "stock_code": "018500",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.03)",
+      "rcept_no": "20200116000259",
+      "flr_nm": "동원금속",
+      "rcept_dt": "20200116",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000999",
+      "corp_cls": "Y",
+      "corp_code": "00103042",
+      "corp_name": "케이씨티시",
+      "se": "소액주주",
+      "shrholdr_co": "3,784",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.42%",
+      "hold_stock_co": "10,133,843",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "33.78%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

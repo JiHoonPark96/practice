@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000313",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "se": "소액주주",
+      "shrholdr_co": "11,148",
+      "shrholdr_tot_co": "11,154",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "43,525,099",
+      "stock_tot_co": "90,530,915",
+      "hold_stock_rate": "48.08%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

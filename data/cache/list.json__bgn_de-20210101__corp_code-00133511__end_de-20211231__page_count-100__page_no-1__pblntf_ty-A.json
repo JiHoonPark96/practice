@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_code": "004060",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001193",
+      "flr_nm": "SG세계물산",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_code": "004060",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210813000244",
+      "flr_nm": "SG세계물산",
+      "rcept_dt": "20210813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_code": "004060",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.03)",
+      "rcept_no": "20210811000159",
+      "flr_nm": "SG세계물산",
+      "rcept_dt": "20210811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_code": "004060",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000313",
+      "flr_nm": "SG세계물산",
+      "rcept_dt": "20210517",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "stock_code": "004060",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210316000692",
+      "flr_nm": "SG세계물산",
+      "rcept_dt": "20210316",
+      "rm": "연"
+    }
+  ]
+}

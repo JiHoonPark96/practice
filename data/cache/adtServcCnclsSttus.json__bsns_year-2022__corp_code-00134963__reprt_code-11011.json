@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230302000104",
+      "corp_cls": "Y",
+      "corp_code": "00134963",
+      "corp_name": "송원산업",
+      "bsns_year": "제58기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결(분ㆍ반기검토, 기말감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "591백만원",
+      "adt_cntrct_dtls_time": "5,900시간",
+      "real_exc_dtls_mendng": "591백만원",
+      "real_exc_dtls_time": "5,717시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230302000104",
+      "corp_cls": "Y",
+      "corp_code": "00134963",
+      "corp_name": "송원산업",
+      "bsns_year": "제57기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결(분ㆍ반기검토, 기말감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "561백만원",
+      "adt_cntrct_dtls_time": "5,951시간",
+      "real_exc_dtls_mendng": "561백만원",
+      "real_exc_dtls_time": "5,559시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230302000104",
+      "corp_cls": "Y",
+      "corp_code": "00134963",
+      "corp_name": "송원산업",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결(분ㆍ반기검토, 기말감사)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "536백만원",
+      "adt_cntrct_dtls_time": "5,850시간",
+      "real_exc_dtls_mendng": "536백만원",
+      "real_exc_dtls_time": "5,892시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001399",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "bsns_year": "제26기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 결산감사",
+      "mendng": "9,450",
+      "tot_reqre_time": "1,460",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001399",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "bsns_year": "제25기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 결산감사",
+      "mendng": "6,400",
+      "tot_reqre_time": "998",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001399",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 결산감사",
+      "mendng": "5,700",
+      "tot_reqre_time": "874",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

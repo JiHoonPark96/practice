@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114000267",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814000407",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190514000595",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20190514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401000750",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20190401",
+      "rm": "연"
+    }
+  ]
+}

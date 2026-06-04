@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000432",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제37기",
+      "adtor": "한영회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "419,727",
+      "adt_cntrct_dtls_time": "3,965",
+      "real_exc_dtls_mendng": "314,795",
+      "real_exc_dtls_time": "4,512",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000432",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제36기",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "229,925",
+      "adt_cntrct_dtls_time": "3,050",
+      "real_exc_dtls_mendng": "229,925",
+      "real_exc_dtls_time": "3,050",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000432",
+      "corp_cls": "Y",
+      "corp_code": "00159218",
+      "corp_name": "한전KPS",
+      "bsns_year": "제35기",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "149,736",
+      "adt_cntrct_dtls_time": "1,862",
+      "real_exc_dtls_mendng": "149,736",
+      "real_exc_dtls_time": "1,862",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

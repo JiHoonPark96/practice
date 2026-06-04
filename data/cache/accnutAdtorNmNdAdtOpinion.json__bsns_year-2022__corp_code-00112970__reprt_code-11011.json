@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001199",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제70기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재고자산평가충당금의 인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001199",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제69기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화 매출과 관련된 고객과의 계약에 대해 \n수행의무 식별 및 이행시점에 대한 판단과정에서 \n발생가능한 오류로 인한 수익의 과대계상 위험",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001199",
+      "corp_cls": "Y",
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화 매출과 관련된 고객과의 계약에 대해 \n수행의무 식별 및 이행시점에 대한 판단과정에서 \n발생가능한 오류로 인한 수익의 과대계상 위험",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

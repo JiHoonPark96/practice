@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000830",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제64기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "개별재무제표, 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "276,000,000원",
+      "adt_cntrct_dtls_time": "2,700시간",
+      "real_exc_dtls_mendng": "276,000,000원",
+      "real_exc_dtls_time": "3,170시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000830",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제63기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "개별재무제표, 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "345,000,000원",
+      "adt_cntrct_dtls_time": "3,058시간",
+      "real_exc_dtls_mendng": "345,000,000원",
+      "real_exc_dtls_time": "2,912시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000830",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "개별재무제표, 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320,000,000원",
+      "adt_cntrct_dtls_time": "3,105시간",
+      "real_exc_dtls_mendng": "320,000,000원",
+      "real_exc_dtls_time": "3,011시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

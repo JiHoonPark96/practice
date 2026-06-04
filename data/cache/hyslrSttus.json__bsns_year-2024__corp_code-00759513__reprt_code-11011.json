@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001456",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_knd": "보통주",
+      "nm": "(주)LX홀딩스",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "3,006,673",
+      "bsis_posesn_stock_qota_rt": "30.07",
+      "trmend_posesn_stock_co": "3,006,673",
+      "trmend_posesn_stock_qota_rt": "30.07",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001456",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_knd": "보통주",
+      "nm": "한명호",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "7,000",
+      "bsis_posesn_stock_qota_rt": "0.07",
+      "trmend_posesn_stock_co": "7,000",
+      "trmend_posesn_stock_qota_rt": "0.07",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001456",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_knd": "보통주",
+      "nm": "박장수",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "2,000",
+      "bsis_posesn_stock_qota_rt": "0.02",
+      "trmend_posesn_stock_co": "2,000",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001456",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "3,015,673",
+      "bsis_posesn_stock_qota_rt": "30.16",
+      "trmend_posesn_stock_co": "3,015,673",
+      "trmend_posesn_stock_qota_rt": "30.16",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001456",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

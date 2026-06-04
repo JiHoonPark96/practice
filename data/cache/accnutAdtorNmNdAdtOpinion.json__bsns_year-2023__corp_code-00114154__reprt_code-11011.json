@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000799",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000799",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제46기(전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000799",
+      "corp_cls": "Y",
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자주식 손상평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제48기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370",
+      "adt_cntrct_dtls_time": "3,017",
+      "real_exc_dtls_mendng": "370",
+      "real_exc_dtls_time": "3,390",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제47기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360",
+      "adt_cntrct_dtls_time": "3,408",
+      "real_exc_dtls_mendng": "360",
+      "real_exc_dtls_time": "3,604",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225",
+      "adt_cntrct_dtls_time": "2,250",
+      "real_exc_dtls_mendng": "278",
+      "real_exc_dtls_time": "2,577",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

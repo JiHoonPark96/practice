@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제5기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "건축용 및 인테리어\n자재매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제5기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "건축용 및 인테리어\n자재매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제4기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "건축용 및 인테리어\n\n자재매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제4기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "건축용 및 인테리어\n\n자재매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제3기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의\n\n기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제3기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의\n\n기간귀속",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

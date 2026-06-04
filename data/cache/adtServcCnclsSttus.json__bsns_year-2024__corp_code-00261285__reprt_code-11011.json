@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제42기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "외부회계감사\n (분·반기재무제표 검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,690",
+      "adt_cntrct_dtls_time": "21,348",
+      "real_exc_dtls_mendng": "1,690",
+      "real_exc_dtls_time": "19,586",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제41기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "외부회계감사\n (분·반기재무제표 검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,822",
+      "adt_cntrct_dtls_time": "20,273",
+      "real_exc_dtls_mendng": "1,822",
+      "real_exc_dtls_time": "18,943",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "외부회계감사\n (분·반기재무제표 검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,488",
+      "adt_cntrct_dtls_time": "16,500",
+      "real_exc_dtls_mendng": "1,488",
+      "real_exc_dtls_time": "16,081",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001380",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "미착원재료의 완전성 및 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001380",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "미착원재료의 완전성 및 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001380",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "미착품의 완전성, 기간귀속, 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001380",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "미착품의 완전성, 기간귀속, 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001380",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "과거 수익인식에 대한 오류 및 연결대상에서\n누락된 종속회사 식별에 따른 비교표시된\n전기 연결재무제표는 재작성",
+      "core_adt_matter": "수익인식의 실재성 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001380",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "과거 수익인식에 대한 오류 및 연결대상에서\n누락된 종속회사 식별에 따른 비교표시된\n전기 연결재무제표는 재작성",
+      "core_adt_matter": "수익인식의 실재성 ",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

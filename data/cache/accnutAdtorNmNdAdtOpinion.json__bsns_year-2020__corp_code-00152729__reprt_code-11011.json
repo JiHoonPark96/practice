@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000782",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제37기(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "  - 수익인식기준  - 현금창출단위 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000782",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제36기(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "  - 新리스기준 적용의 적정성\n  - 충당부채, 우발부채 등 관련 정확성\n  - 장기공사계약 등 관련 적정성\n  - 유동,비유동 분류의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000782",
+      "corp_cls": "Y",
+      "corp_code": "00152729",
+      "corp_name": "광전자",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "  - 新수익기준서에 따른 수익인식의 적정성\n  - 新금융상품기준 공정가치 측정 적정성\n  - 비시장성 자산평가의 적정성\n  - 무형자산 인식,평가의 적정성",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

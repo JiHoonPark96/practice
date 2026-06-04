@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000615",
+      "corp_cls": "Y",
+      "corp_code": "00123781",
+      "corp_name": "부국철강",
+      "se": "소액주주",
+      "shrholdr_co": "15,813",
+      "shrholdr_tot_co": "15,824",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "8,919,842",
+      "stock_tot_co": "20,000,000",
+      "hold_stock_rate": "44.60%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

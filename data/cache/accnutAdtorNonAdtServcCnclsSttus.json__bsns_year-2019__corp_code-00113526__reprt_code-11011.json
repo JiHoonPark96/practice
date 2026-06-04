@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제58기(당기)",
+      "cntrct_cncls_de": "2019.07.04",
+      "servc_cn": "세무조정 검토 등",
+      "servc_exc_pd": "2019.07.04 ~ 2020.04.30",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제58기(당기)",
+      "cntrct_cncls_de": "2019.06.03",
+      "servc_cn": "감사인 확인서 등",
+      "servc_exc_pd": "2019.06.03 ~ 2020.05.30",
+      "servc_mendng": "6.5",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제57기(전기)",
+      "cntrct_cncls_de": "2018.08.20",
+      "servc_cn": "세무조정 검토 등",
+      "servc_exc_pd": "2018.08.08 ~ 2018.08.10\n2019.02.18 ~ 2019.03.29",
+      "servc_mendng": "21.3",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제57기(전기)",
+      "cntrct_cncls_de": "2018.03.06",
+      "servc_cn": "해외채권 발행 관련 Comfort Letter 발행 등",
+      "servc_exc_pd": "2018.03.06 ~ 2018.03.13",
+      "servc_mendng": "107",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제56기(전전기)",
+      "cntrct_cncls_de": "2017.06.22",
+      "servc_cn": "세무조정 검토 등",
+      "servc_exc_pd": "2017.08.02 ~ 2017.08.04",
+      "servc_mendng": "21.3",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200414002243",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제56기(전전기)",
+      "cntrct_cncls_de": "2017.06.05",
+      "servc_cn": "영구채 발행 관련 Comfort Letter 발행 등",
+      "servc_exc_pd": "2017.06.05 ~ 2017.06.12",
+      "servc_mendng": "160",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

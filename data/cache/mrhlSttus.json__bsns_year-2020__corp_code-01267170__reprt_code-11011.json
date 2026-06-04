@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210428000711",
+      "corp_cls": "Y",
+      "corp_code": "01267170",
+      "corp_name": "SK케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "89,749",
+      "shrholdr_tot_co": "89,765",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "6,114,171",
+      "stock_tot_co": "11,728,768",
+      "hold_stock_rate": "52.13%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

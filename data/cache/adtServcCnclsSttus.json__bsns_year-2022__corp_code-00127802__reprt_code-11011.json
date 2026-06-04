@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001338",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제58기(당   기)",
+      "adtor": "도원회계법인",
+      "cn": "연결,별도재무제표 감사\n분기,반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "226,000,000",
+      "adt_cntrct_dtls_time": "1,554",
+      "real_exc_dtls_mendng": "226,000,000",
+      "real_exc_dtls_time": "1,697",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001338",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제57기(전   기)",
+      "adtor": "도원회계법인",
+      "cn": "재무제표 감사\n분기,반기 재무제표 검토\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "167,700,000",
+      "adt_cntrct_dtls_time": "1,195",
+      "real_exc_dtls_mendng": "167,700,000",
+      "real_exc_dtls_time": "1,204",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001338",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제56기(전전기)",
+      "adtor": "도원회계법인",
+      "cn": "재무제표 감사\n분기,반기 재무제표 검토\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "167,700,000",
+      "adt_cntrct_dtls_time": "1,257",
+      "real_exc_dtls_mendng": "167,700,000",
+      "real_exc_dtls_time": "1,195",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

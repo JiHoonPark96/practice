@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813000454",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제18기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 건설사업부문 총계약원가 추정의 불확실성\n- 건설사업부문 산정된 공사진행률의 적정성\n- 건설사업부문 주택공사 계약자산 회수가능성 평가\n- 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000454",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제18기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 건설사업부문 총계약원가 추정의 불확실성\n- 건설사업부문 산정된 공사진행률의 적정성\n- 건설사업부문 주택공사 계약자산 회수가능성 평가\n- 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000454",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제17기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 총계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률\n- 계약자산금액의 회수가능성에 대한 평가\n- 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000454",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제17기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 총계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률\n- 계약자산금액의 회수가능성에 대한 평가\n- 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000454",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제16기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 진행기준 수익인식\n- 이연법인세자산의 회수가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000454",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제16기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 진행기준 수익인식\n- 이연법인세자산의 회수가능성 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250327000192",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "bsns_year": "제40기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도·연결재무제표 감사 및 분반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "733",
+      "adt_cntrct_dtls_time": "7,550",
+      "real_exc_dtls_mendng": "440",
+      "real_exc_dtls_time": "7,203",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327000192",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도·연결재무제표 감사 및 분반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,007",
+      "adt_cntrct_dtls_time": "7,654",
+      "real_exc_dtls_mendng": "1,007",
+      "real_exc_dtls_time": "7,759",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327000192",
+      "corp_cls": "Y",
+      "corp_code": "00159698",
+      "corp_name": "지역난방공사",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도·연결재무제표 감사 및 분반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,007",
+      "adt_cntrct_dtls_time": "7,654",
+      "real_exc_dtls_mendng": "1,007",
+      "real_exc_dtls_time": "7,586",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240322000888",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권의 손실충당금 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000888",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제37기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1.횡령 사실의 인지에 따른 불법행위미수금 금액 확인 및 회수가능가액 추정\n2.불법행위미수금으로 전기재무제표 재작성\n3. 회사를 수령인으로하여 누적횡령액을 공탁. 추가횡령금액 추가하여 횡령혐의 적용기소 및 이에 대한 재무제표 영향",
+      "core_adt_matter": "원재료 매입거래에서 발생한 부정(횡령)행위와 불법행위 미수금",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240322000888",
+      "corp_cls": "Y",
+      "corp_code": "00137359",
+      "corp_name": "신풍제약",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1.횡령 사실의 인지에 따른 불법행위미수금 금액 확인 및 회수가능가액 추정\n2.불법행위미수금으로 전기재무제표 재작성\n3. 회사를 수령인으로하여 누적횡령액을 공탁. 추가횡령금액 추가하여 횡령혐의 적용기소 및 이에 대한 재무제표 영향",
+      "core_adt_matter": "매출채권의\n대손충당금 적절성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003792",
+      "corp_cls": "Y",
+      "corp_code": "00204208",
+      "corp_name": "마니커",
+      "bsns_year": "제35기(당기)",
+      "adtor": "광교회계법인",
+      "cn": "별도회계감사(분반기포함)\n연결회계감사(분반기포함)",
+      "mendng": "90,000",
+      "tot_reqre_time": "1,179시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003792",
+      "corp_cls": "Y",
+      "corp_code": "00204208",
+      "corp_name": "마니커",
+      "bsns_year": "제34기(전기)",
+      "adtor": "광교회계법인",
+      "cn": "별도회계감사(분반기포함)\n연결회계감사(분반기포함)",
+      "mendng": "90,000",
+      "tot_reqre_time": "1,022시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003792",
+      "corp_cls": "Y",
+      "corp_code": "00204208",
+      "corp_name": "마니커",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "광교회계법인",
+      "cn": "별도회계감사(분반기포함)\n연결회계감사(분반기포함)",
+      "mendng": "100,000",
+      "tot_reqre_time": "788시간\n1,013시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001356",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제78기(당기)",
+      "cntrct_cncls_de": "2024년 03월 07일",
+      "servc_cn": "SCM(Supply Chain Management) 개선을 위해\n공장 영역에서 도출된 과제의 실행 및 지원",
+      "servc_exc_pd": "2024년 03월 11일 부터\n2024년 05월 03일 까지",
+      "servc_mendng": "125 백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001356",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제77기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001356",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제76기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

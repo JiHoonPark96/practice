@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000774",
+      "corp_cls": "Y",
+      "corp_code": "00129554",
+      "corp_name": "갤럭시아에스엠",
+      "bsns_year": "제49기(당기)",
+      "adtor": "리안회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000774",
+      "corp_cls": "Y",
+      "corp_code": "00129554",
+      "corp_name": "갤럭시아에스엠",
+      "bsns_year": "제48기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출수익인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000774",
+      "corp_cls": "Y",
+      "corp_code": "00129554",
+      "corp_name": "갤럭시아에스엠",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "매출수익인식",
+      "core_adt_matter": "매출수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

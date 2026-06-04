@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003818",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003818",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2017.9.1",
+      "servc_cn": "증권신고서 제출을 위한 회계법인 재무확인서 발행 업무",
+      "servc_exc_pd": "2017.9.1\n~2017.9.7",
+      "servc_mendng": "18,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003818",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

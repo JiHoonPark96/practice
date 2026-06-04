@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001439",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "bsns_year": "제72기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 별도재무제표 : 기말감사\n연결 및 별도재무제표 : 반기, 중간감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "168,000",
+      "adt_cntrct_dtls_time": "1,750시간",
+      "real_exc_dtls_mendng": "168,000",
+      "real_exc_dtls_time": "1,785시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001439",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "bsns_year": "제71기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 : 기말감사\n연결 및 별도재무제표 : 반기, 중간감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "233,000",
+      "adt_cntrct_dtls_time": "2,100시간",
+      "real_exc_dtls_mendng": "233,000",
+      "real_exc_dtls_time": "2,137시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001439",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도재무제표 : 기말감사\n연결 및 별도재무제표 : 반기, 중간감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "173,000",
+      "adt_cntrct_dtls_time": "1,550시간",
+      "real_exc_dtls_mendng": "173,000",
+      "real_exc_dtls_time": "1,585시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

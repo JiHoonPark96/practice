@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001293",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제27기\n(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 연결/별도 재무제표\n1) 투입법에 따른 수익인식 등 회사의 회계정책\n2) 총계약원가에 대한 추정의 불확실성\n3) 산정된 공사진행률의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001293",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제26기\n(전기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 연결/별도 재무제표\n1) 투입법에 따른 수익인식 등 회사의 회계정책\n2) 총계약원가에 대한 추정의 불확실성\n3) 산정된 공사진행률의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001293",
+      "corp_cls": "Y",
+      "corp_code": "00353878",
+      "corp_name": "다스코",
+      "bsns_year": "제25기\n(전전기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 연결/별도 재무제표\n1) 투입법에 따른 수익인식 등 회사의 회계정책\n2) 총계약원가에 대한 추정의 불확실성\n3) 산정된 공사진행률의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

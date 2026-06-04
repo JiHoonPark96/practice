@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "stock_code": "002170",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001487",
+      "flr_nm": "SYTS",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "stock_code": "002170",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001898",
+      "flr_nm": "SYTS",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "stock_code": "002170",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001529",
+      "flr_nm": "SYTS",
+      "rcept_dt": "20200515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "stock_code": "002170",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200401002788",
+      "flr_nm": "SYTS",
+      "rcept_dt": "20200401",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "stock_code": "002170",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330004179",
+      "flr_nm": "SYTS",
+      "rcept_dt": "20200330",
+      "rm": "정연"
+    }
+  ]
+}

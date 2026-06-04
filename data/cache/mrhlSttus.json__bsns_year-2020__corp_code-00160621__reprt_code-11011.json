@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000787",
+      "corp_cls": "Y",
+      "corp_code": "00160621",
+      "corp_name": "한국화장품제조",
+      "se": "소액주주",
+      "shrholdr_co": "9,128",
+      "shrholdr_tot_co": "9,144",
+      "shrholdr_rate": "99.83%",
+      "hold_stock_co": "1,351,797",
+      "stock_tot_co": "4,532,000",
+      "hold_stock_rate": "29.83%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

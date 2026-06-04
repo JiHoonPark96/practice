@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000945",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제61기\n(당기)",
+      "adtor": "회계법인리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류 수정",
+      "core_adt_matter": "특수관계자 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000945",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제61기\n(당기)",
+      "adtor": "회계법인리안",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 거래 및 잔액 공시의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000945",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제60기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "투자부동산 분류 및 평가의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000945",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제60기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "투자부동산 분류 및 평가의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000945",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제59기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류 수정",
+      "core_adt_matter": "재고자산의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000945",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제59기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류 수정",
+      "core_adt_matter": "재고자산의 실재성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

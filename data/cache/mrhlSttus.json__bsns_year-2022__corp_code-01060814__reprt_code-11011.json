@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000865",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "se": "소액주주",
+      "shrholdr_co": "9,802",
+      "shrholdr_tot_co": "9,806",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "3,761,882",
+      "stock_tot_co": "15,788,671",
+      "hold_stock_rate": "23.85%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000918",
+      "corp_cls": "Y",
+      "corp_code": "00160205",
+      "corp_name": "한국내화",
+      "se": "소액주주",
+      "shrholdr_co": "8,868",
+      "shrholdr_tot_co": "8,880",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "9,369,574",
+      "stock_tot_co": "41,067,062",
+      "hold_stock_rate": "22.82%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

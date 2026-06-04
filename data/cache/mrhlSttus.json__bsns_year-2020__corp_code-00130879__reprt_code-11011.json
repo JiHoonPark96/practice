@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000932",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "se": "소액주주",
+      "shrholdr_co": "39,480",
+      "shrholdr_tot_co": "39,491",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "286,686,644",
+      "stock_tot_co": "362,085,308",
+      "hold_stock_rate": "79.18%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

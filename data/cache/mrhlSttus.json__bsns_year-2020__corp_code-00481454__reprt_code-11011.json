@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210330001151",
+      "corp_cls": "Y",
+      "corp_code": "00481454",
+      "corp_name": "금호타이어",
+      "se": "소액주주",
+      "shrholdr_co": "35,627",
+      "shrholdr_tot_co": "35,635",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "87,357,124",
+      "stock_tot_co": "287,260,287",
+      "hold_stock_rate": "30.41%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

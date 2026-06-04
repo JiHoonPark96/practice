@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "stock_code": "181710",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002540",
+      "flr_nm": "NHN",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "stock_code": "181710",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814003937",
+      "flr_nm": "NHN",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "stock_code": "181710",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240514001462",
+      "flr_nm": "NHN",
+      "rcept_dt": "20240514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00983271",
+      "corp_name": "NHN",
+      "stock_code": "181710",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240319000767",
+      "flr_nm": "NHN",
+      "rcept_dt": "20240319",
+      "rm": "연"
+    }
+  ]
+}

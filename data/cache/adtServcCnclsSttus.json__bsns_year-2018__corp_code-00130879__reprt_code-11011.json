@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002468",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제54기(당기)",
+      "adtor": "신아회계법인",
+      "cn": "연간재무제표 검토 및 재무제표에 대한 감사",
+      "mendng": "50,000,000",
+      "tot_reqre_time": "658시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002468",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제53기(전기)",
+      "adtor": "신아회계법인",
+      "cn": "연간재무제표 검토 및 재무제표에 대한 감사",
+      "mendng": "45,000,000",
+      "tot_reqre_time": "640시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002468",
+      "corp_cls": "Y",
+      "corp_code": "00130879",
+      "corp_name": "서울식품공업",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "신아회계법인",
+      "cn": "연간재무제표 검토 및 재무제표에 대한 감사",
+      "mendng": "45,000,000",
+      "tot_reqre_time": "608시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

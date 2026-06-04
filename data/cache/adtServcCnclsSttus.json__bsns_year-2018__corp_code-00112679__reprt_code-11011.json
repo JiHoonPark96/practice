@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002257",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제38기(당기)",
+      "adtor": "성도회계법인",
+      "cn": "- 개별 재무제표 감사\n-반기 재무제표 검토\n-연결 재무제표 감사",
+      "mendng": "9천만원",
+      "tot_reqre_time": "1,179",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002257",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제37기(전기)",
+      "adtor": "성도회계법인",
+      "cn": "- 개별 재무제표 감사\n-반기 재무제표 검토\n-연결 재무제표 감사",
+      "mendng": "9천만원",
+      "tot_reqre_time": "1,164",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002257",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제36기 (전전기)",
+      "adtor": "성도회계법인",
+      "cn": "- 개별 재무제표 감사\n-반기 재무제표 검토\n-연결 재무제표 감사",
+      "mendng": "9천만원",
+      "tot_reqre_time": "1,220",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

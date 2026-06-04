@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000488",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "se": "소액주주",
+      "shrholdr_co": "11,348",
+      "shrholdr_tot_co": "11,358",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "18,672,190",
+      "stock_tot_co": "44,282,310",
+      "hold_stock_rate": "42.17%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

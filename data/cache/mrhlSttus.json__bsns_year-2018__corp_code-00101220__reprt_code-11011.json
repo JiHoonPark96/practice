@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004993",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "6,519",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.78%",
+      "hold_stock_co": "5,571,813",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "44.73%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

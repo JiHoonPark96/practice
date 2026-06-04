@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001686",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자에 대한 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001686",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제14기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 및 기타무형자산에 대한 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001686",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자에 대한 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001686",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제13기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 및 기타무형자산에 대한 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001686",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자에 대한 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001686",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제12기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 및 기타무형자산에 대한 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

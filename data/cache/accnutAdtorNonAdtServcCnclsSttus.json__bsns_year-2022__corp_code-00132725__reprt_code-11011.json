@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310001031",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제62기(당기)",
+      "cntrct_cncls_de": "2023년3월14일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.3.1-2023.5.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230310001031",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제61기(전전기)",
+      "cntrct_cncls_de": "2022년3월18일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.3.1-2022.5.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230310001031",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "bsns_year": "제60기(전전기)",
+      "cntrct_cncls_de": "2020년12월28일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.3.1-2021.5.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

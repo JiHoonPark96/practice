@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000646",
+      "corp_cls": "Y",
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드",
+      "se": "소액주주",
+      "shrholdr_co": "15,819",
+      "shrholdr_tot_co": "15,842",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "1,958,264",
+      "stock_tot_co": "9,434,574",
+      "hold_stock_rate": "20.77%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

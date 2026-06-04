@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제50기(당기)",
+      "adtor": "회계법인 리안",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 관계기업투자주식 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제49기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 관계기업투자에 대한 손상평가\n(2) 매출채권 회수가능성 검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "참회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 특수관계자와의 거래\n(2) 재고자산 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

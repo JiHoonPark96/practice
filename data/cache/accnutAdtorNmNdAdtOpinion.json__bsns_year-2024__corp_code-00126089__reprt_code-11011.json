@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250604000001",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1\n) 재무제표 재작성",
+      "core_adt_matter": "1)\n자동차부품사업부 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250604000001",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 연결 재무제표 재작성",
+      "core_adt_matter": "1)자동차부품사업부 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250604000001",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 상장폐지사유 발생\n2) 회생 절차 종결\n3) 재무제표 재작성",
+      "core_adt_matter": "1) 자동차부품사업부 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250604000001",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 상장폐지사유 발생\n2) 회생 절차 종결\n3) 연결 재무제표 재작성",
+      "core_adt_matter": "1) 자동차부품사업부 현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250604000001",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 계속기업가정의 불확실성",
+      "core_adt_matter": "1) 종속기업투자주식에 대한 손상 평가\n2) 현금창출단위에 대한 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250604000001",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1) 계속기업가정의 불확실성",
+      "core_adt_matter": "1) 종속기업투자주식에 대한 손상 평가\n2) 현금창출단위에 대한 손상 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

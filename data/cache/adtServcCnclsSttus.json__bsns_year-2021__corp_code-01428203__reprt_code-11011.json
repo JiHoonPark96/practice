@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220713000282",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제2기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별재무제표에 대한 분반기 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480,000",
+      "adt_cntrct_dtls_time": "4,440",
+      "real_exc_dtls_mendng": "480,000",
+      "real_exc_dtls_time": "5,158",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220713000282",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별 재무제표에 대한 분반기 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350,000",
+      "adt_cntrct_dtls_time": "3,220",
+      "real_exc_dtls_mendng": "390,000",
+      "real_exc_dtls_time": "4,762",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220713000282",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

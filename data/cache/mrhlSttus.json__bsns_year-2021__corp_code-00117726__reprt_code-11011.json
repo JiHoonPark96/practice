@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000753",
+      "corp_cls": "Y",
+      "corp_code": "00117726",
+      "corp_name": "DYP",
+      "se": "소액주주",
+      "shrholdr_co": "9,832",
+      "shrholdr_tot_co": "9,842",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "4,855,164",
+      "stock_tot_co": "13,168,460",
+      "hold_stock_rate": "36.87%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

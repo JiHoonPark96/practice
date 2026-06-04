@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000089",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "(주)에스지고려",
+      "relate": "최대주주\n본인",
+      "bsis_posesn_stock_co": "15,575,434",
+      "bsis_posesn_stock_qota_rt": "34.64",
+      "trmend_posesn_stock_co": "15,575,434",
+      "trmend_posesn_stock_qota_rt": "34.64",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000089",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "(주)SG세계물산",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "6,509,920",
+      "bsis_posesn_stock_qota_rt": "14.47",
+      "trmend_posesn_stock_co": "6,509,920",
+      "trmend_posesn_stock_qota_rt": "14.47",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000089",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "(주)케이엠앤아이",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "4,234,379",
+      "bsis_posesn_stock_qota_rt": "9.42",
+      "trmend_posesn_stock_co": "4,234,379",
+      "trmend_posesn_stock_qota_rt": "9.42",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000089",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "26,319,733",
+      "bsis_posesn_stock_qota_rt": "58.53",
+      "trmend_posesn_stock_co": "26,319,733",
+      "trmend_posesn_stock_qota_rt": "58.53",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000089",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "stock_knd": "의결권\n없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

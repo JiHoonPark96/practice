@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000913",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제31기(당기)",
+      "adtor": "인덕\n회계법인",
+      "cn": "- 반기검토\n- 기말 연결 및 별도 감사\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215,000",
+      "adt_cntrct_dtls_time": "2,040",
+      "real_exc_dtls_mendng": "215,000",
+      "real_exc_dtls_time": "2,088",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000913",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제30기(전기)",
+      "adtor": "인덕\n회계법인",
+      "cn": "- 반기검토\n- 기말 연결 및 별도 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000",
+      "adt_cntrct_dtls_time": "1,569",
+      "real_exc_dtls_mendng": "180,000",
+      "real_exc_dtls_time": "1,779",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000913",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "인덕\n회계법인",
+      "cn": "- 반기검토\n- 기말 연결 및 별도 감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000",
+      "adt_cntrct_dtls_time": "1,569",
+      "real_exc_dtls_mendng": "200,000",
+      "real_exc_dtls_time": "1,569",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

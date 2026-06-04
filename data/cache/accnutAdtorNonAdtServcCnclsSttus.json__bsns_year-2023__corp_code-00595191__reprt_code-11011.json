@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

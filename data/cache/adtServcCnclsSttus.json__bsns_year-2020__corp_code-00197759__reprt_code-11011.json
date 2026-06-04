@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001086",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제30기(당기)",
+      "adtor": "대성삼경\n회계법인",
+      "cn": "IFRS반기개별·연결재무제표 검토,\nIFRS개별·연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135백만원",
+      "adt_cntrct_dtls_time": "1,230시간",
+      "real_exc_dtls_mendng": "135백만원",
+      "real_exc_dtls_time": "1,230시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001086",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제29기(전기)",
+      "adtor": "삼화회계법인",
+      "cn": "IFRS반기개별·연결재무제표 검토,\nIFRS개별·연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80백만원",
+      "adt_cntrct_dtls_time": "892시간",
+      "real_exc_dtls_mendng": "80백만원",
+      "real_exc_dtls_time": "892시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001086",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "삼화회계법인",
+      "cn": "IFRS반기개별·연결재무제표 검토,\nIFRS개별·연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60백만원",
+      "adt_cntrct_dtls_time": "870시간",
+      "real_exc_dtls_mendng": "60백만원",
+      "real_exc_dtls_time": "870시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

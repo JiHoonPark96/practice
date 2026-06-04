@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "보통주",
+      "nm": "정용진",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "833,330",
+      "bsis_posesn_stock_qota_rt": "52.08",
+      "trmend_posesn_stock_co": "833,330",
+      "trmend_posesn_stock_qota_rt": "52.08",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "보통주",
+      "nm": "(주)신세계",
+      "relate": "특수관계인중 계열사",
+      "bsis_posesn_stock_co": "166,670",
+      "bsis_posesn_stock_qota_rt": "10.42",
+      "trmend_posesn_stock_co": "166,670",
+      "trmend_posesn_stock_qota_rt": "10.42",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,000,000",
+      "bsis_posesn_stock_qota_rt": "62.50",
+      "trmend_posesn_stock_co": "1,000,000",
+      "trmend_posesn_stock_qota_rt": "62.50",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004895",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

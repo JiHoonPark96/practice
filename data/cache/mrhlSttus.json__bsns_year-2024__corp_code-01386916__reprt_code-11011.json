@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000867",
+      "corp_cls": "Y",
+      "corp_code": "01386916",
+      "corp_name": "SK아이이테크놀로지",
+      "se": "소액주주",
+      "shrholdr_co": "391,975",
+      "shrholdr_tot_co": "391,982",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "24,098,285",
+      "stock_tot_co": "71,297,592",
+      "hold_stock_rate": "33.80%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

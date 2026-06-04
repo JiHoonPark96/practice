@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001154",
+      "corp_cls": "Y",
+      "corp_code": "00136086",
+      "corp_name": "무림페이퍼",
+      "se": "소액주주",
+      "shrholdr_co": "9,415",
+      "shrholdr_tot_co": "9,423",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "18,167,059",
+      "stock_tot_co": "41,609,310",
+      "hold_stock_rate": "43.66%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

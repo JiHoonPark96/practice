@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001235",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제39기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분·반기 재무제표 검토\n별도재무제표 감사\n연결재무제표 감사\n20-F Filing",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,200\n(연간)",
+      "adt_cntrct_dtls_time": "33,000\n(연간)",
+      "real_exc_dtls_mendng": "3,200\n(연간)",
+      "real_exc_dtls_time": "33,062\n(연간)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001235",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제38기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분·반기 재무제표 검토\n별도재무제표 감사\n연결재무제표 감사\n20-F Filing",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,000\n(연간)",
+      "adt_cntrct_dtls_time": "39,024\n(연간)",
+      "real_exc_dtls_mendng": "3,000\n(연간)",
+      "real_exc_dtls_time": "35,121\n(연간)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001235",
+      "corp_cls": "Y",
+      "corp_code": "00190321",
+      "corp_name": "케이티",
+      "bsns_year": "제37기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분·반기 재무제표 검토\n별도재무제표 감사\n연결재무제표 감사\n20-F Filing",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2,600\n(연간)",
+      "adt_cntrct_dtls_time": "43,077\n(연간)",
+      "real_exc_dtls_mendng": "2,600\n(연간)",
+      "real_exc_dtls_time": "36,245\n(연간)",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000937",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "50,348",
+      "shrholdr_tot_co": "50,351",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "39,209,234",
+      "stock_tot_co": "42,367,042",
+      "hold_stock_rate": "92.55%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

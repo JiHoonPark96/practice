@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003654",
+      "corp_cls": "Y",
+      "corp_code": "00109754",
+      "corp_name": "대림바스",
+      "se": "소액주주",
+      "shrholdr_co": "7,302",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "8,167,344",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "48.99%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

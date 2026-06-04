@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000302",
+      "corp_cls": "Y",
+      "corp_code": "00113225",
+      "corp_name": "대한제강",
+      "se": "소액주주",
+      "shrholdr_co": "6,105",
+      "shrholdr_tot_co": "6,126",
+      "shrholdr_rate": "99.67%",
+      "hold_stock_co": "8,815,473",
+      "stock_tot_co": "24,646,734",
+      "hold_stock_rate": "35.78%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

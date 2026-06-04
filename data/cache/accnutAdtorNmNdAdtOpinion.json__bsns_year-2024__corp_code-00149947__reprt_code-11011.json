@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001192",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "토지 재평가모형 적용",
+      "core_adt_matter": "신약 개발비 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001192",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "토지 재평가모형 적용",
+      "core_adt_matter": "신약 개발비 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001192",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신약 개발비 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001192",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신약 개발비 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001192",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신약 개발비 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001192",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "신약 개발비 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

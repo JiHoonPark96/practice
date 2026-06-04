@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003412",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "se": "소액주주",
+      "shrholdr_co": "40,038",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "11,629,890",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "49.14%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

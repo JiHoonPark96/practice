@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000948",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "se": "소액주주",
+      "shrholdr_co": "50,414",
+      "shrholdr_tot_co": "50,448",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "9,741,113",
+      "stock_tot_co": "28,226,062",
+      "hold_stock_rate": "34.51%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000816",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 종속기업투자자산 손상검사\n- 현금창출단위 영업권 손상검사\n- 현금창출단위 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000816",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 종속기업투자자산 손상검사\n- 현금창출단위 영업권 손상검사\n- 현금창출단위 손상검사\n- 사업결합에 따른 매수가격 배분",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000816",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 수출매출의 수익인식귀속시기",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

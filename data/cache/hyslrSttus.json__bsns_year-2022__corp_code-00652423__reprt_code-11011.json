@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250110000571",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "(주)버킷스튜디오",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "26,918,410",
+      "bsis_posesn_stock_qota_rt": "38.83",
+      "trmend_posesn_stock_co": "106,559,446",
+      "trmend_posesn_stock_qota_rt": "71.53",
+      "rm": "주)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20250110000571",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "강지연",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "34,000",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20250110000571",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "26,918,410",
+      "bsis_posesn_stock_qota_rt": "38.83",
+      "trmend_posesn_stock_co": "106,593,446",
+      "trmend_posesn_stock_qota_rt": "71.55",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20250110000571",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

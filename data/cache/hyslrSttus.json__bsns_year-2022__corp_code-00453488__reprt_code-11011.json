@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230831001245",
+      "corp_cls": "Y",
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_knd": "보통주",
+      "nm": "(주)제이앤에쿼티파트너스",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,256,829",
+      "trmend_posesn_stock_qota_rt": "9.01",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831001245",
+      "corp_cls": "Y",
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,256,829",
+      "trmend_posesn_stock_qota_rt": "9.01",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831001245",
+      "corp_cls": "Y",
+      "corp_code": "00453488",
+      "corp_name": "다이나믹디자인",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

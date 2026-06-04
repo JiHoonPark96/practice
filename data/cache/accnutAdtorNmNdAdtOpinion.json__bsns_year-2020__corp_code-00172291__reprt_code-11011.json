@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210706000401",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제44기(당기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "재무제표일에 근접한 기간에 발생한 매출거래의 기간 귀속의 적정성여부에 대하여 표본추출방식을 이용한 입증감사 절차의 수행",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210706000401",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제43기(전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210706000401",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

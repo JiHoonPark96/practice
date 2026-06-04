@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004575",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제19기(당기)",
+      "cntrct_cncls_de": "2019.04.15",
+      "servc_cn": "CDP 환경변화 대응 자문용역",
+      "servc_exc_pd": "2019.04 ~ 2019.08",
+      "servc_mendng": "21",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004575",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제18기(전기)",
+      "cntrct_cncls_de": "2018.04.09",
+      "servc_cn": "세무자문\n(주1)",
+      "servc_exc_pd": "2018.04 ~ 2019.05",
+      "servc_mendng": "123",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004575",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제18기(전기)",
+      "cntrct_cncls_de": "2018.03.02",
+      "servc_cn": "CDP 환경변화 대응 자문용역",
+      "servc_exc_pd": "2018.03 ~ 2018.07",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004575",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제17기(전전기)",
+      "cntrct_cncls_de": "2017.05.24",
+      "servc_cn": "CDP 환경변화 대응 자문용역",
+      "servc_exc_pd": "2017.05 ~ 2017.08",
+      "servc_mendng": "18",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

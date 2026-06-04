@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004898",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "bsns_year": "제61기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "외부 회계감사 용역 계약",
+      "mendng": "70,000",
+      "tot_reqre_time": "769",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004898",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "bsns_year": "제60기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "외부 회계감사 용역 계약",
+      "mendng": "50,000",
+      "tot_reqre_time": "759",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004898",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "외부 회계감사 용역 계약",
+      "mendng": "48,000",
+      "tot_reqre_time": "704",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

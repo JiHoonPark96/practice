@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250325000971",
+      "corp_cls": "Y",
+      "corp_code": "00104698",
+      "corp_name": "LS네트웍스",
+      "se": "소액주주",
+      "shrholdr_co": "20,363",
+      "shrholdr_tot_co": "20,367",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "14,328,619",
+      "stock_tot_co": "78,803,016",
+      "hold_stock_rate": "18.19%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

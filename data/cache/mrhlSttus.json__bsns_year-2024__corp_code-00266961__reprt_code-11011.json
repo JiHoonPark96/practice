@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000645",
+      "corp_cls": "Y",
+      "corp_code": "00266961",
+      "corp_name": "NAVER",
+      "se": "소액주주",
+      "shrholdr_co": "907,390",
+      "shrholdr_tot_co": "907,459",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "117,100,594",
+      "stock_tot_co": "158,437,008",
+      "hold_stock_rate": "73.91%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

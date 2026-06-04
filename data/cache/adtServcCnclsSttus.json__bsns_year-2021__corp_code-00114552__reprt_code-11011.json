@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310000616",
+      "corp_cls": "Y",
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "bsns_year": "제60기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 회계감사 및 분,반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160백만원/년",
+      "adt_cntrct_dtls_time": "1,820시간",
+      "real_exc_dtls_mendng": "160백만원",
+      "real_exc_dtls_time": "1,541시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310000616",
+      "corp_cls": "Y",
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "bsns_year": "제59기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 회계감사 및 분,반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "149백만원/년",
+      "adt_cntrct_dtls_time": "1,412시간",
+      "real_exc_dtls_mendng": "149백만원",
+      "real_exc_dtls_time": "1,430시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310000616",
+      "corp_cls": "Y",
+      "corp_code": "00114552",
+      "corp_name": "도화엔지니어링",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 회계감사 및 분,반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "138백만원/년",
+      "adt_cntrct_dtls_time": "1,260시간",
+      "real_exc_dtls_mendng": "138백만원",
+      "real_exc_dtls_time": "1,260시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

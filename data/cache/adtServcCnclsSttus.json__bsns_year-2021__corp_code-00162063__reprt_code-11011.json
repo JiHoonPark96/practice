@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220713000230",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "650백만원",
+      "adt_cntrct_dtls_time": "6,400시간",
+      "real_exc_dtls_mendng": "650백만원",
+      "real_exc_dtls_time": "6,441시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220713000230",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610백만원",
+      "adt_cntrct_dtls_time": "6,068시간",
+      "real_exc_dtls_mendng": "610백만원",
+      "real_exc_dtls_time": "6,726시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220713000230",
+      "corp_cls": "Y",
+      "corp_code": "00162063",
+      "corp_name": "한신공영",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분반기검토,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "460백만원",
+      "adt_cntrct_dtls_time": "4,668시간",
+      "real_exc_dtls_mendng": "460백만원",
+      "real_exc_dtls_time": "5,016시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

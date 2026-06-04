@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001430",
+      "corp_cls": "Y",
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "se": "소액주주",
+      "shrholdr_co": "52,552",
+      "shrholdr_tot_co": "52,554",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "18,541,329",
+      "stock_tot_co": "47,948,695",
+      "hold_stock_rate": "38.67%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

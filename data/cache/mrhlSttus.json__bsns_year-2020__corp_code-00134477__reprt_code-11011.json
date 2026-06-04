@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210218001086",
+      "corp_cls": "Y",
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "se": "소액주주",
+      "shrholdr_co": "5,313",
+      "shrholdr_tot_co": "5,320",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "7,726,706",
+      "stock_tot_co": "33,252,697",
+      "hold_stock_rate": "23.24%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

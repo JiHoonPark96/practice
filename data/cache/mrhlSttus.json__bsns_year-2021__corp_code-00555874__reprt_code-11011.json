@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220331002829",
+      "corp_cls": "Y",
+      "corp_code": "00555874",
+      "corp_name": "제주항공",
+      "se": "소액주주",
+      "shrholdr_co": "77,738",
+      "shrholdr_tot_co": "77,769",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "17,594,904",
+      "stock_tot_co": "49,759,668",
+      "hold_stock_rate": "35.36%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

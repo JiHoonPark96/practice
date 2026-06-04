@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210916000086",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제69기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "개별 및 연결  반기검토, 중간감사, 기말감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "59백만원",
+      "adt_cntrct_dtls_time": "1,098",
+      "real_exc_dtls_mendng": "59백만원",
+      "real_exc_dtls_time": "1,167",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20210916000086",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제68기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "개별 및 연결  반기검토, 중간감사, 기말감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "58백만원",
+      "adt_cntrct_dtls_time": "1,098",
+      "real_exc_dtls_mendng": "58백만원",
+      "real_exc_dtls_time": "1,110",
+      "stlm_dt": "2021-06-30"
+    },
+    {
+      "rcept_no": "20210916000086",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "bsns_year": "제67 기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "개별 및 연결  반기검토, 중간감사, 기말감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "58백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "58백만원",
+      "real_exc_dtls_time": "974",
+      "stlm_dt": "2021-06-30"
+    }
+  ]
+}

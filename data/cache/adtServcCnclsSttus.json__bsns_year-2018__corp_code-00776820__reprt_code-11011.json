@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004682",
+      "corp_cls": "Y",
+      "corp_code": "00776820",
+      "corp_name": "영원무역",
+      "bsns_year": "제10기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분.반기 재무제표 검토\n별도 및 연결재무제표 감사",
+      "mendng": "160,000 ",
+      "tot_reqre_time": "2,269시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004682",
+      "corp_cls": "Y",
+      "corp_code": "00776820",
+      "corp_name": "영원무역",
+      "bsns_year": "제9기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분.반기 재무제표 검토\n별도 및 연결재무제표 감사",
+      "mendng": "130,000 ",
+      "tot_reqre_time": "1,949시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004682",
+      "corp_cls": "Y",
+      "corp_code": "00776820",
+      "corp_name": "영원무역",
+      "bsns_year": "제8기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분.반기 재무제표 검토\n별도 및 연결재무제표 감사",
+      "mendng": "130,000 ",
+      "tot_reqre_time": "1,889시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

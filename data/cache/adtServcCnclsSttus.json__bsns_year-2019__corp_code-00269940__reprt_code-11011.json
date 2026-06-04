@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002664",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제 27기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도반기검토(2019.07.22~2019.07.26)\n연결반기검토(2019.07.29~2019.08.14)\n별도기말감사(2020.02.17~2020.02.21)\n연결기말감사(2020.02.24~2020.02.28)",
+      "mendng": "285,000",
+      "tot_reqre_time": "5,839 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002664",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제26기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도반기검토(2018.07.23~2018.07.27)\n연결반기검토(2018.07.30~2018.08.14)\n별도기말감사(2019.01.29~2019.02.12)\n연결기말감사(2019.02.13~2019.02.22)",
+      "mendng": "180,000",
+      "tot_reqre_time": "2,951시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002664",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제25기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도반기검토(2017.07.24~2017.07.26)\n연결반기검토(2017.07.27~2017.08.11)\n별도기말감사(2018.01.29~2018.02.02)연결기말감사(2018.02.05~2018.02.14)",
+      "mendng": "145,000",
+      "tot_reqre_time": "2,484시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

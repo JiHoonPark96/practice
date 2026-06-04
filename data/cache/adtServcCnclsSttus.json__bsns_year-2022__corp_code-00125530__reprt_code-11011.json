@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001219",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제55기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "중간감사, 재물조사\n분/반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도 감사\n분/반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550,000천원",
+      "adt_cntrct_dtls_time": "3,787시간",
+      "real_exc_dtls_mendng": "550,000천원",
+      "real_exc_dtls_time": "3,744시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001219",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제54기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "중간감사, 재물조사\n분/반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도 감사\n분/반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "490,000천원",
+      "adt_cntrct_dtls_time": "4,900시간",
+      "real_exc_dtls_mendng": "490,000천원",
+      "real_exc_dtls_time": "4,755시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001219",
+      "corp_cls": "Y",
+      "corp_code": "00125530",
+      "corp_name": "삼립",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "중간감사, 재물조사\n분/반기재무제표에 대한 검토보고서\n재무제표에 대한 감사보고서\n내부회계관리제도 감사\n분/반기연결재무제표에 대한 검토보고서\n연결재무제표에 대한 감사보고서",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550,000천원",
+      "adt_cntrct_dtls_time": "5,258시간",
+      "real_exc_dtls_mendng": "550,000천원",
+      "real_exc_dtls_time": "7,115시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

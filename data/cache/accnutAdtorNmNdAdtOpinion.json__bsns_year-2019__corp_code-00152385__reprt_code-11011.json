@@ -1,0 +1,41 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201113000797",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제49기(당기)",
+      "adtor": "위드회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(1) 종속기업, 관계기업 및 공동기업에 대한 투자자산의 손상여부 파악\n(2) 전환사채 발행 및 평가의 적정성\n(3) 사업결합",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201113000797",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제48기(전기)",
+      "adtor": "위드회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20201113000797",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "위드회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(1) 보고기간일 이후 사건\n(2) 수주산업 핵심감사항목에 대한 감사인의 강조사항 등",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

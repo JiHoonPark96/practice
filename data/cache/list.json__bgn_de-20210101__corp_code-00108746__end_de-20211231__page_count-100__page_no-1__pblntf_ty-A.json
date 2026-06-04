@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_code": "015590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211112000413",
+      "flr_nm": "DKME",
+      "rcept_dt": "20211112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_code": "015590",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210812000171",
+      "flr_nm": "DKME",
+      "rcept_dt": "20210812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_code": "015590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000577",
+      "flr_nm": "DKME",
+      "rcept_dt": "20210517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "stock_code": "015590",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210317000619",
+      "flr_nm": "DKME",
+      "rcept_dt": "20210317",
+      "rm": ""
+    }
+  ]
+}

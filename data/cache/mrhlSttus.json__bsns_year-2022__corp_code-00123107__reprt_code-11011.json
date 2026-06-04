@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000878",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "se": "소액주주",
+      "shrholdr_co": "19,334",
+      "shrholdr_tot_co": "19,342",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "36,112,667",
+      "stock_tot_co": "59,900,000",
+      "hold_stock_rate": "60.29%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310000633",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "se": "소액주주",
+      "shrholdr_co": "12,606",
+      "shrholdr_tot_co": "12,621",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "1,693,154",
+      "stock_tot_co": "4,566,596",
+      "hold_stock_rate": "37.08%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

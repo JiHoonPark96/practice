@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000669",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "bsns_year": "제36기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "수익 인식",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000669",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "bsns_year": "제35기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000669",
+      "corp_cls": "Y",
+      "corp_code": "00131197",
+      "corp_name": "서원",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "관계기업 지분율 증가에 따른\n익금불산입비율 변경효과",
+      "core_adt_matter": "관계기업투자주식 추가취득",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

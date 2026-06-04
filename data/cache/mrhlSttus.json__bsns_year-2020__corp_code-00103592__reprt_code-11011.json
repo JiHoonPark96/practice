@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210405002921",
+      "corp_cls": "Y",
+      "corp_code": "00103592",
+      "corp_name": "광동제약",
+      "se": "소액주주",
+      "shrholdr_co": "31,824",
+      "shrholdr_tot_co": "31,847",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "22,824,921",
+      "stock_tot_co": "52,420,851",
+      "hold_stock_rate": "43.54%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

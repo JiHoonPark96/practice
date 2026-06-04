@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000844",
+      "corp_cls": "Y",
+      "corp_code": "00118965",
+      "corp_name": "티에이치엔",
+      "bsns_year": "제37기(당기)",
+      "adtor": "선일회계법인",
+      "cn": "반기재무제표 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "143,000,000원",
+      "adt_cntrct_dtls_time": "2,098",
+      "real_exc_dtls_mendng": "143,000,000",
+      "real_exc_dtls_time": "2,031",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000844",
+      "corp_cls": "Y",
+      "corp_code": "00118965",
+      "corp_name": "티에이치엔",
+      "bsns_year": "제36기(전기)",
+      "adtor": "선일회계법인",
+      "cn": "반기재무제표 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "115,000,000원",
+      "adt_cntrct_dtls_time": "1,696",
+      "real_exc_dtls_mendng": "115,000,000원",
+      "real_exc_dtls_time": "1,550",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000844",
+      "corp_cls": "Y",
+      "corp_code": "00118965",
+      "corp_name": "티에이치엔",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "반기재무제표 검토\n별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "105,000,000원",
+      "adt_cntrct_dtls_time": "1,560",
+      "real_exc_dtls_mendng": "105,000,000원",
+      "real_exc_dtls_time": "1,564",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

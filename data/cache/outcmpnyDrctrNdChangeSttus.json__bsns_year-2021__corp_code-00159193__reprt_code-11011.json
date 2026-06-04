@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220516001505",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "drctr_co": "15",
+      "otcmp_drctr_co": "8",
+      "apnt": "6",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

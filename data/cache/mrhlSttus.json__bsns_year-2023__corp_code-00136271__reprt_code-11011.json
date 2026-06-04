@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001609",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "se": "소액주주",
+      "shrholdr_co": "278,886",
+      "shrholdr_tot_co": "278,898",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "162,978,177",
+      "stock_tot_co": "203,565,999",
+      "hold_stock_rate": "79.17%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

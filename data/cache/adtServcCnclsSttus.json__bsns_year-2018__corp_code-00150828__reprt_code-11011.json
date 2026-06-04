@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003093",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "bsns_year": "제60기",
+      "adtor": "삼일회계법인",
+      "cn": "반기 검토, 기말감사",
+      "mendng": "230",
+      "tot_reqre_time": "1,479시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003093",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "bsns_year": "제59기",
+      "adtor": "안진회계법인",
+      "cn": "반기 검토, 기말감사",
+      "mendng": "160",
+      "tot_reqre_time": "1,656시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003093",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "bsns_year": "제58기",
+      "adtor": "안진회계법인",
+      "cn": "분, 반기 검토, 기말감사",
+      "mendng": "190",
+      "tot_reqre_time": "1,920시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

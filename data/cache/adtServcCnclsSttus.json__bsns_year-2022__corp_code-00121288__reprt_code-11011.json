@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000713",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "bsns_year": "제55기",
+      "adtor": "성현회계법인",
+      "cn": "반기검토\n기말감사\n내부회계관리제도감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160,000 ",
+      "adt_cntrct_dtls_time": "1,762 ",
+      "real_exc_dtls_mendng": "160,000 ",
+      "real_exc_dtls_time": "1,752 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000713",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "bsns_year": "제54기",
+      "adtor": "성현회계법인",
+      "cn": "반기검토\n기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000 ",
+      "adt_cntrct_dtls_time": "1,350 ",
+      "real_exc_dtls_mendng": "120,000 ",
+      "real_exc_dtls_time": "1,334",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000713",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "bsns_year": "제53기",
+      "adtor": "성현회계법인",
+      "cn": "반기검토\n기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000 ",
+      "adt_cntrct_dtls_time": "1,300 ",
+      "real_exc_dtls_mendng": "120,000 ",
+      "real_exc_dtls_time": "1,337 ",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

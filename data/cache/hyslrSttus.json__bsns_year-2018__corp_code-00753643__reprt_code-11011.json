@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20191128000368",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "더블유글로벌4호조합",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "914,076",
+      "bsis_posesn_stock_qota_rt": "10.17",
+      "trmend_posesn_stock_co": "914,076",
+      "trmend_posesn_stock_qota_rt": "7.60",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20191128000368",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "더블유글로벌3호조합",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "238,916",
+      "bsis_posesn_stock_qota_rt": "2.66",
+      "trmend_posesn_stock_co": "238,916",
+      "trmend_posesn_stock_qota_rt": "1.99",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20191128000368",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,152,992",
+      "bsis_posesn_stock_qota_rt": "12.82",
+      "trmend_posesn_stock_co": "1,152,992",
+      "trmend_posesn_stock_qota_rt": "9.59",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20191128000368",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

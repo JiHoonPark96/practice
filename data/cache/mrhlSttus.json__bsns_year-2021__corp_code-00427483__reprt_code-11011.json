@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000922",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "se": "소액주주",
+      "shrholdr_co": "31,938",
+      "shrholdr_tot_co": "31,949",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "4,154,478",
+      "stock_tot_co": "10,762,695",
+      "hold_stock_rate": "35.87%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

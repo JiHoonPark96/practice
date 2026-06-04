@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003128",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "보통주",
+      "nm": "대덕기연(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "3,695,127",
+      "bsis_posesn_stock_qota_rt": "12.74",
+      "trmend_posesn_stock_co": "3,695,127",
+      "trmend_posesn_stock_qota_rt": "12.74",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003128",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "보통주",
+      "nm": "최무형",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "592,246",
+      "bsis_posesn_stock_qota_rt": "2.04",
+      "trmend_posesn_stock_co": "592,246",
+      "trmend_posesn_stock_qota_rt": "2.04",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003128",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "4,287,373",
+      "bsis_posesn_stock_qota_rt": "14.78",
+      "trmend_posesn_stock_co": "4,287,373",
+      "trmend_posesn_stock_qota_rt": "14.78",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003128",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

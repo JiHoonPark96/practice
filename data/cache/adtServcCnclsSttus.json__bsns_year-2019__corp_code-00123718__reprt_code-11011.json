@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327001176",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결재무제표 및 별도재무제표에 대한\n결산,분반기,중간감사,재고실사,내부회계관리제도 검토에 관한 사항",
+      "mendng": "180,000,000",
+      "tot_reqre_time": "1,961시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001176",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결재무제표 및 별도재무제표에 대한\n결산,반기,중간감사,재고실사,내부회계관리제도 검토에 관한 사항",
+      "mendng": "98,000,000",
+      "tot_reqre_time": "1,297시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327001176",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결재무제표 및 별도재무제표에 대한\n결산,반기,중간감사,재고실사,내부회계관리제도 검토에 관한 사항",
+      "mendng": "95,000,000",
+      "tot_reqre_time": "1,029시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

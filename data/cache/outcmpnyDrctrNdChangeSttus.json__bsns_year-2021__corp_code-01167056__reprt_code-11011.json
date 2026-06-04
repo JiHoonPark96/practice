@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220311000417",
+      "corp_cls": "Y",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "drctr_co": "4",
+      "otcmp_drctr_co": "2",
+      "apnt": "1",
+      "rlsofc": "0",
+      "mdstrm_resig": "0",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000779",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "bsns_year": "제31기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 내부회계감사, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "1,666",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "1,872",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000779",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "bsns_year": "제30기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 내부회계감사, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240",
+      "adt_cntrct_dtls_time": "1,766",
+      "real_exc_dtls_mendng": "240",
+      "real_exc_dtls_time": "1,692",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000779",
+      "corp_cls": "Y",
+      "corp_code": "00198697",
+      "corp_name": "일진디스플",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 내부회계감사, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "245",
+      "adt_cntrct_dtls_time": "1,736",
+      "real_exc_dtls_mendng": "245",
+      "real_exc_dtls_time": "2,796",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

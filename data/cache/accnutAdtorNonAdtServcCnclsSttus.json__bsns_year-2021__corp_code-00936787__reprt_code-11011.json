@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220811000214",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": "2021.12.22",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.12.22 ~ 2022.03.31",
+      "servc_mendng": "32백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220811000214",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220811000214",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2020.09.14",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.09.14 ~ 2021.03.31",
+      "servc_mendng": "14백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220811000214",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220811000214",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "2019.12.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.12.12 ~ 2020.03.31",
+      "servc_mendng": "14백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220811000214",
+      "corp_cls": "Y",
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "2019.10.25",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2019.10.25 ~ 2020.01.09",
+      "servc_mendng": "106백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

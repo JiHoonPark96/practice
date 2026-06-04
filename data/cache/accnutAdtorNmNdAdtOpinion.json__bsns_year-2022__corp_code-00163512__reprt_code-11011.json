@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001412",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제67기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의 관점에서 적정하게 표시",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(연결재무제표)\n1. 현금창출단위의 손상\n(별도재무제표)\n1. 종속기업투자주식의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001412",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제66기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의 관점에서 적정하게 표시",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "(연결재무제표)\n1. 현금창출단위의 손상\n(별도재무제표)\n1. 종속기업투자주식의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001412",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의 관점에서 적정하게 표시",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": " (연결재무제표)\n1. 수익인식의 실재성 및 기간귀속\n2. 현금창출단위의 손상\n(별도재무제표)\n1. 수익인식의 실재성 및 기간귀속\n2. 종속기업투자주식의 손상",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

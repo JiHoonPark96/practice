@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001226",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제43기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001226",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제42기(전기)",
+      "cntrct_cncls_de": "2021년7월16일",
+      "servc_cn": "법인세 세무조정계산서 작성 및 전자신고",
+      "servc_exc_pd": "계약일로부터 2022년 3월 31일까지",
+      "servc_mendng": "9,000,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001226",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "bsns_year": "제41기(전전기)",
+      "cntrct_cncls_de": "2020년7월27일",
+      "servc_cn": "법인세 세무조정계산서 작성 및 전자신고",
+      "servc_exc_pd": "계약일로부터 2021년 3월 31일까지",
+      "servc_mendng": "8,000,000",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

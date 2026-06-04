@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000849",
+      "corp_cls": "Y",
+      "corp_code": "00413523",
+      "corp_name": "한미글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "28,106",
+      "shrholdr_tot_co": "28,117",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "7,576,667",
+      "stock_tot_co": "10,957,550",
+      "hold_stock_rate": "69.15%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

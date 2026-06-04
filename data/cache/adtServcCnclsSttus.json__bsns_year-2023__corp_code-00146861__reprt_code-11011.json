@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001903",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "bsns_year": "제37기(당기)",
+      "adtor": "안진 회계법인",
+      "cn": "반기,개별,연결재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320,000",
+      "adt_cntrct_dtls_time": "2,560",
+      "real_exc_dtls_mendng": "320,000",
+      "real_exc_dtls_time": "2,536",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001903",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "bsns_year": "제36기(전기)",
+      "adtor": "안진 회계법인",
+      "cn": "반기,개별,연결재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280,000",
+      "adt_cntrct_dtls_time": "2,678",
+      "real_exc_dtls_mendng": "280,000",
+      "real_exc_dtls_time": "2,678",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001903",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "삼정 회계법인",
+      "cn": "반기,개별,연결재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000",
+      "adt_cntrct_dtls_time": "2,185",
+      "real_exc_dtls_mendng": "200,000",
+      "real_exc_dtls_time": "2,185",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

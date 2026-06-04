@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000974",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 및 결산",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "1,785",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "2,050",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000974",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기 및 결산",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "1,785",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "1,827",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000974",
+      "corp_cls": "Y",
+      "corp_code": "00148522",
+      "corp_name": "퍼스텍",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기 및 결산",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "151백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "151백만원",
+      "real_exc_dtls_time": "1,586",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

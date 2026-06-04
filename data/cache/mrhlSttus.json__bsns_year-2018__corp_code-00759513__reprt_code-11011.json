@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004159",
+      "corp_cls": "Y",
+      "corp_code": "00759513",
+      "corp_name": "LX하우시스",
+      "se": "소액주주",
+      "shrholdr_co": "21,970",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "95.70%",
+      "hold_stock_co": "5,964,015",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "59.64%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001395",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 종속기업투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001395",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제35기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 현금창출단위의 손상평가\n2. 투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001395",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 종속기업투자주식의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001395",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제34기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 현금창출단위의 손상평가\n2. 투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001395",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001395",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제33기\n(전전기)",
+      "adtor": "서현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 투입법에 따른 수익인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

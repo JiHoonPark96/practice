@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "se": "소액주주",
+      "shrholdr_co": "23,906",
+      "shrholdr_tot_co": "23,925",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "10,089,631",
+      "stock_tot_co": "16,350,924",
+      "hold_stock_rate": "61.71%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

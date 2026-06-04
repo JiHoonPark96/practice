@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210729000451",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_knd": "보통주",
+      "nm": "FAIRMONT PARTNERS.,LTD",
+      "relate": "본 인",
+      "bsis_posesn_stock_co": "19,346,342",
+      "bsis_posesn_stock_qota_rt": "17.26",
+      "trmend_posesn_stock_co": "19,346,342",
+      "trmend_posesn_stock_qota_rt": "16.57",
+      "rm": "18CB전환에 따른 지분율 변동",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210729000451",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_knd": "보통주",
+      "nm": "리얼티디아이파트너스(주)",
+      "relate": "특수\n관계인",
+      "bsis_posesn_stock_co": "8,350,000",
+      "bsis_posesn_stock_qota_rt": "7.45",
+      "trmend_posesn_stock_co": "8,350,000",
+      "trmend_posesn_stock_qota_rt": "7.15",
+      "rm": "상동",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210729000451",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "27,696,342",
+      "bsis_posesn_stock_qota_rt": "24.71",
+      "trmend_posesn_stock_co": "27,696,342",
+      "trmend_posesn_stock_qota_rt": "23.72",
+      "rm": "상동",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210729000451",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "se": "소액주주",
+      "shrholdr_co": "33,261",
+      "shrholdr_tot_co": "33,278",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "16,072,376",
+      "stock_tot_co": "41,851,340",
+      "hold_stock_rate": "38.40%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

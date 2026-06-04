@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001273",
+      "corp_cls": "Y",
+      "corp_code": "00158307",
+      "corp_name": "롯데하이마트",
+      "se": "소액주주",
+      "shrholdr_co": "25,134",
+      "shrholdr_tot_co": "25,145",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "7,682,671",
+      "stock_tot_co": "23,607,712",
+      "hold_stock_rate": "32.54%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

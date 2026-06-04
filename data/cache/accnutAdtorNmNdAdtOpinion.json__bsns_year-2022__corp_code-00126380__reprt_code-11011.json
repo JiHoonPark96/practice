@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230307000542",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감\n (별도재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230307000542",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감\n (별도재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230307000542",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감\n 2. 영업권 및 내용연수가 비한정인 무형자산 손상\n (별도재무제표)\n 1. 재화의 판매장려활동에 대한 매출차감",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

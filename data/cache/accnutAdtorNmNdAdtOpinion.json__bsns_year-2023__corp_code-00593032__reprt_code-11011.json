@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001217",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제18기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 재고자산 저가법 평가\n(3) 종속기업투자 손상평가\n(3) 영업권을 포함한 현금창출단위에 대한 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001217",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제17기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 재고자산 저가법 평가\n(2) 종속기업투자 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001217",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(1) 패션부문 재고자산 평가\n(2) 영업권을 포함한 현금창출단위에 대한 손상검토",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

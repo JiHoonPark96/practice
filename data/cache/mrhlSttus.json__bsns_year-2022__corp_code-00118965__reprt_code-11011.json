@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000844",
+      "corp_cls": "Y",
+      "corp_code": "00118965",
+      "corp_name": "티에이치엔",
+      "se": "소액주주",
+      "shrholdr_co": "11,832",
+      "shrholdr_tot_co": "11,836",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "10,337,720",
+      "stock_tot_co": "18,000,000",
+      "hold_stock_rate": "57.43%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

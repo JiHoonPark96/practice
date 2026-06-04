@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001190",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제21기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출매출의 발생사실과 기간귀속, 판매단가의 정확성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001190",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제20기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품 수출매출의 인식의 발생사실 및 기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001190",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품 수출매출의 인식의 발생사실 및 기간귀속",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

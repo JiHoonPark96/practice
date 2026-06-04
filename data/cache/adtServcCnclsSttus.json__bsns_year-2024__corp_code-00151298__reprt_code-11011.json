@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250226005968",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "bsns_year": "제54기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "199",
+      "adt_cntrct_dtls_time": "1,540",
+      "real_exc_dtls_mendng": "199",
+      "real_exc_dtls_time": "1,596",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250226005968",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "bsns_year": "제53기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "199",
+      "adt_cntrct_dtls_time": "1,540",
+      "real_exc_dtls_mendng": "199",
+      "real_exc_dtls_time": "1,571",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250226005968",
+      "corp_cls": "Y",
+      "corp_code": "00151298",
+      "corp_name": "DSR제강",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "197",
+      "adt_cntrct_dtls_time": "1,580",
+      "real_exc_dtls_mendng": "197",
+      "real_exc_dtls_time": "1,642",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

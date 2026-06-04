@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000673",
+      "corp_cls": "Y",
+      "corp_code": "00113492",
+      "corp_name": "깨끗한나라",
+      "se": "소액주주",
+      "shrholdr_co": "22,982",
+      "shrholdr_tot_co": "22,993",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "14,318,147",
+      "stock_tot_co": "37,240,693",
+      "hold_stock_rate": "38.44%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

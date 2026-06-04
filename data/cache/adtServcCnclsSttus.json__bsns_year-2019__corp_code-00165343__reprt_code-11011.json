@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003786",
+      "corp_cls": "Y",
+      "corp_code": "00165343",
+      "corp_name": "혜인",
+      "bsns_year": "제60기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분기검토, 반기검토\n연말감사, 연결감사",
+      "mendng": "170,000 천원",
+      "tot_reqre_time": "1,917 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003786",
+      "corp_cls": "Y",
+      "corp_code": "00165343",
+      "corp_name": "혜인",
+      "bsns_year": "제59기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기검토, 반기검토\n연말감사, 연결감사",
+      "mendng": "90,000 천원",
+      "tot_reqre_time": "1,696 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003786",
+      "corp_cls": "Y",
+      "corp_code": "00165343",
+      "corp_name": "혜인",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기검토, 반기검토\n연말감사, 연결감사",
+      "mendng": "77,000 천원",
+      "tot_reqre_time": "1,917 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

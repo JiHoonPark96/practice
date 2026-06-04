@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000536",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "se": "소액주주",
+      "shrholdr_co": "36,501",
+      "shrholdr_tot_co": "36,505",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "88,628,172",
+      "stock_tot_co": "118,908,480",
+      "hold_stock_rate": "74.53%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

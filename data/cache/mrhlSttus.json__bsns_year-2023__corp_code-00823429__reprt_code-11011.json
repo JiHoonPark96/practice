@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001545",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "se": "소액주주",
+      "shrholdr_co": "22,030",
+      "shrholdr_tot_co": "22,044",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "7,358,318",
+      "stock_tot_co": "16,068,000",
+      "hold_stock_rate": "45.79%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

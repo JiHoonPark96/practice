@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제40기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제39기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제38기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240307000864",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제52기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000864",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제51기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240307000864",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2021년 8월",
+      "servc_cn": "법인세 신고조정",
+      "servc_exc_pd": "2022.01.01 ~ 2022.05.02",
+      "servc_mendng": "13,000천원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

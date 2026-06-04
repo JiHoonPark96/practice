@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001085",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": "2020.05",
+      "servc_cn": "경정청구",
+      "servc_exc_pd": "2020.5~진행중",
+      "servc_mendng": "성공보수",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001085",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": "2020.08",
+      "servc_cn": "세무자무용역",
+      "servc_exc_pd": "2020.8",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001085",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제10기(당기)",
+      "cntrct_cncls_de": "2020.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.2~2021.3",
+      "servc_mendng": "16",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001085",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제9기(전기)",
+      "cntrct_cncls_de": "2019.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.2~2020.3",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001085",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "bsns_year": "제8기(전전기)",
+      "cntrct_cncls_de": "2018.10",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.2~2019.3",
+      "servc_mendng": "14",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

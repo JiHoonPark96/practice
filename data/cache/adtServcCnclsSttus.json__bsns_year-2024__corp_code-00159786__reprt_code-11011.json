@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제45기 (당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기,연간 별도(연결)\n재무제표감사(검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480",
+      "adt_cntrct_dtls_time": "3,840",
+      "real_exc_dtls_mendng": "480",
+      "real_exc_dtls_time": "3,598",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제44기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기,연간 별도(연결)\n재무제표감사(검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "462",
+      "adt_cntrct_dtls_time": "3,700",
+      "real_exc_dtls_mendng": "462",
+      "real_exc_dtls_time": "3,657",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000116",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기,연간 별도(연결)\n재무제표감사(검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "520",
+      "adt_cntrct_dtls_time": "4,160",
+      "real_exc_dtls_mendng": "520",
+      "real_exc_dtls_time": "3,800",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

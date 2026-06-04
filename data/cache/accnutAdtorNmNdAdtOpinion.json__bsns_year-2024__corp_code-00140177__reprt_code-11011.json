@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "인적분할",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 삼정회계법인 감사의견 적정",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 삼정회계법인 감사의견 적정",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

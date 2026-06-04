@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001971",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "보통주",
+      "nm": "(주)아이오케이컴퍼니",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "538,308",
+      "bsis_posesn_stock_qota_rt": "13.99",
+      "trmend_posesn_stock_co": "1,168,348",
+      "trmend_posesn_stock_qota_rt": "26.05",
+      "rm": "유상증자\n(제3자배정)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001971",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "538,308",
+      "bsis_posesn_stock_qota_rt": "13.99",
+      "trmend_posesn_stock_co": "1,168,348",
+      "trmend_posesn_stock_qota_rt": "26.05",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001971",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

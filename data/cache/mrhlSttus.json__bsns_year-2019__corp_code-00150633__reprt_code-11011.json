@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001952",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "se": "소액주주",
+      "shrholdr_co": "6,486",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.74%",
+      "hold_stock_co": "6,283,897",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "44.25%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

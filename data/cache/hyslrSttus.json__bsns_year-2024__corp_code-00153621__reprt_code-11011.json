@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000654",
+      "corp_cls": "Y",
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "(주)에이치비홀딩스그룹",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "26,000,000",
+      "bsis_posesn_stock_qota_rt": "30.64",
+      "trmend_posesn_stock_co": "26,000,000",
+      "trmend_posesn_stock_qota_rt": "30.64",
+      "rm": "2023.10.31 유상증자         (3자배정)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000654",
+      "corp_cls": "Y",
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "에이치비씨신기술투자조합 제1호",
+      "relate": "최대주주의\n특수관계인",
+      "bsis_posesn_stock_co": "15,995,247",
+      "bsis_posesn_stock_qota_rt": "18.85",
+      "trmend_posesn_stock_co": "15,995,247",
+      "trmend_posesn_stock_qota_rt": "18.85",
+      "rm": "2022.03.30 장외매수\n2022.06.28 장외매수",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000654",
+      "corp_cls": "Y",
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "41,995,247",
+      "bsis_posesn_stock_qota_rt": "49.48",
+      "trmend_posesn_stock_co": "41,995,247",
+      "trmend_posesn_stock_qota_rt": "49.48",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000654",
+      "corp_cls": "Y",
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

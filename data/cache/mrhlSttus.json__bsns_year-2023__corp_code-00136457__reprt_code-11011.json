@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001086",
+      "corp_cls": "Y",
+      "corp_code": "00136457",
+      "corp_name": "SH에너지화학",
+      "se": "소액주주",
+      "shrholdr_co": "27,043",
+      "shrholdr_tot_co": "27,046",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "72,978,014",
+      "stock_tot_co": "111,139,950",
+      "hold_stock_rate": "65.67%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

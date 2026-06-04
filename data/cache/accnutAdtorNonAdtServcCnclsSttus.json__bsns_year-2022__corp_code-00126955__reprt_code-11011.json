@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251112000498",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제62기(당기)",
+      "cntrct_cncls_de": "2022년 3월 31일",
+      "servc_cn": "세무용역계약\n(각종 세목 경정청구)",
+      "servc_exc_pd": "2022년 5월 16일 ~2023년 03월 31일",
+      "servc_mendng": "-",
+      "rm": "보수 : 경정 성공 금액× 10%,20%",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20251112000498",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제61기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20251112000498",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제60기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

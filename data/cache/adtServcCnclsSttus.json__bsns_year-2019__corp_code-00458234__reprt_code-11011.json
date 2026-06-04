@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003793",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제29기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "반기 별도ㆍ연결 검토,\n기말 별도ㆍ연결 감사,\n내부회계",
+      "mendng": "80,000천원",
+      "tot_reqre_time": "1,500",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003793",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제28기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기 별도ㆍ연결 검토,\n기말 별도ㆍ연결 감사,\n내부회계",
+      "mendng": "120,000천원",
+      "tot_reqre_time": "597",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003793",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제27기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "1분기 별도ㆍ연결 감사,\n반기 별도ㆍ연결 검토,\n기말 별도ㆍ연결감사,\n내부회계",
+      "mendng": "170,000천원",
+      "tot_reqre_time": "547",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

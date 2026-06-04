@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003229",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제46기",
+      "cntrct_cncls_de": "2018.04.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.04.01~2019.03.31",
+      "servc_mendng": "7,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003229",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제45기",
+      "cntrct_cncls_de": "2017.04.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.04.01~2018.03.31",
+      "servc_mendng": "7,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003229",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제44기",
+      "cntrct_cncls_de": "2016.04.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2016.04.01~2017.03.31",
+      "servc_mendng": "5,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

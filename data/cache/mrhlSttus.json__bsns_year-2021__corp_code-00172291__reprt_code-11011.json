@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220330001628",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "se": "소액주주",
+      "shrholdr_co": "46,879",
+      "shrholdr_tot_co": "46,892",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "16,260,505",
+      "stock_tot_co": "31,477,993",
+      "hold_stock_rate": "51.69%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001166",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "bsns_year": "제51기(당기)",
+      "adtor": "EY 한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출(수익인식)의 적정성 등",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001166",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "bsns_year": "제50기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출(수익인식)의 적정성 등",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001166",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출(수익인식)의 적정성 등",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

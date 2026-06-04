@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000717",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "bsns_year": "제7기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 별도 및 연결재무제표에   대한 검토(반기)\n- 별도 및 연결재무제표에   대한 감사\n- 내부회계관리제도에 \n   대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135",
+      "adt_cntrct_dtls_time": "1,590시간",
+      "real_exc_dtls_mendng": "135",
+      "real_exc_dtls_time": "1,667시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000717",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "bsns_year": "제6기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 별도 및 연결재무제표에   대한 검토(반기)\n- 별도 및 연결재무제표에   대한 감사\n- 내부회계관리제도에 \n   대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130",
+      "adt_cntrct_dtls_time": "1,464시간",
+      "real_exc_dtls_mendng": "130",
+      "real_exc_dtls_time": "1,639시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000717",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "bsns_year": "제5기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 별도 및 연결재무제표에   대한 검토(반기)\n- 별도 및 연결재무제표에   대한 감사\n- 내부회계관리제도에 \n   대한 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "98",
+      "adt_cntrct_dtls_time": "1,128시간",
+      "real_exc_dtls_mendng": "98",
+      "real_exc_dtls_time": "1,625시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

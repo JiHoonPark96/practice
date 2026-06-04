@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000107",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "bsns_year": "제29기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000107",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "bsns_year": "제28기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산 평가\n- 사업양수 회계처리",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000107",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "bsns_year": "제27기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19의 확산이 향후 수익 창출 및 현금흐름에 미칠 수 있는 영향과 관련한 불확실성 및 경영진이 취한 조치와 계획",
+      "core_adt_matter": "- 재고자산 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

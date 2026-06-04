@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220712000592",
+      "corp_cls": "Y",
+      "corp_code": "00122551",
+      "corp_name": "백산",
+      "bsns_year": "제36기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자 손상검사, 재고자산평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220712000592",
+      "corp_cls": "Y",
+      "corp_code": "00122551",
+      "corp_name": "백산",
+      "bsns_year": "제35기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자 손상검사, 재고자산평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220712000592",
+      "corp_cls": "Y",
+      "corp_code": "00122551",
+      "corp_name": "백산",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업투자 손상검사",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

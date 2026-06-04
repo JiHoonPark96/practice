@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제57기",
+      "cntrct_cncls_de": "2019.10.30",
+      "servc_cn": "국고보조금에 의한 이월결손금 보전 관련 세무자문",
+      "servc_exc_pd": "2019.11 ~ 2019.12",
+      "servc_mendng": "500",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제56기",
+      "cntrct_cncls_de": "2018.04.30",
+      "servc_cn": "해외채권발행 관련 Comfort Letter",
+      "servc_exc_pd": "2018.04 ~ 2018.05",
+      "servc_mendng": "140 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제55기",
+      "cntrct_cncls_de": "2017.12.08",
+      "servc_cn": "지급보증 문서화 지원",
+      "servc_exc_pd": "2017.12 ~ 2018.04",
+      "servc_mendng": "60 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제55기",
+      "cntrct_cncls_de": "2017.04.10",
+      "servc_cn": "국고보조금의 이월결손금보전 법인세 경정청구",
+      "servc_exc_pd": "2017.05 ~ 2017.09",
+      "servc_mendng": "150 ",
+      "rm": "전액 성공보수조건",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240327001231",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제55기",
+      "cntrct_cncls_de": " 2016.10.10",
+      "servc_cn": "본사와 독일/영국자회사간 정상로열티율 산정",
+      "servc_exc_pd": "2016.10 ~ 2017.06",
+      "servc_mendng": "49 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

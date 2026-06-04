@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001102",
+      "corp_cls": "Y",
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "bsns_year": "제39기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "LNG보냉재 외 내수 제품매출의 매출과소인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001102",
+      "corp_cls": "Y",
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "bsns_year": "제38기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "LNG보냉재 외 내수 제품매출의 매출과소인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001102",
+      "corp_cls": "Y",
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "bsns_year": "제37기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "LNG운반선용 단열판넬 제품 매출 외 제품 내수매출액 이연 인식",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000918",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000918",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000918",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

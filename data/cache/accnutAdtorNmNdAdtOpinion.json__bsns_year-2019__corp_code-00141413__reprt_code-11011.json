@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001272",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제43기(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정(공정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001272",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제42기(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정(공정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001272",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정(공정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "특기사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

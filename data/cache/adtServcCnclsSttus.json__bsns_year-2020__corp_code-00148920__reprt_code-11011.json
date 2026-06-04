@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000042",
+      "corp_cls": "Y",
+      "corp_code": "00148920",
+      "corp_name": "조광페인트",
+      "bsns_year": "제54기(당기)",
+      "adtor": "선일회계법인",
+      "cn": "중간, 결산감사 등 정기 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "1,400\nHOUR",
+      "real_exc_dtls_mendng": "80",
+      "real_exc_dtls_time": "1,478\nHOUR",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000042",
+      "corp_cls": "Y",
+      "corp_code": "00148920",
+      "corp_name": "조광페인트",
+      "bsns_year": "제53기(전기)",
+      "adtor": "선일회계법인",
+      "cn": "중간, 결산감사 등 정기 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75",
+      "adt_cntrct_dtls_time": "1,375\nHOUR",
+      "real_exc_dtls_mendng": "75",
+      "real_exc_dtls_time": "1,375\nHOUR",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000042",
+      "corp_cls": "Y",
+      "corp_code": "00148920",
+      "corp_name": "조광페인트",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "중간, 결산감사 등 정기 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65",
+      "adt_cntrct_dtls_time": "1,202\nHOUR",
+      "real_exc_dtls_mendng": "65",
+      "real_exc_dtls_time": "1,202\nHOUR",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

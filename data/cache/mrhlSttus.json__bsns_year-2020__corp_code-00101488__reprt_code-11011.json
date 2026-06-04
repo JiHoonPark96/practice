@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "se": "소액주주",
+      "shrholdr_co": "19,882",
+      "shrholdr_tot_co": "19,889",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "5,044,629",
+      "stock_tot_co": "13,604,730",
+      "hold_stock_rate": "37.08%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

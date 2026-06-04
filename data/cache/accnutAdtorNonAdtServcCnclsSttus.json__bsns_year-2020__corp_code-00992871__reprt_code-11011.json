@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000944",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제 8 기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000944",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제 7 기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000944",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제 6 기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

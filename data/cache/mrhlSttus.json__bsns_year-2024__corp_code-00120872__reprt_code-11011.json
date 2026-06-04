@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250930000631",
+      "corp_cls": "Y",
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "se": "소액주주",
+      "shrholdr_co": "1,708",
+      "shrholdr_tot_co": "1,733",
+      "shrholdr_rate": "98.56%",
+      "hold_stock_co": "729,950",
+      "stock_tot_co": "4,150,000",
+      "hold_stock_rate": "17.59%",
+      "stlm_dt": "2024-06-30"
+    }
+  ]
+}

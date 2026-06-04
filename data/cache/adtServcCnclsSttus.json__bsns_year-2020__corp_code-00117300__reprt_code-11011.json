@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000905",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제63기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "- 반기재무제표 검토\n- 중간감사\n- 개별 및 연결 재무제표에 대한 감사\n- 내부회계관리 검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145백만원 ",
+      "adt_cntrct_dtls_time": "1,570시간",
+      "real_exc_dtls_mendng": "145백만원",
+      "real_exc_dtls_time": "1,570시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000905",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제62기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 반기재무제표 검토\n- 중간감사\n- 개별 및 연결 재무제표에 대한 감사\n- 내부회계관리 검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "105백만원 ",
+      "adt_cntrct_dtls_time": "1,402시간",
+      "real_exc_dtls_mendng": "105백만원 ",
+      "real_exc_dtls_time": "1,402시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000905",
+      "corp_cls": "Y",
+      "corp_code": "00117300",
+      "corp_name": "TCC스틸",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 반기재무제표 검토\n- 중간감사\n- 개별 및 연결 재무제표에 대한 감사\n- 내부회계관리 검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85백만원",
+      "adt_cntrct_dtls_time": "1,376시간",
+      "real_exc_dtls_mendng": "85백만원",
+      "real_exc_dtls_time": "1,376시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

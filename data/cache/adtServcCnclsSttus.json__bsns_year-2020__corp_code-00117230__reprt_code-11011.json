@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000739",
+      "corp_cls": "Y",
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "bsns_year": "제61기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "내부회계관리제도 검토\n결산감사(연결포함)\n중간감사\n반기검토(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "348",
+      "adt_cntrct_dtls_time": "2,496",
+      "real_exc_dtls_mendng": "383",
+      "real_exc_dtls_time": "2,941",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000739",
+      "corp_cls": "Y",
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "bsns_year": "제60기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "내부회계관리제도 검토\n결산감사(연결포함)\n중간감사\n반기검토(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "455",
+      "adt_cntrct_dtls_time": "3,500",
+      "real_exc_dtls_mendng": "455",
+      "real_exc_dtls_time": "4,228",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000739",
+      "corp_cls": "Y",
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "내부회계관리제도 검토\n결산감사(연결포함)\n중간감사\n반기검토(연결포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "559",
+      "adt_cntrct_dtls_time": "4,300",
+      "real_exc_dtls_mendng": "627",
+      "real_exc_dtls_time": "5,067",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

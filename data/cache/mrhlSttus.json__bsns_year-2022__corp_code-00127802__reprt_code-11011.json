@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001338",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "se": "소액주주",
+      "shrholdr_co": "8,358",
+      "shrholdr_tot_co": "8,388",
+      "shrholdr_rate": "99.6%",
+      "hold_stock_co": "5,067,437",
+      "stock_tot_co": "21,000,000",
+      "hold_stock_rate": "24.1%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

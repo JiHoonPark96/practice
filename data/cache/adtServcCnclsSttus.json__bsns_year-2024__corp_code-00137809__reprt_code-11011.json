@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000112",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제69기(당기)",
+      "adtor": "삼도회계법인",
+      "cn": "반기, 중간, 기말감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140",
+      "adt_cntrct_dtls_time": "1,200",
+      "real_exc_dtls_mendng": "140",
+      "real_exc_dtls_time": "1,203",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000112",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제68기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기, 중간, 기말감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,200",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,211",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000112",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기, 중간, 기말감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,200",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,244",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

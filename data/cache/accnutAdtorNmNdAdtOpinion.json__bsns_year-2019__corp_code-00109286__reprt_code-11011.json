@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002463",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제73기(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-수익인식의 적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002463",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제72기(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002463",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "bsns_year": "제71기(전전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

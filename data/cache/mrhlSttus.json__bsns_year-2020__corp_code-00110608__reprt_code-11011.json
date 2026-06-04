@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001229",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "se": "소액주주",
+      "shrholdr_co": "5,016",
+      "shrholdr_tot_co": "5,026",
+      "shrholdr_rate": "99.8%",
+      "hold_stock_co": "4,638,000",
+      "stock_tot_co": "16,000,000",
+      "hold_stock_rate": "29.0%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

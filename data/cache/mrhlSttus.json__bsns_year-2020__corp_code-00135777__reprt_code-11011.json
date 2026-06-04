@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000924",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "se": "소액주주",
+      "shrholdr_co": "5,607",
+      "shrholdr_tot_co": "5,621",
+      "shrholdr_rate": "99.75%",
+      "hold_stock_co": "1,429,049",
+      "stock_tot_co": "4,029,782",
+      "hold_stock_rate": "35.46%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

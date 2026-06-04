@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_code": "286940",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181114001588",
+      "flr_nm": "롯데이노베이트",
+      "rcept_dt": "20181114",
+      "rm": ""
+    }
+  ]
+}

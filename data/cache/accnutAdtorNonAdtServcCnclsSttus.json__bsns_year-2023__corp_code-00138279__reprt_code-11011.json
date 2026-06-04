@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001242",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "bsns_year": "제49기(당기)",
+      "cntrct_cncls_de": "2023년 4월 12일",
+      "servc_cn": "사채수탁이행보고서",
+      "servc_exc_pd": "2023년 4월, 8월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001242",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "bsns_year": "제48기(전기)",
+      "cntrct_cncls_de": "2022년 4월 04일",
+      "servc_cn": "사채수탁이행보고서",
+      "servc_exc_pd": "2022년 4월, 8월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001242",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "bsns_year": "제47기(전전기)",
+      "cntrct_cncls_de": "2021년 4월 13일",
+      "servc_cn": "사채수탁이행보고서",
+      "servc_exc_pd": "2021년 4월, 8월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

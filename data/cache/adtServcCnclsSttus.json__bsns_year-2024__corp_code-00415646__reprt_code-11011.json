@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328002249",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제27기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 (K-IFRS)별도 및 연결\n\n반기검토, 별도 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290",
+      "adt_cntrct_dtls_time": "2,815",
+      "real_exc_dtls_mendng": "290",
+      "real_exc_dtls_time": "2,815",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328002249",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제26기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 (K-IFRS)별도 및 연결\n\n반기검토, 별도 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "279",
+      "adt_cntrct_dtls_time": "2,790",
+      "real_exc_dtls_mendng": "279",
+      "real_exc_dtls_time": "2,929",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328002249",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제25기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 (K-IFRS)별도 및 연결\n\n반기검토, 별도 및 연결 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "260",
+      "real_exc_dtls_time": "2,520",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001050",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출 수익인식 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001050",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001050",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "국외매출 수익인식 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001050",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001050",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "국외매출 수익인식 검토",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001050",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "영업권 손상검토",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

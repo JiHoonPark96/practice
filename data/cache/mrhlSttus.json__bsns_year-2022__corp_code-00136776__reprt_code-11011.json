@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001335",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "se": "소액주주",
+      "shrholdr_co": "23,333",
+      "shrholdr_tot_co": "23,336",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "3,152,734",
+      "stock_tot_co": "3,849,138",
+      "hold_stock_rate": "81.91%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

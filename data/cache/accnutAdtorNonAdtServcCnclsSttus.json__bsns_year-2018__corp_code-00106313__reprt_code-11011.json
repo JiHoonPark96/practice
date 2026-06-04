@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제47기(당)기",
+      "cntrct_cncls_de": "2018.04월",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2018.04.01\n~2019.03.31",
+      "servc_mendng": "15",
+      "rm": "한울회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "2016.04월 ",
+      "servc_cn": "세무조정검토 업무",
+      "servc_exc_pd": "2016.04.01\n~2017.03.31",
+      "servc_mendng": "15",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003919",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "2016.03월",
+      "servc_cn": "국내외 건설산업 현황 및 전망 분석",
+      "servc_exc_pd": "2016년 3월\n~2016년 4월",
+      "servc_mendng": "140",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

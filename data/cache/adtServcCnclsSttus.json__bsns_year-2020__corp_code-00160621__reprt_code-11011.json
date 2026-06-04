@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000787",
+      "corp_cls": "Y",
+      "corp_code": "00160621",
+      "corp_name": "한국화장품제조",
+      "bsns_year": "제59기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "회계감사\n용역계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "45,000",
+      "adt_cntrct_dtls_time": "775",
+      "real_exc_dtls_mendng": "45,000",
+      "real_exc_dtls_time": "790",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000787",
+      "corp_cls": "Y",
+      "corp_code": "00160621",
+      "corp_name": "한국화장품제조",
+      "bsns_year": "제58기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "회계감사\n용역계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "36,000",
+      "adt_cntrct_dtls_time": "616",
+      "real_exc_dtls_mendng": "40,000",
+      "real_exc_dtls_time": "626",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000787",
+      "corp_cls": "Y",
+      "corp_code": "00160621",
+      "corp_name": "한국화장품제조",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "회계감사\n용역계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "36,000",
+      "adt_cntrct_dtls_time": "609",
+      "real_exc_dtls_mendng": "40,000",
+      "real_exc_dtls_time": "624",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

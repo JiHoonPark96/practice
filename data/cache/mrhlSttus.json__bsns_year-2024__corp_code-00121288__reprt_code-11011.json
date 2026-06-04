@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000631",
+      "corp_cls": "Y",
+      "corp_code": "00121288",
+      "corp_name": "모나미",
+      "se": "소액주주",
+      "shrholdr_co": "25,211",
+      "shrholdr_tot_co": "25,219",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "13,567,646",
+      "stock_tot_co": "18,897,307",
+      "hold_stock_rate": "71.80%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250819000071",
+      "corp_cls": "Y",
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "se": "소액주주",
+      "shrholdr_co": "20,667",
+      "shrholdr_tot_co": "20,673",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "10,961,539",
+      "stock_tot_co": "84,702,850",
+      "hold_stock_rate": "12.93%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

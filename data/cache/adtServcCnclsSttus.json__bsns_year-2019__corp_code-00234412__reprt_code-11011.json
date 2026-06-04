@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003914",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제24기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도재무제표ㆍ연결재무제표 감사,\n분반기재무제표 및 내부회계관리제도 검토",
+      "mendng": "295백만원",
+      "tot_reqre_time": "3,870",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003914",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제23기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도재무제표ㆍ연결재무제표 감사,\n분반기재무제표 및 내부회계관리제도 검토",
+      "mendng": "236백만원",
+      "tot_reqre_time": "3,893",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003914",
+      "corp_cls": "Y",
+      "corp_code": "00234412",
+      "corp_name": "신세계인터내셔날",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도재무제표ㆍ연결재무제표 감사,\n분반기재무제표 및 내부회계관리제도 검토",
+      "mendng": "195백만원",
+      "tot_reqre_time": "3,293",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

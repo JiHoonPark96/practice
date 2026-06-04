@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000786",
+      "corp_cls": "Y",
+      "corp_code": "00112651",
+      "corp_name": "대창",
+      "se": "소액주주",
+      "shrholdr_co": "13,929",
+      "shrholdr_tot_co": "13,934",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "45,780,441",
+      "stock_tot_co": "76,815,872",
+      "hold_stock_rate": "59.59%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

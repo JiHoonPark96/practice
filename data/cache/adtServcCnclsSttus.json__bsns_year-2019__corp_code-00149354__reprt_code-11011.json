@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200429001407",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제65기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역비, 내부회계관리제도 검토 ",
+      "mendng": "110,000,000",
+      "tot_reqre_time": "1,217시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200429001407",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제64기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역비, 내부회계관리제도 검토 ",
+      "mendng": "100,000,000",
+      "tot_reqre_time": "1,332시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200429001407",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "결산, 반기, 중간감사, 재고실사 용역비, 내부회계관리제도 검토 ",
+      "mendng": "90,000,000",
+      "tot_reqre_time": "1,304시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

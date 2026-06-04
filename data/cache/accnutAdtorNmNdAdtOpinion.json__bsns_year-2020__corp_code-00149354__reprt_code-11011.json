@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001133",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제66기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001133",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제65기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001133",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제64기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

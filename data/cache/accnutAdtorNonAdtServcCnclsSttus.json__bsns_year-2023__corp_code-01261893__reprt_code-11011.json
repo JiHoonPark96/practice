@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001528",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제7기(당기)",
+      "cntrct_cncls_de": "2023년 9월 5일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023년 9월 5일 ~ 2024년 3월 31일",
+      "servc_mendng": "9,000 천원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001528",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2022년 7월 28일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": " 2022년 7월 28일 ~ 2023년 3월 31일",
+      "servc_mendng": "9,000 천원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001528",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제6기(전기)",
+      "cntrct_cncls_de": "2022년 7월 28일",
+      "servc_cn": "법인세 경정청구\n대리용역",
+      "servc_exc_pd": "2022년 7월 28일 ~ 용역 종료일까지",
+      "servc_mendng": "환급총액 13%의 성공보수금\n또는 보수한도 150,000 천원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001528",
+      "corp_cls": "Y",
+      "corp_code": "01261893",
+      "corp_name": "케이씨텍",
+      "bsns_year": "제5기(전전기)",
+      "cntrct_cncls_de": "2021년 8월 27일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021년 8월 27일 ~ 2022년 3월 31일",
+      "servc_mendng": "9,000 천원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

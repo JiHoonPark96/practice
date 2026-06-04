@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001767",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제16기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항은 없으며 기타사항으로 \n전기 재무제표는 타감사인이 감사한 사실 기재 ",
+      "core_adt_matter": "(연결재무제표)\n 한 시점에 인식되는 수익에 대한 기간귀속\n (별도재무제표)\n 한 시점에 인식되는 수익에 대한 기간귀속",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001767",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제15기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 불확실성",
+      "core_adt_matter": "(연결재무제표)\n1. 재고자산 평가 회계처리\n(별도재무제표)\n1. 재고자산 평가 회계처리",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001767",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 불확실성",
+      "core_adt_matter": "(연결재무제표)\n1. 재고자산 평가 회계처리\n(별도재무제표)\n1. 재고자산 평가 회계처리",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제66(당)기",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익기간귀속",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제65(전)기",
+      "adtor": "정진세림회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제64(전전)기",
+      "adtor": "정진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

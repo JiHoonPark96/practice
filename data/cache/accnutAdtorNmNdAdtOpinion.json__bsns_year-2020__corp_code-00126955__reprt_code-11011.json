@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001425",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제60기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 대한 회사의 영향",
+      "core_adt_matter": "재화의 판매 관련 \n매출장려활동",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001425",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제59기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재화의 판매 관련 \n매출장려활동",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001425",
+      "corp_cls": "Y",
+      "corp_code": "00126955",
+      "corp_name": "삼양식품",
+      "bsns_year": "제58기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

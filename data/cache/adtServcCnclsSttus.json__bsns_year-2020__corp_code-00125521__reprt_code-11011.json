@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000911",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "bsns_year": "제53기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "외부감사계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450,000",
+      "adt_cntrct_dtls_time": "4,500시간",
+      "real_exc_dtls_mendng": "530,000",
+      "real_exc_dtls_time": "5,390시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000911",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "bsns_year": "제52기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "외부감사계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235,000",
+      "adt_cntrct_dtls_time": "3,089시간",
+      "real_exc_dtls_mendng": "275,000",
+      "real_exc_dtls_time": "4,421시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000911",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "외부감사계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "2,646시간",
+      "real_exc_dtls_mendng": "215,000",
+      "real_exc_dtls_time": "3,089시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

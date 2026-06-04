@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000025",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 5 기",
+      "adtor": "삼정회계법인",
+      "cn": "연결감사, 연결분반기검토/기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "830",
+      "adt_cntrct_dtls_time": "8,060",
+      "real_exc_dtls_mendng": "830",
+      "real_exc_dtls_time": "8,224",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000025",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 4 기",
+      "adtor": "삼정회계법인",
+      "cn": " 연결감사, 연결분반기검토/기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "767",
+      "adt_cntrct_dtls_time": "7,869",
+      "real_exc_dtls_mendng": "767",
+      "real_exc_dtls_time": "7,924",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000025",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 3 기",
+      "adtor": "삼정회계법인",
+      "cn": " 연결감사, 연결분반기검토/기말감사, 분반기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "602",
+      "adt_cntrct_dtls_time": "6,694",
+      "real_exc_dtls_mendng": "602",
+      "real_exc_dtls_time": "7,914",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

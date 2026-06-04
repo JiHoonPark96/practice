@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250715000164",
+      "corp_cls": "Y",
+      "corp_code": "00796994",
+      "corp_name": "조선선재",
+      "bsns_year": "제15기(당기)",
+      "adtor": "현대회계법인",
+      "cn": "-반기재무제표검토\n-개별재무제표에 대한 감사\n-내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "21,000",
+      "adt_cntrct_dtls_time": "1,530",
+      "real_exc_dtls_mendng": "21,000",
+      "real_exc_dtls_time": "1,533",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250715000164",
+      "corp_cls": "Y",
+      "corp_code": "00796994",
+      "corp_name": "조선선재",
+      "bsns_year": "제14기(전기)",
+      "adtor": "현대회계법인",
+      "cn": "-반기재무제표검토\n-개별재무제표에 대한 감사\n-내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "21,000",
+      "adt_cntrct_dtls_time": "1,530",
+      "real_exc_dtls_mendng": "21,000",
+      "real_exc_dtls_time": "1,537",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250715000164",
+      "corp_cls": "Y",
+      "corp_code": "00796994",
+      "corp_name": "조선선재",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "현대회계법인",
+      "cn": "-반기재무제표검토\n-개별재무제표에 대한 감사\n-내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "21,000",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "21,000",
+      "real_exc_dtls_time": "1,499",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

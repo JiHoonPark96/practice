@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000552",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "동성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 기간귀속 적정성\n(*1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000552",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제51기\n(당기)",
+      "adtor": "동성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식의 기간귀속 적정성(*1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000552",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 판매로 인한 수익 인식(*2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000552",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제50기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 판매로 인한 수익 인식(*2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000552",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 판매로 인한 수익 인식(*2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000552",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제49기\n(전전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품 판매로 인한 수익 인식(*2)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

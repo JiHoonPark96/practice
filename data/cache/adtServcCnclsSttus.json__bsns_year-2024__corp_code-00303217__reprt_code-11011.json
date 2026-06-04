@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제33기(당기)",
+      "adtor": "도원회계법인",
+      "cn": "- 반기검토\n\n- 기말 연결 및 별도 감사\n\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,500",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,498",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제32기(전기)",
+      "adtor": "도원회계법인",
+      "cn": "- 반기검토\n\n- 기말 연결 및 별도 감사\n\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "1,600",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "1,508",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "- 반기검토\n\n- 기말 연결 및 별도 감사\n\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215,000",
+      "adt_cntrct_dtls_time": "2,040",
+      "real_exc_dtls_mendng": "215,000",
+      "real_exc_dtls_time": "2,088",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

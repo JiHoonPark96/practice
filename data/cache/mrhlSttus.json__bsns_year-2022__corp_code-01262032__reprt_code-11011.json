@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001574",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "se": "소액주주",
+      "shrholdr_co": "15,780",
+      "shrholdr_tot_co": "15,785",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "3,884,216",
+      "stock_tot_co": "15,129,367",
+      "hold_stock_rate": "25.67%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001210",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제30기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- (주)현대바이오랜드 사업결합 회계처리 적정성 검토\n- 화장품ㆍ의약품 원료제조사업부문에 배부된 영업권의 손상검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001210",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제29기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 방송사업부문 및 화장품·의약품 원료제조사업부문에 배부된 영업권 및 \n   비한정 내용연수의 무형자산 손상검토- 광고매출 수익인식의 발생사실",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001210",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 광고매출 수익인식- 방송사업부문 비한정내용연수무형자산을 포함한 현금창출단위의 손상검사",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "stock_knd": "보통주",
+      "nm": "(주)진양홀딩스 ",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "5,049,883",
+      "bsis_posesn_stock_qota_rt": "50.50",
+      "trmend_posesn_stock_co": "5,049,883",
+      "trmend_posesn_stock_qota_rt": "50.50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,049,883",
+      "bsis_posesn_stock_qota_rt": "50.50",
+      "trmend_posesn_stock_co": "5,049,883",
+      "trmend_posesn_stock_qota_rt": "50.50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190403000746",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "se": "소액주주",
+      "shrholdr_co": "2,745",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.16%",
+      "hold_stock_co": "4,951,006",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "25.64%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

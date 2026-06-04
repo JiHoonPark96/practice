@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제4기(당기)",
+      "cntrct_cncls_de": "2024.12.09",
+      "servc_cn": "- ESG 공시 대응 자문",
+      "servc_exc_pd": "2024.12.09~2025.10.17",
+      "servc_mendng": "200",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "2023.01.16",
+      "servc_cn": "- 23년도 지속가능경영보고서 발간 및 해외 ESG 평가 대응",
+      "servc_exc_pd": "2023.01.16~2023.11.17",
+      "servc_mendng": "180",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "2023.03.31",
+      "servc_cn": "- 회계처리 자문",
+      "servc_exc_pd": "2023.03.31~2024.03.29",
+      "servc_mendng": "39",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "2023.10.31",
+      "servc_cn": "- 23년도 하반기 기후변화대응 프로젝트 및 24년 지속가능경영보고서 작성",
+      "servc_exc_pd": "2023.10.31~2024.12.20",
+      "servc_mendng": "335",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "2023.12.21",
+      "servc_cn": "- 세무자문용역",
+      "servc_exc_pd": "2023.12.21~2024.04.26",
+      "servc_mendng": "30",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "2022.09.13",
+      "servc_cn": "- 세무자문 용역",
+      "servc_exc_pd": "2022.09.13~2022.09.27",
+      "servc_mendng": "2",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001988",
+      "corp_cls": "Y",
+      "corp_code": "01524093",
+      "corp_name": "DL이앤씨",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "2022.12.30",
+      "servc_cn": "- 적용환율 변경 회계자문",
+      "servc_exc_pd": "2022.12.30~2023.03.31",
+      "servc_mendng": "30",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

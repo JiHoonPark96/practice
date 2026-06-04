@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "stock_code": "024900",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114001538",
+      "flr_nm": "디와이덕양",
+      "rcept_dt": "20221114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "stock_code": "024900",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816001421",
+      "flr_nm": "디와이덕양",
+      "rcept_dt": "20220816",
+      "rm": ""
+    },
+    {
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "stock_code": "024900",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001522",
+      "flr_nm": "디와이덕양",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "stock_code": "024900",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220404002273",
+      "flr_nm": "디와이덕양",
+      "rcept_dt": "20220404",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00114154",
+      "corp_name": "디와이덕양",
+      "stock_code": "024900",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220321001333",
+      "flr_nm": "디와이덕양",
+      "rcept_dt": "20220321",
+      "rm": "정연"
+    }
+  ]
+}

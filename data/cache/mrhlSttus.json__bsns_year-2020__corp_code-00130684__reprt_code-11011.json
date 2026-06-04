@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000572",
+      "corp_cls": "Y",
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "se": "소액주주",
+      "shrholdr_co": "1,790",
+      "shrholdr_tot_co": "1,780",
+      "shrholdr_rate": "99.44%",
+      "hold_stock_co": "473,210",
+      "stock_tot_co": "3,882,792",
+      "hold_stock_rate": "12.19%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

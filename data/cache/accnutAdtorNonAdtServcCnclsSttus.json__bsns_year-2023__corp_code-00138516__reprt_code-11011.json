@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000188",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제51기",
+      "cntrct_cncls_de": "2023.11.22",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.1 ~ 2023.12",
+      "servc_mendng": "14백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000188",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제50기",
+      "cntrct_cncls_de": "2022.6.27",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2022.1 ~ 2022.12",
+      "servc_mendng": "14백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000188",
+      "corp_cls": "Y",
+      "corp_code": "00138516",
+      "corp_name": "아남전자",
+      "bsns_year": "제49기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000312",
+      "corp_cls": "Y",
+      "corp_code": "00453284",
+      "corp_name": "교촌에프앤비",
+      "bsns_year": "제22기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "97",
+      "adt_cntrct_dtls_time": "784",
+      "real_exc_dtls_mendng": "97",
+      "real_exc_dtls_time": "1,122",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000312",
+      "corp_cls": "Y",
+      "corp_code": "00453284",
+      "corp_name": "교촌에프앤비",
+      "bsns_year": "제21기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120",
+      "adt_cntrct_dtls_time": "940",
+      "real_exc_dtls_mendng": "120",
+      "real_exc_dtls_time": "1,143",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000312",
+      "corp_cls": "Y",
+      "corp_code": "00453284",
+      "corp_name": "교촌에프앤비",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "42",
+      "adt_cntrct_dtls_time": "451",
+      "real_exc_dtls_mendng": "42",
+      "real_exc_dtls_time": "935",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

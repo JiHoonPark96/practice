@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001262",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "se": "소액주주",
+      "shrholdr_co": "2,420",
+      "shrholdr_tot_co": "2,678",
+      "shrholdr_rate": "90.37%",
+      "hold_stock_co": "289,195",
+      "stock_tot_co": "840,000",
+      "hold_stock_rate": "34.43%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

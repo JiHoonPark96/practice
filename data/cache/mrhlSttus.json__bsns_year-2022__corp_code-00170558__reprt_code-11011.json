@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000862",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "se": "소액주주",
+      "shrholdr_co": "25,676",
+      "shrholdr_tot_co": "25,687",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "41,461,682",
+      "stock_tot_co": "73,799,619",
+      "hold_stock_rate": "56.18%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001225",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제9기\n(당기)",
+      "adtor": "대주회계법인",
+      "cn": "별도/연결 재무제표 감사\n별도/연결 분ㆍ반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "480백만원",
+      "adt_cntrct_dtls_time": "3,837시간",
+      "real_exc_dtls_mendng": "480백만원",
+      "real_exc_dtls_time": "3,708시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001225",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제8기\n(전기)",
+      "adtor": "대주회계법인",
+      "cn": "별도/연결 재무제표 감사\n별도/연결 분ㆍ반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440백만원",
+      "adt_cntrct_dtls_time": "3,941시간",
+      "real_exc_dtls_mendng": "440백만원",
+      "real_exc_dtls_time": "3,916시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001225",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제7기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "별도/연결 재무제표 감사\n별도/연결 분ㆍ반기 재무제표 검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440백만원",
+      "adt_cntrct_dtls_time": "3,850시간",
+      "real_exc_dtls_mendng": "440백만원",
+      "real_exc_dtls_time": "3,840시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

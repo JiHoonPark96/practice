@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "stock_knd": "보통주",
+      "nm": "장재진",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "17,559,537",
+      "bsis_posesn_stock_qota_rt": "10.79",
+      "trmend_posesn_stock_co": "17,559,537",
+      "trmend_posesn_stock_qota_rt": "10.76",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "stock_knd": "보통주",
+      "nm": "최숙종",
+      "relate": "처",
+      "bsis_posesn_stock_co": "7,384,666",
+      "bsis_posesn_stock_qota_rt": "4.54",
+      "trmend_posesn_stock_co": "7,384,666",
+      "trmend_posesn_stock_qota_rt": "4.53",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "stock_knd": "보통주",
+      "nm": "(주)엠다스",
+      "relate": "관계사",
+      "bsis_posesn_stock_co": "15,027,516",
+      "bsis_posesn_stock_qota_rt": "9.23",
+      "trmend_posesn_stock_co": "15,027,516",
+      "trmend_posesn_stock_qota_rt": "9.21",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "39,971,719",
+      "bsis_posesn_stock_qota_rt": "24.56",
+      "trmend_posesn_stock_co": "39,971,719",
+      "trmend_posesn_stock_qota_rt": "24.50",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    },
+    {
+      "rcept_no": "20180629000787",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-03-31"
+    }
+  ]
+}

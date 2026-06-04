@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20191120000307",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20191120",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002469",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001617",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190724000531",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20190724",
+      "rm": ""
+    },
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190724000525",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20190724",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001781",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "stock_code": "071970",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401003192",
+      "flr_nm": "HD현대마린엔진",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

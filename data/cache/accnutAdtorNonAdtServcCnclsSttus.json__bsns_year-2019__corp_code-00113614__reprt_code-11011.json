@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327000703",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제38기(당기)",
+      "cntrct_cncls_de": "2019.07.30.\n2019.12.20.",
+      "servc_cn": "세무 대응 용역\n2019 사업연도\n법인세 세무조정",
+      "servc_exc_pd": "2019.07.30.~10.09.\n2020.01.01.~03.31.",
+      "servc_mendng": "105,000\n11,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000703",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제37기(전기)",
+      "cntrct_cncls_de": "2019.01.11.",
+      "servc_cn": "2018 사업연도\n법인세 세무조정",
+      "servc_exc_pd": "2019.01.01.~03.31.",
+      "servc_mendng": "9,500",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327000703",
+      "corp_cls": "Y",
+      "corp_code": "00113614",
+      "corp_name": "대현",
+      "bsns_year": "제36기(전전기)",
+      "cntrct_cncls_de": "2017.11.22.",
+      "servc_cn": "2017 사업연도\n법인세 세무조정",
+      "servc_exc_pd": "2018.01.01.~03.31.",
+      "servc_mendng": "9,500",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

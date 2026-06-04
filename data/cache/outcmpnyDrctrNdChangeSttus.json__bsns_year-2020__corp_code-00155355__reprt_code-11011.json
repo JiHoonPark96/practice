@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210616000380",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "drctr_co": "11",
+      "otcmp_drctr_co": "7",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

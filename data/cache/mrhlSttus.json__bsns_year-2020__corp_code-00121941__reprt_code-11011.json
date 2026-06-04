@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001155",
+      "corp_cls": "Y",
+      "corp_code": "00121941",
+      "corp_name": "대상",
+      "se": "소액주주",
+      "shrholdr_co": "38,562",
+      "shrholdr_tot_co": "38,567",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "14,658,051",
+      "stock_tot_co": "34,648,025",
+      "hold_stock_rate": "42.31%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190702000212",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "bsns_year": "제34기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190702000212",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "bsns_year": "제33기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190702000212",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "bsns_year": "제32기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

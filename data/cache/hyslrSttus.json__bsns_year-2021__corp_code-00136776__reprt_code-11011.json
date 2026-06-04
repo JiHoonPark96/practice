@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "보통주",
+      "nm": "(주)이도헬스케어",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "1,406,691",
+      "bsis_posesn_stock_qota_rt": "3.81",
+      "trmend_posesn_stock_co": "10,766,176",
+      "trmend_posesn_stock_qota_rt": "14.47",
+      "rm": "주1), 주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "보통주",
+      "nm": "이진형",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "458,334",
+      "bsis_posesn_stock_qota_rt": "1.24",
+      "trmend_posesn_stock_co": "2,338,030",
+      "trmend_posesn_stock_qota_rt": "3.14",
+      "rm": "주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,865,025",
+      "bsis_posesn_stock_qota_rt": "5.05",
+      "trmend_posesn_stock_co": "13,104,206",
+      "trmend_posesn_stock_qota_rt": "17.61",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816002378",
+      "corp_cls": "Y",
+      "corp_code": "00136776",
+      "corp_name": "차AI헬스케어",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

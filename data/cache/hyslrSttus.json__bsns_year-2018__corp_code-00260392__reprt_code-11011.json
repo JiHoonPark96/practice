@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000086",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "갑도물산",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "19,841,468",
+      "bsis_posesn_stock_qota_rt": "29.13",
+      "trmend_posesn_stock_co": "21,951,561",
+      "trmend_posesn_stock_qota_rt": "31.04",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000086",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "서명환",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "4,284,444",
+      "bsis_posesn_stock_qota_rt": "6.29",
+      "trmend_posesn_stock_co": "534,444",
+      "trmend_posesn_stock_qota_rt": "0.76",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000086",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "서정석",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "2,221,166",
+      "bsis_posesn_stock_qota_rt": "3.26",
+      "trmend_posesn_stock_co": "1,721,166",
+      "trmend_posesn_stock_qota_rt": "2.43",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000086",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "26,347,078",
+      "bsis_posesn_stock_qota_rt": "38.68",
+      "trmend_posesn_stock_co": "26,347,078",
+      "trmend_posesn_stock_qota_rt": "34.23",
+      "rm": "보통주에 대한 비율",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329000086",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001089",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "bsns_year": "제4기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 연차 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230백만원",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "230백만원",
+      "real_exc_dtls_time": "2,771",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001089",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "bsns_year": "제3기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 연차 재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "187백만원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "187백만원",
+      "real_exc_dtls_time": "2,006",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001089",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "bsns_year": "제2기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 반기 재무제표 검토\n별도 및 연결 연차 재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170백만원",
+      "adt_cntrct_dtls_time": "1,700",
+      "real_exc_dtls_mendng": "170백만원",
+      "real_exc_dtls_time": "2,217",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

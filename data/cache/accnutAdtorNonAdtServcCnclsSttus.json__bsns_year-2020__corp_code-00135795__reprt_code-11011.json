@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310000864",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제61기(당기)",
+      "cntrct_cncls_de": "2020.08.26",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "21/01/20~21/01/21",
+      "servc_mendng": "8,000,000원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000864",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제60기(당기)",
+      "cntrct_cncls_de": "2019.11.21",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "20/01/22~20/01/23",
+      "servc_mendng": "8,000,000원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310000864",
+      "corp_cls": "Y",
+      "corp_code": "00135795",
+      "corp_name": "신도리코",
+      "bsns_year": "제59기(전기)",
+      "cntrct_cncls_de": "2018.08.24",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": " 19/01/24~19/01/25",
+      "servc_mendng": "8,000,000원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320000645",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "bsns_year": "제48기\n(당기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기검토, 연말감사, 연결감사 및 중간검토,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "367,000,000원",
+      "adt_cntrct_dtls_time": "3,500",
+      "real_exc_dtls_mendng": "316,000,000원",
+      "real_exc_dtls_time": "3,165",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000645",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "bsns_year": "제47기\n(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기검토, 연말감사, 연결감사 및 중간검토,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360,000,000원",
+      "adt_cntrct_dtls_time": "3,200",
+      "real_exc_dtls_mendng": "365,890,000원",
+      "real_exc_dtls_time": "3,224",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320000645",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "bsns_year": "제46기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기검토, 연말감사, 연결감사 및 중간검토,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360,000,000원",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "360,000,000원",
+      "real_exc_dtls_time": "3,069",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004487",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제23기(당기)",
+      "cntrct_cncls_de": "2019.09.09",
+      "servc_cn": "BEPS Compliance",
+      "servc_exc_pd": "2019.09.09~미정",
+      "servc_mendng": "40",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004487",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제22기",
+      "cntrct_cncls_de": "2018.10.26",
+      "servc_cn": "BEPS Compliance",
+      "servc_exc_pd": "2018.10.26~2018.12.31",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004487",
+      "corp_cls": "Y",
+      "corp_code": "00261443",
+      "corp_name": "NC",
+      "bsns_year": "제21기",
+      "cntrct_cncls_de": "2017.07.24",
+      "servc_cn": "BEPS Compliance",
+      "servc_exc_pd": "2017.07.27~2017.12.31",
+      "servc_mendng": "90",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

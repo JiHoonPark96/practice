@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000664",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "se": "소액주주",
+      "shrholdr_co": "36,534",
+      "shrholdr_tot_co": "36,550",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "52,922,408",
+      "stock_tot_co": "93,839,145",
+      "hold_stock_rate": "56.40%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000558",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제63기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 손상검토\n 영업권손상검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000558",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제62기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "금융상품",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000558",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제61기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "금융상품",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

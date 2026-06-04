@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2021.06.15",
+      "servc_cn": " - KG동부제철 법인세 세무조정계산서의 작성 지원 및 전자신고 대행",
+      "servc_exc_pd": "2021.06.15~2022.04.30",
+      "servc_mendng": "22",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "bsns_year": "제39기(전기)",
+      "cntrct_cncls_de": "2020.05.20",
+      "servc_cn": " - 케이지동부제철 법인세 세무조정계산서의 작성 지원 및 전자신고 대행\n- 동부인천스틸 의제사업연도 법인세 신고 지원 등",
+      "servc_exc_pd": "2020.05.20~2021.04.30",
+      "servc_mendng": "22",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "bsns_year": "제38기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

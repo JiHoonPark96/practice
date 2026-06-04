@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003430",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "보통주",
+      "nm": "(주)엔케이물산(구,고려포리머)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "25,644,610",
+      "bsis_posesn_stock_qota_rt": "24.76",
+      "trmend_posesn_stock_co": "25,644,610",
+      "trmend_posesn_stock_qota_rt": "24.76",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003430",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "25,644,610",
+      "bsis_posesn_stock_qota_rt": "24.76",
+      "trmend_posesn_stock_co": "25,644,610",
+      "trmend_posesn_stock_qota_rt": "24.76",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003430",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000330",
+      "corp_cls": "Y",
+      "corp_code": "00454946",
+      "corp_name": "그린케미칼",
+      "se": "소액주주",
+      "shrholdr_co": "14,580",
+      "shrholdr_tot_co": "14,590",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "6,627,778",
+      "stock_tot_co": "23,325,199",
+      "hold_stock_rate": "28.41%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

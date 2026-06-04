@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001212",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "se": "소액주주",
+      "shrholdr_co": "16,793",
+      "shrholdr_tot_co": "16,799",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "4,323,094",
+      "stock_tot_co": "11,000,000",
+      "hold_stock_rate": "39.30%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

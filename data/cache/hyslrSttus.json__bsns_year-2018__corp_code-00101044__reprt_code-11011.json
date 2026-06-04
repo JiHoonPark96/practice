@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190626000095",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권있는 주식",
+      "nm": "(주)에이프로젠케이아이씨",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "21,052,632",
+      "trmend_posesn_stock_qota_rt": "19.51",
+      "rm": "3자배정 유상증자 참여",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000095",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권있는 주식",
+      "nm": "(주)에이프로젠",
+      "relate": "최대주주의 특수관계인",
+      "bsis_posesn_stock_co": "6,222,500",
+      "bsis_posesn_stock_qota_rt": "7.17",
+      "trmend_posesn_stock_co": "6,222,500",
+      "trmend_posesn_stock_qota_rt": "5.77",
+      "rm": "증자에 따른 지분율 감소",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000095",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,222,500",
+      "bsis_posesn_stock_qota_rt": "7.17",
+      "trmend_posesn_stock_co": "27,275,132",
+      "trmend_posesn_stock_qota_rt": "25.28",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000095",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

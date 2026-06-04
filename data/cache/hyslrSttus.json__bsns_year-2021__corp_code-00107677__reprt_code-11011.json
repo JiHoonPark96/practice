@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "stock_knd": "보통주",
+      "nm": "(주)쌍방울",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "4,010,384",
+      "bsis_posesn_stock_qota_rt": "15.00",
+      "trmend_posesn_stock_co": "4,010,384",
+      "trmend_posesn_stock_qota_rt": "13.46",
+      "rm": "장외매수 (주1)\n발행주식 수 증가 (주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "stock_knd": "보통주",
+      "nm": "(주)광림",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,146,340",
+      "bsis_posesn_stock_qota_rt": "4.29",
+      "trmend_posesn_stock_co": "1,146,340",
+      "trmend_posesn_stock_qota_rt": "3.85",
+      "rm": "1. 액면분할(1:10) (주3)\n2. 장외매수 (주4)\n3. 액면병합(5:1) (주5)\n4. 유상증자 참여 (주6)\n5. 장외매도 (주7)\n6. 발행주식 수 증가 (주8)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,156,724",
+      "bsis_posesn_stock_qota_rt": "18.97",
+      "trmend_posesn_stock_co": "5,156,724",
+      "trmend_posesn_stock_qota_rt": "17.31",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

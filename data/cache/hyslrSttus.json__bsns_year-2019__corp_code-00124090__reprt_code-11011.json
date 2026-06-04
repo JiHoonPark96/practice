@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004264",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_knd": "보통주",
+      "nm": "케이에스에스홀딩스\n 주식회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "14,452,237",
+      "bsis_posesn_stock_qota_rt": "44.67",
+      "trmend_posesn_stock_co": "14,452,237",
+      "trmend_posesn_stock_qota_rt": "44.67",
+      "rm": "2018년9월28일 최대주주가 유비제구차유동화전문회사에서 \n 케이에스에스홀딩스주식회사로 변경되었습니다.",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004264",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "14,452,237",
+      "bsis_posesn_stock_qota_rt": "44.67",
+      "trmend_posesn_stock_co": "14,452,237",
+      "trmend_posesn_stock_qota_rt": "44.67",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004264",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000372",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "se": "소액주주",
+      "shrholdr_co": "114,529",
+      "shrholdr_tot_co": "114,543",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "43,712,106",
+      "stock_tot_co": "94,352,104",
+      "hold_stock_rate": "46.33%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

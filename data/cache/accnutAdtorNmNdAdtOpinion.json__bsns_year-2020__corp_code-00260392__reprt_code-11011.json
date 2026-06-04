@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제52기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "첨부한 연결감사보고서 중 핵심감사사항 참조",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "첨부한 연결감사보고서 중\n리스 핵심감사사항 등 참조",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제50기 연결감사보고서 중\n강조사항 참조",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

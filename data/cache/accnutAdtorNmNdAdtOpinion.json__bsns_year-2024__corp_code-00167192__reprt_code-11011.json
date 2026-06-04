@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000857",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "주)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000857",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "주)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000857",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000857",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000857",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.수익인식의적정성\n2.미착원재료",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000857",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.수익인식의적정성\n2.미착원재료",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000833",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제54기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 재고자산평가충당금 평가의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000833",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제53기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- COVID-19로 인한 재무제표 구성항목 \n   관련 불확실성 검토",
+      "core_adt_matter": "- 재고자산평가충당금 평가의 적정성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000833",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- COVID-19로 인한 재무제표 구성항목 \n   관련 불확실성 검토\n- 전기(제51기) 재무제표는 타 감사인이 감사",
+      "core_adt_matter": "- 재고자산평가충당금 평가의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

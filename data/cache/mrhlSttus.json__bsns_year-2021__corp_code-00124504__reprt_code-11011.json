@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220311001166",
+      "corp_cls": "Y",
+      "corp_code": "00124504",
+      "corp_name": "포스코인터내셔널",
+      "se": "소액주주",
+      "shrholdr_co": "71,390",
+      "shrholdr_tot_co": "71,414",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "35,853,619",
+      "stock_tot_co": "123,375,149",
+      "hold_stock_rate": "29.06%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004333",
+      "corp_cls": "Y",
+      "corp_code": "00153524",
+      "corp_name": "태림포장",
+      "se": "소액주주",
+      "shrholdr_co": "12,046",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "17,289,558",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "24.42%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

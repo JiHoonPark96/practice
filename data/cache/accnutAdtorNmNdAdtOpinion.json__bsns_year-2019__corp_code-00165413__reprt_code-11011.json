@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제44기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의\n 관점에서 공정하게 표시하고 있음.",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "(1) 영업권 손상검사 - 롯데첨단소재 주식회사(2) 공동기업투자 손상검사- 롯데베르살리스 엘라스토머스 주식회사",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제43기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의\n 관점에서 공정하게 표시하고 있음.",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "(1) 특수관계자 등과의 거래 및 잔액 공시의 적정성(2) 재고자산 순실현가능가치",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200331002363",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의\n 관점에서 공정하게 표시하고 있음.",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "핵심감사사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

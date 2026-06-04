@@ -1,33 +1,278 @@
 {
   "sample_info": {
-    "number_of_firms": 50,
-    "number_of_firm_years": 350,
+    "pilot_mode": false,
+    "number_of_firms": 711,
+    "number_of_firm_years": 4977,
     "start_year": 2018,
     "end_year": 2024,
-    "number_of_sectors": 33
+    "number_of_sectors": 119
+  },
+  "correction_summary": {
+    "CorrectionDummy": {
+      "non_missing": 4977,
+      "mean": 0.19931685754470566,
+      "median": 0.0,
+      "std": 0.39952686983202484,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "CorrectionCount": {
+      "non_missing": 4977,
+      "mean": 0.2943540285312437,
+      "median": 0.0,
+      "std": 0.8265795738107635,
+      "min": 0.0,
+      "max": 13.0
+    },
+    "MaterialCorrectionDummy": {
+      "non_missing": 4977,
+      "mean": 0.06951979103877838,
+      "median": 0.0,
+      "std": 0.25436153295943553,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "MaterialCorrectionCount": {
+      "non_missing": 4977,
+      "mean": 0.09363070122563794,
+      "median": 0.0,
+      "std": 0.45460489833591483,
+      "min": 0.0,
+      "max": 10.0
+    },
+    "NonAuditFeeRatio": {
+      "non_missing": 1155,
+      "mean": 0.10380031974935615,
+      "median": 0.0,
+      "std": 0.3219451842250347,
+      "min": 0.0,
+      "max": 4.814814814814815
+    },
+    "AuditFee": {
+      "non_missing": 1188,
+      "mean": 39779724.343939394,
+      "median": 129000.0,
+      "std": 125249523.86706896,
+      "min": 3.0,
+      "max": 1690000000.0
+    },
+    "NonAuditFee": {
+      "non_missing": 4977,
+      "mean": 3481641.2889712676,
+      "median": 0.0,
+      "std": 30650019.750071265,
+      "min": 0.0,
+      "max": 900722264.0
+    },
+    "OutsideDirectorRatio": {
+      "non_missing": 3321,
+      "mean": 0.4390255391836241,
+      "median": 0.42857142857142855,
+      "std": 0.14959793446131744,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "LargestShareholderOwnership": {
+      "non_missing": 4632,
+      "mean": 44.42077504317789,
+      "median": 45.01,
+      "std": 16.581939304644497,
+      "min": 2.0,
+      "max": 100.0
+    },
+    "LogAssets": {
+      "non_missing": 4611,
+      "mean": 27.32182780763328,
+      "median": 27.082165474836497,
+      "std": 1.6615125876609793,
+      "min": 18.6561550461162,
+      "max": 33.874278764512916
+    },
+    "Leverage": {
+      "non_missing": 4610,
+      "mean": 0.46218883527442917,
+      "median": 0.4723548545267222,
+      "std": 0.20928862364542794,
+      "min": 0.017781295150886323,
+      "max": 1.2590652687644954
+    },
+    "ROA": {
+      "non_missing": 4610,
+      "mean": 0.014674611833387113,
+      "median": 0.023248093591923813,
+      "std": 0.09105294640260751,
+      "min": -1.3752547035828149,
+      "max": 1.7185523551559234
+    }
   },
   "missing_rates": {
-    "NonAuditFeeRatio": 0.9285714285714286,
-    "AuditFee": 0.9285714285714286,
-    "NonAuditFee": 0.5057142857142857,
-    "LogAuditFee": 0.9285714285714286,
-    "Big4Auditor": 0.5057142857142857,
-    "CleanOpinion": 0.5057142857142857,
-    "OutsideDirectorRatio": 0.5914285714285714,
-    "BoardSize": 0.58,
-    "OutsideDirectorCount": 0.5914285714285714,
-    "LargestShareholderOwnership": 0.5057142857142857,
-    "MinorityShareholderRatio": 0.5371428571428571,
-    "MinorityShareholderCount": 0.5371428571428571,
-    "Assets": 0.5485714285714286,
-    "LogAssets": 0.5485714285714286,
-    "Leverage": 0.5485714285714286,
-    "ROA": 1.0,
-    "Loss": 0.5485714285714286,
     "CorrectionDummy": 0.0,
     "CorrectionCount": 0.0,
     "MaterialCorrectionDummy": 0.0,
     "MaterialCorrectionCount": 0.0,
-    "MaterialKeywordHits": 0.0
-  }
+    "NonAuditFeeRatio": 0.7679324894514767,
+    "AuditFee": 0.7613019891500904,
+    "NonAuditFee": 0.0,
+    "OutsideDirectorRatio": 0.33273056057866185,
+    "LargestShareholderOwnership": 0.06931886678722121,
+    "LogAssets": 0.07353827606992164,
+    "Leverage": 0.0737392003214788,
+    "ROA": 0.0737392003214788
+  },
+  "yearly_summary": [
+    {
+      "year": 2018,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.20534458509142053,
+      "avg_correction_count": 0.350210970464135,
+      "material_rate": 0.0
+    },
+    {
+      "year": 2019,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.18424753867791843,
+      "avg_correction_count": 0.270042194092827,
+      "material_rate": 0.0
+    },
+    {
+      "year": 2020,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.12376933895921238,
+      "avg_correction_count": 0.18706047819971872,
+      "material_rate": 0.0014064697609001407
+    },
+    {
+      "year": 2021,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.22925457102672292,
+      "avg_correction_count": 0.3530239099859353,
+      "material_rate": 0.0014064697609001407
+    },
+    {
+      "year": 2022,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.2616033755274262,
+      "avg_correction_count": 0.35443037974683544,
+      "material_rate": 0.10689170182841069
+    },
+    {
+      "year": 2023,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.1659634317862166,
+      "avg_correction_count": 0.23066104078762306,
+      "material_rate": 0.1617440225035162
+    },
+    {
+      "year": 2024,
+      "n_firm_years": 711,
+      "n_firms": 711,
+      "correction_rate": 0.2250351617440225,
+      "avg_correction_count": 0.3150492264416315,
+      "material_rate": 0.21518987341772153
+    }
+  ],
+  "regression_key_coefficients": [
+    {
+      "model": "M1_controls",
+      "variable": "LogAssets_w",
+      "coef": 0.021953718684039326,
+      "std_err": 0.005623334818070218,
+      "t_or_z": 3.9040390434324643,
+      "p_value": 9.460050936355589e-05
+    },
+    {
+      "model": "M1_controls",
+      "variable": "Leverage_w",
+      "coef": 0.10259743153611105,
+      "std_err": 0.04508808332420137,
+      "t_or_z": 2.2754888647271705,
+      "p_value": 0.022876619916045927
+    },
+    {
+      "model": "M1_controls",
+      "variable": "ROA_w",
+      "coef": -0.3637576708469263,
+      "std_err": 0.13709535347845989,
+      "t_or_z": -2.653318742156196,
+      "p_value": 0.007970456568019361
+    },
+    {
+      "model": "M1_controls",
+      "variable": "Loss",
+      "coef": 0.013719432364253999,
+      "std_err": 0.021695910400265524,
+      "t_or_z": 0.6323510795880727,
+      "p_value": 0.5271574929538011
+    },
+    {
+      "model": "M2_audit",
+      "variable": "LogAssets_w",
+      "coef": 0.010650381248437604,
+      "std_err": 0.012791430065305287,
+      "t_or_z": 0.832618494887844,
+      "p_value": 0.4050599248564173
+    },
+    {
+      "model": "M2_audit",
+      "variable": "Leverage_w",
+      "coef": 0.12459554100497497,
+      "std_err": 0.08982000671525582,
+      "t_or_z": 1.3871691348227495,
+      "p_value": 0.16539019474629268
+    },
+    {
+      "model": "M2_audit",
+      "variable": "ROA_w",
+      "coef": -0.3139278572809214,
+      "std_err": 0.28202008751998436,
+      "t_or_z": -1.1131400604883366,
+      "p_value": 0.26564828074323044
+    },
+    {
+      "model": "M2_audit",
+      "variable": "Loss",
+      "coef": 0.022353094339252956,
+      "std_err": 0.041096380373425154,
+      "t_or_z": 0.5439188107599743,
+      "p_value": 0.5864973438473966
+    },
+    {
+      "model": "M2_audit",
+      "variable": "NonAuditFeeRatio_w",
+      "coef": -0.03655361972380024,
+      "std_err": 0.05625924824603756,
+      "t_or_z": -0.6497353033218813,
+      "p_value": 0.5158632157407803
+    },
+    {
+      "model": "M2_audit",
+      "variable": "LogAuditFee_w",
+      "coef": -0.0026755124553271233,
+      "std_err": 0.002708711936160715,
+      "t_or_z": -0.9877434435200046,
+      "p_value": 0.3232783122646702
+    },
+    {
+      "model": "M2_audit",
+      "variable": "Big4Auditor",
+      "coef": 0.026960511624861745,
+      "std_err": 0.031100901703923274,
+      "t_or_z": 0.8668723460664411,
+      "p_value": 0.386011957018881
+    },
+    {
+      "model": "M2_audit",
+      "variable": "CleanOpinion",
+      "coef": -0.07479013988986284,
+      "std_err": 0.05128374552988906,
+      "t_or_z": -1.458359546813402,
+      "p_value": 0.1447414648677508
+    }
+  ]
 }

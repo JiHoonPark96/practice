@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001348",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제59기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19로 인한 불확실성",
+      "core_adt_matter": "기타포괄손익-공정가치금융자산의 \n공정가치 평가 (주)우리홈쇼핑\n흥국생명보험(주)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001348",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제58기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19로 인한 불확실성",
+      "core_adt_matter": "기타포괄손익-공정가치금융자산의 \n공정가치 평가 (주)우리홈쇼핑\n흥국생명보험(주)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001348",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "bsns_year": "제57기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "기타포괄손익-공정가치금융자산으로 \n분류되는 (주)우리홈쇼핑\n투자주식에 대한 공정가치 측정",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

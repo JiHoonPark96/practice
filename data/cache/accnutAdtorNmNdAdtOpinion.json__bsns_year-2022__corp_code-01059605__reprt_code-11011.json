@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001395",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "bsns_year": "제9기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 특수관계자 매출과 관련된 수익인식 회계정책 이해 및 평가\n- 특수관계자 매출에 대하여 통제이전시점 적절성 검토 후 내    부통제 설계 및 운영효과성 테스트 수행",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001395",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "bsns_year": "제8기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 매출 프로세스와 관련된 내부통제에 대한 이해 및 평가\n- 특수관계자 매출에 대한 세부 입증절차 수행\n- 특수관계자에 대한 매출 인식과 관련하여 수익인식기준에\n   따른 매출 인식 요건 충족 여부에 대한 경영진의 판단 평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001395",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "bsns_year": "제7기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 매출 프로세스와 관련된 내부통제에 대한 이해 및 평가\n- 특수관계자 매출에 대한 세부 입증절차 수행\n- 특수관계자에 대한 매출 인식과 관련하여 수익인식기준에\n   따른 매출 인식 요건 충족 여부에 대한 경영진의 판단 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

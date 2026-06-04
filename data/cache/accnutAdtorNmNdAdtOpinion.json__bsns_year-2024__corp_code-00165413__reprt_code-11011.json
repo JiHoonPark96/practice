@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2024년\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위 손상검사 - 올레핀사업부 및 아로마틱사업부(2) 종속기업투자 손상검사 - 롯데에너지머티리얼즈(주)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2024년\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위 손상검사 - 올레핀사업부 및 아로마틱사업부, LC Titan(2) 롯데에너지머티리얼즈(주) 영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2023년\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위 손상검사 - 올레핀사업부 및 아로마틱사업부(2) 종속기업투자 손상검사 - 롯데에너지머티리얼즈(주)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2023년\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위 손상검사 - 올레핀사업부 및 아로마틱사업부, LC Titan(2) 롯데에너지머티리얼즈(주) 사업결합 회계처리(3) 롯데에너지머티리얼즈(주) 영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2022년\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위 손상검사\n - 올레핀사업부 및 아로마틱사업부\n(2) 첨단소재 사업부 영업권 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2022년\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 현금창출단위 손상검사\n - 올레핀사업부 및 아로마틱사업부\n(2) 첨단소재 사업부 영업권 손상검사\n(3) 롯데정밀화학(주) 사업결합 회계처리",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

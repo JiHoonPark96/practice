@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002234",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "보통주",
+      "nm": "글로벌세아(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "40,651,683",
+      "bsis_posesn_stock_qota_rt": "68.98",
+      "trmend_posesn_stock_co": "40,651,683",
+      "trmend_posesn_stock_qota_rt": "68.98",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002234",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "보통주",
+      "nm": "김연수",
+      "relate": "계열회사 임원",
+      "bsis_posesn_stock_co": "72,596",
+      "bsis_posesn_stock_qota_rt": "0.12",
+      "trmend_posesn_stock_co": "72,596",
+      "trmend_posesn_stock_qota_rt": "0.12",
+      "rm": "　-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002234",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "40,724,279",
+      "bsis_posesn_stock_qota_rt": "69.10",
+      "trmend_posesn_stock_co": "40,724,279",
+      "trmend_posesn_stock_qota_rt": "69.10",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002234",
+      "corp_cls": "Y",
+      "corp_code": "00106881",
+      "corp_name": "인디에프",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

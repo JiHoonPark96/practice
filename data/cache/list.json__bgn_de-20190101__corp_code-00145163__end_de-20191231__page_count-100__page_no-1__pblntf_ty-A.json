@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191112000249",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20191112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190812000078",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20190812",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190718000376",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20190718",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190718000369",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20190718",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190509000153",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20190509",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329003504",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20190329",
+      "rm": "정"
+    }
+  ]
+}

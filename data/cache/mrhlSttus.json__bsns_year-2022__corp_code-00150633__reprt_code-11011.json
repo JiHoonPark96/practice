@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260206000232",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "se": "소액주주",
+      "shrholdr_co": "18,688",
+      "shrholdr_tot_co": "18,700",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "7,790,634",
+      "stock_tot_co": "18,900,676",
+      "hold_stock_rate": "41.22%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

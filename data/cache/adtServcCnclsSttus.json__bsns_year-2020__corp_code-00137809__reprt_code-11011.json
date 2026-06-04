@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000596",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제65기(당기)",
+      "adtor": "정인회계법인",
+      "cn": "반기,중간,기말감사, 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "1,520시간",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "1,584시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000596",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기,중간,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "49,000",
+      "adt_cntrct_dtls_time": "874시간",
+      "real_exc_dtls_mendng": "49,000",
+      "real_exc_dtls_time": "874시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000596",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기,중간,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "45,000",
+      "adt_cntrct_dtls_time": "803시간",
+      "real_exc_dtls_mendng": "45,000",
+      "real_exc_dtls_time": "803시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

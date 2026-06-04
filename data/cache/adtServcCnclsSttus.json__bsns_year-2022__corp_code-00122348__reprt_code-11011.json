@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221230000430",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "bsns_year": "제61기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기검토, 중간감사\n재고실사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "70,000",
+      "real_exc_dtls_time": "1,240시간",
+      "stlm_dt": "2022-09-30"
+    },
+    {
+      "rcept_no": "20221230000430",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "bsns_year": "제60기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기검토, 중간감사\n재고실사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "70,000",
+      "real_exc_dtls_time": "1,152시간",
+      "stlm_dt": "2022-09-30"
+    },
+    {
+      "rcept_no": "20221230000430",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기검토, 중간감사\n재고실사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "70,000",
+      "real_exc_dtls_time": "1,110시간",
+      "stlm_dt": "2022-09-30"
+    }
+  ]
+}

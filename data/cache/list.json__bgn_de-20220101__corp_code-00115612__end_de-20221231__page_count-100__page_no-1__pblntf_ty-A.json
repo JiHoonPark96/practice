@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.09)",
+      "rcept_no": "20221115000075",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20221115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114002470",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20221114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20220818000129",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20220818",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816002441",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20220816",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220713000108",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20220713",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001632",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20220516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220315000790",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20220315",
+      "rm": "정연"
+    }
+  ]
+}

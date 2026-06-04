@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000474",
+      "corp_cls": "Y",
+      "corp_code": "00101433",
+      "corp_name": "경농",
+      "se": "소액주주",
+      "shrholdr_co": "8,636",
+      "shrholdr_tot_co": "11,755",
+      "shrholdr_rate": "73.47%",
+      "hold_stock_co": "4,822,420",
+      "stock_tot_co": "17,864,650",
+      "hold_stock_rate": "10.3%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

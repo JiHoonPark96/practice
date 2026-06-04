@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001796",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "bsns_year": "제46기 (당기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도회계감사, 연결회계감사\n내부회계관리제도 검토 등",
+      "mendng": "195백만원",
+      "tot_reqre_time": "1,907 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001796",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "bsns_year": "제45기 (전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도회계감사, 연결회계감사\n내부회계관리제도 검토 등",
+      "mendng": "140백만원",
+      "tot_reqre_time": "1,486 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001796",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "bsns_year": "제44기 (전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도회계감사, 연결회계감사\n내부회계관리제도 검토 등",
+      "mendng": "120백만원",
+      "tot_reqre_time": "1,353 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

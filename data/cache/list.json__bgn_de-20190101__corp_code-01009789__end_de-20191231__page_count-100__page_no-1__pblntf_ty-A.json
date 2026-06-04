@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001428",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002144",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002042",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401002962",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20190401",
+      "rm": "연"
+    }
+  ]
+}

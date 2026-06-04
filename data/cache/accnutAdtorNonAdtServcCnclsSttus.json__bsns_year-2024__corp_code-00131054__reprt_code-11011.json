@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000789",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "2023.07.17",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2025년 1월",
+      "servc_mendng": "20",
+      "rm": "연간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000789",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "2023.07.17",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024년 1월",
+      "servc_mendng": "20",
+      "rm": "연간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000789",
+      "corp_cls": "Y",
+      "corp_code": "00131054",
+      "corp_name": "유진증권",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2020.06.02",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023년 1월",
+      "servc_mendng": "15",
+      "rm": "연간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

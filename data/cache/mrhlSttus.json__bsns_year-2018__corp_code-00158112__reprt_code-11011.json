@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002821",
+      "corp_cls": "Y",
+      "corp_code": "00158112",
+      "corp_name": "한국수출포장공업",
+      "se": "소액주주",
+      "shrholdr_co": "2,022",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.65%",
+      "hold_stock_co": "1,820,177",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "45.50%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

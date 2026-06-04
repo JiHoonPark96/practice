@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210330001151",
+      "corp_cls": "Y",
+      "corp_code": "00481454",
+      "corp_name": "금호타이어",
+      "bsns_year": "제18기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분기검토, 반기검토, 결산감사, 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,190",
+      "adt_cntrct_dtls_time": "9,520",
+      "real_exc_dtls_mendng": "1,190",
+      "real_exc_dtls_time": "12,677",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330001151",
+      "corp_cls": "Y",
+      "corp_code": "00481454",
+      "corp_name": "금호타이어",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분기검토, 반기검토, 결산감사, 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "720",
+      "adt_cntrct_dtls_time": "8,000",
+      "real_exc_dtls_mendng": "720",
+      "real_exc_dtls_time": "8,000",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330001151",
+      "corp_cls": "Y",
+      "corp_code": "00481454",
+      "corp_name": "금호타이어",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기검토, 반기검토, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "600",
+      "adt_cntrct_dtls_time": "7,818",
+      "real_exc_dtls_mendng": "600",
+      "real_exc_dtls_time": "7,818",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

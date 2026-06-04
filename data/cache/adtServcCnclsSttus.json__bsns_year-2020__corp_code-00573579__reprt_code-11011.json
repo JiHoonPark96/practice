@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001161",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "bsns_year": "제15기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "200백만",
+      "real_exc_dtls_time": "2,150",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001161",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "bsns_year": "제14기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80백만",
+      "adt_cntrct_dtls_time": "1,519",
+      "real_exc_dtls_mendng": "80백만",
+      "real_exc_dtls_time": "1,519",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001161",
+      "corp_cls": "Y",
+      "corp_code": "00573579",
+      "corp_name": "평화산업",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "77백만",
+      "adt_cntrct_dtls_time": "2,062",
+      "real_exc_dtls_mendng": "77백만",
+      "real_exc_dtls_time": "2,062",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

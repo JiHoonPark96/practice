@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201229000102",
+      "corp_cls": "Y",
+      "corp_code": "00122348",
+      "corp_name": "방림",
+      "se": "소액주주",
+      "shrholdr_co": "3,881",
+      "shrholdr_tot_co": "3,894",
+      "shrholdr_rate": "99.68%",
+      "hold_stock_co": "20,055,527",
+      "stock_tot_co": "42,314,090",
+      "hold_stock_rate": "47.41%",
+      "stlm_dt": "2020-09-30"
+    }
+  ]
+}

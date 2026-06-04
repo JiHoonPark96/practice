@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001295",
+      "corp_cls": "Y",
+      "corp_code": "00508274",
+      "corp_name": "일진다이아",
+      "se": "소액주주",
+      "shrholdr_co": "38,150",
+      "shrholdr_tot_co": "38,156",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "6,006,634",
+      "stock_tot_co": "14,202,975",
+      "hold_stock_rate": "42.29%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

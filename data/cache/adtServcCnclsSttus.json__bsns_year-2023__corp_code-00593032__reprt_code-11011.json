@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001217",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제18기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "- 분기 검토보고서\n\n- 반기 검토보고서\n- 별도 재무제표감사\n- 연결 재무제표감사\n- 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "730\n\n(연간총보수)",
+      "adt_cntrct_dtls_time": "6,400",
+      "real_exc_dtls_mendng": "730",
+      "real_exc_dtls_time": "6,089",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001217",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제17기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "720\n(연간총보수)",
+      "adt_cntrct_dtls_time": "6,400",
+      "real_exc_dtls_mendng": "720",
+      "real_exc_dtls_time": "6,101",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001217",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "570\n(연간총보수)",
+      "adt_cntrct_dtls_time": "5,940",
+      "real_exc_dtls_mendng": "570",
+      "real_exc_dtls_time": "5,999",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

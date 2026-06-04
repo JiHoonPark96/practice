@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001336",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "se": "소액주주",
+      "shrholdr_co": "10,284",
+      "shrholdr_tot_co": "10,294",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "48,682,615",
+      "stock_tot_co": "109,195,590",
+      "hold_stock_rate": "44.58%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000178",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼화회계법인",
+      "cn": "분반기 검토\n개별ㆍ연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "63,000 ",
+      "adt_cntrct_dtls_time": "1,050",
+      "real_exc_dtls_mendng": "63,000 ",
+      "real_exc_dtls_time": "1,178",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000178",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제52기(전기)",
+      "adtor": "삼화회계법인",
+      "cn": "분반기 검토\n개별ㆍ연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "63,000 ",
+      "adt_cntrct_dtls_time": "1,050",
+      "real_exc_dtls_mendng": "63,000 ",
+      "real_exc_dtls_time": "1,170",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000178",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "삼화회계법인",
+      "cn": "분반기 검토\n개별ㆍ연결재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "55,000 ",
+      "adt_cntrct_dtls_time": "1,034 ",
+      "real_exc_dtls_mendng": "55,000 ",
+      "real_exc_dtls_time": "1,068 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

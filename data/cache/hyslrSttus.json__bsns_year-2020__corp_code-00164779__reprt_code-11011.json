@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_knd": "보통주",
+      "nm": "에스케이텔레콤(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "146,100,000",
+      "bsis_posesn_stock_qota_rt": "20.07",
+      "trmend_posesn_stock_co": "146,100,000",
+      "trmend_posesn_stock_qota_rt": "20.07",
+      "rm": "유상증자 참여/구주지분 인수",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_knd": "보통주",
+      "nm": "박정호",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,090",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "2,090",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_knd": "보통주",
+      "nm": "이석희",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "42",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "42",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "146,101,132",
+      "bsis_posesn_stock_qota_rt": "20.07",
+      "trmend_posesn_stock_co": "146,102,132",
+      "trmend_posesn_stock_qota_rt": "20.07",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

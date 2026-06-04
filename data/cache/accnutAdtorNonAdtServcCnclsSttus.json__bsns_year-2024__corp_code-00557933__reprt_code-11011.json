@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250327001019",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "bsns_year": "제19(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001019",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "bsns_year": "제19(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001019",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "bsns_year": "제18(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001019",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "bsns_year": "제18(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001019",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "bsns_year": "제17(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250327001019",
+      "corp_cls": "Y",
+      "corp_code": "00557933",
+      "corp_name": "진도",
+      "bsns_year": "제17(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001046",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "se": "소액주주",
+      "shrholdr_co": "26,805",
+      "shrholdr_tot_co": "26,813",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "7,970,231",
+      "stock_tot_co": "15,943,333",
+      "hold_stock_rate": "49.99%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제54기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제53기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "'22.11.14",
+      "servc_cn": "영문감사보고서 발행",
+      "servc_exc_pd": "'22.11.3 ~ '23.4.30",
+      "servc_mendng": "15",
+      "rm": "안진회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "'22.5.7",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "'22.4.1 ~ '23.3.31",
+      "servc_mendng": "38",
+      "rm": "안진회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000603",
+      "corp_cls": "Y",
+      "corp_code": "00155276",
+      "corp_name": "포스코퓨처엠",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "'22.2.7",
+      "servc_cn": "세무자문 용역",
+      "servc_exc_pd": "'22.2.7 ~ '22.6.30",
+      "servc_mendng": "50",
+      "rm": "안진회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

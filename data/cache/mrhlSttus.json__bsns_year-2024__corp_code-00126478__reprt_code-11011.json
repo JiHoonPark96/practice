@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "se": "소액주주",
+      "shrholdr_co": "339,947",
+      "shrholdr_tot_co": "339,955",
+      "shrholdr_rate": "100.0%",
+      "hold_stock_co": "573,526,476",
+      "stock_tot_co": "880,114,845",
+      "hold_stock_rate": "65.2%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

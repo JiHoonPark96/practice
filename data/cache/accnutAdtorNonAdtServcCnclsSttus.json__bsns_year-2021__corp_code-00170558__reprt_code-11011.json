@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816001433",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제33기(당기)",
+      "cntrct_cncls_de": "2021.11.26",
+      "servc_cn": "TP문서화",
+      "servc_exc_pd": "2021.11 ~ 2022.04",
+      "servc_mendng": "62,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816001433",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제32기(전기)",
+      "cntrct_cncls_de": "2020.01.02",
+      "servc_cn": "2019년도 법인세 세무조정",
+      "servc_exc_pd": "2020.01 ~ 2020.03",
+      "servc_mendng": "35,000천원",
+      "rm": "주1)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816001433",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "2019.12.04",
+      "servc_cn": "코웨이 TP문서화",
+      "servc_exc_pd": "2019.12 ~ 2020.04",
+      "servc_mendng": "65,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816001433",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "2019.04.18",
+      "servc_cn": "미국법인 TP문서화",
+      "servc_exc_pd": "2019.08 ~ 2020.06",
+      "servc_mendng": "USD 168,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816001433",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "2019.07.01",
+      "servc_cn": "중장기 성장전략",
+      "servc_exc_pd": "2019.07 ~ 2019.08",
+      "servc_mendng": "300,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816001433",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "2019.04.18",
+      "servc_cn": "GDPR 대응 컨설팅",
+      "servc_exc_pd": "2019.04 ~ 2019.07",
+      "servc_mendng": "42,000천원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

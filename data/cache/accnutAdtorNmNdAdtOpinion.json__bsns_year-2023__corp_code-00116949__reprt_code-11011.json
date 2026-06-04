@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000015",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제53기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "영업권손상평가 및 수출매출인식시기",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000015",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제52기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "영업권손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000015",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수출매출인식시기",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

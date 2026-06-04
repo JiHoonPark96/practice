@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001007",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001007",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2020년 3월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.04~2021.03",
+      "servc_mendng": "4",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001007",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "2019년 3월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.04~2020.03",
+      "servc_mendng": "4",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

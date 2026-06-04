@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000416",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제61기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "결산감사 등",
+      "mendng": "690,000",
+      "tot_reqre_time": "9,023",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210317000416",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제60기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "결산감사 등",
+      "mendng": "620,000",
+      "tot_reqre_time": "9,154",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210317000416",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "결산감사 등",
+      "mendng": "630,000",
+      "tot_reqre_time": "6,464",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

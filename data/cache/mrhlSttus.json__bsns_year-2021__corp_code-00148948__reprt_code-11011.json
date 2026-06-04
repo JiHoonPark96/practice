@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000340",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "se": "소액주주",
+      "shrholdr_co": "11,872",
+      "shrholdr_tot_co": "11,876",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "2,071,680",
+      "stock_tot_co": "5,191,828",
+      "hold_stock_rate": "39.9%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

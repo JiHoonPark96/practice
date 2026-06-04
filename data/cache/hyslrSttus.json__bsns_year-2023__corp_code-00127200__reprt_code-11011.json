@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240326000917",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "stock_knd": "보통주",
+      "nm": "일본케미콘(주)",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "6,679,983",
+      "bsis_posesn_stock_qota_rt": "33.40",
+      "trmend_posesn_stock_co": "6,679,983",
+      "trmend_posesn_stock_qota_rt": "33.40",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000917",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,679,983",
+      "bsis_posesn_stock_qota_rt": "33.40",
+      "trmend_posesn_stock_co": "6,679,983",
+      "trmend_posesn_stock_qota_rt": "33.40",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240326000917",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

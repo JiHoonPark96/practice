@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250605000501",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "stock_knd": "보통주",
+      "nm": "플라스코앤비(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "7,049,684",
+      "bsis_posesn_stock_qota_rt": "28.39",
+      "trmend_posesn_stock_co": "7,049,684",
+      "trmend_posesn_stock_qota_rt": "28.39",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20250605000501",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,049,684",
+      "bsis_posesn_stock_qota_rt": "28.39",
+      "trmend_posesn_stock_co": "7,049,684",
+      "trmend_posesn_stock_qota_rt": "28.39",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20250605000501",
+      "corp_cls": "Y",
+      "corp_code": "00122694",
+      "corp_name": "범양건영",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

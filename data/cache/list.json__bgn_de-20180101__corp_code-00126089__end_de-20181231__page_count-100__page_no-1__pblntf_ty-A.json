@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181113000468",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20181113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2018.06)",
+      "rcept_no": "20180820000239",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20180820",
+      "rm": ""
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2018.06)",
+      "rcept_no": "20180813000358",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20180813",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2018.06)",
+      "rcept_no": "20180813000333",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20180813",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.03)",
+      "rcept_no": "20180514000772",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20180514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2017.12)",
+      "rcept_no": "20180327000245",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20180327",
+      "rm": "정연"
+    }
+  ]
+}

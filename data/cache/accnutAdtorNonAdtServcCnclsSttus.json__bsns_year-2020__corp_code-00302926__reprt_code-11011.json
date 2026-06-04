@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제22기(당기)",
+      "cntrct_cncls_de": "2020.09",
+      "servc_cn": "사채이행 AUP 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "2019.08",
+      "servc_cn": "사채이행 AUP 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "2019.06",
+      "servc_cn": "이전가격 연구보고 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "2019.04",
+      "servc_cn": "사채이행 AUP 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "2018.09",
+      "servc_cn": "사채이행 AUP 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "2018.05",
+      "servc_cn": "재무자격확인 AUP 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210602000352",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "사채이행 AUP 外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

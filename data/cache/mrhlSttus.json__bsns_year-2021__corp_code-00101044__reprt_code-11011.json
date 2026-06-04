@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220314001107",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "se": "소액주주",
+      "shrholdr_co": "51,841",
+      "shrholdr_tot_co": "51,842",
+      "shrholdr_rate": "99%",
+      "hold_stock_co": "219,227,490",
+      "stock_tot_co": "398,570,406",
+      "hold_stock_rate": "55%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

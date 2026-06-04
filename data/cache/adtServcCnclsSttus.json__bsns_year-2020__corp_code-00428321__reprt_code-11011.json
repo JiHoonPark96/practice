@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001104",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "bsns_year": "제20기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "-분반기 검토\n-별도재무제표 감사\n-연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "3,100",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "3,661",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001104",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "bsns_year": "제19기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "2,834",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,978",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001104",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "167",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "167",
+      "real_exc_dtls_time": "2,834",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

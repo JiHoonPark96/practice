@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210305000063",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제10기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "-탄천공장 증설 관련 건설중인자산의 발생 및 계정대체의 \n  적정성과 감가상각비 계산의 정확성 검증",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210305000063",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제09기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- K-IFRS 1116호 리스기준서에 따른 회계처리의 적정성\n- 재고자산평가 충당금 설정 회계처리\n- 베트남 합작법인 설립\n- 탄천공장 생산시설 투자",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210305000063",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제08기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 자본적지출 감가상각\n- 도착지 인도 거래조건 해외매출 인식시점",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

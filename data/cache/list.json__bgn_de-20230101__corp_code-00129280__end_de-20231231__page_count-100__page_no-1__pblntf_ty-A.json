@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "stock_code": "011230",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231113000427",
+      "flr_nm": "삼화전자공업",
+      "rcept_dt": "20231113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "stock_code": "011230",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20231017000217",
+      "flr_nm": "삼화전자공업",
+      "rcept_dt": "20231017",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "stock_code": "011230",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814001819",
+      "flr_nm": "삼화전자공업",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "stock_code": "011230",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001934",
+      "flr_nm": "삼화전자공업",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129280",
+      "corp_name": "삼화전자공업",
+      "stock_code": "011230",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230316000939",
+      "flr_nm": "삼화전자공업",
+      "rcept_dt": "20230316",
+      "rm": "정연"
+    }
+  ]
+}

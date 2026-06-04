@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000393",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "se": "소액주주",
+      "shrholdr_co": "4,586",
+      "shrholdr_tot_co": "4,600",
+      "shrholdr_rate": "99.7%",
+      "hold_stock_co": "8,926,653",
+      "stock_tot_co": "20,000,000",
+      "hold_stock_rate": "44.63%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제61기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "4,056",
+      "adt_cntrct_dtls_time": "35,270 H",
+      "real_exc_dtls_mendng": "3,650",
+      "real_exc_dtls_time": "35,182 H",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제60기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "4,100",
+      "adt_cntrct_dtls_time": "37,270 H",
+      "real_exc_dtls_mendng": "4,320",
+      "real_exc_dtls_time": "36,921 H",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제59기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "3,950",
+      "adt_cntrct_dtls_time": "35,900 H",
+      "real_exc_dtls_mendng": "4,180",
+      "real_exc_dtls_time": "40,671 H",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

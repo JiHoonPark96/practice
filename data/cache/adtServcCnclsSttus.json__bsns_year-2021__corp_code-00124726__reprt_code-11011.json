@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제56기",
+      "adtor": "성현회계법인",
+      "cn": "중간기간 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300,000",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "300,000",
+      "real_exc_dtls_time": "3,039",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제55기",
+      "adtor": "성현회계법인",
+      "cn": "중간기간 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300,000",
+      "adt_cntrct_dtls_time": "2,900",
+      "real_exc_dtls_mendng": "300,000",
+      "real_exc_dtls_time": "2,674",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제54기",
+      "adtor": "한영회계법인",
+      "cn": "중간기간 연결재무제표/재무제표 검토\n연결재무제표/재무제표 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "134,000",
+      "adt_cntrct_dtls_time": "1,739",
+      "real_exc_dtls_mendng": "134,000",
+      "real_exc_dtls_time": "1,739",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190625000013",
+      "corp_cls": "Y",
+      "corp_code": "00157399",
+      "corp_name": "한솔테크닉스",
+      "se": "소액주주",
+      "shrholdr_co": "16,533",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "16,746,307",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "75.73%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

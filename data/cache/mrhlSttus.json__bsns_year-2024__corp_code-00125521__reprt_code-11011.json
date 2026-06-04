@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000826",
+      "corp_cls": "Y",
+      "corp_code": "00125521",
+      "corp_name": "에스엘",
+      "se": "소액주주",
+      "shrholdr_co": "20,148",
+      "shrholdr_tot_co": "20,189",
+      "shrholdr_rate": "99.80%",
+      "hold_stock_co": "9,776,805",
+      "stock_tot_co": "46,448,520",
+      "hold_stock_rate": "21.05%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

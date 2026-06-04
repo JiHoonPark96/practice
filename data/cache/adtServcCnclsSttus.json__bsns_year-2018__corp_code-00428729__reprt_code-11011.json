@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002729",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제17기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "개별반기재무제표 검토\n개별재무제표에 대한 감사",
+      "mendng": "200,000\n(VAT별도)",
+      "tot_reqre_time": "개별반기검토 : 222시간\n개별재무제표감사:1,047시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002729",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제16기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "개별반기재무제표 검토\n개별재무제표에 대한 감사",
+      "mendng": "180,000\n(VAT별도)",
+      "tot_reqre_time": "개별반기검토 : 515시간\n개별재무제표감사:1,071시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002729",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "정일회계법인",
+      "cn": "개별반기재무제표 검토\n개별재무제표에 대한 감사",
+      "mendng": "91,970\n(VAT별도",
+      "tot_reqre_time": "개별반기검토 : 652시간\n개별재무제표감사:512시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

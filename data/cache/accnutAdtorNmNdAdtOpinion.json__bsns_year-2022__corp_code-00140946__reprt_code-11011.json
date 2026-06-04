@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "bsns_year": "제50기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "종속기업 설립 및 사업양도 회계처리,\n금융리스 제공자 회계처리 적정성 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "bsns_year": "제49기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 거래 공시",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

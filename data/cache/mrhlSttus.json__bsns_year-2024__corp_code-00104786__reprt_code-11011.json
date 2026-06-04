@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002870",
+      "corp_cls": "Y",
+      "corp_code": "00104786",
+      "corp_name": "미래아이앤지",
+      "se": "소액주주",
+      "shrholdr_co": "9,673",
+      "shrholdr_tot_co": "9,681",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "18,408,386",
+      "stock_tot_co": "28,878,608",
+      "hold_stock_rate": "63.76%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제56기",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "316",
+      "adt_cntrct_dtls_time": "2,563",
+      "real_exc_dtls_mendng": "316",
+      "real_exc_dtls_time": "2,565",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제55기",
+      "adtor": "딜로이트 안진회계법인",
+      "cn": "재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215",
+      "adt_cntrct_dtls_time": "2,095",
+      "real_exc_dtls_mendng": "215",
+      "real_exc_dtls_time": "1,937",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001287",
+      "corp_cls": "Y",
+      "corp_code": "00126779",
+      "corp_name": "삼아알미늄",
+      "bsns_year": "제54기",
+      "adtor": "딜로이트 안진회계법인",
+      "cn": "재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "205",
+      "adt_cntrct_dtls_time": "1,950",
+      "real_exc_dtls_mendng": "205",
+      "real_exc_dtls_time": "1,960",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

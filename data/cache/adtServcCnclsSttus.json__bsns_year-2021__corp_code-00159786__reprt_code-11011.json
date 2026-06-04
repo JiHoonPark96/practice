@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220308000942",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제42기 (당기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기,연간 별도(연결)\n재무제표감사(검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330 ",
+      "adt_cntrct_dtls_time": "3,300 ",
+      "real_exc_dtls_mendng": "330 ",
+      "real_exc_dtls_time": "3,395 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000942",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제41기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기,연간 별도(연결)\n재무제표감사(검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "295 ",
+      "adt_cntrct_dtls_time": "3,105 ",
+      "real_exc_dtls_mendng": "295 ",
+      "real_exc_dtls_time": "3,111 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220308000942",
+      "corp_cls": "Y",
+      "corp_code": "00159786",
+      "corp_name": "유니드",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분,반기,연간 별도(연결)\n재무제표감사(검토)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "232.2 ",
+      "adt_cntrct_dtls_time": "2,444 ",
+      "real_exc_dtls_mendng": "232.2 ",
+      "real_exc_dtls_time": "2,709 ",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

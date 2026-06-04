@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001573",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001573",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001573",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "2023.05",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2024.1~2024.3",
+      "servc_mendng": "7백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001573",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "2023.09",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2023.9~종료시",
+      "servc_mendng": "100백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001573",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "2022.09",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.9~2022.9",
+      "servc_mendng": "3백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001573",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "2022.05",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2023.1~2023.3",
+      "servc_mendng": "7백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

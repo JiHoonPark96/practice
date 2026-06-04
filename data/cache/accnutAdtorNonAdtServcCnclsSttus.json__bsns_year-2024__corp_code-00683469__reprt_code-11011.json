@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제17기(당기)",
+      "cntrct_cncls_de": "2024-05-31",
+      "servc_cn": "FY2024 법인세 세무조정",
+      "servc_exc_pd": "2024.08~2025.03",
+      "servc_mendng": "30,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제16기(전기)",
+      "cntrct_cncls_de": "2023-08-25",
+      "servc_cn": "FY2023 법인세 세무조정",
+      "servc_exc_pd": "2023.08~2024.03",
+      "servc_mendng": "30,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제16기(전기)",
+      "cntrct_cncls_de": "2023-12-07",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2024.02",
+      "servc_mendng": "5,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제15기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000485",
+      "corp_cls": "Y",
+      "corp_code": "00683469",
+      "corp_name": "일진전기",
+      "bsns_year": "제15기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

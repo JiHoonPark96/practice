@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "stock_code": "011000",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211108000183",
+      "flr_nm": "진원생명과학",
+      "rcept_dt": "20211108",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "stock_code": "011000",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20210823000325",
+      "flr_nm": "진원생명과학",
+      "rcept_dt": "20210823",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "stock_code": "011000",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001223",
+      "flr_nm": "진원생명과학",
+      "rcept_dt": "20210817",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "stock_code": "011000",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.03)",
+      "rcept_no": "20210521000254",
+      "flr_nm": "진원생명과학",
+      "rcept_dt": "20210521",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "stock_code": "011000",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517001054",
+      "flr_nm": "진원생명과학",
+      "rcept_dt": "20210517",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "stock_code": "011000",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210323000614",
+      "flr_nm": "진원생명과학",
+      "rcept_dt": "20210323",
+      "rm": "연"
+    }
+  ]
+}

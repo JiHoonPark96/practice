@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001146",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제8기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "8기 감사 및 검토보수(분기검토 및 기말(별도,연결)감사보수 포함)-연간계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340,000",
+      "adt_cntrct_dtls_time": "3,500",
+      "real_exc_dtls_mendng": "340,000",
+      "real_exc_dtls_time": "3,793",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001146",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제7기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "7기 감사 및 검토보수(분기검토 및 기말(별도,연결)감사보수 포함)-연간계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000",
+      "adt_cntrct_dtls_time": "3,060",
+      "real_exc_dtls_mendng": "250,000",
+      "real_exc_dtls_time": "2,764",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001146",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제6기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "6기 감사 및 검토보수(분기검토 및 기말(별도,연결)감사보수 포함)-연간계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370,000",
+      "adt_cntrct_dtls_time": "별도: 1,600\n연결: 550",
+      "real_exc_dtls_mendng": "370,000",
+      "real_exc_dtls_time": "별도: 1,637\n연결: 573",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

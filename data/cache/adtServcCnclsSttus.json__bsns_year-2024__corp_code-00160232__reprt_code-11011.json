@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제41기(당기)",
+      "adtor": "성현회계법인",
+      "cn": "연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "25,000만원",
+      "adt_cntrct_dtls_time": "2,983",
+      "real_exc_dtls_mendng": "25,000만원",
+      "real_exc_dtls_time": "3,004",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제40기(전기)",
+      "adtor": "성현회계법인",
+      "cn": "연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "24,000만원",
+      "adt_cntrct_dtls_time": "3,004",
+      "real_exc_dtls_mendng": "24,000만원",
+      "real_exc_dtls_time": "2,818",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001308",
+      "corp_cls": "Y",
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "31,000만원",
+      "adt_cntrct_dtls_time": "2,850",
+      "real_exc_dtls_mendng": "31,000만원",
+      "real_exc_dtls_time": "3,165",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

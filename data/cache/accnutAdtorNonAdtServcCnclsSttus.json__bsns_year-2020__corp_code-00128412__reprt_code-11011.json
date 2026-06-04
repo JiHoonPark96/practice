@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 53 기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 52 기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 51 기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

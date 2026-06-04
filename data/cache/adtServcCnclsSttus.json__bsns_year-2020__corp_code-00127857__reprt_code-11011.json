@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000347",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "bsns_year": "제48기(당기)",
+      "adtor": "선진회계법인",
+      "cn": "반기중간기말별도 및 연결회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "121,000",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "121,000",
+      "real_exc_dtls_time": "1,617",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000347",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "bsns_year": "제47기(전기)",
+      "adtor": "선진회계법인",
+      "cn": "반기중간기말별도 및 연결회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "1,450",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "1,453",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000347",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "bsns_year": "제46기 (전전기)",
+      "adtor": "선진회계법인",
+      "cn": "반기중간기말별도 및 연결회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "1,430",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "1,437",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

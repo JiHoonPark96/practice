@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 55 (당) 기",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기 별도 및 연결 검토,\n기말 별도 및 연결 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "590,000",
+      "adt_cntrct_dtls_time": "6,860시간",
+      "real_exc_dtls_mendng": "590,000",
+      "real_exc_dtls_time": "5,143시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 54 (전) 기",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기 별도 및 연결 검토,\n기말 별도 및 연결 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "590,000",
+      "adt_cntrct_dtls_time": "6,860시간",
+      "real_exc_dtls_mendng": "590,000",
+      "real_exc_dtls_time": "4,151시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000863",
+      "corp_cls": "Y",
+      "corp_code": "00113535",
+      "corp_name": "대한해운",
+      "bsns_year": "제 53 (전전) 기",
+      "adtor": "한울회계법인",
+      "cn": "분,반기 별도 및 연결 검토,\n기말 별도 및 연결 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290,000",
+      "adt_cntrct_dtls_time": "3,950시간",
+      "real_exc_dtls_mendng": "290,000",
+      "real_exc_dtls_time": "4,048시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

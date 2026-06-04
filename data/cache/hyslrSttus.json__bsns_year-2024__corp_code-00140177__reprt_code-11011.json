@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜GS",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "60,633,923",
+      "bsis_posesn_stock_qota_rt": "57.90",
+      "trmend_posesn_stock_co": "49,009,387",
+      "trmend_posesn_stock_qota_rt": "58.62",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "오진석",
+      "relate": "특수관계자",
+      "bsis_posesn_stock_co": "4,160",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "3,362",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "발행회사 등기임원",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "60,638,083",
+      "bsis_posesn_stock_qota_rt": "57.91",
+      "trmend_posesn_stock_co": "49,012,749",
+      "trmend_posesn_stock_qota_rt": "58.62",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000991",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

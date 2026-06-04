@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220329001016",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "se": "소액주주",
+      "shrholdr_co": "18,892",
+      "shrholdr_tot_co": "18,902",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "18,002,397",
+      "stock_tot_co": "36,212,160",
+      "hold_stock_rate": "49.71%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

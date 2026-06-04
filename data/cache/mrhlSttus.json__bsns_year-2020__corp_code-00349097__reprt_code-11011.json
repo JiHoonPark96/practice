@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000841",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "se": "소액주주",
+      "shrholdr_co": "11,592",
+      "shrholdr_tot_co": "11,598",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "19,501,259",
+      "stock_tot_co": "47,821,966",
+      "hold_stock_rate": "40.80%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

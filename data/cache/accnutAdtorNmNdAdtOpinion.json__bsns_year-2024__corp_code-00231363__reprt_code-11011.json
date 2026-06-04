@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000701",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제29기\n (당기)(주1)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "통신서비스 수익의 발생사실과 정확성, 엘지헬로비전 종속기업투자 손상평가, LG유플러스 부문 및 엘지헬로비전 부문 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000701",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제29기\n (당기)(주1)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "통신서비스 수익의 발생사실과 정확성, 엘지헬로비전 종속기업투자 손상평가, LG유플러스 부문 및 엘지헬로비전 부문 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000701",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제28기\n (전기)(주1)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "통신서비스 수익의 발생사실과 정확성, 엘지헬로비전 종속기업투자 손상평가, LG유플러스 부문 및 엘지헬로비전 부문 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000701",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제28기\n (전기)(주1)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "통신서비스 수익의 발생사실과 정확성, 엘지헬로비전 종속기업투자 손상평가, LG유플러스 부문 및 엘지헬로비전 부문 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000701",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제27기\n (전전기)(주1)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "청구시스템을 통해 계산되는 통신서비스 수익의 발생사실과 정확성, 엘지헬로비전 종속기업투자 손상평가, LG유플러스 부문 및 엘지헬로비전 부문 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000701",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제27기\n (전전기)(주1)",
+      "adtor": "삼정회계법인(주2)",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "청구시스템을 통해 계산되는 통신서비스 수익의 발생사실과 정확성, 엘지헬로비전 종속기업투자 손상평가, LG유플러스 부문 및 엘지헬로비전 부문 현금창출단위 영업권 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

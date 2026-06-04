@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000707",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "bsns_year": "제33기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "공정(적정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210322000707",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "bsns_year": "제32기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "공정(적정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210322000707",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "공정(적정)",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

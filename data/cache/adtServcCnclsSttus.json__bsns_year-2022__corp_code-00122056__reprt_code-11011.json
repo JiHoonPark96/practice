@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230327000678",
+      "corp_cls": "Y",
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "bsns_year": "제58기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "내부회계관리제도감사\n반기,결산재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,000천원",
+      "adt_cntrct_dtls_time": "1,540",
+      "real_exc_dtls_mendng": "140,000천원",
+      "real_exc_dtls_time": "1,540",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230327000678",
+      "corp_cls": "Y",
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "bsns_year": "제57기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "내부회계관리제도검토\n반기,결산재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000천원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "85,000천원",
+      "real_exc_dtls_time": "1,160",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230327000678",
+      "corp_cls": "Y",
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "내부회계관리제도검토\n반기,결산재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000천원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "85,000천원",
+      "real_exc_dtls_time": "1,100",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

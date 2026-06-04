@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250327000896",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "se": "소액주주",
+      "shrholdr_co": "45,185",
+      "shrholdr_tot_co": "45,188",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "13,182,822",
+      "stock_tot_co": "19,085,664",
+      "hold_stock_rate": "69.06%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

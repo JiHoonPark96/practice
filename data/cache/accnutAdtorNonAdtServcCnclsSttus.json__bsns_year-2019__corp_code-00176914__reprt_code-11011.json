@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001042",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제34기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210317001042",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제34기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210317001042",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제33기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210317001042",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제33기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210317001042",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제32기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210317001042",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제32기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

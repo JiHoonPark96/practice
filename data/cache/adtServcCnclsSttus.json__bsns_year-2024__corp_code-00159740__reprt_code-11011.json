@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001326",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제69기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기, 반기, 3분기, 기말\n별도 및 연결 재무제표에 대한 감사, 재고실사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "1,340",
+      "real_exc_dtls_mendng": "175",
+      "real_exc_dtls_time": "1,313",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001326",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제68기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기, 반기, 3분기, 기말\n별도 및 연결 재무제표에 대한 감사, 재고실사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "171",
+      "adt_cntrct_dtls_time": "1,340",
+      "real_exc_dtls_mendng": "171",
+      "real_exc_dtls_time": "1,432",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001326",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "1분기, 반기, 3분기, 기말\n별도 및 연결 재무제표에 대한 감사, 재고실사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "80",
+      "real_exc_dtls_time": "1,431",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000337",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "se": "소액주주",
+      "shrholdr_co": "2,232",
+      "shrholdr_tot_co": "2,250",
+      "shrholdr_rate": "99.21%",
+      "hold_stock_co": "455,660",
+      "stock_tot_co": "2,800,000",
+      "hold_stock_rate": "16.29%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000612",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제54기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000612",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제53기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000612",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제52기(전전기)",
+      "cntrct_cncls_de": "2019.04.01",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.04.01~2020.03.31",
+      "servc_mendng": "10,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

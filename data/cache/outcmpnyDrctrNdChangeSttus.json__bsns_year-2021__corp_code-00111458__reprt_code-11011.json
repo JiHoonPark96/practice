@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000600",
+      "corp_cls": "Y",
+      "corp_code": "00111458",
+      "corp_name": "대영포장",
+      "drctr_co": "5",
+      "otcmp_drctr_co": "3",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "3",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200327002123",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "stock_knd": "보통주",
+      "nm": "주식회사 니케",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "575,000,000",
+      "bsis_posesn_stock_qota_rt": "67.14",
+      "trmend_posesn_stock_co": "525,000,000",
+      "trmend_posesn_stock_qota_rt": "61.30",
+      "rm": "시간외매매",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327002123",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "stock_knd": "보통주",
+      "nm": "김윤수",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,182",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,409",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327002123",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "stock_knd": "특수관계인",
+      "nm": "계",
+      "bsis_posesn_stock_co": "273",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "447",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327002123",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "stock_knd": "계",
+      "nm": "계",
+      "bsis_posesn_stock_co": "575,001,455",
+      "bsis_posesn_stock_qota_rt": "67.14",
+      "trmend_posesn_stock_co": "525,001,856",
+      "trmend_posesn_stock_qota_rt": "61.30",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200327002123",
+      "corp_cls": "Y",
+      "corp_code": "00113207",
+      "corp_name": "대한전선",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250424000289",
+      "corp_cls": "Y",
+      "corp_code": "00118451",
+      "corp_name": "동일제강",
+      "se": "소액주주",
+      "shrholdr_co": "7,170",
+      "shrholdr_tot_co": "7,179",
+      "shrholdr_rate": "99.87%",
+      "hold_stock_co": "7,388,728",
+      "stock_tot_co": "20,300,360",
+      "hold_stock_rate": "36.40%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

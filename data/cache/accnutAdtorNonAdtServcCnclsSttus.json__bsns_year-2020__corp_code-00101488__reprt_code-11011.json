@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "2020년 3월",
+      "servc_cn": "2019년 귀속 법인세 세무조정업무",
+      "servc_exc_pd": "2020년 3월",
+      "servc_mendng": "9,350",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "2019년 03월",
+      "servc_cn": "2018년 귀속 법인세 세무조정업무",
+      "servc_exc_pd": "2019년 03월",
+      "servc_mendng": "8,500",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "2019년 04월",
+      "servc_cn": "정보통신 공사업 등록을 위한 기업진단보고서 작성",
+      "servc_exc_pd": "2019년 04월",
+      "servc_mendng": "700",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "2018년 03월",
+      "servc_cn": "2017년 귀속 법인세 세무조정업무",
+      "servc_exc_pd": "2018년 03월",
+      "servc_mendng": "7,500",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210419000238",
+      "corp_cls": "Y",
+      "corp_code": "00101488",
+      "corp_name": "경동나비엔",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "2018년 01월",
+      "servc_cn": "전기공사업 등록을 위한 기업진단보고서 작성",
+      "servc_exc_pd": "2018년 01월",
+      "servc_mendng": "500",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001033",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토 및 기말감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000,000",
+      "adt_cntrct_dtls_time": "1,880",
+      "real_exc_dtls_mendng": "250,000,000",
+      "real_exc_dtls_time": "1,666",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001033",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토 및 기말감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000,000",
+      "adt_cntrct_dtls_time": "2,083",
+      "real_exc_dtls_mendng": "250,000,000",
+      "real_exc_dtls_time": "1,860",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001033",
+      "corp_cls": "Y",
+      "corp_code": "00435312",
+      "corp_name": "하이스틸",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기검토 및 기말감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000,000",
+      "adt_cntrct_dtls_time": "2,083",
+      "real_exc_dtls_mendng": "250,000,000",
+      "real_exc_dtls_time": "2,047",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

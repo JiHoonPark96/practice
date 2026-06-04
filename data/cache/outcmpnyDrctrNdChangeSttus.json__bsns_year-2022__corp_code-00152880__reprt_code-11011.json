@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230814002221",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "2",
+      "rlsofc": "0",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

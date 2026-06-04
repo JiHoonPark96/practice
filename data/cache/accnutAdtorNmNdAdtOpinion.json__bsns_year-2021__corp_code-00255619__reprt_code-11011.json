@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000547",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제24기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19의 확산이 미칠 영향은 예측 어려움",
+      "core_adt_matter": "이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000547",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제23기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19의 확산이 미칠 영향은 예측 어려움",
+      "core_adt_matter": "종속기업(하이원추추파크) 현금 창출 단위 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000547",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나19의 확산이 미칠 영향은 예측 어려움",
+      "core_adt_matter": "종속기업(하이원추추파크) 손상 검토",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

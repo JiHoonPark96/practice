@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20231030000426",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "bsns_year": "제37기(당기)",
+      "adtor": "신한회계법인",
+      "cn": " 결산재감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340",
+      "adt_cntrct_dtls_time": "867",
+      "real_exc_dtls_mendng": "340",
+      "real_exc_dtls_time": "867",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20231030000426",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "bsns_year": "제36기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토, 중간감사, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "980",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20231030000426",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기검토, 중간감사, 결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135",
+      "adt_cntrct_dtls_time": "990",
+      "real_exc_dtls_mendng": "135",
+      "real_exc_dtls_time": "1,161",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

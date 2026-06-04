@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001215",
+      "corp_cls": "Y",
+      "corp_code": "00111421",
+      "corp_name": "휴니드테크놀러지스",
+      "se": "소액주주",
+      "shrholdr_co": "9,190",
+      "shrholdr_tot_co": "9,201",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "6,709,847",
+      "stock_tot_co": "14,116,015",
+      "hold_stock_rate": "47.53%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

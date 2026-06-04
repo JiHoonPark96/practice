@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000800",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "147,000,000",
+      "adt_cntrct_dtls_time": "1,618",
+      "real_exc_dtls_mendng": "147,000,000",
+      "real_exc_dtls_time": "1,618",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000800",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "121,000,000",
+      "adt_cntrct_dtls_time": "1,355",
+      "real_exc_dtls_mendng": "121,000,000",
+      "real_exc_dtls_time": "1,355",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000800",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분반기 검토\n- 개별재무제표감사\n- 연결재무제표감사\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "89,000,000",
+      "adt_cntrct_dtls_time": "1,003",
+      "real_exc_dtls_mendng": "89,000,000",
+      "real_exc_dtls_time": "1,003",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313000479",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "bsns_year": "제47기(당기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n-. 매출과 관련된 수익의 발생 사실\n(별도재무제표)\n-. 매출과 관련된 수익의 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000479",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "bsns_year": "제46기(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n-. 매출과 관련된 수익의 발생 사실\n(별도재무제표)\n-. 매출과 관련된 수익의 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313000479",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적 정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n-. 매출과 관련된 수익의 발생 사실\n(별도재무제표)\n-. 매출과 관련된 수익의 발생사실",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

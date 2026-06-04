@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004378",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "bsns_year": "제38기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 및 부속명세서",
+      "mendng": "105,000",
+      "tot_reqre_time": "1,154시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004378",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "bsns_year": "제37기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 및 부속명세서",
+      "mendng": "53,000",
+      "tot_reqre_time": "1,057시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004378",
+      "corp_cls": "Y",
+      "corp_code": "00161976",
+      "corp_name": "한세예스24홀딩스",
+      "bsns_year": "제36기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 및 부속명세서",
+      "mendng": "45,000",
+      "tot_reqre_time": "788시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

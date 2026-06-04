@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제64기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "재무제표에 대한 외부감사\n(반기 검토 및 연결재무제표에 대한 감사 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,200",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,195",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제63기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 외부감사\n(반기 검토 및 연결재무제표에 대한 감사 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "205,000",
+      "adt_cntrct_dtls_time": "1,500",
+      "real_exc_dtls_mendng": "205,000",
+      "real_exc_dtls_time": "1,573",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000576",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "인덕회계법인",
+      "cn": "재무제표에 대한 외부감사\n(반기 검토 및 연결재무제표에 대한 감사 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230,000",
+      "adt_cntrct_dtls_time": "1,380",
+      "real_exc_dtls_mendng": "230,000",
+      "real_exc_dtls_time": "1,363",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240326000552",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "21,889",
+      "shrholdr_tot_co": "21,901",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "4,481,461",
+      "stock_tot_co": "18,932,713",
+      "hold_stock_rate": "23.67%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

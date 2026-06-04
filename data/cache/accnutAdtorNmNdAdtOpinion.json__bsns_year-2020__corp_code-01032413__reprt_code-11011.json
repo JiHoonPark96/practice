@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000717",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "bsns_year": "제7기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산평가충담금의 적정성",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000717",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "bsns_year": "제6기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 공동기업 투자주식의 손상\n나. 수출 매출 인식시점에 따른\n     기간귀속",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000717",
+      "corp_cls": "Y",
+      "corp_code": "01032413",
+      "corp_name": "해성디에스",
+      "bsns_year": "제5기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

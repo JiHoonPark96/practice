@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "stock_code": "161390",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114000510",
+      "flr_nm": "한국타이어앤테크놀로지",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "stock_code": "161390",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811001514",
+      "flr_nm": "한국타이어앤테크놀로지",
+      "rcept_dt": "20230811",
+      "rm": ""
+    },
+    {
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "stock_code": "161390",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515001970",
+      "flr_nm": "한국타이어앤테크놀로지",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "stock_code": "161390",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230324001266",
+      "flr_nm": "한국타이어앤테크놀로지",
+      "rcept_dt": "20230324",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00937324",
+      "corp_name": "한국타이어앤테크놀로지",
+      "stock_code": "161390",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230324001066",
+      "flr_nm": "한국타이어앤테크놀로지",
+      "rcept_dt": "20230324",
+      "rm": "정연"
+    }
+  ]
+}

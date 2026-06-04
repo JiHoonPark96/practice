@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230228006816",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "bsns_year": "제30기(당기)",
+      "adtor": "세영회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 연결감사",
+      "mendng": "65,000",
+      "tot_reqre_time": "1,458",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-06-30"
+    },
+    {
+      "rcept_no": "20230228006816",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "bsns_year": "제29기(전기)",
+      "adtor": "세영회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 연결감사",
+      "mendng": "65,000",
+      "tot_reqre_time": "1,414",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-06-30"
+    },
+    {
+      "rcept_no": "20230228006816",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "세영회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 연결감사",
+      "mendng": "65,000",
+      "tot_reqre_time": "1,363",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-06-30"
+    }
+  ]
+}

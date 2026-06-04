@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제47기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기 재무제표\n재작성",
+      "core_adt_matter": " - 수출 매출의 기간귀속 조정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " - 특수관계자 거래 공시의 적절성\n - 세법 개정에 따른 이연법인세 산정의 적절성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": " - 특수관계자 등 거래 및 잔액 공시의 적정성\n - 사업결합 회계처리와 공시의 적정성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

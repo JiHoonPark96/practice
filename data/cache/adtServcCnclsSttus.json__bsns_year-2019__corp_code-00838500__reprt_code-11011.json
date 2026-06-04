@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200429001118",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "bsns_year": "제11기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "외부감사계약\n(2019년)",
+      "mendng": " 226,689천원(주1, 2) ",
+      "tot_reqre_time": "1597시간(주2)",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200429001118",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "bsns_year": "제10기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "외부감사계약\n(2018년)",
+      "mendng": "88,726천원",
+      "tot_reqre_time": "1016시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200429001118",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "bsns_year": "제9기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "외부감사계약\n(2017년)",
+      "mendng": "67,000천원",
+      "tot_reqre_time": "880시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

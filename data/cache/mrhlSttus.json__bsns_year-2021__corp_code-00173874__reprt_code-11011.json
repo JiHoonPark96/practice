@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000955",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "se": "소액주주",
+      "shrholdr_co": "56,848",
+      "shrholdr_tot_co": "56,859",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "20,835,202,000",
+      "stock_tot_co": "97,667,877,000",
+      "hold_stock_rate": "21.33%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

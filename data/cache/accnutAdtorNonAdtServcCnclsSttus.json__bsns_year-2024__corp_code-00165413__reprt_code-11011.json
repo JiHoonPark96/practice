@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2024년(당기)",
+      "cntrct_cncls_de": "2024.03.25",
+      "servc_cn": "수익성 개선 자문",
+      "servc_exc_pd": "2024.03.25 ~ 2025.01.24",
+      "servc_mendng": "1,800백만원 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2023년(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250725000806",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "2022년(전전기)",
+      "cntrct_cncls_de": "2022.01.10.",
+      "servc_cn": "간주취득세 경정청구",
+      "servc_exc_pd": "2022.01.10 ~ 2022.03.31",
+      "servc_mendng": "74백만원 ",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

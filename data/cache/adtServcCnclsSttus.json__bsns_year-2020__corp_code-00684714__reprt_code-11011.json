@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001187",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제13기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분/반기 검토, 중간감사, 재고실사, 별도 및 연결재무제표 감사, 내부회계관리제도 운영실태보고서 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "860",
+      "adt_cntrct_dtls_time": "7,800",
+      "real_exc_dtls_mendng": "860",
+      "real_exc_dtls_time": "8,377",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001187",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제12기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 검토, 중간감사, 재고실사, 별도 및 연결재무제표 감사, 내부회계관리제도 운영실태보고서 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450",
+      "adt_cntrct_dtls_time": "5,328",
+      "real_exc_dtls_mendng": "450",
+      "real_exc_dtls_time": "5,321",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001187",
+      "corp_cls": "Y",
+      "corp_code": "00684714",
+      "corp_name": "풍산",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기 검토, 중간감사, 재고실사, 별도 및 연결재무제표 감사, 내부회계관리제도 운영실태보고서 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "3,362",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "3,213",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

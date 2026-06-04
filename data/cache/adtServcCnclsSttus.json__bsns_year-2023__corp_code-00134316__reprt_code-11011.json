@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230919000247",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "bsns_year": "제34기(당기)",
+      "adtor": "진일회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 연결감사내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235,000",
+      "adt_cntrct_dtls_time": "2,150",
+      "real_exc_dtls_mendng": "235,000",
+      "real_exc_dtls_time": "2,163",
+      "stlm_dt": "2023-06-30"
+    },
+    {
+      "rcept_no": "20230919000247",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "bsns_year": "제33기(당기)",
+      "adtor": "진일회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190,000",
+      "adt_cntrct_dtls_time": "1,744",
+      "real_exc_dtls_mendng": "190,000",
+      "real_exc_dtls_time": "1,810",
+      "stlm_dt": "2023-06-30"
+    },
+    {
+      "rcept_no": "20230919000247",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "bsns_year": "제32기(전기)",
+      "adtor": "진일회계법인",
+      "cn": "반기검토, 중간감사, 기말감사, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "185,000",
+      "adt_cntrct_dtls_time": "1,744",
+      "real_exc_dtls_mendng": "185,000",
+      "real_exc_dtls_time": "1,732",
+      "stlm_dt": "2023-06-30"
+    }
+  ]
+}

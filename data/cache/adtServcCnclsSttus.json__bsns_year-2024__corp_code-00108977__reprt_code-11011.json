@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000349",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제56기(당기)",
+      "adtor": "태일회계법인",
+      "cn": "반기재무제표검토\n별도재무제표ㆍ연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "2,248시간",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "2,248시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000349",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제55기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기재무제표검토\n별도재무제표ㆍ연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "295백만원",
+      "adt_cntrct_dtls_time": "2,510시간",
+      "real_exc_dtls_mendng": "295백만원",
+      "real_exc_dtls_time": "2,861시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000349",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기재무제표검토\n별도재무제표ㆍ연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280백만원",
+      "adt_cntrct_dtls_time": "2,100시간",
+      "real_exc_dtls_mendng": "280백만원",
+      "real_exc_dtls_time": "2,100시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

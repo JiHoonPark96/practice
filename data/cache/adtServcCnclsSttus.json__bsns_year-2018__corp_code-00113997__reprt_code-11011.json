@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329001031",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "bsns_year": "32기 (당기)",
+      "adtor": "대주회계법인",
+      "cn": "반기검토,중간감사,결산감사,연결감사",
+      "mendng": "80,000",
+      "tot_reqre_time": "1,429",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001031",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "bsns_year": "31기 (전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기검토,중간감사,결산감사,연결감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "804",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329001031",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "bsns_year": "30기 (전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토,중간감사,결산감사,연결감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "773",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

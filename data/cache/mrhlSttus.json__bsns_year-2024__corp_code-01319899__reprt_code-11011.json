@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000856",
+      "corp_cls": "Y",
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "se": "소액주주",
+      "shrholdr_co": "269,988",
+      "shrholdr_tot_co": "269,991",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "21,347,889",
+      "stock_tot_co": "78,347,293",
+      "hold_stock_rate": "27.25%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

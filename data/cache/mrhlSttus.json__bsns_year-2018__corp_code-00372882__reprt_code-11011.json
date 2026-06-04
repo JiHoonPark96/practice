@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190404001342",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "se": "소액주주",
+      "shrholdr_co": "16,668",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "26,700,248",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "62.54%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

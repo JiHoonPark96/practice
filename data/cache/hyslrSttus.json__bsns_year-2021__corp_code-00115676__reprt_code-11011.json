@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_knd": "보통주",
+      "nm": "KG스틸(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "40,000,000",
+      "bsis_posesn_stock_qota_rt": "39.97",
+      "trmend_posesn_stock_co": "40,000,000",
+      "trmend_posesn_stock_qota_rt": "39.97",
+      "rm": "제3자배정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "40,000,000",
+      "bsis_posesn_stock_qota_rt": "39.97",
+      "trmend_posesn_stock_co": "40,000,000",
+      "trmend_posesn_stock_qota_rt": "39.97",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001244",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240731000599",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "보통주",
+      "nm": "㈜아시아나항공",
+      "relate": "최대주주 등",
+      "bsis_posesn_stock_co": "23,000,000",
+      "bsis_posesn_stock_qota_rt": "44.17",
+      "trmend_posesn_stock_co": "23,000,000",
+      "trmend_posesn_stock_qota_rt": "44.17",
+      "rm": "주1)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240731000599",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "보통주",
+      "nm": "자사주",
+      "relate": "자기주식",
+      "bsis_posesn_stock_co": "108,000",
+      "bsis_posesn_stock_qota_rt": "0.21",
+      "trmend_posesn_stock_co": "108,000",
+      "trmend_posesn_stock_qota_rt": "0.21",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240731000599",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "23,108,000",
+      "bsis_posesn_stock_qota_rt": "44.38",
+      "trmend_posesn_stock_co": "23,108,000",
+      "trmend_posesn_stock_qota_rt": "44.38",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20240731000599",
+      "corp_cls": "Y",
+      "corp_code": "00651901",
+      "corp_name": "에어부산",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

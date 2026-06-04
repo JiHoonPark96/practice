@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제59기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제58기(전기)",
+      "cntrct_cncls_de": "2023.05.17",
+      "servc_cn": "세무신고",
+      "servc_exc_pd": "2023.05.17~2023.12.31",
+      "servc_mendng": "18",
+      "rm": "당사 종속회사인 Pan Ocean Trading & Logistics Pte. Ltd.와\n회계감사인의 해외법인인 KPMG Services Ptd. Ltd와의 계약",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제57기(전전기)",
+      "cntrct_cncls_de": "2022.05.24",
+      "servc_cn": "세무고문",
+      "servc_exc_pd": "2022.04.01~2023.03.31",
+      "servc_mendng": "10",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000777",
+      "corp_cls": "Y",
+      "corp_code": "00122737",
+      "corp_name": "팬오션",
+      "bsns_year": "제57기(전전기)",
+      "cntrct_cncls_de": "2022.05.24",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.05.24~2023.03.31",
+      "servc_mendng": "60",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

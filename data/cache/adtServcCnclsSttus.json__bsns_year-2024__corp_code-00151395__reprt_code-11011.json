@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001184",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제77기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95",
+      "adt_cntrct_dtls_time": "880",
+      "real_exc_dtls_mendng": "95",
+      "real_exc_dtls_time": "909",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001184",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제76기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90",
+      "adt_cntrct_dtls_time": "832",
+      "real_exc_dtls_mendng": "90",
+      "real_exc_dtls_time": "745",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001184",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제75기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "외부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90",
+      "adt_cntrct_dtls_time": "832",
+      "real_exc_dtls_mendng": "90",
+      "real_exc_dtls_time": "745",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

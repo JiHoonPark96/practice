@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000015",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제53기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "제53기 연결 및 별도\n회계감사 및 분반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "540,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "540,000",
+      "real_exc_dtls_time": "4,605시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000015",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제52기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "제52기 연결 및 별도\n회계감사 및 분반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "450,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "450,000",
+      "real_exc_dtls_time": "5,314시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000015",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "제51기 연결 및 별도\n회계감사 및 분반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "312,000",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "312,000",
+      "real_exc_dtls_time": "2,611시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

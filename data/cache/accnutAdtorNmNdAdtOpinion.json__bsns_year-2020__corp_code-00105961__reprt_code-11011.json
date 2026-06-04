@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제45기  연간\n제45기 3분기\n제45기  반기\n제45기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스\n영향으로 인한 불확실성 존재",
+      "core_adt_matter": "가. 전장부품 사업부 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제44기  연간\n제44기 3분기\n제44기  반기\n제44기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "가. LED 및 전장부품 사업부 손상평가\n나. 내부창출 개발비의 자산화 및 손상평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제43기   연간\n제43기 3분기\n제43기   반기\n제43기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "가. LED사업부 현금창출단위 손상평가\n나. 내부창출 개발비의 자산화 및 손상평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

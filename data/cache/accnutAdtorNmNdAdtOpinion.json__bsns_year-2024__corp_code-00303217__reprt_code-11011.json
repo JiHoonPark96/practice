@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제33기\n(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출액의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제33기\n(당기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출액의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제32기\n(전기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출액의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제32기\n(전기)",
+      "adtor": "도원회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출액의 발생사실 및 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제31기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제품 매출의 실재성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000814",
+      "corp_cls": "Y",
+      "corp_code": "00303217",
+      "corp_name": "우진플라임",
+      "bsns_year": "제31기\n(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제품 매출의 실재성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

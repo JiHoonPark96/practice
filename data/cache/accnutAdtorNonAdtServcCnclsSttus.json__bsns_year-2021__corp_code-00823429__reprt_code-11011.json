@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812001253",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "bsns_year": "제12기(당   기)",
+      "cntrct_cncls_de": "2021.03.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.03",
+      "servc_mendng": "5,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812001253",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "bsns_year": "제11기(전   기)",
+      "cntrct_cncls_de": "2020.03.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.03",
+      "servc_mendng": "5,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812001253",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "bsns_year": "제10기(전전기)",
+      "cntrct_cncls_de": "2019.03.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.03",
+      "servc_mendng": "5,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

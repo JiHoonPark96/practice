@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310001083",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제24기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "예비감사 분 반기ㆍ기말감사 보고서작성(영문포함),  \n연결재무제표 IFRS 검토작성, 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "820/년",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "820",
+      "real_exc_dtls_time": "7,752",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230310001083",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제23기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "예비감사 분 반기ㆍ기말감사 보고서작성(영문포함),  \n연결재무제표 IFRS 검토작성, 내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "800/년",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "800",
+      "real_exc_dtls_time": "7,958",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230310001083",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제22기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "예비감사 분 반기ㆍ기말감사 보고서작성(영문포함),  \n연결재무제표 IFRS 검토작성, 내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "780/년",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "780",
+      "real_exc_dtls_time": "7,670",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

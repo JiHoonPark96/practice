@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제46기(전기)",
+      "cntrct_cncls_de": "22년 3월 4일",
+      "servc_cn": "금호석유화학\n\n디지털 트랜스포메이션(DX) 과제\n추진을 위한 PMO 구성 운영",
+      "servc_exc_pd": "22-03-07 ~\n\n22-12-31",
+      "servc_mendng": "898백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001337",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "21년 3월 4일",
+      "servc_cn": "금호석유화학 주주총회\n\n의안설명자료 컨설팅",
+      "servc_exc_pd": "21-02-24 ~\n\n21-03-02",
+      "servc_mendng": "15백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

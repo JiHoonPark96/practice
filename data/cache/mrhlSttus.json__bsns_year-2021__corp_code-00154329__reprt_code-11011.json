@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000869",
+      "corp_cls": "Y",
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "se": "소액주주",
+      "shrholdr_co": "17,304",
+      "shrholdr_tot_co": "17,331",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "25,493,241",
+      "stock_tot_co": "48,149,587",
+      "hold_stock_rate": "52.96%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

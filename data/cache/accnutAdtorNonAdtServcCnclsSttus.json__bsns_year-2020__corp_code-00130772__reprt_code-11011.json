@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000400",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제31기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000400",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제 30기 (전기)",
+      "cntrct_cncls_de": "2019.06.17\n2019.07.19\n2019.08.08",
+      "servc_cn": "합의된 절차 용역\n합의된 절차 용역\n세무조정",
+      "servc_exc_pd": "2019.06.17~2019.08.07\n2019.07.19~2019.08.07\n2019.08.26~2020.03.31",
+      "servc_mendng": "110백만원\n40백만원\n15백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000400",
+      "corp_cls": "Y",
+      "corp_code": "00130772",
+      "corp_name": "SBS",
+      "bsns_year": "제29기(전전기)",
+      "cntrct_cncls_de": "2018.07.02",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.07.01~2019.03.31",
+      "servc_mendng": "14백만원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

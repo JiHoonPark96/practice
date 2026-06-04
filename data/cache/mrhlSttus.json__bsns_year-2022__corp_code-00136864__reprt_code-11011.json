@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230324000944",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "se": "소액주주",
+      "shrholdr_co": "28,717",
+      "shrholdr_tot_co": "28,723",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "52,619,637",
+      "stock_tot_co": "80,586,356",
+      "hold_stock_rate": "65.30%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

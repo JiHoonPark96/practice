@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003762",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜GS",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "50,628,440",
+      "bsis_posesn_stock_qota_rt": "65.75",
+      "trmend_posesn_stock_co": "50,628,440",
+      "trmend_posesn_stock_qota_rt": "65.75",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003762",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "조윤성",
+      "relate": "특수관계자",
+      "bsis_posesn_stock_co": "6,200",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "15,226",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "발행회사 등기임원,\n장내 추가 매수",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003762",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "50,634,640",
+      "bsis_posesn_stock_qota_rt": "65.76",
+      "trmend_posesn_stock_co": "50,643,666",
+      "trmend_posesn_stock_qota_rt": "65.77",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003762",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

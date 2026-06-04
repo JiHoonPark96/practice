@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002660",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "bsns_year": "제33기(당기)",
+      "cntrct_cncls_de": "20.02.05",
+      "servc_cn": "세무조정 계산",
+      "servc_exc_pd": "20.02.12 ~ 20.03.31",
+      "servc_mendng": "7,000,000원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002660",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "bsns_year": "제32기(전기)",
+      "cntrct_cncls_de": "19.02.11",
+      "servc_cn": "세무조정 계산",
+      "servc_exc_pd": "19.02.11 ~ 19.03.31",
+      "servc_mendng": "7,000,000원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002660",
+      "corp_cls": "Y",
+      "corp_code": "00159564",
+      "corp_name": "한국주강",
+      "bsns_year": "제31기(전전기)",
+      "cntrct_cncls_de": "18.02.06",
+      "servc_cn": "세무조정 계산",
+      "servc_exc_pd": "18.02.06 ~ 18.03.31",
+      "servc_mendng": "7,000,000원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

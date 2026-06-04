@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000915",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "5",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

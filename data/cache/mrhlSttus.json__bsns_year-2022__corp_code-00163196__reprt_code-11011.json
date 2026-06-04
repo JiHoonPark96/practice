@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001313",
+      "corp_cls": "Y",
+      "corp_code": "00163196",
+      "corp_name": "한일철강",
+      "se": "소액주주",
+      "shrholdr_co": "5,167",
+      "shrholdr_tot_co": "5,190",
+      "shrholdr_rate": "99.56%",
+      "hold_stock_co": "8,172,201",
+      "stock_tot_co": "26,697,460",
+      "hold_stock_rate": "30.62%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

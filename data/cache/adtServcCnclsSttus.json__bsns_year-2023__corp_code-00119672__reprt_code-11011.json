@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001718",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "EY한영회계법인",
+      "cn": "별도및연결의 반기검토, 중간감사, 기말감사, 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "3,300",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "3,028",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001718",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "EY한영회계법인",
+      "cn": "별도및연결의 반기검토, 중간감사, 기말감사, 내부회계관리제도",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "3,030",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001718",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "EY한영회계법인",
+      "cn": "별도및연결의 반기검토, 중간감사, 기말감사, 재고자산실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240백만원",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "240백만원",
+      "real_exc_dtls_time": "2,759",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

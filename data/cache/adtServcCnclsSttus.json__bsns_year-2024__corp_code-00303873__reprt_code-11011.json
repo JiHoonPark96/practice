@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제26기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결ㆍ별도 회계 감사 및\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "750",
+      "adt_cntrct_dtls_time": "7,500",
+      "real_exc_dtls_mendng": "750",
+      "real_exc_dtls_time": "7,233",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제25기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결ㆍ별도 회계 감사 및\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "720",
+      "adt_cntrct_dtls_time": "7,200",
+      "real_exc_dtls_mendng": "720",
+      "real_exc_dtls_time": "7,077",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결ㆍ별도 회계 감사 및\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "690",
+      "adt_cntrct_dtls_time": "7,000",
+      "real_exc_dtls_mendng": "690",
+      "real_exc_dtls_time": "7,150",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

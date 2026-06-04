@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제58기(당기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가에 대한 추정의 불확실성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제57기(전기)",
+      "adtor": "서우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가에 대한 추정의 불확실성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000414",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가에 대한 추정의 불확실성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

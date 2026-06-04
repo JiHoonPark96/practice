@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310001048",
+      "corp_cls": "Y",
+      "corp_code": "00165680",
+      "corp_name": "호텔신라",
+      "bsns_year": "제48기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "기말감사 및 분반기 검토내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "650",
+      "adt_cntrct_dtls_time": "8,679 시간",
+      "real_exc_dtls_mendng": "650",
+      "real_exc_dtls_time": "  9,771 시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001048",
+      "corp_cls": "Y",
+      "corp_code": "00165680",
+      "corp_name": "호텔신라",
+      "bsns_year": "제47기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "기말감사 및 분반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "600",
+      "adt_cntrct_dtls_time": "7,595 시간",
+      "real_exc_dtls_mendng": "600 ",
+      "real_exc_dtls_time": "7,604 시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001048",
+      "corp_cls": "Y",
+      "corp_code": "00165680",
+      "corp_name": "호텔신라",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "기말감사 및 분반기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340",
+      "adt_cntrct_dtls_time": "4,328 시간",
+      "real_exc_dtls_mendng": "340 ",
+      "real_exc_dtls_time": "4,559 시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000941",
+      "corp_cls": "Y",
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료",
+      "se": "소액주주",
+      "shrholdr_co": "15,034",
+      "shrholdr_tot_co": "15,055",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "2,912,765",
+      "stock_tot_co": "8,975,123",
+      "hold_stock_rate": "32.45%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

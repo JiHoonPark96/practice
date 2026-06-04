@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210916000175",
+      "corp_cls": "Y",
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "se": "소액주주",
+      "shrholdr_co": "58,400",
+      "shrholdr_tot_co": "58,407",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "3,297,761",
+      "stock_tot_co": "12,019,231",
+      "hold_stock_rate": "27.44%",
+      "stlm_dt": "2021-06-30"
+    }
+  ]
+}

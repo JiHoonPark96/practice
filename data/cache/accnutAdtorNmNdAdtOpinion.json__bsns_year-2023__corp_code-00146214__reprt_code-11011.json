@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000706",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "bsns_year": "제64기(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "재화의 판매로 인한 수익인식의 실재성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000706",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "bsns_year": "제63기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수준2, 3 공정가치측정 금융상품 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314000706",
+      "corp_cls": "Y",
+      "corp_code": "00146214",
+      "corp_name": "일성아이에스",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수준3 공정가치측정 금융상품 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

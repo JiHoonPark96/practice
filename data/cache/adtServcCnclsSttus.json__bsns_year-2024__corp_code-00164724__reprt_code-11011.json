@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000920",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제41기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기ㆍ분기 별도 및 연결재무제표 검토, \n중간감사, 기말감사 및 별도재무제표, 연결재무제표, \n내부회계관리제도 등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "765",
+      "adt_cntrct_dtls_time": "8,000",
+      "real_exc_dtls_mendng": "765",
+      "real_exc_dtls_time": "7,711",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000920",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제40기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기ㆍ분기 별도 및 연결재무제표 검토, \n중간감사, 기말감사 및 별도재무제표, 연결재무제표, \n내부회계관리제도 등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "765",
+      "adt_cntrct_dtls_time": "8,000",
+      "real_exc_dtls_mendng": "765",
+      "real_exc_dtls_time": "7,532",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000920",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기ㆍ분기 별도 및 연결재무제표 검토, \n중간감사, 기말감사 및 별도재무제표, 연결재무제표, \n내부회계관리제도 등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "670",
+      "adt_cntrct_dtls_time": "7,000",
+      "real_exc_dtls_mendng": "670",
+      "real_exc_dtls_time": "6,874",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제41기(당기)",
+      "cntrct_cncls_de": "2024.04.04",
+      "servc_cn": "세무 자문 용역",
+      "servc_exc_pd": "2024.04.04 ~ 2024.07.10",
+      "servc_mendng": "250,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제41기(당기)",
+      "cntrct_cncls_de": "2024.09.04 /2024.09.05",
+      "servc_cn": "개인정보보호 관리실태 점검*",
+      "servc_exc_pd": "2024.09.04 ~ 2024.09.05",
+      "servc_mendng": "6,283천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제41기(당기)",
+      "cntrct_cncls_de": "2025.01.06",
+      "servc_cn": "국외특수관계거래에 대한 \n정상가격 검토",
+      "servc_exc_pd": "2025.01.06 ~ 2025.03.31",
+      "servc_mendng": "28,000천원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제40기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제39기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

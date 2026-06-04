@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001558",
+      "corp_cls": "Y",
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "se": "소액주주",
+      "shrholdr_co": "23,432",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "98.07%",
+      "hold_stock_co": "53,414,324",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "48.33%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

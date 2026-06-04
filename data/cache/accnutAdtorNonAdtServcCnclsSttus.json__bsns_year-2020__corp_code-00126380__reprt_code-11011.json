@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210309000744",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제52기 \n(당기)",
+      "cntrct_cncls_de": "2017.06",
+      "servc_cn": "E-Discovery 자문업무",
+      "servc_exc_pd": "2020.01~2020.12",
+      "servc_mendng": "59",
+      "rm": "안진회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000744",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제51기\n(전기)",
+      "cntrct_cncls_de": "2019.02\n2019.10",
+      "servc_cn": "SOC2 인증 등 관련 자문업무\n관세 등 관련 자문업무",
+      "servc_exc_pd": "2019.02~2019.09\n2019.10~2019.12",
+      "servc_mendng": "258\n127",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000744",
+      "corp_cls": "Y",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자",
+      "bsns_year": "제50기\n(전전기)",
+      "cntrct_cncls_de": "2017.11\n2018.12\n2016.12",
+      "servc_cn": "세무자문업무\n세무자문업무\n관세 등 관련 자문업무",
+      "servc_exc_pd": "2018.01~2018.03\n2018.12~2018.12\n2018.01~2018.12",
+      "servc_mendng": "194\n149\n253",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

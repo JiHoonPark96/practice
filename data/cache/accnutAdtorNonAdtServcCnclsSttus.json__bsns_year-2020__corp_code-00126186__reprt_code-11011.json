@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210309000603",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2020.10",
+      "servc_cn": "이전가격 용역",
+      "servc_exc_pd": "2020.10 ~ 2021.12",
+      "servc_mendng": "165 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000603",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2020.07",
+      "servc_cn": "국제거래정보 통합보고서 작성",
+      "servc_exc_pd": "2020.07 ~ 2020.12",
+      "servc_mendng": "55 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000603",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2020.07",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2020.07 ~ 2021.06",
+      "servc_mendng": "48 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000603",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2019.09",
+      "servc_cn": "국제거래정보 통합보고서 작성",
+      "servc_exc_pd": "2019.09 ~ 2019.12",
+      "servc_mendng": "66 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000603",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2019.07",
+      "servc_cn": "세무조정 업무",
+      "servc_exc_pd": "2019.07 ~ 2020.03",
+      "servc_mendng": "44 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210309000603",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "국제거래정보 통합보고서 작성",
+      "servc_exc_pd": "2018.04 ~ 2018.12",
+      "servc_mendng": "55 ",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

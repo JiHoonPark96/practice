@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000299",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "bsns_year": "제77기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "도착지인도조건 해외매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000299",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "bsns_year": "제77기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "도착지인도조건 해외매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000299",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "bsns_year": "제76기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업 투자지분에 대한 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000299",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "bsns_year": "제76기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업 투자지분에 대한 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000299",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "bsns_year": "제75기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외 매출의 기간 귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000299",
+      "corp_cls": "Y",
+      "corp_code": "00104768",
+      "corp_name": "가온전선",
+      "bsns_year": "제75기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "국외 매출의 기간 귀속",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

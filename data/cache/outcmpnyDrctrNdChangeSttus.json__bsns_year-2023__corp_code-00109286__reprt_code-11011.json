@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320002054",
+      "corp_cls": "Y",
+      "corp_code": "00109286",
+      "corp_name": "대동",
+      "drctr_co": "6",
+      "otcmp_drctr_co": "3",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

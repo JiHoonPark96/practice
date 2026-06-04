@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001713",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제66기(당기)",
+      "adtor": "정진세림회계법인",
+      "cn": "별도 및 연결 재무제표 감사\n별도 내부회계 감사\n(반기재무제표 검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340백만원",
+      "adt_cntrct_dtls_time": "2,547시간",
+      "real_exc_dtls_mendng": "340백만원",
+      "real_exc_dtls_time": "2,751시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001713",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제65기(전기)",
+      "adtor": "정진세림회계법인",
+      "cn": "별도 및 연결 재무제표 감사\n별도 내부회계 감사\n(반기재무제표 검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340백만원",
+      "adt_cntrct_dtls_time": "2,547시간",
+      "real_exc_dtls_mendng": "340백만원",
+      "real_exc_dtls_time": "2,551시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001713",
+      "corp_cls": "Y",
+      "corp_code": "00132211",
+      "corp_name": "SUN&L",
+      "bsns_year": "제64기(전전기)",
+      "adtor": " 정진세림회계법인",
+      "cn": "별도 및 연결 재무제표 감사\n(반기재무제표 검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "1,919시간",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "1,988시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

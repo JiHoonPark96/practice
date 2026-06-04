@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000653",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "bsns_year": "제33기(당기)",
+      "adtor": "한길회계법인",
+      "cn": "기말재무제표 감사\n   개별/연결재무제표등에 대한 회계감사\n   내부회계",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125",
+      "adt_cntrct_dtls_time": "889",
+      "real_exc_dtls_mendng": "125",
+      "real_exc_dtls_time": "912",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000653",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "bsns_year": "제32기(전기)",
+      "adtor": "한길회계법인",
+      "cn": "기말재무제표 감사\n   개별/연결재무제표등에 대한 회계감사\n   내부회계",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125",
+      "adt_cntrct_dtls_time": "889",
+      "real_exc_dtls_mendng": "125",
+      "real_exc_dtls_time": "901",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000653",
+      "corp_cls": "Y",
+      "corp_code": "00210856",
+      "corp_name": "코아스",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "신우회계법인",
+      "cn": "기말재무제표 감사\n   개별/연결재무제표등에 대한 회계감사\n   내부회계",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "889",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,157",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

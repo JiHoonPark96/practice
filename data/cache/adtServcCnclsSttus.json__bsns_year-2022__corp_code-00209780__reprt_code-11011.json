@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001309",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제33기(당기)",
+      "adtor": "서현회계법인",
+      "cn": "분ㆍ반기 검토,중간감사,연말감사(연결 포함)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "288,000",
+      "adt_cntrct_dtls_time": "2,624",
+      "real_exc_dtls_mendng": "288,000",
+      "real_exc_dtls_time": "2,683",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001309",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제32기(전기)",
+      "adtor": "서현회계법인",
+      "cn": "분ㆍ반기 검토,중간감사,연말감사(연결 포함)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "275,000",
+      "adt_cntrct_dtls_time": "2,750",
+      "real_exc_dtls_mendng": "275,000",
+      "real_exc_dtls_time": "2,641",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001309",
+      "corp_cls": "Y",
+      "corp_code": "00209780",
+      "corp_name": "케이씨",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "서현회계법인",
+      "cn": "반기검토,중간감사,연말감사(반기,기말 연결 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "1,784",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "1,876",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000626",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "2024년 03월",
+      "servc_cn": "지속가능경영보고서 발간 자문",
+      "servc_exc_pd": "3개월",
+      "servc_mendng": "124",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000626",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000626",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2022년 05월",
+      "servc_cn": "독립경영인정 신청서류 확인 용역",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000626",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "2022년 05월",
+      "servc_cn": "이전가격 컨설팅 용역",
+      "servc_exc_pd": "8개월",
+      "servc_mendng": "25",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

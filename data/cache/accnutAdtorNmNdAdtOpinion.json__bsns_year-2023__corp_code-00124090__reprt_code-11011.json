@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000647",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제53기(당기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출의 발생사실",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000647",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제52기(전기)",
+      "adtor": "한길회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재고자산을 유형자산으로 재분류하여 이로 인한 수정사항을 반영하여 2022년 12월 31일과 2021년 12월31일로 종료하는 회계연도의 재무제표를 재작성하였습니다. ",
+      "core_adt_matter": "유형자산 손상차손 환입",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000647",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 실재성 및 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000803",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "se": "소액주주",
+      "shrholdr_co": "15,040",
+      "shrholdr_tot_co": "15,057",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "5,365,828",
+      "stock_tot_co": "18,600,070",
+      "hold_stock_rate": "28.85%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

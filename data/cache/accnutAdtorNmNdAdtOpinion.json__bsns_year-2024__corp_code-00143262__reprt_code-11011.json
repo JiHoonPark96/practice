@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250711000031",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 투입법에 따른 수익 인식\n- 미청구공사금액의 회수 가능성 평가\n- 현금 및 현금성자산의 실재성\n-이연법인세의 실현 가능성 및 유,무형자산의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000031",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제50기\n(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 투입법에 따른 수익 인식\n- 미청구공사금액의 회수 가능성 평가\n- 현금 및 현금성자산의 실재성\n-이연법인세의 실현 가능성 및 유,무형자산의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000031",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 투입법에 따른 수익 인식\n- 미청구공사금액의 회수 가능성 평가\n- 현금 및 현금성자산의 실재성\n- 상각후원가 측정 금융자산 손실충당금 설정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000031",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제49기\n(전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 투입법에 따른 수익 인식\n- 미청구공사금액의 회수 가능성 평가\n-현금 및 현금성자산의 실재성\n- 상각후원가 측정 금융자산 손실충당금 설정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000031",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 투입법에 따른 수익 인식\n- 미청구공사금액의 회수 가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000031",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제48기\n(전전기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 투입법에 따른 수익 인식\n- 미청구공사금액의 회수 가능성 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

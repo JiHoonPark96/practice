@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000780",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제70기(당기)",
+      "adtor": "이촌회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "토양정화충당부채",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000780",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "제69기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "자산손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316000780",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "bsns_year": "   제68기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "자산손상",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

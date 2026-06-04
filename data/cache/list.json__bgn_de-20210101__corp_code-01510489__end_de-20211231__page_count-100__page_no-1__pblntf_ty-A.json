@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "stock_code": "950210",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211129001160",
+      "flr_nm": "프레스티지바이오파마",
+      "rcept_dt": "20211129",
+      "rm": ""
+    },
+    {
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "stock_code": "950210",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.06)",
+      "rcept_no": "20210916000175",
+      "flr_nm": "프레스티지바이오파마",
+      "rcept_dt": "20210916",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "stock_code": "950210",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.03)",
+      "rcept_no": "20210812000426",
+      "flr_nm": "프레스티지바이오파마",
+      "rcept_dt": "20210812",
+      "rm": ""
+    },
+    {
+      "corp_code": "01510489",
+      "corp_name": "프레스티지바이오파마",
+      "stock_code": "950210",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210528000855",
+      "flr_nm": "프레스티지바이오파마",
+      "rcept_dt": "20210528",
+      "rm": "정"
+    }
+  ]
+}

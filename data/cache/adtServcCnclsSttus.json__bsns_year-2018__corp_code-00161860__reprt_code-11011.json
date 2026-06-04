@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003721",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제50기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별재무제표에 대한 감사(검토)\n내부회계관리검토",
+      "mendng": "95,000",
+      "tot_reqre_time": "1,388",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003721",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제49기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별재무제표에 대한 감사(검토)\n내부회계관리검토",
+      "mendng": "79,000",
+      "tot_reqre_time": "1,144",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003721",
+      "corp_cls": "Y",
+      "corp_code": "00161860",
+      "corp_name": "한성기업",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별재무제표에 대한 감사(검토)\n내부회계관리검토",
+      "mendng": "77,000",
+      "tot_reqre_time": "1,584",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

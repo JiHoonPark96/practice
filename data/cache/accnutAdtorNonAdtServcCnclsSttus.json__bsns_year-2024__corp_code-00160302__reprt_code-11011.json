@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000926",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제57기(당기)",
+      "cntrct_cncls_de": "2024.02.14",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2024.4.1~2025.3.31",
+      "servc_mendng": "20백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000926",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "2023.02.14",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2023.4.1~2025.3.31",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000926",
+      "corp_cls": "Y",
+      "corp_code": "00160302",
+      "corp_name": "코스모화학",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "2022.02.14",
+      "servc_cn": "세무조정계약",
+      "servc_exc_pd": "2022.4.1~2025.3.31",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

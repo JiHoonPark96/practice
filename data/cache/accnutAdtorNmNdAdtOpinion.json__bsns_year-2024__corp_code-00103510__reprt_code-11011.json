@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328001677",
+      "corp_cls": "Y",
+      "corp_code": "00103510",
+      "corp_name": "인지컨트롤스",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "종속기업투자주식 및 관련 채권의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001677",
+      "corp_cls": "Y",
+      "corp_code": "00103510",
+      "corp_name": "인지컨트롤스",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001677",
+      "corp_cls": "Y",
+      "corp_code": "00103510",
+      "corp_name": "인지컨트롤스",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001677",
+      "corp_cls": "Y",
+      "corp_code": "00103510",
+      "corp_name": "인지컨트롤스",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "현금창출단위의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001677",
+      "corp_cls": "Y",
+      "corp_code": "00103510",
+      "corp_name": "인지컨트롤스",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품매출의 수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001677",
+      "corp_cls": "Y",
+      "corp_code": "00103510",
+      "corp_name": "인지컨트롤스",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "제품매출의 수익인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

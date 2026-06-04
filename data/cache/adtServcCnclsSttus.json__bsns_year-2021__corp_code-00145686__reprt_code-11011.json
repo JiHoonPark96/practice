@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000770",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제73기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "기말감사, 반기검토, 내부회계검토, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190,000",
+      "adt_cntrct_dtls_time": "1,278시간",
+      "real_exc_dtls_mendng": "190,000",
+      "real_exc_dtls_time": "1,288시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20240315000770",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제72기(전기)",
+      "adtor": "신우회계법인",
+      "cn": "기말감사, 반기검토, 내부회계검토, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "190,000",
+      "adt_cntrct_dtls_time": "1,278시간",
+      "real_exc_dtls_mendng": "190,000",
+      "real_exc_dtls_time": "1,278시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20240315000770",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "bsns_year": "제71기(전전기)",
+      "adtor": "신한회계법인",
+      "cn": "기말감사, 반기검토, 내부회계검토, 연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "81,200",
+      "adt_cntrct_dtls_time": "1,003시간",
+      "real_exc_dtls_mendng": "81,200",
+      "real_exc_dtls_time": "1,003시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

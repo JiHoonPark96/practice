@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000514",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 7기\n(당기)",
+      "cntrct_cncls_de": "2024.02",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2024.02 ~ 2024.12",
+      "servc_mendng": "276",
+      "rm": "4건",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000514",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 6기\n(전기)",
+      "cntrct_cncls_de": "2023.03",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2023.03 ~ 2023.12",
+      "servc_mendng": "117",
+      "rm": "4건",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000514",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 6기\n(전기)",
+      "cntrct_cncls_de": "2023.02",
+      "servc_cn": "세무조정&자문",
+      "servc_exc_pd": "2023.01 ~ 2023.12",
+      "servc_mendng": "36",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000514",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 5기\n(전전기)",
+      "cntrct_cncls_de": "2022.04",
+      "servc_cn": "프로젝트 자문",
+      "servc_exc_pd": "2022.04 ~ 2022.12",
+      "servc_mendng": "146",
+      "rm": "3건",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000514",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제 5기\n(전전기)",
+      "cntrct_cncls_de": "2022.02",
+      "servc_cn": "세무조정&자문",
+      "servc_exc_pd": "2022.01 ~ 2022.12",
+      "servc_mendng": "305",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000199",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제09기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- K-IFRS 1116호 리스기준서에 따른 회계처리의 적정성\n- 재고자산평가 충당금 설정 회계처리\n- 베트남 합작법인 설립\n- 탄천공장 생산시설 투자",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000199",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제08기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 자본적지출 감가상각\n- 도착지 인도 거래조건 해외매출 인식시점",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330000199",
+      "corp_cls": "Y",
+      "corp_code": "00855163",
+      "corp_name": "미원화학",
+      "bsns_year": "제07기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 매출의 과대계상가능성 검토\n- 특수관계자 공시 내역",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

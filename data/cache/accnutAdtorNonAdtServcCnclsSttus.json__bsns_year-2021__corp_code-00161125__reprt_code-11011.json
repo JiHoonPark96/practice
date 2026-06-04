@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제36기(당기)",
+      "cntrct_cncls_de": "2021.12",
+      "servc_cn": "세무조정 수임용역",
+      "servc_exc_pd": "2022.01 ~ 2022.03",
+      "servc_mendng": "26",
+      "rm": "PwC",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제35기(전기)",
+      "cntrct_cncls_de": "2020.12",
+      "servc_cn": "세무조정 수임용역",
+      "servc_exc_pd": "2021.01 ~ 2021.08",
+      "servc_mendng": "36",
+      "rm": "PwC",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제34기(전전기)",
+      "cntrct_cncls_de": "2019.12",
+      "servc_cn": "세무조정 수임용역",
+      "servc_exc_pd": "2020.01 ~ 2020.03",
+      "servc_mendng": "27",
+      "rm": "PwC",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000822",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제62기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "2024년도 재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "95,000,000",
+      "adt_cntrct_dtls_time": "931",
+      "real_exc_dtls_mendng": "95,000,000",
+      "real_exc_dtls_time": "876",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000822",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제61기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2023년도 재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "126,000,000",
+      "adt_cntrct_dtls_time": "1,050",
+      "real_exc_dtls_mendng": "126,000,000",
+      "real_exc_dtls_time": "975",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000822",
+      "corp_cls": "Y",
+      "corp_code": "00123107",
+      "corp_name": "보락",
+      "bsns_year": "제60기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2022년도 재무제표 검토 및 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000,000",
+      "adt_cntrct_dtls_time": "999",
+      "real_exc_dtls_mendng": " 120,000,000",
+      "real_exc_dtls_time": "1,056",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

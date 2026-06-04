@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250711000353",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제23기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항없음\"",
+      "core_adt_matter": "매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000353",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제23기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항없음\"",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000353",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제22기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항없음\"",
+      "core_adt_matter": "금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000353",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제22기\n(전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항없음\"",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000353",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제21기\n(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항없음\"",
+      "core_adt_matter": "현금 및 현금성자산의 실재성및 영업활동현금흐름의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250711000353",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "bsns_year": "제21기\n(전전기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항없음\"",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

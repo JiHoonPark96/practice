@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제13기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "(1) 종속기업 투자주식(칼라앤터치주식회사) 손상평가\n(2) 칼라앤터치주식회사 및 그 종속기업으로 구성된 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "(1) 종속기업 투자주식(칼라앤터치주식회사) 손상평가\n(2) 칼라앤터치주식회사 및 그 종속기업으로 구성된 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000782",
+      "corp_cls": "Y",
+      "corp_code": "00728638",
+      "corp_name": "한세실업",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "(1) 종속기업투자주식(한세엠케이(주))의 손상평가\n (2) 의류판매부문(한세엠케이(주))의 현금창출단위 손상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

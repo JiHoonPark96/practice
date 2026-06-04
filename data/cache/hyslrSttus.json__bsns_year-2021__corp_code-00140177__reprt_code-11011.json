@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "(주)GS",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "50,628,440",
+      "bsis_posesn_stock_qota_rt": "65.75",
+      "trmend_posesn_stock_co": "60,633,923",
+      "trmend_posesn_stock_qota_rt": "57.90",
+      "rm": "(주)GS홈쇼핑 흡수 합병으로 소유주식수 변경",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "조윤성",
+      "relate": "-",
+      "bsis_posesn_stock_co": "20,000",
+      "bsis_posesn_stock_qota_rt": "0.03",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "주1)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "김호성",
+      "relate": "특수관계자",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "2,111",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "등기임원 \n주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "50,648,440",
+      "bsis_posesn_stock_qota_rt": "65.78",
+      "trmend_posesn_stock_co": "60,636,034",
+      "trmend_posesn_stock_qota_rt": "57.90",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001215",
+      "corp_cls": "Y",
+      "corp_code": "00140177",
+      "corp_name": "GS리테일",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

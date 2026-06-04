@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000495",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제30기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기재무제표 검토\n반기재무제표 검토내부회계관리제도 감사\n개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "328",
+      "adt_cntrct_dtls_time": "2,984",
+      "real_exc_dtls_mendng": "328",
+      "real_exc_dtls_time": "2,722",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000495",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제29기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기재무제표 검토\n반기재무제표 검토내부회계관리제도 감사\n개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "318",
+      "adt_cntrct_dtls_time": "2,946",
+      "real_exc_dtls_mendng": "318",
+      "real_exc_dtls_time": "2,749",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000495",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기재무제표 검토\n반기재무제표 검토내부회계관리제도 감사\n개별재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "319",
+      "adt_cntrct_dtls_time": "2,660",
+      "real_exc_dtls_mendng": "319",
+      "real_exc_dtls_time": "2,640",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

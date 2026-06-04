@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000564",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제35기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반/기말 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125",
+      "adt_cntrct_dtls_time": "1,417",
+      "real_exc_dtls_mendng": "125",
+      "real_exc_dtls_time": "1,278",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000564",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제34기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반/기말 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "123",
+      "adt_cntrct_dtls_time": "1,322",
+      "real_exc_dtls_mendng": "123",
+      "real_exc_dtls_time": "1335",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000564",
+      "corp_cls": "Y",
+      "corp_code": "00101664",
+      "corp_name": "경보제약",
+      "bsns_year": "제33기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반/기말 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "101",
+      "adt_cntrct_dtls_time": "1,152",
+      "real_exc_dtls_mendng": "117",
+      "real_exc_dtls_time": "1,214",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

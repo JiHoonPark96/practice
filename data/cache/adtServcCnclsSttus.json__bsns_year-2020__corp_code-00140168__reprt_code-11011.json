@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001241",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제37기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "2020년 감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "2,190시간",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "1,877시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001241",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제36기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2019년 감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "1,972시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311001241",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2018년 감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "120백만원",
+      "real_exc_dtls_time": "1,837시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

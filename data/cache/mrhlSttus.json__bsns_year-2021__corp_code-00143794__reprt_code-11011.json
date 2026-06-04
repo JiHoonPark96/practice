@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220930000156",
+      "corp_cls": "Y",
+      "corp_code": "00143794",
+      "corp_name": "원림",
+      "se": "소액주주",
+      "shrholdr_co": "2,572",
+      "shrholdr_tot_co": "2,583",
+      "shrholdr_rate": "99.57%",
+      "hold_stock_co": "608,540",
+      "stock_tot_co": "2,297,970",
+      "hold_stock_rate": "26.48%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

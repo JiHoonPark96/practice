@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "벌크선박 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제49기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "벌크선박 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제48기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "선박취득 관련 일반차입금 차입원가 자본화, 리스부채 이자 현금흐름표 활동 분류 등에 대한 수정사항을 반영하여 별첨 2022년 12월 31일로 종료되는 회계연도의 재무제표를 재작성함.",
+      "core_adt_matter": "컨테이너부문 및 벌크선박 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제48기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "선박취득 관련 일반차입금 차입원가 자본화, 리스부채 이자 현금흐름표 활동 분류 등에 대한 수정사항을 반영하여 별첨 2022년 12월 31일로 종료되는 회계연도의 재무제표를 재작성함.",
+      "core_adt_matter": "컨테이너부문 및 벌크선박 현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제47기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "Money market trust (특정금전신탁 이하 'MMT')에 대한 회계처리 방법을 간주 별도 실체로 보는 회계처리 방법에서 MMT내의 구성자산을 직접 보유하는 회계처리로 회계정책 변경",
+      "core_adt_matter": "컨테이너운임매출의 기간귀속 조정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000828",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제47기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "컨테이너운임매출의 기간귀속 조정",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

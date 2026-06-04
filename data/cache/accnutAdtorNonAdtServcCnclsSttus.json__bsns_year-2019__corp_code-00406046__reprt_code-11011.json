@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000831",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제19기(당기)",
+      "cntrct_cncls_de": "해당없음",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "해당없음",
+      "servc_mendng": "해당없음",
+      "rm": "해당없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210322000831",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제18기(전기)",
+      "cntrct_cncls_de": "해당없음",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "해당없음",
+      "servc_mendng": "해당없음",
+      "rm": "해당없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210322000831",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제17기(전전기)",
+      "cntrct_cncls_de": "2017년06월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2017.07 ~ 2018.03",
+      "servc_mendng": "15백만원",
+      "rm": "대주회계법인",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

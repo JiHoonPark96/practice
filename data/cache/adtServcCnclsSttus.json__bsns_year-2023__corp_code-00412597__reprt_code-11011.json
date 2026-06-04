@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000790",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "bsns_year": "제23기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분기 및 반기재무제표 검토\n별도재무제표, 연결재무제표 감사\n내부회계관리제도 검토\n종속회사 및 관계회사 한정검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "520,000",
+      "adt_cntrct_dtls_time": "5,200",
+      "real_exc_dtls_mendng": "520,000",
+      "real_exc_dtls_time": "5,200",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000790",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "bsns_year": "제22기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기 및 반기재무제표 검토\n별도재무제표, 연결재무제표 감사\n내부회계관리제도 검토\n종속회사 및 관계회사 한정검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "572,000",
+      "adt_cntrct_dtls_time": "5,200",
+      "real_exc_dtls_mendng": "572,000",
+      "real_exc_dtls_time": "4,910",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000790",
+      "corp_cls": "Y",
+      "corp_code": "00412597",
+      "corp_name": "현대홈쇼핑",
+      "bsns_year": "제21기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기 및 반기재무제표 검토\n별도재무제표, 연결재무제표 감사\n내부회계관리제도 검토\n종속회사 및 관계회사 한정검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "572,000",
+      "adt_cntrct_dtls_time": "5,285",
+      "real_exc_dtls_mendng": "572,000",
+      "real_exc_dtls_time": "5,229",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

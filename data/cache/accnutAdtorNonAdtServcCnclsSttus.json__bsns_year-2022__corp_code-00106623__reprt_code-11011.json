@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000727",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제47기\n(2022년)",
+      "cntrct_cncls_de": "2022.04",
+      "servc_cn": "해외주재원 종합소득세\n신고용역",
+      "servc_exc_pd": "2022.04~2022.06",
+      "servc_mendng": "19백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000727",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제46기\n(2021년)",
+      "cntrct_cncls_de": "2020.08",
+      "servc_cn": "해외주재원 종합소득세\n신고용역",
+      "servc_exc_pd": "2021.04~2021.05",
+      "servc_mendng": "12백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000727",
+      "corp_cls": "Y",
+      "corp_code": "00106623",
+      "corp_name": "현대위아",
+      "bsns_year": "제45기\n(2020년)",
+      "cntrct_cncls_de": "2020.05",
+      "servc_cn": "탄소정보공개 (CDP)\n자문(컨설팅)용역",
+      "servc_exc_pd": "2020.05~2020.10",
+      "servc_mendng": "24백만원",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

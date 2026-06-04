@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000890",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "drctr_co": "9",
+      "otcmp_drctr_co": "4",
+      "apnt": "7",
+      "rlsofc": "-",
+      "mdstrm_resig": "8",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

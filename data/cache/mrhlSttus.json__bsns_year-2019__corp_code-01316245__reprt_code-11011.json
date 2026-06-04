@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004809",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "se": "소액주주",
+      "shrholdr_co": "14,593",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "3,669,706",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "39.35%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

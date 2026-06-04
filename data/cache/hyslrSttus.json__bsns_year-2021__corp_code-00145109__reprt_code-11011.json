@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220310001178",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_knd": "보통주",
+      "nm": "유한재단",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "10,439,005",
+      "bsis_posesn_stock_qota_rt": "15.61",
+      "trmend_posesn_stock_co": "10,960,980",
+      "trmend_posesn_stock_qota_rt": "15.66",
+      "rm": "무상증자",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001178",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_knd": "우선주",
+      "nm": "유한재단",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "500",
+      "bsis_posesn_stock_qota_rt": "0.04",
+      "trmend_posesn_stock_co": "500",
+      "trmend_posesn_stock_qota_rt": "0.04",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001178",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_knd": "보통주",
+      "nm": "이정희",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "28,670",
+      "bsis_posesn_stock_qota_rt": "0.04",
+      "trmend_posesn_stock_co": "50,103",
+      "trmend_posesn_stock_qota_rt": "0.07",
+      "rm": "무상증자 및\n장내매수",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001178",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "10,467,675",
+      "bsis_posesn_stock_qota_rt": "15.66",
+      "trmend_posesn_stock_co": "11,011,083",
+      "trmend_posesn_stock_qota_rt": "15.74",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220310001178",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "500",
+      "bsis_posesn_stock_qota_rt": "0.04",
+      "trmend_posesn_stock_co": "500",
+      "trmend_posesn_stock_qota_rt": "0.04",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

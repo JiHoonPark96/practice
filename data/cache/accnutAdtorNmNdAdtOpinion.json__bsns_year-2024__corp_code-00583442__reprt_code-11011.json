@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001422",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "이정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 거래의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001422",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제19기\n(당기)",
+      "adtor": "이정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "특수관계자 거래의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001422",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "이정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권의 기대신용손실 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001422",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제18기\n(전기)",
+      "adtor": "이정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출채권의 기대신용손실 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001422",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "이정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313001422",
+      "corp_cls": "Y",
+      "corp_code": "00583442",
+      "corp_name": "노루페인트",
+      "bsns_year": "제17기\n(전전기)",
+      "adtor": "이정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

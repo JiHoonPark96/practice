@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001404",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "bsns_year": "제48기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "2020년도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195",
+      "adt_cntrct_dtls_time": "2,223",
+      "real_exc_dtls_mendng": "195",
+      "real_exc_dtls_time": "2,223",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001404",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "bsns_year": "제47기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "2019년도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65",
+      "adt_cntrct_dtls_time": "1,761",
+      "real_exc_dtls_mendng": "65",
+      "real_exc_dtls_time": "1,761",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001404",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "bsns_year": "제46기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "2018년도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60",
+      "adt_cntrct_dtls_time": "1,665",
+      "real_exc_dtls_mendng": "60",
+      "real_exc_dtls_time": "1,665",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

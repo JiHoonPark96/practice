@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20221005000463",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2021.04.09",
+      "servc_cn": "글로벌 통합 관리 구축자문",
+      "servc_exc_pd": "2021.04.13\n~2021.11.04(*)",
+      "servc_mendng": "160",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221005000463",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2021.07.16",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2021.07.16~2022.03.31",
+      "servc_mendng": "48",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221005000463",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2020.01.01",
+      "servc_cn": "FTA 시스템\n유지보수",
+      "servc_exc_pd": "2020.01.01\n~2020.12.31",
+      "servc_mendng": "144",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221005000463",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2020.08.31",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2020.08.31\n~2021.04.30",
+      "servc_mendng": "53",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221005000463",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2019.01.01",
+      "servc_cn": "FTA 시스템\n유지보수",
+      "servc_exc_pd": "2019.01.01\n~ 2019.12.31",
+      "servc_mendng": "144",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20221005000463",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2019.06.28",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2019.06.28 ~\n2020.02.28",
+      "servc_mendng": "53",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

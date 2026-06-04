@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001259",
+      "corp_cls": "Y",
+      "corp_code": "01412725",
+      "corp_name": "두산퓨얼셀",
+      "bsns_year": "제4기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토 및 결산 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "270",
+      "adt_cntrct_dtls_time": "2,700",
+      "real_exc_dtls_mendng": "270",
+      "real_exc_dtls_time": "2,998",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001259",
+      "corp_cls": "Y",
+      "corp_code": "01412725",
+      "corp_name": "두산퓨얼셀",
+      "bsns_year": "제3기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토 및 결산 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "255",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "255",
+      "real_exc_dtls_time": "2,985",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001259",
+      "corp_cls": "Y",
+      "corp_code": "01412725",
+      "corp_name": "두산퓨얼셀",
+      "bsns_year": "제2기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기 재무제표 검토 및 결산 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130",
+      "adt_cntrct_dtls_time": "1,350",
+      "real_exc_dtls_mendng": "130",
+      "real_exc_dtls_time": "1,388",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

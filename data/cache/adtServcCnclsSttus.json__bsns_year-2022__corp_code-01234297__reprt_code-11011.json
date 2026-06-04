@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001384",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제 6기(당기)",
+      "adtor": "다산회계법인",
+      "cn": "반기재무제표 검토, \n개별재무제표 감사, \n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000",
+      "adt_cntrct_dtls_time": "1,265",
+      "real_exc_dtls_mendng": "60,000",
+      "real_exc_dtls_time": "1,546",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001384",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제 5기(전기)",
+      "adtor": "다산회계법인",
+      "cn": "반기재무제표 검토, \n개별재무제표 감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "55,000",
+      "adt_cntrct_dtls_time": "1,265",
+      "real_exc_dtls_mendng": "55,000",
+      "real_exc_dtls_time": "1,208",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001384",
+      "corp_cls": "Y",
+      "corp_code": "01234297",
+      "corp_name": "미원에스씨",
+      "bsns_year": "제 4기(전전기)",
+      "adtor": "다산회계법인",
+      "cn": "반기재무제표 검토, \n개별재무제표 감사, \n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "55,000",
+      "adt_cntrct_dtls_time": "1,265",
+      "real_exc_dtls_mendng": "55,000",
+      "real_exc_dtls_time": "1,254",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

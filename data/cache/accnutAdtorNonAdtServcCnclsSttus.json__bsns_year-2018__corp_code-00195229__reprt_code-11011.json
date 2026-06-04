@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제29기",
+      "cntrct_cncls_de": "2018-11-01",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "18-11-01~19-04-30",
+      "servc_mendng": "40(백만원)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제29기",
+      "cntrct_cncls_de": "2018-06-15",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "18-06-15~18-12-31",
+      "servc_mendng": "40(백만원)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제29기",
+      "cntrct_cncls_de": "2018-05-17",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "18-05-17~19-04-24",
+      "servc_mendng": "18(백만원)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제29기",
+      "cntrct_cncls_de": "2018-02-20",
+      "servc_cn": "법인세 경정청구 용역",
+      "servc_exc_pd": "18-02-20~18-04-24",
+      "servc_mendng": "789(백만원)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제28기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제27기",
+      "cntrct_cncls_de": "2016-08-01",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "16-07-20~16-10-03",
+      "servc_mendng": "200(백만원)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190614000418",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제27기",
+      "cntrct_cncls_de": "2016-05-23",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "16-05-20~17-03-31",
+      "servc_mendng": "24(백만원)",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260318000466",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2024.01",
+      "servc_cn": "FTA 원산지관리 용역 \n및 이전가격 보고서 \n작성 용역 등",
+      "servc_exc_pd": "2024.01 ~ 2024.12",
+      "servc_mendng": "119",
+      "rm": "KPMG",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260318000466",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2023.01",
+      "servc_cn": "FTA 원산지관리 용역",
+      "servc_exc_pd": "2023.01 ~ 2023.12",
+      "servc_mendng": "16",
+      "rm": "KPMG",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260318000466",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2022.12",
+      "servc_cn": "세무조정 수임용역",
+      "servc_exc_pd": "2023.01 ~ 2023.08",
+      "servc_mendng": "37",
+      "rm": "PwC",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

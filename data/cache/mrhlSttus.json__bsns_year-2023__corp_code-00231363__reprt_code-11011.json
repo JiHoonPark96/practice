@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001130",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "se": "소액주주",
+      "shrholdr_co": "125,712",
+      "shrholdr_tot_co": "125,725",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "205,533,800",
+      "stock_tot_co": "436,611,361",
+      "hold_stock_rate": "47.07%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

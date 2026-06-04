@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_knd": "보통주",
+      "nm": "아시아나항공(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "8,460,000",
+      "bsis_posesn_stock_qota_rt": "76.22",
+      "trmend_posesn_stock_co": "8,460,000",
+      "trmend_posesn_stock_qota_rt": "76.22",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "8,460,000",
+      "bsis_posesn_stock_qota_rt": "76.22",
+      "trmend_posesn_stock_co": "8,460,000",
+      "trmend_posesn_stock_qota_rt": "76.22",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813001353",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

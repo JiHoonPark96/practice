@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230220001611",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "se": "소액주주",
+      "shrholdr_co": "24,427",
+      "shrholdr_tot_co": "24,436",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "5,884,598",
+      "stock_tot_co": "13,230,060",
+      "hold_stock_rate": "44.48%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

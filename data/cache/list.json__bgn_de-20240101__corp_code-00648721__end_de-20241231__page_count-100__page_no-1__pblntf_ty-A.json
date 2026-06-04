@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_code": "100840",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241107000153",
+      "flr_nm": "SNT에너지",
+      "rcept_dt": "20241107",
+      "rm": ""
+    },
+    {
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_code": "100840",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240808000120",
+      "flr_nm": "SNT에너지",
+      "rcept_dt": "20240808",
+      "rm": ""
+    },
+    {
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_code": "100840",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240509000279",
+      "flr_nm": "SNT에너지",
+      "rcept_dt": "20240509",
+      "rm": ""
+    },
+    {
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_code": "100840",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240221001901",
+      "flr_nm": "SNT에너지",
+      "rcept_dt": "20240221",
+      "rm": "연"
+    }
+  ]
+}

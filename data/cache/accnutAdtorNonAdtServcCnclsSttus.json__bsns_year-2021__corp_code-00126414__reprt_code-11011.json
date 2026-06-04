@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "68기\n(2021년)",
+      "cntrct_cncls_de": "2021년12월01일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021년12월01일~2022년03월31일",
+      "servc_mendng": "11,000,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "68기\n(2021년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제67기\n(2020년)",
+      "cntrct_cncls_de": "2020년 11월 30일",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020년 12월 01일 ~ 2021년 03월 31일",
+      "servc_mendng": "11,000,000",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제67기\n(2020년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제66기\n(2019년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제66기\n(2019년)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

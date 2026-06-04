@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001136",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제11기",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "환불부채(콜린알포세레이트 제제 관련)의 추정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001136",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제10기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "환불부채의 추정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001136",
+      "corp_cls": "Y",
+      "corp_code": "00992871",
+      "corp_name": "종근당",
+      "bsns_year": "제9기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "환불부채의 추정",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

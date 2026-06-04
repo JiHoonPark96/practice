@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기\n(당기)",
+      "adtor": "삼일회계법인\n대표공인회계사\n윤훈수",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나)\n바이러스 영향",
+      "core_adt_matter": "1. 투입법에 따른 수익인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제53기\n(전기)",
+      "adtor": "삼일회계법인\n대표공인회계사\n김영식",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 투입법에 따른 수익인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제52기\n(전전기)",
+      "adtor": "삼일회계법인\n대표공인회계사\n김영식",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 이연법인세자산의 자산성 평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001259",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "bsns_year": "제6기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기재무제표, 별도재무제표, 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "455",
+      "adt_cntrct_dtls_time": "4,600",
+      "real_exc_dtls_mendng": "455",
+      "real_exc_dtls_time": "4,121",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001259",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "bsns_year": "제5기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기재무제표, 별도재무제표, 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430",
+      "adt_cntrct_dtls_time": "4,600",
+      "real_exc_dtls_mendng": "430",
+      "real_exc_dtls_time": "4,536",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001259",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "bsns_year": "제4기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분,반기재무제표, 별도재무제표, 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "4,250",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "4,338",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

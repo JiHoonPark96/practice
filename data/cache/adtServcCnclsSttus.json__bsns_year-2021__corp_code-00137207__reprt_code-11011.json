@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제47기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "2021.01.01~2021.12.31 \n개별,연결회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,174시간",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,174시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제46기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "2020.01.01~2020.12.31 \n개별,연결회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "112,000",
+      "adt_cntrct_dtls_time": "1,174시간",
+      "real_exc_dtls_mendng": "112,000",
+      "real_exc_dtls_time": "1,174시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001005",
+      "corp_cls": "Y",
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "2019.01.01~2019.12.31 \n개별,연결회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "98,000",
+      "adt_cntrct_dtls_time": "891시간",
+      "real_exc_dtls_mendng": "98,000",
+      "real_exc_dtls_time": "891시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

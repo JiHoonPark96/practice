@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000888",
+      "corp_cls": "Y",
+      "corp_code": "00134510",
+      "corp_name": "SJG세종",
+      "se": "소액주주",
+      "shrholdr_co": "31,569",
+      "shrholdr_tot_co": "31,575",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "14,346,678",
+      "stock_tot_co": "27,052,299",
+      "hold_stock_rate": "53.03%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

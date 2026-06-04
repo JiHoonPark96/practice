@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제40기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분.반기 재무제표 검토\n개별및연결재무제표감사",
+      "mendng": "240",
+      "tot_reqre_time": "2009",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분.반기 재무제표 검토\n개별및연결재무제표감사",
+      "mendng": "200",
+      "tot_reqre_time": "2,427",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814002813",
+      "corp_cls": "Y",
+      "corp_code": "00150633",
+      "corp_name": "지누스",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분.반기 재무제표 검토\n개별및연결재무제표감사",
+      "mendng": "55",
+      "tot_reqre_time": "415",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제24기\n(당기)",
+      "cntrct_cncls_de": "2023-06-09",
+      "servc_cn": "구, 대우조선해양 공정위 계열제외 \n신고서 제출을 위한 계열사간 거래현황 확인 관련 합의된 절차 보고서",
+      "servc_exc_pd": "2023-06 ~ 2023-07",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제24기\n(당기)",
+      "cntrct_cncls_de": "2023-08-01",
+      "servc_cn": "국세청 제출을 위한 국외특수관계인\n과의 거래내역보고서",
+      "servc_exc_pd": "2023-08 ~\n2023-12",
+      "servc_mendng": "20",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제24기\n(당기)",
+      "cntrct_cncls_de": "2023-11-08",
+      "servc_cn": "해양프로젝트의 발주처에 청구할 Cost \nClaim 문서관련 회사의 재무 및 시수정보에 \n대한 합의된 절차 수행",
+      "servc_exc_pd": "2023-11",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제23기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제23기\n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제22기\n(전전기)",
+      "cntrct_cncls_de": "2021-06-16",
+      "servc_cn": "거제국제외국인학교 운영권 양도 자문",
+      "servc_exc_pd": "2021-06~\n2021-08",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000773",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제22기\n(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

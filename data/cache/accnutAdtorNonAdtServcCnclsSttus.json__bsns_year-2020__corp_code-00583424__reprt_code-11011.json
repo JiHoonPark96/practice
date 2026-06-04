@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제15기(당기)",
+      "cntrct_cncls_de": "2020.03.31",
+      "servc_cn": "국제조세 관련 세무자문 용역",
+      "servc_exc_pd": "2020년 3월 ~ 2020년 12월",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제14기(전기)",
+      "cntrct_cncls_de": "2019.09.16",
+      "servc_cn": "말레이시아 생산법인 세무자문 ",
+      "servc_exc_pd": " 2019년 9월 ~ 완료시",
+      "servc_mendng": "130,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제14기(전기)",
+      "cntrct_cncls_de": "2019.05.31",
+      "servc_cn": "국제조세 관련 세무자문 용역",
+      "servc_exc_pd": "2019년 5월 ~ 2019년 12월",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제13기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001273",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "se": "소액주주",
+      "shrholdr_co": "45,786",
+      "shrholdr_tot_co": "45,794",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "27,153,787",
+      "stock_tot_co": "63,429,410",
+      "hold_stock_rate": "42.81%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

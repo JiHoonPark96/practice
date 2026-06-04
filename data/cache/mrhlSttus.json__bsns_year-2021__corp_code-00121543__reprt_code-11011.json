@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000779",
+      "corp_cls": "Y",
+      "corp_code": "00121543",
+      "corp_name": "무학",
+      "se": "소액주주",
+      "shrholdr_co": "9,086",
+      "shrholdr_tot_co": "9,103",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "4,539,268",
+      "stock_tot_co": "26,486,868",
+      "hold_stock_rate": "17.14%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

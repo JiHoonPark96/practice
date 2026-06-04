@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000890",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "2020년 제16기\n(당기)",
+      "adtor": " 한영회계법인",
+      "cn": "적정",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370",
+      "adt_cntrct_dtls_time": "2,745",
+      "real_exc_dtls_mendng": "370",
+      "real_exc_dtls_time": "2,745",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000890",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "2019년 제15기\n(전기)",
+      "adtor": " 한영회계법인",
+      "cn": "적정",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350",
+      "adt_cntrct_dtls_time": "3,226",
+      "real_exc_dtls_mendng": "350",
+      "real_exc_dtls_time": "3,226",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000890",
+      "corp_cls": "Y",
+      "corp_code": "01204056",
+      "corp_name": "하이브",
+      "bsns_year": "2018년 제14기\n(전전기)",
+      "adtor": " 삼일회계법인",
+      "cn": " 적정 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "40",
+      "adt_cntrct_dtls_time": "505",
+      "real_exc_dtls_mendng": "40",
+      "real_exc_dtls_time": "505",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

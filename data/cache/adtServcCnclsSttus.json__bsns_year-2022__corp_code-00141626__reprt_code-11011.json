@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220621000039",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제65기(당기)",
+      "adtor": "회계법인리안",
+      "cn": "분ㆍ반기 재무제표 검토 개별 및 \n연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000천원",
+      "adt_cntrct_dtls_time": "856",
+      "real_exc_dtls_mendng": "180,000천원",
+      "real_exc_dtls_time": "1,771",
+      "stlm_dt": "2022-03-31"
+    },
+    {
+      "rcept_no": "20220621000039",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제64기(전기)",
+      "adtor": "회계법인리안",
+      "cn": "분ㆍ반기 재무제표 검토 개별 및 \n연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180,000천원",
+      "adt_cntrct_dtls_time": "856",
+      "real_exc_dtls_mendng": "180,000천원",
+      "real_exc_dtls_time": "3,082",
+      "stlm_dt": "2022-03-31"
+    },
+    {
+      "rcept_no": "20220621000039",
+      "corp_cls": "Y",
+      "corp_code": "00141626",
+      "corp_name": "오리엔트바이오",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "대영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토 개별 및 \n연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "82,000천원",
+      "adt_cntrct_dtls_time": "1,690",
+      "real_exc_dtls_mendng": "82,000천원",
+      "real_exc_dtls_time": "1,690",
+      "stlm_dt": "2022-03-31"
+    }
+  ]
+}

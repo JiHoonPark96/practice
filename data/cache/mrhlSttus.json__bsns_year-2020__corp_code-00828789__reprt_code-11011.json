@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000876",
+      "corp_cls": "Y",
+      "corp_code": "00828789",
+      "corp_name": "대성산업",
+      "se": "소액주주",
+      "shrholdr_co": "5,871",
+      "shrholdr_tot_co": "5,895",
+      "shrholdr_rate": "99.59%",
+      "hold_stock_co": "15,015,672",
+      "stock_tot_co": "35,147,871",
+      "hold_stock_rate": "42.72%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001257",
+      "corp_cls": "Y",
+      "corp_code": "00161383",
+      "corp_name": "한미반도체",
+      "se": "소액주주",
+      "shrholdr_co": "110,619",
+      "shrholdr_tot_co": "110,630",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "39,661,482",
+      "stock_tot_co": "97,339,302",
+      "hold_stock_rate": "40.75%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

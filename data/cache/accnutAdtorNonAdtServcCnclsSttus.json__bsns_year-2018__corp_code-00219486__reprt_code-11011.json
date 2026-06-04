@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004522",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "bsns_year": "제 22 기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004522",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "bsns_year": "제 21 기(전기)",
+      "cntrct_cncls_de": "2017.11.13",
+      "servc_cn": "전문건설업 면허등록을 위한 기업진단",
+      "servc_exc_pd": "2017.11.13\n~2017.11.17",
+      "servc_mendng": "8백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004522",
+      "corp_cls": "Y",
+      "corp_code": "00219486",
+      "corp_name": "신세계I&C",
+      "bsns_year": "제 20 기(전전기)",
+      "cntrct_cncls_de": "2016.05.25",
+      "servc_cn": "신세계건설(주) PI 컨설팅 프로젝트",
+      "servc_exc_pd": "2016.05.26~ 2016.10.17",
+      "servc_mendng": "420백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

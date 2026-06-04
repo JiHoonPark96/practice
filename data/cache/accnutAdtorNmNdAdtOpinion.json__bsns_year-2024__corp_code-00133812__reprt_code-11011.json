@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002055",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자금보충의무 관련 부채인식 회계처리의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002055",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자금보충의무 관련 부채인식 회계처리의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002055",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자금보충의무 관련 부채인식 회계처리의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002055",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자금보충의무 관련 부채인식 회계처리의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002055",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자금보충의무 관련 부채인식 회계처리의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002055",
+      "corp_cls": "Y",
+      "corp_code": "00133812",
+      "corp_name": "세방",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "자금보충의무 관련 부채인식 회계처리의 완전성 및 정확성",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

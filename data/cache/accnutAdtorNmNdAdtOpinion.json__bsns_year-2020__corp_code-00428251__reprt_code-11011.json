@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001102",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제19기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "ㆍ별도\n 1) 종속기업투자주식인 현대백화점면세점(주)\n    에 대한 손상 평가\n 2) \n현금창출단위별 유형자산 손상 평가\nㆍ연결\n 1) 현\n금창출단위별 유형자산 손상 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001102",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제18기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "ㆍ별도\n 1) 종속기업 손상검토\n 2) 현금창출단위별 유형자산 손상ㆍ연결\nㆍ연결\n 1) 관계기업 손상 검토\n 2) 현금창출단위별 유형자산 손상",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001102",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "ㆍ별도\n1) 재화의 판매관련 고객선택권\n2) 현금창출단위별 유형자산 손상ㆍ연결\nㆍ연결\n1) 현금창출단위별 유형자산 및 사용권자산 \n    손상 평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

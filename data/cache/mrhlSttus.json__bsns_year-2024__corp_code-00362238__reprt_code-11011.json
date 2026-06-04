@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000508",
+      "corp_cls": "Y",
+      "corp_code": "00362238",
+      "corp_name": "휴비스",
+      "se": "소액주주",
+      "shrholdr_co": "15,301",
+      "shrholdr_tot_co": "15,305",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "14,829,612",
+      "stock_tot_co": "34,500,000",
+      "hold_stock_rate": "42.98%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003198",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "bsns_year": "제55기",
+      "adtor": "삼일회계법인",
+      "cn": "개별 및 연결 반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "52,000천원 ",
+      "tot_reqre_time": "776시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003198",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "bsns_year": "제54기",
+      "adtor": "삼일회계법인",
+      "cn": "개별 및 연결 반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "51,000천원 ",
+      "tot_reqre_time": "660시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003198",
+      "corp_cls": "Y",
+      "corp_code": "00110608",
+      "corp_name": "DSR",
+      "bsns_year": "제53기",
+      "adtor": "삼일회계법인",
+      "cn": "개별 및 연결 반기검토, 중간감사, 재고실사, 기말감사, 내부회계관리제도 검토",
+      "mendng": "44,000천원 ",
+      "tot_reqre_time": "841시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

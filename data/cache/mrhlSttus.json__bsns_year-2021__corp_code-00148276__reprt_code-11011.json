@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000651",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "se": "소액주주",
+      "shrholdr_co": "31,088",
+      "shrholdr_tot_co": "31,106",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "37,103,579",
+      "stock_tot_co": "115,041,225",
+      "hold_stock_rate": "32.25%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

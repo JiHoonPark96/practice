@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제45기(당기)",
+      "adtor": "대현회계법인",
+      "cn": "반기 개별 및 연결재무제표 검토\n개별 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,702",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,966",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제44기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 개별 및 연결재무제표 검토\n\n개별 및 연결재무제표 감사\n\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165",
+      "adt_cntrct_dtls_time": "1,760",
+      "real_exc_dtls_mendng": "165",
+      "real_exc_dtls_time": "1,720",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001058",
+      "corp_cls": "Y",
+      "corp_code": "00122481",
+      "corp_name": "태경비케이",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기 개별 및 연결재무제표 검토\n개별 및 연결재무제표 감사\n내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "165",
+      "adt_cntrct_dtls_time": "1,760",
+      "real_exc_dtls_mendng": "165",
+      "real_exc_dtls_time": "1,650",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

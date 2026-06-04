@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001053",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "se": "소액주주",
+      "shrholdr_co": "7,736",
+      "shrholdr_tot_co": "7,747",
+      "shrholdr_rate": "99.86%",
+      "hold_stock_co": "7,933,000",
+      "stock_tot_co": "20,000,000",
+      "hold_stock_rate": "39.67%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

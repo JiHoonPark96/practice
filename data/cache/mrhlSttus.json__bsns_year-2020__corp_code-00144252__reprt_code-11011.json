@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323001008",
+      "corp_cls": "Y",
+      "corp_code": "00144252",
+      "corp_name": "유니온",
+      "se": "소액주주",
+      "shrholdr_co": "16,805",
+      "shrholdr_tot_co": "16,813",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "8,756,317",
+      "stock_tot_co": "15,611,619",
+      "hold_stock_rate": "56.09%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

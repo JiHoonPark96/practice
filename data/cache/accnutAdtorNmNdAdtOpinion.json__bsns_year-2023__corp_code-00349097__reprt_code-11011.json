@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001841",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "bsns_year": "제23기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "연결 : \n(주)에이치씨엔 현금창출단위 손상검사\n별도 : \n종속기업투자주식 손상검사",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001841",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "bsns_year": "제22기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "연결 : 유선방송업부문(㈜에이치씨엔) 현금창출단위집단에 배부된 영업권            손상평가\n별도 : 종속기업투자(㈜에이치씨엔)에 대한 회수가능액 검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001841",
+      "corp_cls": "Y",
+      "corp_code": "00349097",
+      "corp_name": "케이티스카이라이프",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "연결 : (1)스카이라이프TV상품 및 관련 서비스 매출채권 손실충당금         (2)주식회사에이치씨엔 사업결합\n별도 : 스카이라이프TV 상품 및 관련 서비스 매출 채권채권 손실충당금",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

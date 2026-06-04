@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004049",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분/반기재무제표 검토\n- 연결/별도재무제표 감사",
+      "mendng": "380 백만원",
+      "tot_reqre_time": "3,601 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004049",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분/반기재무제표 검토\n- 연결/별도재무제표 감사",
+      "mendng": "380 백만원",
+      "tot_reqre_time": "4,083 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004049",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 분/반기재무제표 검토\n- 연결/별도재무제표 감사",
+      "mendng": "380 백만원",
+      "tot_reqre_time": "3,442 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

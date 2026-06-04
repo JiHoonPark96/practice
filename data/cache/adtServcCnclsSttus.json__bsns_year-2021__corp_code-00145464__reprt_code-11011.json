@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000677",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제51기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토,중간감사,결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75,000/년",
+      "adt_cntrct_dtls_time": "800",
+      "real_exc_dtls_mendng": "75,000/년",
+      "real_exc_dtls_time": "1,040",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000677",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제50기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토,중간감사,결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "75,000/년",
+      "adt_cntrct_dtls_time": "800",
+      "real_exc_dtls_mendng": "75,000/년",
+      "real_exc_dtls_time": "1,040",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000677",
+      "corp_cls": "Y",
+      "corp_code": "00145464",
+      "corp_name": "이구산업",
+      "bsns_year": "제49기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토,중간감사,결산감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "35,000/년",
+      "adt_cntrct_dtls_time": "619",
+      "real_exc_dtls_mendng": "35,000/년",
+      "real_exc_dtls_time": "743",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

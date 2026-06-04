@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "65기 (당기)",
+      "cntrct_cncls_de": "2019.12.10",
+      "servc_cn": "국세 및 지방세 환급청구 지원",
+      "servc_exc_pd": "2019.12.10 \n~2020.06.25",
+      "servc_mendng": "360백만원",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제64기(전기)",
+      "cntrct_cncls_de": "2019.10.02",
+      "servc_cn": "이전가격 세무검토 용역",
+      "servc_exc_pd": "2019.10.02 \n~2020.06.25",
+      "servc_mendng": "80백만원",
+      "rm": "한영회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제63기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

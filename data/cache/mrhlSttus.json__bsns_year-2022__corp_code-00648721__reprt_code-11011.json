@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230220001550",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "se": "소액주주",
+      "shrholdr_co": "8,190",
+      "shrholdr_tot_co": "8,197",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "1,786,869",
+      "stock_tot_co": "6,587,036",
+      "hold_stock_rate": "27.13%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

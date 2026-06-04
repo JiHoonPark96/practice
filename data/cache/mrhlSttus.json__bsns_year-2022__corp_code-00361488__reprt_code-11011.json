@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001321",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "se": "소액주주",
+      "shrholdr_co": "4,453",
+      "shrholdr_tot_co": "4,458",
+      "shrholdr_rate": "99.89%",
+      "hold_stock_co": "2,571,358",
+      "stock_tot_co": "9,702,706",
+      "hold_stock_rate": "26.50%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

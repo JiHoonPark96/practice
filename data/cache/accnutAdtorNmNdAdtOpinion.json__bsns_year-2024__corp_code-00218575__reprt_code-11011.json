@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001129",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제39기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001129",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제39기\n(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001129",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제38기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001129",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제38기\n(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001129",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제37기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 특수관계자와의 매입 및 매출거래의 적정성\n- 철강사업부문 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001129",
+      "corp_cls": "Y",
+      "corp_code": "00218575",
+      "corp_name": "황금에스티",
+      "bsns_year": "제37기\n(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 특수관계자와의 매입 및 매출거래의 적정성\n- 철강사업부문 매출의 발생사실",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003937",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "bsns_year": "제14기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "·반기 재무제표 검토\n (2019.01.01~2019.06.30)\n·결산 재무제표 감사\n (2019.01.01~2019.12.31)\n·연결 반기 재무제표 검토\n (2019.01.01~2019.06.30)\n·연결 재무제표 감사\n (2019.01.01~2019.12.31)",
+      "mendng": "190,000천원",
+      "tot_reqre_time": "2,038",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003937",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "bsns_year": "제13기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "·반기 재무제표 검토\n (2018.01.01~2018.06.30)\n·결산 재무제표 감사\n (2018.01.01~2018.12.31)\n·연결 반기 재무제표 검토\n (2018.01.01~2018.06.30)\n·연결 재무제표 감사\n (2018.01.01~2018.12.31)",
+      "mendng": "148,000천원",
+      "tot_reqre_time": "1,559",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003937",
+      "corp_cls": "Y",
+      "corp_code": "00589127",
+      "corp_name": "KEC",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "·반기 재무제표 검토\n (2017.01.01~2017.06.30)\n·결산 재무제표 감사\n (2017.01.01~2017.12.31)\n·연결 반기 재무제표 검토\n (2017.01.01~2017.06.30)\n·연결 재무제표 감사\n (2017.01.01~2017.12.31)",
+      "mendng": "135,000천원",
+      "tot_reqre_time": "1,588",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

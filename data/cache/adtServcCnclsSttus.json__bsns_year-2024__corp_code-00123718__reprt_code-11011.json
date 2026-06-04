@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제65기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "연결재무제표 및 별도재무제표에 대한\n\n결산,반기,중간감사,재고실사,내부회계관리제도 감사에 관한 사항",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320",
+      "adt_cntrct_dtls_time": "2,710",
+      "real_exc_dtls_mendng": "240",
+      "real_exc_dtls_time": "2,665",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제64기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "연결재무제표 및 별도재무제표에 대한\n\n결산,반기,중간감사,재고실사,내부회계관리제도 감사에 관한 사항",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "338",
+      "real_exc_dtls_time": "2,606",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000877",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "연결재무제표 및 별도재무제표에 대한\n\n결산,반기,중간감사,재고실사,내부회계관리제도 감사에 관한 사항",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "280",
+      "adt_cntrct_dtls_time": "2,686",
+      "real_exc_dtls_mendng": "329",
+      "real_exc_dtls_time": "2,896",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

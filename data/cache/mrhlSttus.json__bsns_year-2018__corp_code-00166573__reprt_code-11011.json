@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329000435",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "se": "소액주주",
+      "shrholdr_co": "6,181",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.8%",
+      "hold_stock_co": "4,435,607",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "23.85%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

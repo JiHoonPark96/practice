@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제10기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,280,000",
+      "adt_cntrct_dtls_time": "9,102",
+      "real_exc_dtls_mendng": "1,280,000",
+      "real_exc_dtls_time": "9,412",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제9기\n(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n연간 재무제표 감사\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,250,000",
+      "adt_cntrct_dtls_time": "8,602",
+      "real_exc_dtls_mendng": "1,540,000",
+      "real_exc_dtls_time": "11,364",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000905",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "bsns_year": "제8기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n연간 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "630,000",
+      "adt_cntrct_dtls_time": "5,969",
+      "real_exc_dtls_mendng": "700,000",
+      "real_exc_dtls_time": "6,349",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

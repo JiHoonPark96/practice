@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제52기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "해당사항없음",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제51기(전기)",
+      "cntrct_cncls_de": "2023.02.28",
+      "servc_cn": "시장조사컨설팅",
+      "servc_exc_pd": "2023.03~2023.11",
+      "servc_mendng": "367",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2022.02.14",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.02~2022.06",
+      "servc_mendng": "95",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2022.04.06",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.04~2022.06",
+      "servc_mendng": "65",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2022.04.10",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.04~2022.06",
+      "servc_mendng": "25",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2022.08.22",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.08~2022.12",
+      "servc_mendng": "11",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2022.08.22",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.08~2023.03",
+      "servc_mendng": "25",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250311000974",
+      "corp_cls": "Y",
+      "corp_code": "00148276",
+      "corp_name": "제일기획",
+      "bsns_year": "제50기(전전기)",
+      "cntrct_cncls_de": "2022.10.31",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.10~2022.12",
+      "servc_mendng": "65",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000572",
+      "corp_cls": "Y",
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "bsns_year": "제38기\n(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 별도 및 연결재무제표 검토\n 별도,연결재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300,000,000\n(년간 총 보수\n계약금액)",
+      "adt_cntrct_dtls_time": "3,103시간",
+      "real_exc_dtls_mendng": "300,000,000\n(년간 총 보수\n계약금액)",
+      "real_exc_dtls_time": "3,103시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000572",
+      "corp_cls": "Y",
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "bsns_year": "제37기\n(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 별도 및 연결재무제표 검토\n 별도,연결재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235,000,000\n(년간 총 보수\n계약금액)",
+      "adt_cntrct_dtls_time": "2,666시간",
+      "real_exc_dtls_mendng": "235,000,000\n(년간 총 보수\n계약금액)",
+      "real_exc_dtls_time": "2,666시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000572",
+      "corp_cls": "Y",
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "bsns_year": "제36기\n(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 별도 및 연결재무제표 검토\n 별도,연결재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150,000,000\n(년간 총 보수\n계약금액)",
+      "adt_cntrct_dtls_time": "2,559시간",
+      "real_exc_dtls_mendng": "150,000,000\n(년간 총 보수\n계약금액)",
+      "real_exc_dtls_time": "2,559시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000910",
+      "corp_cls": "Y",
+      "corp_code": "00372873",
+      "corp_name": "KTis",
+      "se": "소액주주",
+      "shrholdr_co": "15,483",
+      "shrholdr_tot_co": "15,490",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "22,171,849",
+      "stock_tot_co": "34,802,000",
+      "hold_stock_rate": "63.71%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002500",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제43기(당기)",
+      "adtor": "성도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없습니다",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002500",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제42기(전기)",
+      "adtor": "성도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없습니다",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002500",
+      "corp_cls": "Y",
+      "corp_code": "00112165",
+      "corp_name": "디아이씨",
+      "bsns_year": "제41기(전전기)",
+      "adtor": "성도회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "특기사항 없습니다",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

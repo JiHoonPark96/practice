@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003222",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "bsns_year": "제35기",
+      "adtor": "삼원회계법인",
+      "cn": "반기 재무제표 검토, 연간 재무제표 감사",
+      "mendng": "40백만원",
+      "tot_reqre_time": "1,018시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003222",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "bsns_year": "제34기",
+      "adtor": "삼원회계법인",
+      "cn": "〃",
+      "mendng": "32백만원",
+      "tot_reqre_time": "868시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003222",
+      "corp_cls": "Y",
+      "corp_code": "00149239",
+      "corp_name": "조일알미늄",
+      "bsns_year": "제33기",
+      "adtor": "삼원회계법인",
+      "cn": "〃",
+      "mendng": "32백만원",
+      "tot_reqre_time": "970시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

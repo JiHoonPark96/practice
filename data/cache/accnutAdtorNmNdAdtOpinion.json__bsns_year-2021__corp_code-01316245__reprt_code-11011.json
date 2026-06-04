@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제4기(당기)\n(2021.1~12월)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "1. 총계약원가 추정의 불확실성 2. 공사진행률 산정 3. 미청구공사금액 회수가능성 4. 공사변경에 대한 회계처리",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제3기(전기)\n(2020.1~12월)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 없음",
+      "core_adt_matter": "1. 총계약원가 추정의 불확실성 2. 공사진행률 산정 3. 미청구공사금액 회수가능성 4. 공사변경에 대한 회계처리",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000309",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제2기(전전기)\n(2019.1~12월)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사 인적분할 및 신규설립, \n주권 재상장에 관한 사항",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n(수주산업, 진행매출)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

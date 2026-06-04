@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_knd": "보통주",
+      "nm": "(주)티웨이홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "27,397,773",
+      "bsis_posesn_stock_qota_rt": "58.32",
+      "trmend_posesn_stock_co": "27,397,773",
+      "trmend_posesn_stock_qota_rt": "58.32",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_knd": "보통주",
+      "nm": "조재황",
+      "relate": "미등기 임원",
+      "bsis_posesn_stock_co": "2,426",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "2,426",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_knd": "보통주",
+      "nm": "자사주",
+      "relate": "자기주식",
+      "bsis_posesn_stock_co": "115",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "143,105",
+      "trmend_posesn_stock_qota_rt": "0.30",
+      "rm": "주 1), 2)",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "27,400,314",
+      "bsis_posesn_stock_qota_rt": "58.33",
+      "trmend_posesn_stock_co": "27,543,304",
+      "trmend_posesn_stock_qota_rt": "58.63",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001537",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "bsns_year": "제36기 (당기)",
+      "adtor": " 안진 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자(수광티티아이)의 손상 검사",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001537",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "bsns_year": "제35기(전기)",
+      "adtor": "삼정 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "국외매출 관련 수익인식 기간 귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001537",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "삼정 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "국외매출 관련 수익인식 기간 귀속",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

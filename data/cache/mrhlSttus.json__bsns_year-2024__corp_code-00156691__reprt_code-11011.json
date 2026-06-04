@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000741",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "se": "소액주주",
+      "shrholdr_co": "6,337",
+      "shrholdr_tot_co": "6,342",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "1,090,847",
+      "stock_tot_co": "3,166,355",
+      "hold_stock_rate": "34.45%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

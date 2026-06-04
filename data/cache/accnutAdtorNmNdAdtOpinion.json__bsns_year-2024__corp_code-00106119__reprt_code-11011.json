@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001823",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "한울\n회계법인",
+      "adt_opinion": "의견거절",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001823",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제70기\n(당기)",
+      "adtor": "한울\n회계법인",
+      "adt_opinion": "의견거절",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001823",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "감가상각 개시시점의 적절성\n회사의 투자규모가 크고 사용가능시점 판단에 따른 감가상각금액이 재무제표에 미치는 영향이 유의적임",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001823",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제69기\n(전기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "감가상각 개시시점의 적절성\n회사의 투자규모가 크고 사용가능시점 판단에 따른 감가상각금액이 재무제표에 미치는 영향이 유의적임",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001823",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "안경\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수익인식 등과\n관련한 재무제표의 재작성",
+      "core_adt_matter": "특수관계자와의 거래 및 잔액 공시의 적정성\n공시금액의 중요성, 특수관계자 거래 및 잔액의 집계, 대사과정의 복잡성에 따른 공시의 오류 발생 가능성을 고려",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001823",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제68기\n(전전기)",
+      "adtor": "안경\n회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수익인식 등과\n관련한 재무제표의 재작성",
+      "core_adt_matter": "특수관계자와의 거래 및 잔액 공시의 적정성\n공시금액의 중요성, 특수관계자 거래 및 잔액의 집계, 대사과정의 복잡성에 따른 공시의 오류 발생 가능성을 고려",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

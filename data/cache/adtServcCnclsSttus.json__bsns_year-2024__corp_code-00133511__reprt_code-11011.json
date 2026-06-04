@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제62기\n(당기)",
+      "adtor": "선일회계법인",
+      "cn": "반기 별도 및 연결 재무제표 검토\n기말 별도 및 연결 재무제표 감사\n내부회계관리제도등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "1,898",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제61기\n(전기)",
+      "adtor": "선일회계법인",
+      "cn": "반기 별도 및 연결 재무제표 검토\n기말 별도 및 연결 재무제표 감사\n내부회계관리제도등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "1,849",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000626",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "bsns_year": "제60기\n(전전기)",
+      "adtor": "선일회계법인",
+      "cn": "반기 별도 및 연결 재무제표 검토\n기말 별도 및 연결 재무제표 감사\n내부회계관리제도등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "215",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "215",
+      "real_exc_dtls_time": "1,911",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000697",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "당기(제47기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없슴",
+      "core_adt_matter": "수익기간의 귀속\n(주1)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000697",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "전기(제46기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없슴",
+      "core_adt_matter": "수익기간의 귀속\n(주2)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316000697",
+      "corp_cls": "Y",
+      "corp_code": "00124027",
+      "corp_name": "부산산업",
+      "bsns_year": "전전기(제45기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없슴",
+      "core_adt_matter": "수익기간의 귀속\n(주3)",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

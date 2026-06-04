@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "bsns_year": "2020년\n(제39기)",
+      "adtor": "삼정회계법인",
+      "cn": "연결 및 개별 재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "146,400",
+      "adt_cntrct_dtls_time": "1,854",
+      "real_exc_dtls_mendng": "146,400",
+      "real_exc_dtls_time": "2,140",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "bsns_year": "2019년\n(제38기)",
+      "adtor": "예일회계법인",
+      "cn": "연결 및 개별 재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000",
+      "adt_cntrct_dtls_time": "1,522",
+      "real_exc_dtls_mendng": "200,000",
+      "real_exc_dtls_time": "1,522",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "bsns_year": "2018년\n(제37기)",
+      "adtor": "새빛회계법인",
+      "cn": "연결 및 개별 재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "44,302",
+      "adt_cntrct_dtls_time": "659",
+      "real_exc_dtls_mendng": "44,302",
+      "real_exc_dtls_time": "659",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

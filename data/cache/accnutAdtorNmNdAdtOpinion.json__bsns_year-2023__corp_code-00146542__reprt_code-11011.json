@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001940",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "bsns_year": "제51기(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1.법규위반사항\n2.주권매매거래 정지 및 상장폐지사유 발생",
+      "core_adt_matter": "1.재고자산의 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001940",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "bsns_year": "제50기(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 중요 왜곡표시위험을 식별하고 평가\n2. 재고자산평가, 충당부채\n3. 종속회사 투자주식\n4. 특수관계자 거래\n5. 수익인식 및 채권채무",
+      "core_adt_matter": "1. 종속기업 손상 검토\n2. 특수관계자 거래",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001940",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "bsns_year": "제49기(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 중요 왜곡표시위험을 식별하고 평가\n2. 재고자산평가, 충당부채\n3. 종속회사 투자주식\n4. 특수관계자 거래\n5. 수익인식 및 채권채무",
+      "core_adt_matter": "1. 종속기업 손상 검토\n2. 특수관계자 거래",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

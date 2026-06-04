@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000696",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제49기(당)기",
+      "adtor": "한울회계법인",
+      "cn": "-분,반기 개별재무제표, 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "447",
+      "adt_cntrct_dtls_time": "5,400",
+      "real_exc_dtls_mendng": "447",
+      "real_exc_dtls_time": "5,400",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000696",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제48기(전)기",
+      "adtor": "한울회계법인",
+      "cn": "-분,반기 개별재무제표, 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "315",
+      "adt_cntrct_dtls_time": "4,740",
+      "real_exc_dtls_mendng": "315",
+      "real_exc_dtls_time": "4,740",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000696",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제47기(전전)기",
+      "adtor": "한울회계법인",
+      "cn": "-분,반기 개별재무제표, 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350",
+      "adt_cntrct_dtls_time": "5,193",
+      "real_exc_dtls_mendng": "350",
+      "real_exc_dtls_time": "5,193",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

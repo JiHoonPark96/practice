@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "se": "소액주주",
+      "shrholdr_co": "36,159",
+      "shrholdr_tot_co": "36,161",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "45,880,662",
+      "stock_tot_co": "58,229,134",
+      "hold_stock_rate": "78.80%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001117",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "se": "소액주주",
+      "shrholdr_co": "12,310",
+      "shrholdr_tot_co": "12,320",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "3,872,367",
+      "stock_tot_co": "8,956,502",
+      "hold_stock_rate": "43.24%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

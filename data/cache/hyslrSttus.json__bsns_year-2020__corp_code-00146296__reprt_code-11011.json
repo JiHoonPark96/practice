@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000616",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "stock_knd": "보통주",
+      "nm": "(재)세계기독교\n통일신령협회\n유지재단",
+      "relate": "최대\n주주",
+      "bsis_posesn_stock_co": "32,003,820",
+      "bsis_posesn_stock_qota_rt": "41.32",
+      "trmend_posesn_stock_co": "32,003,820",
+      "trmend_posesn_stock_qota_rt": "41.32",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000616",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "32,003,820",
+      "bsis_posesn_stock_qota_rt": "41.32",
+      "trmend_posesn_stock_co": "32,003,820",
+      "trmend_posesn_stock_qota_rt": "41.32",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000616",
+      "corp_cls": "Y",
+      "corp_code": "00146296",
+      "corp_name": "일신석재",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "0",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

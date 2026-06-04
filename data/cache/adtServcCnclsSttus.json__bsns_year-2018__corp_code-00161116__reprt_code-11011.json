@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 39기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기재무제표검토, 별도재무제표, 연결재무제표등에 대한 감사, 내부회계관리제도검토 등",
+      "mendng": "370,000",
+      "tot_reqre_time": "4,067",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 38기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기재무제표검토, 별도재무제표, 연결재무제표등에 대한 감사, 내부회계관리제도검토 등",
+      "mendng": "295,000",
+      "tot_reqre_time": "4,559",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003889",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제 37기",
+      "adtor": "삼일회계법인",
+      "cn": "분반기재무제표검토, 별도재무제표, 연결재무제표등에 대한 감사, 내부회계관리제도검토 등",
+      "mendng": "340,000",
+      "tot_reqre_time": "4,889",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

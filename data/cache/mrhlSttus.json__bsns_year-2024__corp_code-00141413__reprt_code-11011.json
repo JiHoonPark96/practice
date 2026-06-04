@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000559",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "se": "소액주주",
+      "shrholdr_co": "16,120",
+      "shrholdr_tot_co": "16,129",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "36,047,384",
+      "stock_tot_co": "51,664,505",
+      "hold_stock_rate": "69.78%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

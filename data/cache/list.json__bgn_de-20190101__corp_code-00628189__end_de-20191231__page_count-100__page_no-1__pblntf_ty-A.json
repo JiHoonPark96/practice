@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "stock_code": "095720",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002690",
+      "flr_nm": "웅진씽크빅",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "stock_code": "095720",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002922",
+      "flr_nm": "웅진씽크빅",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "stock_code": "095720",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002306",
+      "flr_nm": "웅진씽크빅",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "stock_code": "095720",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401005063",
+      "flr_nm": "웅진씽크빅",
+      "rcept_dt": "20190401",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002423",
+      "corp_cls": "Y",
+      "corp_code": "00132725",
+      "corp_name": "SB성보",
+      "se": "소액주주",
+      "shrholdr_co": "2,676",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.22%",
+      "hold_stock_co": "5,867,045",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "29.31%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제76기(당기)",
+      "cntrct_cncls_de": "'19. 7월",
+      "servc_cn": "CDP 2019년 작성 자문",
+      "servc_exc_pd": "'19.07.02 ~ '19.10.31",
+      "servc_mendng": "21",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제76기(당기)",
+      "cntrct_cncls_de": "'19. 2월",
+      "servc_cn": "중고차 시장조사",
+      "servc_exc_pd": "'19.02.18 ~ '19.03.29",
+      "servc_mendng": "170 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제75기(전기)",
+      "cntrct_cncls_de": "'18.10월",
+      "servc_cn": "영업/마케팅 고도화",
+      "servc_exc_pd": "'18.10.25 ~ '19.01.18",
+      "servc_mendng": "        499 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제75기(전기)",
+      "cntrct_cncls_de": "'18.7월",
+      "servc_cn": "CDP 2018년 작성 자문",
+      "servc_exc_pd": "'18.07.13 ~ '18.08.15",
+      "servc_mendng": "         20 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제75기(전기)",
+      "cntrct_cncls_de": "'18.6월",
+      "servc_cn": "방산 확인서 발행업무",
+      "servc_exc_pd": "'18.06.21",
+      "servc_mendng": "           2 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제74기(전전기)",
+      "cntrct_cncls_de": "'17.11월",
+      "servc_cn": "영업지원 관련 데이터분석",
+      "servc_exc_pd": "'17.11.27 ~ '18.2.28",
+      "servc_mendng": " 145 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제74기(전전기)",
+      "cntrct_cncls_de": "'17.8월",
+      "servc_cn": "개인정보보호인증 사후심사 지원",
+      "servc_exc_pd": "'17.8.21 ~ '17.12.22",
+      "servc_mendng": "30 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제74기(전전기)",
+      "cntrct_cncls_de": "'17.5월",
+      "servc_cn": "매개현실 (AR/VR) 전략 수립에 대한 자문",
+      "servc_exc_pd": "'17.5.23 ~ '17.7.21",
+      "servc_mendng": "200 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20211210000477",
+      "corp_cls": "Y",
+      "corp_code": "00106641",
+      "corp_name": "기아",
+      "bsns_year": "제74기(전전기)",
+      "cntrct_cncls_de": "'17.2월",
+      "servc_cn": "지속가능성보고서 제3자 검증",
+      "servc_exc_pd": "'17.2.9 ~ '17.5.30",
+      "servc_mendng": "18 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

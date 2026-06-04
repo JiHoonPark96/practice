@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "현지호",
+      "relate": "최대주주본인",
+      "bsis_posesn_stock_co": "12,899,380",
+      "bsis_posesn_stock_qota_rt": "19.98",
+      "trmend_posesn_stock_co": "12,899,380",
+      "trmend_posesn_stock_qota_rt": "19.98",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "현승훈",
+      "relate": "최대주주의부",
+      "bsis_posesn_stock_co": "11,568,900",
+      "bsis_posesn_stock_qota_rt": "17.92",
+      "trmend_posesn_stock_co": "11,568,900",
+      "trmend_posesn_stock_qota_rt": "17.92",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "(주)화승인더스트리",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "6,390,900",
+      "bsis_posesn_stock_qota_rt": "9.90",
+      "trmend_posesn_stock_co": "6,390,900",
+      "trmend_posesn_stock_qota_rt": "9.90",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "30,859,180",
+      "bsis_posesn_stock_qota_rt": "47.80",
+      "trmend_posesn_stock_co": "30,859,180",
+      "trmend_posesn_stock_qota_rt": "47.80",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004004",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000657",
+      "corp_cls": "Y",
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기연결재무제표 및 반기별도재무제표 검토,\n 연결재무제표 및 별도재무제표 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "189",
+      "adt_cntrct_dtls_time": "1,404",
+      "real_exc_dtls_mendng": "189",
+      "real_exc_dtls_time": "1,476",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000657",
+      "corp_cls": "Y",
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "bsns_year": "제52기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기연결재무제표 및 반기별도재무제표 검토,\n 연결재무제표 및 별도재무제표 감사,\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,542",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,476",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250313000657",
+      "corp_cls": "Y",
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기연결재무제표 및 반기별도재무제표 검토,\n 연결재무제표 및 별도재무제표 감사,\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,516",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,540",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

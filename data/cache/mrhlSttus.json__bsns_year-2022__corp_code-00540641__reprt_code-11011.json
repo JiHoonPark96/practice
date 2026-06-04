@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001090",
+      "corp_cls": "Y",
+      "corp_code": "00540641",
+      "corp_name": "동양고속",
+      "se": "소액주주",
+      "shrholdr_co": "5,858",
+      "shrholdr_tot_co": "5,869",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "943,294",
+      "stock_tot_co": "2,609,000",
+      "hold_stock_rate": "36.16%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

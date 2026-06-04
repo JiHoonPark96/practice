@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000840",
+      "corp_cls": "Y",
+      "corp_code": "00357360",
+      "corp_name": "한세엠케이",
+      "se": "소액주주",
+      "shrholdr_co": "2,716",
+      "shrholdr_tot_co": "2,724",
+      "shrholdr_rate": "99.71%",
+      "hold_stock_co": "3,434,048",
+      "stock_tot_co": "12,909,322",
+      "hold_stock_rate": "26.60%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

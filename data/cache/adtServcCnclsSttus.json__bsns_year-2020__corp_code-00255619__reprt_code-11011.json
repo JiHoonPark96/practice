@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001172",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제23기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분/반기 별도재무제표 및 연결재무제표 검토\n- 별도재무제표 및 연결재무제표 감사\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "695",
+      "adt_cntrct_dtls_time": "6,200",
+      "real_exc_dtls_mendng": "421",
+      "real_exc_dtls_time": "7,017",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001172",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제22기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분/반기 별도재무제표 및 연결재무제표 검토\n- 별도재무제표 및 연결재무제표 감사\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "4,863",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "4,863",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322001172",
+      "corp_cls": "Y",
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "bsns_year": "제21기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "- 분/반기 별도재무제표 및 연결재무제표 검토\n- 별도재무제표 및 연결재무제표 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "154",
+      "adt_cntrct_dtls_time": "2,465",
+      "real_exc_dtls_mendng": "154",
+      "real_exc_dtls_time": "2,465",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

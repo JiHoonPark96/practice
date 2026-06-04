@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230303000708",
+      "corp_cls": "Y",
+      "corp_code": "00347734",
+      "corp_name": "진양화학",
+      "stock_knd": "보통주",
+      "nm": "㈜진양홀딩스",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "7,270,000",
+      "bsis_posesn_stock_qota_rt": "60.58",
+      "trmend_posesn_stock_co": "9,658,355",
+      "trmend_posesn_stock_qota_rt": "61.13",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230303000708",
+      "corp_cls": "Y",
+      "corp_code": "00347734",
+      "corp_name": "진양화학",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "7,270,000",
+      "bsis_posesn_stock_qota_rt": "60.58",
+      "trmend_posesn_stock_co": "9,658,355",
+      "trmend_posesn_stock_qota_rt": "61.13",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230303000708",
+      "corp_cls": "Y",
+      "corp_code": "00347734",
+      "corp_name": "진양화학",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

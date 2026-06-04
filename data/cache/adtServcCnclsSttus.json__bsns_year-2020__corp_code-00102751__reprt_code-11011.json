@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000784",
+      "corp_cls": "Y",
+      "corp_code": "00102751",
+      "corp_name": "고려산업",
+      "bsns_year": "제65기(당기)",
+      "adtor": "태성회계법인",
+      "cn": "회계감사.검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140,000 ",
+      "adt_cntrct_dtls_time": "1,180 ",
+      "real_exc_dtls_mendng": "140,000 ",
+      "real_exc_dtls_time": "1,208 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000784",
+      "corp_cls": "Y",
+      "corp_code": "00102751",
+      "corp_name": "고려산업",
+      "bsns_year": "제64기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "회계감사.검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000 ",
+      "adt_cntrct_dtls_time": "1,100 ",
+      "real_exc_dtls_mendng": "85,000 ",
+      "real_exc_dtls_time": "1,114 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000784",
+      "corp_cls": "Y",
+      "corp_code": "00102751",
+      "corp_name": "고려산업",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "회계감사.검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000 ",
+      "adt_cntrct_dtls_time": "900 ",
+      "real_exc_dtls_mendng": "85,000 ",
+      "real_exc_dtls_time": "893 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

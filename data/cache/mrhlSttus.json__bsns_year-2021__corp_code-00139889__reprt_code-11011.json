@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816001935",
+      "corp_cls": "Y",
+      "corp_code": "00139889",
+      "corp_name": "SKC",
+      "se": "소액주주",
+      "shrholdr_co": "99,013",
+      "shrholdr_tot_co": "99,016",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "19,206,340",
+      "stock_tot_co": "37,868,298",
+      "hold_stock_rate": "50.72%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000982",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "보통주",
+      "nm": "(주)신세계",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "1,000,000",
+      "bsis_posesn_stock_qota_rt": "62.50",
+      "trmend_posesn_stock_co": "5,000,000",
+      "trmend_posesn_stock_qota_rt": "62.50",
+      "rm": "2022.04.08 액면분할로 인한 주식수 증가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000982",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "1,000,000",
+      "bsis_posesn_stock_qota_rt": "62.50",
+      "trmend_posesn_stock_co": "5,000,000",
+      "trmend_posesn_stock_qota_rt": "62.50",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000982",
+      "corp_cls": "Y",
+      "corp_code": "00220561",
+      "corp_name": "광주신세계",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003433",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제67기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "900백만원",
+      "tot_reqre_time": "16,652시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003433",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제66기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "720백만원",
+      "tot_reqre_time": "11,911시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003433",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 분/반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "690백만원",
+      "tot_reqre_time": "9,310시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

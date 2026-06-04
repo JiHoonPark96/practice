@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000471",
+      "corp_cls": "Y",
+      "corp_code": "01060814",
+      "corp_name": "삼양패키징",
+      "se": "소액주주",
+      "shrholdr_co": "4,977",
+      "shrholdr_tot_co": "4,983",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "3,105,382",
+      "stock_tot_co": "14,209,804",
+      "hold_stock_rate": "21.87%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

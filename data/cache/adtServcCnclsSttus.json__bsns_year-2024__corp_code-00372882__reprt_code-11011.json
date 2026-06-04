@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표에 대한 외부감사 및 검토용역\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000\n(연간)",
+      "adt_cntrct_dtls_time": "2,400\n(연간)",
+      "real_exc_dtls_mendng": "240,000\n(연간)",
+      "real_exc_dtls_time": "3,261\n(연간)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표에 대한 외부감사 및 검토용역\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000\n(연간)",
+      "adt_cntrct_dtls_time": "2,500\n(연간)",
+      "real_exc_dtls_mendng": "240,000\n(연간)",
+      "real_exc_dtls_time": "3,261\n(연간)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001127",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표에 대한 외부감사 및 검토용역\n내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "350,000\n(연간)",
+      "adt_cntrct_dtls_time": "2,784\n(연간)",
+      "real_exc_dtls_mendng": "350,000\n(연간)",
+      "real_exc_dtls_time": "3,119\n(연간)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

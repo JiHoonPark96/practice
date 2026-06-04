@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001172",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제22기(당기)",
+      "cntrct_cncls_de": "2021.7",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.7-2022.6",
+      "servc_mendng": "9.0",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001172",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제21기(전기)",
+      "cntrct_cncls_de": "2020.7",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2020.7-2021.6",
+      "servc_mendng": "8.0",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001172",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제20기(전전기)",
+      "cntrct_cncls_de": "2019.7",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.7-2020.6",
+      "servc_mendng": "8.0",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

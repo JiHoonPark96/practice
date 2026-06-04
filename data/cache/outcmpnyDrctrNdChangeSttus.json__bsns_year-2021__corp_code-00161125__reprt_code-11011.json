@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000770",
+      "corp_cls": "Y",
+      "corp_code": "00161125",
+      "corp_name": "한온시스템",
+      "drctr_co": "9",
+      "otcmp_drctr_co": "5",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

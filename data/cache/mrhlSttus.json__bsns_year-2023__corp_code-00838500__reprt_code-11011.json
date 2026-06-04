@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240426000698",
+      "corp_cls": "Y",
+      "corp_code": "00838500",
+      "corp_name": "엘브이엠씨",
+      "se": "소액주주",
+      "shrholdr_co": "23,382",
+      "shrholdr_tot_co": "23,389",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "100,607,158",
+      "stock_tot_co": "171,588,411",
+      "hold_stock_rate": "58.64%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

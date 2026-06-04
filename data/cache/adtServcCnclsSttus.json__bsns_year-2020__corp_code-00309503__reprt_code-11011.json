@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210415000506",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2020년\n(제22기)",
+      "adtor": "한영회계법인",
+      "cn": "분반기검토, 기말감사, 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,400/년",
+      "adt_cntrct_dtls_time": "11,150시간",
+      "real_exc_dtls_mendng": "1,400/년",
+      "real_exc_dtls_time": "11,872시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210415000506",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2019년\n(제21기)",
+      "adtor": "한영회계법인",
+      "cn": "분반기검토, 기말감사, 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,400/년",
+      "adt_cntrct_dtls_time": "10,770시간",
+      "real_exc_dtls_mendng": "1,400/년",
+      "real_exc_dtls_time": "11,666시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210415000506",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2018년\n(제20기)",
+      "adtor": "한영회계법인",
+      "cn": "분반기검토, 기말감사, 내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,300/년",
+      "adt_cntrct_dtls_time": "주1)",
+      "real_exc_dtls_mendng": "1,300/년",
+      "real_exc_dtls_time": "10,760시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

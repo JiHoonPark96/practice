@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20260506000539",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "bsns_year": "제68기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "분기,반기,연간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200",
+      "adt_cntrct_dtls_time": "1,657시간",
+      "real_exc_dtls_mendng": "200",
+      "real_exc_dtls_time": "1,864시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260506000539",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "bsns_year": "제67기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,연간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310",
+      "adt_cntrct_dtls_time": "2,067시간",
+      "real_exc_dtls_mendng": "310",
+      "real_exc_dtls_time": "2,032시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20260506000539",
+      "corp_cls": "Y",
+      "corp_code": "00116268",
+      "corp_name": "동성제약",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분기,반기,연간감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "1,695시간",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "1,679시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

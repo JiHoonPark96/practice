@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003343",
+      "corp_cls": "Y",
+      "corp_code": "00152880",
+      "corp_name": "코오롱글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "19,630",
+      "shrholdr_tot_co": "19,631",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "4,690,462",
+      "stock_tot_co": "18,932,713",
+      "hold_stock_rate": "24.77%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

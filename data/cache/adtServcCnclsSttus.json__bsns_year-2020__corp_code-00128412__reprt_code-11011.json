@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 53 기\n(당기)",
+      "adtor": "신한회계법인",
+      "cn": "분,반기 검토\n결산 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "124,000,000",
+      "adt_cntrct_dtls_time": "1,128",
+      "real_exc_dtls_mendng": "124,000,000",
+      "real_exc_dtls_time": "1,109",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 52 기\n(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분,반기 검토\n결산 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000,000",
+      "adt_cntrct_dtls_time": "842",
+      "real_exc_dtls_mendng": "90,000,000",
+      "real_exc_dtls_time": "842",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000733",
+      "corp_cls": "Y",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약",
+      "bsns_year": "제 51 기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "분,반기 검토\n결산 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000,000",
+      "adt_cntrct_dtls_time": "752",
+      "real_exc_dtls_mendng": "90,000,000",
+      "real_exc_dtls_time": "752",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001107",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "bsns_year": "제56기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "감사 및 분(반)기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "211,000천원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "211,000천원",
+      "real_exc_dtls_time": "2,320",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001107",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "bsns_year": "제55기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "감사 및 분(반)기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "162,000천원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "162,000천원",
+      "real_exc_dtls_time": "2,003",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001107",
+      "corp_cls": "Y",
+      "corp_code": "00156691",
+      "corp_name": "한국공항",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "감사 및 분(반)기 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "162,000천원",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "162,000천원",
+      "real_exc_dtls_time": "2,009",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

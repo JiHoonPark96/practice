@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000935",
+      "corp_cls": "Y",
+      "corp_code": "00138260",
+      "corp_name": "SIMPAC",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결재무제표 감사\n(분,반기검토 포함)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "460백만원",
+      "adt_cntrct_dtls_time": "4,700H",
+      "real_exc_dtls_mendng": "460백만원",
+      "real_exc_dtls_time": "4,731H",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000935",
+      "corp_cls": "Y",
+      "corp_code": "00138260",
+      "corp_name": "SIMPAC",
+      "bsns_year": "제48기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결재무제표 감사\n(분,반기검토 포함)\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440백만원",
+      "adt_cntrct_dtls_time": "4,400H",
+      "real_exc_dtls_mendng": "458백만원",
+      "real_exc_dtls_time": "4,747H",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000935",
+      "corp_cls": "Y",
+      "corp_code": "00138260",
+      "corp_name": "SIMPAC",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결재무제표 감사\n(분,반기검토 포함)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "295백만원",
+      "adt_cntrct_dtls_time": "3,000H",
+      "real_exc_dtls_mendng": "310백만원",
+      "real_exc_dtls_time": "3,966H",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

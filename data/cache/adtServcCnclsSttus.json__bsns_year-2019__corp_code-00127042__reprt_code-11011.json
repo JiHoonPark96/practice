@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200401002788",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "bsns_year": "제 59 기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토,중간감사,재고실사,기말감사,연결감사",
+      "mendng": "60,000,000",
+      "tot_reqre_time": "1,143",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200401002788",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "bsns_year": "제 58 기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토,중간감사,재고실사,기말감사,연결감사",
+      "mendng": "60,000,000",
+      "tot_reqre_time": "1,141",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200401002788",
+      "corp_cls": "Y",
+      "corp_code": "00127042",
+      "corp_name": "SYTS",
+      "bsns_year": "제 57 기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기검토,중간감사,재고실사,기말감사,연결감사",
+      "mendng": "60,000,000",
+      "tot_reqre_time": "1,016",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001239",
+      "corp_cls": "Y",
+      "corp_code": "00109754",
+      "corp_name": "대림바스",
+      "se": "소액주주",
+      "shrholdr_co": "9,849",
+      "shrholdr_tot_co": "9,865",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "6,381,157",
+      "stock_tot_co": "16,672,240",
+      "hold_stock_rate": "38.29%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

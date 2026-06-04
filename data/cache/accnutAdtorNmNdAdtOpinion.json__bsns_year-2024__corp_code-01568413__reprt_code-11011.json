@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001144",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제4기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 매출에 대한 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001144",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제4기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "사입매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001144",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제3기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특수관계자 매출에 대한 발생사실",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001144",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제3기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "사입매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001144",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제2기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특정매입계약 매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001144",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "bsns_year": "제2기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "특정매입계약 매출의 기간귀속",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

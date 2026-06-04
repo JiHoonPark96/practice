@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000668",
+      "corp_cls": "Y",
+      "corp_code": "00145880",
+      "corp_name": "현대제철",
+      "se": "소액주주",
+      "shrholdr_co": "153,912",
+      "shrholdr_tot_co": "153,919",
+      "shrholdr_rate": "100%",
+      "hold_stock_co": "76,108,336",
+      "stock_tot_co": "133,445,785",
+      "hold_stock_rate": "57.03%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

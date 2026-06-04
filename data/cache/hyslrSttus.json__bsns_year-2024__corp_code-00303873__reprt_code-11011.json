@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "stock_knd": "보통주",
+      "nm": "씨제이(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "41,134,270",
+      "bsis_posesn_stock_qota_rt": "33.60",
+      "trmend_posesn_stock_co": "84,281,313",
+      "trmend_posesn_stock_qota_rt": "50.90",
+      "rm": "제3자 배정 유상증자(현물출자)로 인한 변동",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "stock_knd": "보통주",
+      "nm": "허민회",
+      "relate": "계열회사의 임원",
+      "bsis_posesn_stock_co": "20,000",
+      "bsis_posesn_stock_qota_rt": "0.02",
+      "trmend_posesn_stock_co": "20,000",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "제3자 배정 유상증자(현물출자)로 인한 지분율 변동",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "41,154,270",
+      "bsis_posesn_stock_qota_rt": "33.62",
+      "trmend_posesn_stock_co": "84,301,313",
+      "trmend_posesn_stock_qota_rt": "50.91",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001474",
+      "corp_cls": "Y",
+      "corp_code": "00303873",
+      "corp_name": "CJ CGV",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

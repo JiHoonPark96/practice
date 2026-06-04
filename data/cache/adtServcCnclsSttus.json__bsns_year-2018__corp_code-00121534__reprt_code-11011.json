@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003110",
+      "corp_cls": "Y",
+      "corp_code": "00121534",
+      "corp_name": "MH에탄올",
+      "bsns_year": "제41기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "반기검토 : 2018.7.25~2018.7.27\n연결반기검토 : 2018.8.2~2018.8.4\n기말감사 : 2019.1.28~2019.2.1\n연결감사 : 2019.2.11~2019.2.12",
+      "mendng": "60,000천원",
+      "tot_reqre_time": "1,113",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003110",
+      "corp_cls": "Y",
+      "corp_code": "00121534",
+      "corp_name": "MH에탄올",
+      "bsns_year": "제40기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "반기검토 : 2017.7.20~2017.7.22\n연결반기검토 : 2017.7.24~2017.7.25\n기말감사 : 2018.2.1~2018.2.3\n연결감사 : 2018.2.6~2018.2.9",
+      "mendng": "60,000천원",
+      "tot_reqre_time": "789",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003110",
+      "corp_cls": "Y",
+      "corp_code": "00121534",
+      "corp_name": "MH에탄올",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "안경회계법인",
+      "cn": "반기검토 : 2016.7.21~2016.7.23\n연결반기검토 : 2016.7.25~2016.7.26\n기말감사 : 2017.1.23~2017.1.25\n연결감사 : 2017.1.26, 1.31",
+      "mendng": "60,000천원",
+      "tot_reqre_time": "748",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

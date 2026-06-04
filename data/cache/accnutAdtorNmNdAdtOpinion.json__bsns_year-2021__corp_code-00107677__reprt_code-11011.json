@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제66기 (당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(주)3",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제65기(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(주)1",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323000957",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "(주)2",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

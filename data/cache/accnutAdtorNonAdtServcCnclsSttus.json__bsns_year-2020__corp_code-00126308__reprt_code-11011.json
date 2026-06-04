@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기\n(당기)",
+      "cntrct_cncls_de": "2020.01.01",
+      "servc_cn": "세무자문용역 등",
+      "servc_exc_pd": "'20.01.01 ~ '20.12.31",
+      "servc_mendng": "11",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기\n(당기)",
+      "cntrct_cncls_de": "2020.01.20",
+      "servc_cn": "세무자문용역 등",
+      "servc_exc_pd": "'20.01.06 ~ '20.09.30",
+      "servc_mendng": "89",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기\n(당기)",
+      "cntrct_cncls_de": "2020.04.03",
+      "servc_cn": "세무자문용역 등",
+      "servc_exc_pd": "'20.04.03 ~'20.04.06",
+      "servc_mendng": "-",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기\n(당기)",
+      "cntrct_cncls_de": "2020.04.29",
+      "servc_cn": "세무자문용역 등",
+      "servc_exc_pd": "'20.04.01 ~ '21.03.31",
+      "servc_mendng": "36",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제53기(전기)",
+      "cntrct_cncls_de": "2019.04.02",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "'19.04.02 ~ '20.03.31",
+      "servc_mendng": "37",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제52기\n(전전기)",
+      "cntrct_cncls_de": "2018.04.01",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "'18.04.01 ~ '19.04.01",
+      "servc_mendng": "37",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210517002076",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제52기\n(전전기)",
+      "cntrct_cncls_de": "2018.12.20",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "'19.01.01 ~ '19.12.31",
+      "servc_mendng": "23",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

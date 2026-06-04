@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제56기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기/별도/연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430",
+      "adt_cntrct_dtls_time": "4,468",
+      "real_exc_dtls_mendng": "430",
+      "real_exc_dtls_time": "4,657",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제55기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기/별도/연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "430",
+      "adt_cntrct_dtls_time": "3,892",
+      "real_exc_dtls_mendng": "430",
+      "real_exc_dtls_time": "4,105",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250812000691",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "bsns_year": "제54기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기/별도/연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "4,183",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "4,005",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

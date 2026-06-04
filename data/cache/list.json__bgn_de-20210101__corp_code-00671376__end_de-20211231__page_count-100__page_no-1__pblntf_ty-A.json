@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_code": "091810",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001015",
+      "flr_nm": "트리니티항공",
+      "rcept_dt": "20211115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_code": "091810",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817000569",
+      "flr_nm": "트리니티항공",
+      "rcept_dt": "20210817",
+      "rm": ""
+    },
+    {
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_code": "091810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.03)",
+      "rcept_no": "20210601000046",
+      "flr_nm": "트리니티항공",
+      "rcept_dt": "20210601",
+      "rm": ""
+    },
+    {
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_code": "091810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210601000044",
+      "flr_nm": "트리니티항공",
+      "rcept_dt": "20210601",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_code": "091810",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000956",
+      "flr_nm": "트리니티항공",
+      "rcept_dt": "20210517",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "stock_code": "091810",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210323000606",
+      "flr_nm": "트리니티항공",
+      "rcept_dt": "20210323",
+      "rm": "정연"
+    }
+  ]
+}

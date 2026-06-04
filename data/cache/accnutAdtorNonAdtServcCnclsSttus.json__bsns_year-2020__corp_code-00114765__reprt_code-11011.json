@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000916",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제66기(당기)",
+      "cntrct_cncls_de": "2020.11.30",
+      "servc_cn": "2020년 사업연도 세무조정",
+      "servc_exc_pd": "3일",
+      "servc_mendng": "9,000,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000916",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제65기(당기)",
+      "cntrct_cncls_de": "2020.02.19",
+      "servc_cn": "2019년 사업연도 세무조정",
+      "servc_exc_pd": "3일",
+      "servc_mendng": "9,000,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210323000916",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제64기(전기)",
+      "cntrct_cncls_de": "2018.10.17",
+      "servc_cn": "2018년 사업연도 세무조정",
+      "servc_exc_pd": "3일",
+      "servc_mendng": "8,500,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

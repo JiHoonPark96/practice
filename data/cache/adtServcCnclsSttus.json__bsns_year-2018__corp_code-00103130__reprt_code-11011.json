@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20201023000294",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제45기\n(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사 및\n반기재무제표 검토, 내부회계관리제도 운용의 검토",
+      "mendng": "80,000천원",
+      "tot_reqre_time": "818시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201023000294",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제44기\n(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사 및 반기재무제표 검토, 내부회계관리제도 운용의 검토",
+      "mendng": "80,000천원",
+      "tot_reqre_time": "819시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20201023000294",
+      "corp_cls": "Y",
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "bsns_year": "제43기\n(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "개별 및 연결재무제표 감사 및 반기재무제표 검토, 내부회계관리제도 운용의 검토",
+      "mendng": "80,000천원",
+      "tot_reqre_time": "829시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

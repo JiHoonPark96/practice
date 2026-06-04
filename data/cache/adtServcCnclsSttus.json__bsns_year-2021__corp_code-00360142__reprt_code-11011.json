@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000751",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제22기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "585,000,000원",
+      "adt_cntrct_dtls_time": "5,318시간",
+      "real_exc_dtls_mendng": "585,000,000원",
+      "real_exc_dtls_time": "5,336시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000751",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제21기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "550,000,000원",
+      "adt_cntrct_dtls_time": "5,000시간",
+      "real_exc_dtls_mendng": "550,000,000원",
+      "real_exc_dtls_time": "5,098시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000751",
+      "corp_cls": "Y",
+      "corp_code": "00360142",
+      "corp_name": "아이마켓코리아",
+      "bsns_year": "제20기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340,000,000원",
+      "adt_cntrct_dtls_time": "3,900시간",
+      "real_exc_dtls_mendng": "340,000,000원",
+      "real_exc_dtls_time": "4,411시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

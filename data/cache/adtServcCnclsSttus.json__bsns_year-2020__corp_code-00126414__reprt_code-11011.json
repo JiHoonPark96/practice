@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210707000529",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제67기 \n(2020년)",
+      "adtor": "한울회계법인",
+      "cn": "제67기 재무제표에 대한 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000",
+      "adt_cntrct_dtls_time": "881",
+      "real_exc_dtls_mendng": "110,000,000",
+      "real_exc_dtls_time": "1,052",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210707000529",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제66기 \n(2019년)",
+      "adtor": "정일회계법인",
+      "cn": "제66기 재무제표에 대한 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "55,000,000",
+      "adt_cntrct_dtls_time": "646",
+      "real_exc_dtls_mendng": "55,000,000",
+      "real_exc_dtls_time": "646",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210707000529",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제65기\n(2018년)",
+      "adtor": "정일회계법인",
+      "cn": "제65기 재무제표에 대한 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "55,000,000",
+      "adt_cntrct_dtls_time": "636",
+      "real_exc_dtls_mendng": "55,000,000",
+      "real_exc_dtls_time": "636",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

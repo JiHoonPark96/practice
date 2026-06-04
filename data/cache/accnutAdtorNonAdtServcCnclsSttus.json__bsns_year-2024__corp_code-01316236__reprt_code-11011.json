@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제7기(당기)\n(2024년 1~12월)",
+      "cntrct_cncls_de": "2024.02.28",
+      "servc_cn": "2023년 법인세 세무조정",
+      "servc_exc_pd": "24.3.2 ~ 24.3.31",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제6기(전기)\n(2023년 1~12월)",
+      "cntrct_cncls_de": "2023.02.16",
+      "servc_cn": "2022년 법인세 세무조정",
+      "servc_exc_pd": "23.3.2 ~ 23.3.31",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제6기(전기)\n(2023년 1~12월)",
+      "cntrct_cncls_de": "2023.05.22",
+      "servc_cn": "재무정보에 대한 합의된 절차 수행업무",
+      "servc_exc_pd": "23.5.22 ~ 용역완료시",
+      "servc_mendng": "1백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제6기(전기)\n(2023년 1~12월)",
+      "cntrct_cncls_de": "2023.01.01",
+      "servc_cn": "Hyosung Vina Chemicals Co., Ltd. 세무자문",
+      "servc_exc_pd": "23.1.1 ~ 23.12.31",
+      "servc_mendng": "VND 180백만",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제6기(전기)\n(2023년 1~12월)",
+      "cntrct_cncls_de": "2023.04.19",
+      "servc_cn": "Hyosung Vina Chemicals Co., Ltd. 이전가격문서화",
+      "servc_exc_pd": "23.4.19 ~ 24.3.31",
+      "servc_mendng": "VND 693백만",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제5기(전전기)\n(2022년 1~12월)",
+      "cntrct_cncls_de": "2022.02.28",
+      "servc_cn": "베트남법인 세무검토",
+      "servc_exc_pd": "22.2.28 ~ 22.9.30",
+      "servc_mendng": "89백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312001129",
+      "corp_cls": "Y",
+      "corp_code": "01316236",
+      "corp_name": "효성화학",
+      "bsns_year": "제5기(전전기)\n(2022년 1~12월)",
+      "cntrct_cncls_de": "2022.03.26",
+      "servc_cn": "2021년 법인세 세무조정",
+      "servc_exc_pd": "22.3.2 ~ 22.3.31",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

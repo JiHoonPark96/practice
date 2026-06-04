@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2019년도 \n제17기(당기)",
+      "adtor": "적정",
+      "adt_opinion": "대성삼경회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "코로나19의 확산으로 인한 여객 예약 취소 및 \n신규 여행 수요 감소 등의 영향으로 수익 창출 및 \n현금흐름과 관련된 불확실성이 확대",
+      "core_adt_matter": "기준서 제1116호의 적용에 따른 회계처리의 변경",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2018년도\n제16기(전기)",
+      "adtor": "적정",
+      "adt_opinion": "대성삼경회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002511",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2017년도\n제15기(전전기)",
+      "adtor": "적정",
+      "adt_opinion": "신한회계법인",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주1)",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

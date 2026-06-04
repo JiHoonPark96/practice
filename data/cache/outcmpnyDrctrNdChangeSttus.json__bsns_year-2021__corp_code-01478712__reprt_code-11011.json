@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001352",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "drctr_co": "3",
+      "otcmp_drctr_co": "1",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

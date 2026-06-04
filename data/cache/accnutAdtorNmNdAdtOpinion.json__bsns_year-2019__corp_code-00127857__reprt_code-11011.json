@@ -1,0 +1,40 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001798",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "bsns_year": "제47기(당기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "영업권 및 무형자산의 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001798",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "bsns_year": "제46기 (전기)",
+      "adtor": "선진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001798",
+      "corp_cls": "Y",
+      "corp_code": "00127857",
+      "corp_name": "삼익악기",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

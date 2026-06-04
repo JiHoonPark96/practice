@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000879",
+      "corp_cls": "Y",
+      "corp_code": "00422895",
+      "corp_name": "세이브존I&C",
+      "se": "소액주주",
+      "shrholdr_co": "4,820",
+      "shrholdr_tot_co": "4,835",
+      "shrholdr_rate": "99.69%",
+      "hold_stock_co": "10,823,104",
+      "stock_tot_co": "37,764,632",
+      "hold_stock_rate": "28.66%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001838",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 7 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없 음",
+      "core_adt_matter": "·영업권 손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001838",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 6 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없 음",
+      "core_adt_matter": "·사업결합에 따른 PPA (Purchase Price Allocation) 적정성 검토·Hyundai Construction Equipment India Private Ltd.와 \n   현대중공(중국)투자유한공사에 대한 종속기업투자주식손상평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001838",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 5 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없 음",
+      "core_adt_matter": "·판매보증충당부채의 평가\n·해외매출의 수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

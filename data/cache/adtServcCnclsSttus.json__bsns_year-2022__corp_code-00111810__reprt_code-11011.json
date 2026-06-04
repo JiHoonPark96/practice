@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제63기",
+      "adtor": "삼정회계법인",
+      "cn": "개별/연결 재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "164,000",
+      "adt_cntrct_dtls_time": "1,676",
+      "real_exc_dtls_mendng": "164,000",
+      "real_exc_dtls_time": "1,625",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제62기",
+      "adtor": "한영회계법인",
+      "cn": "개별/연결 재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "118,389",
+      "adt_cntrct_dtls_time": "1,273",
+      "real_exc_dtls_mendng": "118,389",
+      "real_exc_dtls_time": "1,293",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000752",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제61기",
+      "adtor": "한영회계법인",
+      "cn": "개별/연결 재무제표감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "114,570",
+      "adt_cntrct_dtls_time": "1,273",
+      "real_exc_dtls_mendng": "114,570",
+      "real_exc_dtls_time": "1,322",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000560",
+      "corp_cls": "Y",
+      "corp_code": "01059605",
+      "corp_name": "디와이파워",
+      "se": "소액주주",
+      "shrholdr_co": "14,476",
+      "shrholdr_tot_co": "14,486",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "5,892,389",
+      "stock_tot_co": "11,041,708",
+      "hold_stock_rate": "53.37%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

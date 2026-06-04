@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "se": "소액주주",
+      "shrholdr_co": "114,126",
+      "shrholdr_tot_co": "114,158",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "73,724,653",
+      "stock_tot_co": "177,784,107",
+      "hold_stock_rate": "41.47%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

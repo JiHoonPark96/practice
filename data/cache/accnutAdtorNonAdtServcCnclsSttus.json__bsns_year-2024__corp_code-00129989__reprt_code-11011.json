@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314000812",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제58기(당기)\n(2024년 1월 1일~2024년 12월 31일)",
+      "cntrct_cncls_de": "2024년 6월 19일",
+      "servc_cn": "세무조정 용역",
+      "servc_exc_pd": "2024년 1월 1일~2024년 12월 31일",
+      "servc_mendng": "20백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000812",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제57기(당기)\n(2023년 1월 1일~2023년 12월 31일)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314000812",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제56기(당기)\n(2022년 1월 1일~2022년 12월 31일)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

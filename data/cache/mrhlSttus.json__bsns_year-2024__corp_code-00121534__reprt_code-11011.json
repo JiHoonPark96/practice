@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000625",
+      "corp_cls": "Y",
+      "corp_code": "00121534",
+      "corp_name": "MH에탄올",
+      "se": "소액주주",
+      "shrholdr_co": "7,107",
+      "shrholdr_tot_co": "7,112",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "2,705,183",
+      "stock_tot_co": "7,378,526",
+      "hold_stock_rate": "36.66%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

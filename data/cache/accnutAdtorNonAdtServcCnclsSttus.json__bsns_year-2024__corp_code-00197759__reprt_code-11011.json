@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제34(당기)",
+      "cntrct_cncls_de": "2024.08.07",
+      "servc_cn": "2024년 세무조정",
+      "servc_exc_pd": "법인세신고를 위한 세무조정기간",
+      "servc_mendng": "11백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제33기(전기)",
+      "cntrct_cncls_de": "2023.09.05.",
+      "servc_cn": "2023년 세무조정",
+      "servc_exc_pd": "법인세신고를 위한 세무조정기간",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001105",
+      "corp_cls": "Y",
+      "corp_code": "00197759",
+      "corp_name": "미래산업",
+      "bsns_year": "제32기(전전기)",
+      "cntrct_cncls_de": "2022.10.25",
+      "servc_cn": "2022년 세무조정",
+      "servc_exc_pd": "법인세신고를 위한 세무조정기간",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

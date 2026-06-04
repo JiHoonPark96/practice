@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2023년 08월 16일",
+      "servc_cn": "취득세 신고\n대행 업무",
+      "servc_exc_pd": "'23.08 - '23.11",
+      "servc_mendng": "18,200",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

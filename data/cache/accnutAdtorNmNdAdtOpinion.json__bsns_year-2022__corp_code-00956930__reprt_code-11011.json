@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001075",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제10기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 개발비의 인식과 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001075",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제9기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 인타스 기술이전계약에 따른 라이선스 수익인식\n2) 개발비의 인식과 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001075",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "bsns_year": "제8기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "감사보고서 참조",
+      "core_adt_matter": "1) 매출의 발생사실",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

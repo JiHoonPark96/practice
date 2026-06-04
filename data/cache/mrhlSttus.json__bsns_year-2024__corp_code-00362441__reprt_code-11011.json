@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000930",
+      "corp_cls": "Y",
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버",
+      "se": "소액주주",
+      "shrholdr_co": "45,916",
+      "shrholdr_tot_co": "45,921",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "5,730,520",
+      "stock_tot_co": "27,423,982",
+      "hold_stock_rate": "20.90%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

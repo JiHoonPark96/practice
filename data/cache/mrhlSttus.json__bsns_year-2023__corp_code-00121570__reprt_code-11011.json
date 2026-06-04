@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314000969",
+      "corp_cls": "Y",
+      "corp_code": "00121570",
+      "corp_name": "문배철강",
+      "se": "소액주주",
+      "shrholdr_co": "16,902",
+      "shrholdr_tot_co": "16,909",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "10,960,051",
+      "stock_tot_co": "20,503,505",
+      "hold_stock_rate": "53.5%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

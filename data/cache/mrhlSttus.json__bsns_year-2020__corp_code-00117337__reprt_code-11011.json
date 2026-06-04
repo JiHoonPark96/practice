@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322001119",
+      "corp_cls": "Y",
+      "corp_code": "00117337",
+      "corp_name": "동양",
+      "se": "소액주주",
+      "shrholdr_co": "21,776",
+      "shrholdr_tot_co": "21,787",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "112,483,822",
+      "stock_tot_co": "238,684,063",
+      "hold_stock_rate": "47.13%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

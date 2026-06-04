@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000724",
+      "corp_cls": "Y",
+      "corp_code": "00166500",
+      "corp_name": "화천기계",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "-. 반기검토 : 2021.07.19 ~ 2021.07.22\n-. 중간감사 : 2021.11.22 ~ 2021.11.26\n-. 기말감사 : 2022.02.14 ~ 2022.02.18",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,420",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,308",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000724",
+      "corp_cls": "Y",
+      "corp_code": "00166500",
+      "corp_name": "화천기계",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "-. 반기검토 : 2020.07.20 ~ 2020.07.23\n-. 중간감사 : 2020.10.19 ~ 2020.10.22\n-. 기말감사 : 2021.02.01 ~ 2021.02.05",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000",
+      "adt_cntrct_dtls_time": "1,420",
+      "real_exc_dtls_mendng": "120,000",
+      "real_exc_dtls_time": "1,296",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000724",
+      "corp_cls": "Y",
+      "corp_code": "00166500",
+      "corp_name": "화천기계",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "-. 반기검토 : 2019.07.10 ~ 2019.07.12\n-. 중간감사 : 2019.11.19 ~ 2019.11.22\n-. 기말감사 : 2020.02.03 ~ 2020.02.17",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000",
+      "adt_cntrct_dtls_time": "1,241",
+      "real_exc_dtls_mendng": "90,000",
+      "real_exc_dtls_time": "1,295",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816001546",
+      "corp_cls": "Y",
+      "corp_code": "00162586",
+      "corp_name": "한올바이오파마",
+      "se": "소액주주",
+      "shrholdr_co": "40,218",
+      "shrholdr_tot_co": "40,226",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "28,834,812",
+      "stock_tot_co": "52,240,638",
+      "hold_stock_rate": "55.20%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

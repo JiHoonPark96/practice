@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220713000282",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제2기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "중요성의 관점에서 기업회계기준서 제1034호에 \n따라 작성되지 않은 사항이 발견되지 아니함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 별도재무제표 주석\n2. 한국채택국제회계기준의 최초채택",
+      "core_adt_matter": "수익인식의 기간귀속",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220713000282",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "제1기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "중요성의 관점에서 기업회계기준서 제1034호에\n 따라 작성되지 않은 사항이 발견되지 아니함",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 재무제표 주석39. 인적분할을 통한 회사의 설립\n2. 재무제표 주석40. 사업결합",
+      "core_adt_matter": "수익인식의 기간귀속",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220713000282",
+      "corp_cls": "Y",
+      "corp_code": "01428203",
+      "corp_name": "케이씨씨글라스",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

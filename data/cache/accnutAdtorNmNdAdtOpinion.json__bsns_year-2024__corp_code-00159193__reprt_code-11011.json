@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 유형자산 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 유형자산 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 유형자산 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 유형자산 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 유형자산 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000747",
+      "corp_cls": "Y",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "1. 유형자산 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

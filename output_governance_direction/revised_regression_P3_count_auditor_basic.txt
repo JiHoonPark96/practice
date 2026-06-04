@@ -1,0 +1,146 @@
+                          Poisson Regression Results                          
+==============================================================================
+Dep. Variable:        CorrectionCount   No. Observations:                 3217
+Model:                        Poisson   Df Residuals:                     3084
+Method:                           MLE   Df Model:                          132
+Date:                Fri, 05 Jun 2026   Pseudo R-squ.:                     nan
+Time:                        01:02:32   Log-Likelihood:                    nan
+converged:                       True   LL-Null:                       -2471.9
+Covariance Type:            nonrobust   LLR p-value:                       nan
+======================================================================================================================
+                                                         coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------------
+Intercept                                                 nan        nan        nan        nan         nan         nan
+C(year)[T.2020]                                           nan        nan        nan        nan         nan         nan
+C(year)[T.2021]                                           nan        nan        nan        nan         nan         nan
+C(year)[T.2022]                                           nan        nan        nan        nan         nan         nan
+C(year)[T.2023]                                           nan        nan        nan        nan         nan         nan
+C(year)[T.2024]                                           nan        nan        nan        nan         nan         nan
+C(sector)[T.1차 철강 제조업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.가구 제조업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.가전제품 및 정보통신장비 소매업]                            nan        nan        nan        nan         nan         nan
+C(sector)[T.가정용 기기 제조업]                                   nan        nan        nan        nan         nan         nan
+C(sector)[T.가죽, 가방 및 유사제품 제조업]                            nan        nan        nan        nan         nan         nan
+C(sector)[T.개인 및 가정용품 임대업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.건물 건설업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.건물설비 설치 공사업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.건축기술, 엔지니어링 및 관련 기술 서비스업]                     nan        nan        nan        nan         nan         nan
+C(sector)[T.건축자재, 철물 및 난방장치 도매업]                          nan        nan        nan        nan         nan         nan
+C(sector)[T.경비, 경호 및 탐정업]                                 nan        nan        nan        nan         nan         nan
+C(sector)[T.고무제품 제조업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.곡물가공품, 전분 및 전분제품 제조업]                         nan        nan        nan        nan         nan         nan
+C(sector)[T.골판지, 종이 상자 및 종이용기 제조업]                        nan        nan        nan        nan         nan         nan
+C(sector)[T.광고업]                                          nan        nan        nan        nan         nan         nan
+C(sector)[T.구조용 금속제품, 탱크 및 증기발생기 제조업]                     nan        nan        nan        nan         nan         nan
+C(sector)[T.귀금속 및 장신용품 제조업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.그외 기타 개인 서비스업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.그외 기타 운송장비 제조업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.금속 주조업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.기계장비 및 관련 물품 도매업]                             nan        nan        nan        nan         nan         nan
+C(sector)[T.기반조성 및 시설물 축조관련 전문공사업]                        nan        nan        nan        nan         nan         nan
+C(sector)[T.기초 의약물질 제조업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.기초 화학물질 제조업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 금속 가공제품 제조업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 비금속 광물제품 제조업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 사업지원 서비스업]                                 nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 상품 전문 소매업]                                 nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 식품 제조업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 운송관련 서비스업]                                 nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 전기장비 제조업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 전문 도매업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 정보 서비스업]                                   nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 종이 및 판지 제품 제조업]                            nan        nan        nan        nan         nan         nan
+C(sector)[T.기타 화학제품 제조업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.나무제품 제조업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.내화, 비내화 요업제품 제조업]                             nan        nan        nan        nan         nan         nan
+C(sector)[T.담배 제조업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.도로 화물 운송업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.도축, 육류 가공 및 저장 처리업]                           nan        nan        nan        nan         nan         nan
+C(sector)[T.동·식물성 유지 및 낙농제품 제조업]                          nan        nan        nan        nan         nan         nan
+C(sector)[T.동물용 사료 및 조제식품 제조업]                            nan        nan        nan        nan         nan         nan
+C(sector)[T.떡, 빵 및 과자류 제조업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.무기 및 총포탄 제조업]                                 nan        nan        nan        nan         nan         nan
+C(sector)[T.무점포 소매업]                                      nan        nan        nan        nan         nan         nan
+C(sector)[T.반도체 제조업]                                      nan        nan        nan        nan         nan         nan
+C(sector)[T.방적 및 가공사 제조업]                                 nan        nan        nan        nan         nan         nan
+C(sector)[T.봉제의복 제조업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.비료, 농약 및 살균, 살충제 제조업]                         nan        nan        nan        nan         nan         nan
+C(sector)[T.비알코올음료 및 얼음 제조업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.산업용 기계 및 장비 임대업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.산업용 농·축산물 및 동·식물 도매업]                         nan        nan        nan        nan         nan         nan
+C(sector)[T.상품 종합 도매업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.상품 중개업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.생활용품 도매업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.서적, 잡지 및 기타 인쇄물 출판업]                          nan        nan        nan        nan         nan         nan
+C(sector)[T.석유 정제품 제조업]                                   nan        nan        nan        nan         nan         nan
+C(sector)[T.선박 및 보트 건조업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.섬유, 의복, 신발 및 가죽제품 소매업]                        nan        nan        nan        nan         nan         nan
+C(sector)[T.소프트웨어 개발 및 공급업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.수산물 가공 및 저장 처리업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.스포츠 서비스업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.시멘트, 석회, 플라스터 및 그 제품 제조업]                     nan        nan        nan        nan         nan         nan
+C(sector)[T.신발 및 신발 부분품 제조업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.악기 제조업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.알코올음료 제조업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.어로 어업]                                        nan        nan        nan        nan         nan         nan
+C(sector)[T.여행사 및 기타 여행보조 서비스업]                           nan        nan        nan        nan         nan         nan
+C(sector)[T.연료 소매업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.연료용 가스 제조 및 배관공급업]                            nan        nan        nan        nan         nan         nan
+C(sector)[T.영상 및 음향기기 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.영화, 비디오물, 방송프로그램 제작 및 배급업]                    nan        nan        nan        nan         nan         nan
+C(sector)[T.오디오물 출판 및 원판 녹음업]                             nan        nan        nan        nan         nan         nan
+C(sector)[T.운송장비 임대업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.유리 및 유리제품 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.유원지 및 기타 오락관련 서비스업]                           nan        nan        nan        nan         nan         nan
+C(sector)[T.육상 여객 운송업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.음·식료품 및 담배 도매업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.음식점업]                                         nan        nan        nan        nan         nan         nan
+C(sector)[T.의료용 기기 제조업]                                   nan        nan        nan        nan         nan         nan
+C(sector)[T.의료용품 및 기타 의약 관련제품 제조업]                        nan        nan        nan        nan         nan         nan
+C(sector)[T.의약품 제조업]                                      nan        nan        nan        nan         nan         nan
+C(sector)[T.일반 목적용 기계 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.일반 및 생활 숙박시설 운영업]                             nan        nan        nan        nan         nan         nan
+C(sector)[T.일차전지 및 이차전지 제조업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.자동차 부품 및 내장품 판매업]                             nan        nan        nan        nan         nan         nan
+C(sector)[T.자동차 신품 부품 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.자동차 판매업]                                      nan        nan        nan        nan         nan         nan
+C(sector)[T.자동차용 엔진 및 자동차 제조업]                            nan        nan        nan        nan         nan         nan
+C(sector)[T.자료처리, 호스팅, 포털 및 기타 인터넷 정보매개 서비스업]             nan        nan        nan        nan         nan         nan
+C(sector)[T.자연과학 및 공학 연구개발업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.전구 및 조명장치 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.전기 및 통신 공사업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.전기 통신업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.전기업]                                          nan        nan        nan        nan         nan         nan
+C(sector)[T.전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업]            nan        nan        nan        nan         nan         nan
+C(sector)[T.전자부품 제조업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.절연선 및 케이블 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.제재 및 목재 가공업]                                  nan        nan        nan        nan         nan         nan
+C(sector)[T.종합 소매업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.증기, 냉·온수 및 공기조절 공급업]                          nan        nan        nan        nan         nan         nan
+C(sector)[T.직물직조 및 직물제품 제조업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.초등 교육기관]                                      nan        nan        nan        nan         nan         nan
+C(sector)[T.측정, 시험, 항해, 제어 및 기타 정밀기기 제조업; 광학기기 제외]        nan        nan        nan        nan         nan         nan
+C(sector)[T.컴퓨터 및 주변장치 제조업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.컴퓨터 프로그래밍, 시스템 통합 및 관리업]                      nan        nan        nan        nan         nan         nan
+C(sector)[T.텔레비전 방송업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.토목 건설업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.통신 및 방송 장비 제조업]                               nan        nan        nan        nan         nan         nan
+C(sector)[T.특수 목적용 기계 제조업]                                nan        nan        nan        nan         nan         nan
+C(sector)[T.펄프, 종이 및 판지 제조업]                              nan        nan        nan        nan         nan         nan
+C(sector)[T.편조원단 제조업]                                     nan        nan        nan        nan         nan         nan
+C(sector)[T.플라스틱제품 제조업]                                   nan        nan        nan        nan         nan         nan
+C(sector)[T.합성고무 및 플라스틱 물질 제조업]                           nan        nan        nan        nan         nan         nan
+C(sector)[T.항공 여객 운송업]                                    nan        nan        nan        nan         nan         nan
+C(sector)[T.항공기,우주선 및 부품 제조업]                             nan        nan        nan        nan         nan         nan
+C(sector)[T.해상 운송업]                                       nan        nan        nan        nan         nan         nan
+C(sector)[T.화학섬유 제조업]                                     nan        nan        nan        nan         nan         nan
+LogAssets_w                                               nan        nan        nan        nan         nan         nan
+Leverage_w                                                nan        nan        nan        nan         nan         nan
+ROA_w                                                     nan        nan        nan        nan         nan         nan
+Loss                                                      nan        nan        nan        nan         nan         nan
+OutsideDirectorRatio_w                                    nan        nan        nan        nan         nan         nan
+LargestShareholderOwnership_w                             nan        nan        nan        nan         nan         nan
+LogMinorityShareholderCount_w                             nan        nan        nan        nan         nan         nan
+Big4Auditor                                               nan        nan        nan        nan         nan         nan
+CleanOpinion                                              nan        nan        nan        nan         nan         nan
+======================================================================================================================

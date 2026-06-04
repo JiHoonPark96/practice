@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230324000003",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "se": "소액주주",
+      "shrholdr_co": "27,939",
+      "shrholdr_tot_co": "27,947",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "67,799,028",
+      "stock_tot_co": "120,998,774",
+      "hold_stock_rate": "56.03%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

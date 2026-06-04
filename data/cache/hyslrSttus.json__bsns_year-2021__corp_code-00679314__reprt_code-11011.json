@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_knd": "보통주",
+      "nm": "(주)디에스티아이",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "20,432,110",
+      "bsis_posesn_stock_qota_rt": "46.44",
+      "trmend_posesn_stock_co": "20,432,110",
+      "trmend_posesn_stock_qota_rt": "41.12",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_knd": "보통주",
+      "nm": "한상덕",
+      "relate": "계열회사임원",
+      "bsis_posesn_stock_co": "5,000",
+      "bsis_posesn_stock_qota_rt": "0.01",
+      "trmend_posesn_stock_co": "5,000",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_knd": "보통주",
+      "nm": "이만우",
+      "relate": "대표이사",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "3,000",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "20,437,110",
+      "bsis_posesn_stock_qota_rt": "46.45",
+      "trmend_posesn_stock_co": "20,440,110",
+      "trmend_posesn_stock_qota_rt": "41.14",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220527000618",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

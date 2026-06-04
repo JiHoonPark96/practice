@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001158",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제21기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "2019년 1월 1일을 최초적용일로 하여 기업회계기준서 제1116호 '리스'를 적용하였으며, 경과규정에 따라 회계변경의 누적효과는 당기의 기초 이익잉여금등에 반영",
+      "core_adt_matter": "투입법에 따른 진행률 및 \n수익인식 등 적정성 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001158",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제20기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "2018년 1월 1일을 최초적용일로 하여 기업회계기준서 제1109호 '금융상품'과 제1115호 '고객과의 계약에서 생기는 수익'을 적용하였으며, 경과규정에 따라 회계변경의 누적효과는 당기의 기초 이익잉여금등에 반영",
+      "core_adt_matter": "투입법에 따른 진행률 및 \n수익인식 등 적정성 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001158",
+      "corp_cls": "Y",
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "투입법에 따른 진행률 및 \n수익인식 등 적정성 평가",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

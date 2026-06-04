@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000652",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "stock_knd": "보통주",
+      "nm": "주식회사 대호하이텍",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "5,285,091",
+      "bsis_posesn_stock_qota_rt": "19.48",
+      "trmend_posesn_stock_co": "7,150,988",
+      "trmend_posesn_stock_qota_rt": "14.15",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000652",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,285,091",
+      "bsis_posesn_stock_qota_rt": "19.48",
+      "trmend_posesn_stock_co": "7,150,988",
+      "trmend_posesn_stock_qota_rt": "14.15",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000652",
+      "corp_cls": "Y",
+      "corp_code": "00428729",
+      "corp_name": "대호에이엘",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

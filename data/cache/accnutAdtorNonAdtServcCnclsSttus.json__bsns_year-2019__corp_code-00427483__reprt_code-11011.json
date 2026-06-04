@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004401",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제18기(당기)",
+      "cntrct_cncls_de": "2019.07.16",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.07.16~ 2020.03.31",
+      "servc_mendng": "  32,500",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004401",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "2018.07.30",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.04.01~2019.03.31",
+      "servc_mendng": "         29,440 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004401",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "2018.09.03",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2018.09.03~2018.10.31",
+      "servc_mendng": "         95,000 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004401",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제17기(전기)",
+      "cntrct_cncls_de": "2018.09.10",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2018.09.10~2018.11.31",
+      "servc_mendng": "       115,000 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004401",
+      "corp_cls": "Y",
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "bsns_year": "제16기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

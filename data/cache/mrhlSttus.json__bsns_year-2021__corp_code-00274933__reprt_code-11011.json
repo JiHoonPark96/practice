@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000592",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "se": "소액주주",
+      "shrholdr_co": "15,148",
+      "shrholdr_tot_co": "15,159",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "1,447,685",
+      "stock_tot_co": "3,872,480",
+      "hold_stock_rate": "37.44%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

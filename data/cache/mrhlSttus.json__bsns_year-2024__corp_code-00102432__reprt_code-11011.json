@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001751",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "se": "소액주주",
+      "shrholdr_co": "12,762",
+      "shrholdr_tot_co": "12,783",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "4,348,740",
+      "stock_tot_co": "8,857,797",
+      "hold_stock_rate": "49.10%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401005101",
+      "corp_cls": "Y",
+      "corp_code": "00109693",
+      "corp_name": "DL",
+      "se": "소액주주",
+      "shrholdr_co": "15,721",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "95.19%",
+      "hold_stock_co": "22,927,864",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "59.39%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

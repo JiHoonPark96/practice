@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323000621",
+      "corp_cls": "Y",
+      "corp_code": "00146861",
+      "corp_name": "자화전자",
+      "se": "소액주주",
+      "shrholdr_co": "18,886",
+      "shrholdr_tot_co": "18,894",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "9,722,661",
+      "stock_tot_co": "17,900,000",
+      "hold_stock_rate": "54.31%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

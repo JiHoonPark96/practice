@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001017",
+      "corp_cls": "Y",
+      "corp_code": "00426086",
+      "corp_name": "티케이지휴켐스",
+      "se": "소액주주",
+      "shrholdr_co": "20,729",
+      "shrholdr_tot_co": "20,736",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "14,877,927",
+      "stock_tot_co": "40,878,588",
+      "hold_stock_rate": "36.40%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

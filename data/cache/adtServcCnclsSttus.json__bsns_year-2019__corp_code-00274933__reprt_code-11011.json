@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제25기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 연결 ·별도재무제표 검토\n연결 ·별도 재무제표 감사 및 내부회계관리제도 검토",
+      "mendng": "225",
+      "tot_reqre_time": "2,894",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제24기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 연결 ·별도재무제표 검토\n연결 ·별도 재무제표 감사 및 내부회계관리제도 검토",
+      "mendng": "185",
+      "tot_reqre_time": "2,363",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004324",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제23기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 연결 ·별도재무제표 검토\n연결 ·별도 재무제표 감사 및 내부회계관리제도 검토",
+      "mendng": "175",
+      "tot_reqre_time": "1,937",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

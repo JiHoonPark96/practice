@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004549",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제66기",
+      "cntrct_cncls_de": "2019.10.29",
+      "servc_cn": "별도 내부회계통제 용역계약 ",
+      "servc_exc_pd": "2019.11.04 ~ \n2019.12.14",
+      "servc_mendng": "55,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004549",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제66기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004549",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제66기",
+      "cntrct_cncls_de": "2019.04.15",
+      "servc_cn": "회계법인 PA 용역 계약   ",
+      "servc_exc_pd": "2019.04.15 ~\n2020.03.31",
+      "servc_mendng": "78,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004549",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제66기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004549",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제62기",
+      "cntrct_cncls_de": "2015.06.22",
+      "servc_cn": "연결관점 내부통제개선 자문 용역계약 ",
+      "servc_exc_pd": "2015.06.22 ~ \n2015.08.31",
+      "servc_mendng": "87,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004549",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제62기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

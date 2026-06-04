@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000545",
+      "corp_cls": "Y",
+      "corp_code": "00122825",
+      "corp_name": "인스코비",
+      "se": "소액주주",
+      "shrholdr_co": "35,410",
+      "shrholdr_tot_co": "35,414",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "90,631,104",
+      "stock_tot_co": "100,909,096",
+      "hold_stock_rate": "89.8%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

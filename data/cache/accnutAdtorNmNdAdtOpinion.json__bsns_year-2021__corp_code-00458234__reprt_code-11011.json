@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220323001196",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제31기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 투입법에 따른 수익인식\n나. 총계약원가 추정의 불확실성\n다. 계약자산의 회수가능성\n라. 계약변경에 따른 회계처리의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001196",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제30기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 투입법에 따른 수익인식\n나. 총계약원가 추정의 불확실성\n다. 계약자산의 회수가능성\n라. 계약변경에 따른 회계처리의 적정성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220323001196",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "bsns_year": "제29기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "회사는 2019년 1월 1일을 최초적용일로 하여 기업회계기준서 \n제1116호 '리스'를 적용하였으며, 경과규정에 따라 회계변경의\n누적효과는 당기의 기초 이익잉여금에 반영하고 비교표시되는\n전기재무제표를 재작성하지 않았습니다.",
+      "core_adt_matter": "가. 투입법에 따른 수익인식\n나. 총계약원가 추정의 불확실성\n다. 계약자산의 회수가능성\n라. 계약변경에 따른 회계처리의 적정성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

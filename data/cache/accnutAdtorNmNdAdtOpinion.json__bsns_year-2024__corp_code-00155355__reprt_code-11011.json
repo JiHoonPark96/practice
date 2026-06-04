@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001312",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "손상징후가 식별된 종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001312",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001312",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "손상징후가 식별된 종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001312",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001312",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "손상징후가 식별된 종속기업투자주식 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001312",
+      "corp_cls": "Y",
+      "corp_code": "00155355",
+      "corp_name": "풀무원",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상검사",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

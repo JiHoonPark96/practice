@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제66기\n(당기)",
+      "cntrct_cncls_de": "2023.11.10",
+      "servc_cn": "글로벌 최저한세 실행 지원 및 자문",
+      "servc_exc_pd": "2023.11.21 ~ 2024.08.31",
+      "servc_mendng": "130,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "cntrct_cncls_de": "2023.03.09",
+      "servc_cn": "세무조정 업무수임계약",
+      "servc_exc_pd": "2023.03.09 ~ 2023.03.31",
+      "servc_mendng": "18,500",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "cntrct_cncls_de": "2022.09.28",
+      "servc_cn": "21년 귀속 BEPS 보고서 작성",
+      "servc_exc_pd": "2022.09.28 ~ 2022.12.31",
+      "servc_mendng": "45,600",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "cntrct_cncls_de": "2022.09.28",
+      "servc_cn": "국세청 세법해석질의 및 법인세 경정청구 지원",
+      "servc_exc_pd": "2022.09.28 ~ 2023.06.30",
+      "servc_mendng": "29,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "cntrct_cncls_de": "2022.03.14",
+      "servc_cn": "세무조정 업무수임계약",
+      "servc_exc_pd": "2022.03.14 ~ 2022.03.31",
+      "servc_mendng": "18,500",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "cntrct_cncls_de": "2022.02.22",
+      "servc_cn": "세무조사 대응 지원",
+      "servc_exc_pd": "2022.02.22 ~ 2022.03.21",
+      "servc_mendng": "70,000",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제64기\n(전전기)",
+      "cntrct_cncls_de": "2021.12.01",
+      "servc_cn": "20년 귀속 BEPS 보고서 작성",
+      "servc_exc_pd": "2021.12.01 ~ 2021.12.31",
+      "servc_mendng": "45,600",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제64기\n(전전기)",
+      "cntrct_cncls_de": "2021.03.17",
+      "servc_cn": "세무조정 업무수임계약",
+      "servc_exc_pd": "2021.03.17 ~ 2021.03.31",
+      "servc_mendng": "18,500",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

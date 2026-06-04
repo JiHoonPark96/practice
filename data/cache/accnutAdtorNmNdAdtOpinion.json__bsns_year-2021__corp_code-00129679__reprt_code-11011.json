@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001318",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1) 사업결합 회계처리 - 관계기업(㈜녹십자셀)의 흡수합병\n(별도재무제표)\n1) 종속기업과 관계기업 간 합병",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001318",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "bsns_year": "제52기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1) 혈액제제 재고자산 평가\n(별도재무제표)\n1) 혈액제제 재고자산 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001318",
+      "corp_cls": "Y",
+      "corp_code": "00129679",
+      "corp_name": "녹십자",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1) '아이비 글로불린 에스엔 5%' 프로젝트의 개발비 손상평가\n(별도재무제표)\n1) '아이비 글로불린 에스엔 5%' 프로젝트의 개발비 손상평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

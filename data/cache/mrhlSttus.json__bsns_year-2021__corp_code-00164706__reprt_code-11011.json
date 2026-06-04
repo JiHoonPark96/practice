@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220216001148",
+      "corp_cls": "Y",
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "se": "소액주주",
+      "shrholdr_co": "28,057",
+      "shrholdr_tot_co": "28,065",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "16,815,358",
+      "stock_tot_co": "27,878,362",
+      "hold_stock_rate": "60.32%",
+      "stlm_dt": "2021-11-30"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210304000627",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제25기 연간\n(주1)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID19 영향의 불확실성",
+      "core_adt_matter": "LG유플러스부문 및 엘지헬로비전부문 현금창출단위집단에 배부된 영업권 손상 회계처리,\n종속기업투자(주식회사 엘지헬로비전)에 대한 손상 회계처리, 5세대 무선 통신서비스용 28Ghz주파수이용권(무형자산)의 손상 회계처리",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210304000627",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제24기 연간\n (주1)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "㈜엘지헬로비전(구, ㈜씨제이헬로)사업결합 회계처리, 결제사업에 대한 매각예정자산 및 중단영업의 표시 및 공시",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210304000627",
+      "corp_cls": "Y",
+      "corp_code": "00231363",
+      "corp_name": "LG유플러스",
+      "bsns_year": "제23기 연간\n (주1)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "빌링시스템을 통해 계상되는 통신서비스 수익 인식, 한국채택국제회계기준 제1115호'고객과의 계약에서 생기는 수익'의 최초 도입영향",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000944",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제44기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "-별도 및 연결 분반기 \n재무제표에 대한 검토\n-별도 및 연결 재무제표에 대한 감사",
+      "mendng": "165",
+      "tot_reqre_time": "2,180",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000944",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제43기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2017년 법정감사(지정)",
+      "mendng": "95",
+      "tot_reqre_time": "1,034",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000944",
+      "corp_cls": "Y",
+      "corp_code": "00143262",
+      "corp_name": "우진아이엔에스",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "가은회계법인",
+      "cn": "2016년 법정감사",
+      "mendng": "33",
+      "tot_reqre_time": "188",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

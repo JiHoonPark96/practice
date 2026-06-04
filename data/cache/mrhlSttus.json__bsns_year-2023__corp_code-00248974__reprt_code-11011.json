@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000676",
+      "corp_cls": "Y",
+      "corp_code": "00248974",
+      "corp_name": "하나제약",
+      "se": "소액주주",
+      "shrholdr_co": "12,747",
+      "shrholdr_tot_co": "12,757",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "7,051,966",
+      "stock_tot_co": "17,772,946",
+      "hold_stock_rate": "39.68%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

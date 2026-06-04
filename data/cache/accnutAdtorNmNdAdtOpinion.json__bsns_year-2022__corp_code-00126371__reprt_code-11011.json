@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230307000653",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제50기\n('22.01.01~'22.12.31)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 재화의 판매 관련 수익인식의 기간 귀속\n(별도재무제표)\n1. 재화의 판매 관련 수익인식의 기간 귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230307000653",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제49기\n('21.01.01~'21.12.31)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중단영업 분류에 따른 \n전기 포괄손익계산서 재작성",
+      "core_adt_matter": "(연결재무제표)\n1. 재화의 판매 관련 수익인식의 기간 귀속\n(별도재무제표)\n1. 재화의 판매 관련 수익인식의 기간 귀속 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230307000653",
+      "corp_cls": "Y",
+      "corp_code": "00126371",
+      "corp_name": "삼성전기",
+      "bsns_year": "제48기\n('20.01.01~'20.12.31)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중단영업 분류에 따른 \n전기 포괄손익계산서 재작성",
+      "core_adt_matter": "(연결재무제표)\n1. 재화의 판매 관련 수익인식 기간귀속\n(별도재무제표)\n1. 재화의 판매 관련 수익인식 기간귀속",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001440",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "se": "소액주주",
+      "shrholdr_co": "11,115",
+      "shrholdr_tot_co": "11,128",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "2,498,572",
+      "stock_tot_co": "6,860,000",
+      "hold_stock_rate": "36.42%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

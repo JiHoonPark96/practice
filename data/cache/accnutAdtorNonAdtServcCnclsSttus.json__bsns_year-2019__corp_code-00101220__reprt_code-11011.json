@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004224",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제66기(당기)",
+      "cntrct_cncls_de": "2019.05.01",
+      "servc_cn": "세무조정 용역계약",
+      "servc_exc_pd": "2019.05.01~2020.03.31",
+      "servc_mendng": "6.6백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004224",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제65기(전기)",
+      "cntrct_cncls_de": "2018.05.01",
+      "servc_cn": "세무조정 용역계약",
+      "servc_exc_pd": "2018.05.01~2019.03.31",
+      "servc_mendng": "6.6백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004224",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제64기(전전기)",
+      "cntrct_cncls_de": "2017.08.01",
+      "servc_cn": "세무조정 용역계약",
+      "servc_exc_pd": "2017.08.25~2018.04.30",
+      "servc_mendng": "6.5백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004224",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제64기(전전기)",
+      "cntrct_cncls_de": "2017.10.30",
+      "servc_cn": "내부회계관리제도 자문용역",
+      "servc_exc_pd": "2017.11.01~2017.11.30",
+      "servc_mendng": "26백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

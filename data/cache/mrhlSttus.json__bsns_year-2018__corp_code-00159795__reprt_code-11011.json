@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190711000324",
+      "corp_cls": "Y",
+      "corp_code": "00159795",
+      "corp_name": "한국카본",
+      "se": "소액주주",
+      "shrholdr_co": "11,106",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "21,414,863",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "48.70%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

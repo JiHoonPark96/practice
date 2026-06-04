@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002561",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제52기",
+      "cntrct_cncls_de": "2024년 4월",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2024.04~2025.03",
+      "servc_mendng": "41,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002561",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제52기",
+      "cntrct_cncls_de": "2024년 6월",
+      "servc_cn": "이전가격보고서 용역",
+      "servc_exc_pd": "2024.06~2024.12",
+      "servc_mendng": "22,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002561",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제51기",
+      "cntrct_cncls_de": "2023년 4월",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2023.04~2024.03",
+      "servc_mendng": "40,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002561",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제51기",
+      "cntrct_cncls_de": "2023년 6월",
+      "servc_cn": "이전가격보고서 용역",
+      "servc_exc_pd": "2023.06~2023.12",
+      "servc_mendng": "22,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002561",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제50기",
+      "cntrct_cncls_de": "2022년 4월",
+      "servc_cn": "세무조정 및 자문",
+      "servc_exc_pd": "2022.04~2023.03",
+      "servc_mendng": "35,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002561",
+      "corp_cls": "Y",
+      "corp_code": "00136864",
+      "corp_name": "신원",
+      "bsns_year": "제50기",
+      "cntrct_cncls_de": "2022년 6월",
+      "servc_cn": "이전가격보고서 용역",
+      "servc_exc_pd": "2022.06~2022.12",
+      "servc_mendng": "22,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

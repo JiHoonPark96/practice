@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001188",
+      "corp_cls": "Y",
+      "corp_code": "00109806",
+      "corp_name": "삼일씨엔에스",
+      "se": "소액주주",
+      "shrholdr_co": "5,814",
+      "shrholdr_tot_co": "5,818",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "5,182,927",
+      "stock_tot_co": "12,731,947",
+      "hold_stock_rate": "40.71%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

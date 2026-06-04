@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240304000316",
+      "corp_cls": "Y",
+      "corp_code": "00160375",
+      "corp_name": "진양폴리우레탄",
+      "drctr_co": "-",
+      "otcmp_drctr_co": "1",
+      "apnt": "-",
+      "rlsofc": "-",
+      "mdstrm_resig": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

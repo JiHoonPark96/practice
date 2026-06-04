@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004274",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "bsns_year": "제24기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기 재무제표 검토\n정기회계감사",
+      "mendng": "380,000",
+      "tot_reqre_time": "4,300",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004274",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "bsns_year": "제23기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기 재무제표 검토\n정기회계감사",
+      "mendng": "322,000",
+      "tot_reqre_time": "3,495",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004274",
+      "corp_cls": "Y",
+      "corp_code": "00222532",
+      "corp_name": "LG헬로비전",
+      "bsns_year": "제22기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "분반기 재무제표 검토\n정기회계감사",
+      "mendng": "322,563",
+      "tot_reqre_time": "3,218",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

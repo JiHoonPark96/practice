@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230711000247",
+      "corp_cls": "Y",
+      "corp_code": "00118521",
+      "corp_name": "진원생명과학",
+      "se": "소액주주",
+      "shrholdr_co": "151,553",
+      "shrholdr_tot_co": "151,560",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "71,569,211",
+      "stock_tot_co": "77,751,599",
+      "hold_stock_rate": "92.05%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

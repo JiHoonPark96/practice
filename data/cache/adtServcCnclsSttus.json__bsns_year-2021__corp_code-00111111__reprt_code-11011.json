@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001358",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "bsns_year": "제49기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "제49기 별도검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "1,550",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,666",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001358",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "bsns_year": "제48기 (전기)",
+      "adtor": "한영회계법인",
+      "cn": "제48기 별도 \n회계감사 및 기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "113백만원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "195백만원",
+      "real_exc_dtls_time": "1,653",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001358",
+      "corp_cls": "Y",
+      "corp_code": "00111111",
+      "corp_name": "대양금속",
+      "bsns_year": "제47기 (전전기)",
+      "adtor": "한영회계법인",
+      "cn": "제47기 별도 \n회계감사 및 기검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "103백만원",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "103백만원",
+      "real_exc_dtls_time": "1,088",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

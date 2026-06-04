@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2024.02.26",
+      "servc_cn": "미국 Tax Filing 신고 용역",
+      "servc_exc_pd": "2024.02.26 ~ 2025.04.26",
+      "servc_mendng": "69백만원 60,000$",
+      "rm": "SKGU/Gridflex",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2024.03.04",
+      "servc_cn": "2023년 특관자 거래에 대한 이전가격 적정성 검토",
+      "servc_exc_pd": "2024.03.04 ~ 2024.12.31",
+      "servc_mendng": "45백만원 33,000$",
+      "rm": "SKGU",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제40기(당기)",
+      "cntrct_cncls_de": "2024.05.13",
+      "servc_cn": "미국 Protective Return 신고 용역",
+      "servc_exc_pd": "2024.05.13 ~ 2024.12.31",
+      "servc_mendng": "10백만원 7,000$",
+      "rm": "SKG",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제39기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제38기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

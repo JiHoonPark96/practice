@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000482",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "se": "소액주주",
+      "shrholdr_co": "44,962",
+      "shrholdr_tot_co": "44,974",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "22,658,542",
+      "stock_tot_co": "65,428,026",
+      "hold_stock_rate": "34.6%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

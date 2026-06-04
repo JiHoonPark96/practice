@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004905",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_knd": "의결권있는주식",
+      "nm": "롯데지주(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "10,000,000",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "10,000,000",
+      "trmend_posesn_stock_qota_rt": "70.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004905",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_knd": "의결권있는주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "10,000,000",
+      "bsis_posesn_stock_qota_rt": "100.00",
+      "trmend_posesn_stock_co": "10,000,000",
+      "trmend_posesn_stock_qota_rt": "70.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004905",
+      "corp_cls": "Y",
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_knd": "의결권없는주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

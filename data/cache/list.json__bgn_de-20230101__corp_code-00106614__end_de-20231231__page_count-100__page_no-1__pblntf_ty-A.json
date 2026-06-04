@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "stock_code": "092440",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.09)",
+      "rcept_no": "20231113000540",
+      "flr_nm": "기신정기",
+      "rcept_dt": "20231113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "stock_code": "092440",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.06)",
+      "rcept_no": "20230814001792",
+      "flr_nm": "기신정기",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "stock_code": "092440",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.03)",
+      "rcept_no": "20230608000512",
+      "flr_nm": "기신정기",
+      "rcept_dt": "20230609",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "stock_code": "092440",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2022.12)",
+      "rcept_no": "20230214000980",
+      "flr_nm": "기신정기",
+      "rcept_dt": "20230214",
+      "rm": ""
+    }
+  ]
+}

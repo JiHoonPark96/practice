@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004995",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "케이비아이동국실업㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "16,378,378",
+      "bsis_posesn_stock_qota_rt": "18.77",
+      "trmend_posesn_stock_co": "16,145,799",
+      "trmend_posesn_stock_qota_rt": "13.58",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004995",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "㈜국인산업",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "800,000",
+      "bsis_posesn_stock_qota_rt": "0.92",
+      "trmend_posesn_stock_co": "6,942,769",
+      "trmend_posesn_stock_qota_rt": "5.84",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004995",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "㈜케이비텍",
+      "relate": "계열회사",
+      "bsis_posesn_stock_co": "2,040,000",
+      "bsis_posesn_stock_qota_rt": "2.34",
+      "trmend_posesn_stock_co": "2,846,684",
+      "trmend_posesn_stock_qota_rt": "2.39",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004995",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "19,218,378",
+      "bsis_posesn_stock_qota_rt": "22.02",
+      "trmend_posesn_stock_co": "25,935,252",
+      "trmend_posesn_stock_qota_rt": "21.81",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004995",
+      "corp_cls": "Y",
+      "corp_code": "00117629",
+      "corp_name": "KBI동양철관",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제 3기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 별도, 연결재무제표 검토, 별도,연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "360",
+      "adt_cntrct_dtls_time": "3,600",
+      "real_exc_dtls_mendng": "360",
+      "real_exc_dtls_time": "3,580",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제 2기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 재무제표 검토, 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235",
+      "adt_cntrct_dtls_time": "2,350",
+      "real_exc_dtls_mendng": "235",
+      "real_exc_dtls_time": "2,242",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000869",
+      "corp_cls": "Y",
+      "corp_code": "01319808",
+      "corp_name": "한일시멘트",
+      "bsns_year": "제 1기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분반기 재무제표 검토, 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "235",
+      "adt_cntrct_dtls_time": "2,350",
+      "real_exc_dtls_mendng": "235",
+      "real_exc_dtls_time": "2,347",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

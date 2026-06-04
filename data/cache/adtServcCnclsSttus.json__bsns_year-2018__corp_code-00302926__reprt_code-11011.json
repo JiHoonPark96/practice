@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004553",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제20기",
+      "adtor": "삼일회계법인",
+      "cn": "예비감사 분 반기ㆍ기말감사 보고서작성(영문포함),  연결재무제표 IFRS 검토작성, 내부회계검토",
+      "mendng": "390/년",
+      "tot_reqre_time": "4,813",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004553",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제19기",
+      "adtor": "삼일회계법인",
+      "cn": "예비감사 분 반기ㆍ기말감사 보고서작성(영문포함),  연결재무제표 IFRS 검토작성, 내부회계검토",
+      "mendng": "390/년",
+      "tot_reqre_time": "4,641",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004553",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제18기",
+      "adtor": "삼일회계법인",
+      "cn": "예비감사 분 반기ㆍ기말감사 보고서작성(영문포함),  연결재무제표 IFRS 검토작성, 내부회계검토",
+      "mendng": "390/년",
+      "tot_reqre_time": "4,624",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

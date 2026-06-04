@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315000715",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "bsns_year": "제68기(당기)",
+      "cntrct_cncls_de": "2021.10.25",
+      "servc_cn": "내부회계관리제도 구축관련 \n자문업무",
+      "servc_exc_pd": "2021.10.25 ~ 2021.11.30",
+      "servc_mendng": "75",
+      "rm": "한울회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000715",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "bsns_year": "제67기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315000715",
+      "corp_cls": "Y",
+      "corp_code": "00152039",
+      "corp_name": "SG글로벌",
+      "bsns_year": "제66기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

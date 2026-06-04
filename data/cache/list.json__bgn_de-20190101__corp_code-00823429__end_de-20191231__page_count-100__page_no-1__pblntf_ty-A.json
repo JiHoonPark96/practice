@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "stock_code": "123690",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20191115000189",
+      "flr_nm": "한국화장품",
+      "rcept_dt": "20191115",
+      "rm": ""
+    },
+    {
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "stock_code": "123690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114000680",
+      "flr_nm": "한국화장품",
+      "rcept_dt": "20191114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "stock_code": "123690",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814000923",
+      "flr_nm": "한국화장품",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "stock_code": "123690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515000767",
+      "flr_nm": "한국화장품",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "stock_code": "123690",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401002043",
+      "flr_nm": "한국화장품",
+      "rcept_dt": "20190401",
+      "rm": "연"
+    }
+  ]
+}

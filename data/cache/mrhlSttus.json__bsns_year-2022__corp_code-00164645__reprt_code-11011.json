@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230714000061",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "se": "소액주주",
+      "shrholdr_co": "484,960",
+      "shrholdr_tot_co": "484,967",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "229,575,742",
+      "stock_tot_co": "489,039,496",
+      "hold_stock_rate": "46.94%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

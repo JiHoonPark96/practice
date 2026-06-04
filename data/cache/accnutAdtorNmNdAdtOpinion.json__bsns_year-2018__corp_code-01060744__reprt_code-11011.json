@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003104",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제4기(당기)",
+      "adtor": "삼일 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003104",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제3기(전기)",
+      "adtor": "삼일 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003104",
+      "corp_cls": "Y",
+      "corp_code": "01060744",
+      "corp_name": "한솔제지",
+      "bsns_year": "제2기(전전기)",
+      "adtor": "삼정 회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003314",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제72기(당기)",
+      "adtor": "동원회계법인",
+      "cn": "외부회계감사",
+      "mendng": "65,000",
+      "tot_reqre_time": "554",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003314",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제71기(전기)",
+      "adtor": "동원회계법인",
+      "cn": "외부회계감사",
+      "mendng": "65,000",
+      "tot_reqre_time": "599",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003314",
+      "corp_cls": "Y",
+      "corp_code": "00151395",
+      "corp_name": "천일고속",
+      "bsns_year": "제70기(전전기)",
+      "adtor": "동원회계법인",
+      "cn": "외부회계감사",
+      "mendng": "65,000",
+      "tot_reqre_time": "559",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

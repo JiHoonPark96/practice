@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002379",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "se": "소액주주",
+      "shrholdr_co": "2,381",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.67%",
+      "hold_stock_co": "2,570,195",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "13.39%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

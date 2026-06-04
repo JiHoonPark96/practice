@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003835",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제5기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "중간기간 재무제표 검토\n개별ㆍ연결 재무제표 감사\n('19.01.01~'19.12.31)",
+      "mendng": "140",
+      "tot_reqre_time": "1,394시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003835",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제4기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "중간기간 재무제표 검토\n개별ㆍ연결 재무제표 감사\n('18.01.01~'18.12.31)",
+      "mendng": "120",
+      "tot_reqre_time": "1,112시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003835",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제3기(전기)",
+      "adtor": "삼일 회계법인",
+      "cn": "중간기간 재무제표 검토\n개별ㆍ연결 재무제표 감사\n('17.01.01~'17.12.31)",
+      "mendng": "120",
+      "tot_reqre_time": "1,178시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220518000138",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "LVMC HOLDINGS",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "34,115,455",
+      "bsis_posesn_stock_qota_rt": "37.22",
+      "trmend_posesn_stock_co": "35,450,412",
+      "trmend_posesn_stock_qota_rt": "36.87",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220518000138",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "오세영",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "12,980,870",
+      "bsis_posesn_stock_qota_rt": "14.16",
+      "trmend_posesn_stock_co": "15,345,734",
+      "trmend_posesn_stock_qota_rt": "15.96",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220518000138",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "노성석",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "30,000",
+      "trmend_posesn_stock_qota_rt": "0.03",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220518000138",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "47,096,325",
+      "bsis_posesn_stock_qota_rt": "51.38",
+      "trmend_posesn_stock_co": "50,826,146",
+      "trmend_posesn_stock_qota_rt": "52.86",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220518000138",
+      "corp_cls": "Y",
+      "corp_code": "00112378",
+      "corp_name": "KR모터스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

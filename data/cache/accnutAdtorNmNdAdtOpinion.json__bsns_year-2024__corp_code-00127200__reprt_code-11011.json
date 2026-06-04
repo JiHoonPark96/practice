@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001464",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001464",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제57기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001464",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류수정",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001464",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제56기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류수정",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001464",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001464",
+      "corp_cls": "Y",
+      "corp_code": "00127200",
+      "corp_name": "삼영전자공업",
+      "bsns_year": "제55기\n(전전기)",
+      "adtor": "삼화회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수익인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

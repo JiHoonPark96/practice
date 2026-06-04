@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000321",
+      "corp_cls": "Y",
+      "corp_code": "01159233",
+      "corp_name": "솔루엠",
+      "bsns_year": "제9기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결 재무제표 감사, \n중간감사 및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195백만원",
+      "adt_cntrct_dtls_time": "1,950",
+      "real_exc_dtls_mendng": "195백만원",
+      "real_exc_dtls_time": "2,010",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000321",
+      "corp_cls": "Y",
+      "corp_code": "01159233",
+      "corp_name": "솔루엠",
+      "bsns_year": "제8기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결 재무제표 감사, \n중간감사 및 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "185백만원",
+      "adt_cntrct_dtls_time": "1,940",
+      "real_exc_dtls_mendng": "185백만원",
+      "real_exc_dtls_time": "2,204",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000321",
+      "corp_cls": "Y",
+      "corp_code": "01159233",
+      "corp_name": "솔루엠",
+      "bsns_year": "제7기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "별도 및 연결 재무제표 감사, \n중간감사 및 내부통제 이해와 평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "140백만원",
+      "adt_cntrct_dtls_time": "1,600",
+      "real_exc_dtls_mendng": "140백만원",
+      "real_exc_dtls_time": "1,652",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

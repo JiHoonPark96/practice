@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003805",
+      "corp_cls": "Y",
+      "corp_code": "00166315",
+      "corp_name": "화신",
+      "se": "소액주주",
+      "shrholdr_co": "5,081",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.52%",
+      "hold_stock_co": "11,841,599",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "33.91%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

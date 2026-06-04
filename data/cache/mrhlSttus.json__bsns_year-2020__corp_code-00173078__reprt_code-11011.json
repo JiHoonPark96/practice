@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001395",
+      "corp_cls": "Y",
+      "corp_code": "00173078",
+      "corp_name": "명신산업",
+      "se": "소액주주",
+      "shrholdr_co": "80,905",
+      "shrholdr_tot_co": "80,909",
+      "shrholdr_rate": "100%",
+      "hold_stock_co": "14,457,569",
+      "stock_tot_co": "40,779,120",
+      "hold_stock_rate": "35.5%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

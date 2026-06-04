@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000526",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제66기(당기)",
+      "adtor": "태일회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160",
+      "adt_cntrct_dtls_time": "1,692",
+      "real_exc_dtls_mendng": "128",
+      "real_exc_dtls_time": "1,693",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000526",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제65기(전기)",
+      "adtor": "성현회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120",
+      "adt_cntrct_dtls_time": "1,547",
+      "real_exc_dtls_mendng": "96",
+      "real_exc_dtls_time": "1,449",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000526",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "성현회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "1,359",
+      "real_exc_dtls_mendng": "66",
+      "real_exc_dtls_time": "1,507",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

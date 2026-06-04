@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250808000624",
+      "corp_cls": "Y",
+      "corp_code": "01238169",
+      "corp_name": "오리온",
+      "se": "소액주주",
+      "shrholdr_co": "39,873",
+      "shrholdr_tot_co": "39,887",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "17,741,600",
+      "stock_tot_co": "39,536,132",
+      "hold_stock_rate": "44.89%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

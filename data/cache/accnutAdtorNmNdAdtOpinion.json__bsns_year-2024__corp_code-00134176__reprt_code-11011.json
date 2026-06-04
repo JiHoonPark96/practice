@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수준 3으로 분류된 금융자산의\n공정가치 측정(주1)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수준 3으로 분류된 금융자산의 공정가치 측정 *",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "수준 3으로 분류된 금융자산의 공정가치 측정 *",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결 주석33에 주의",
+      "core_adt_matter": "재고자산 저가법 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001830",
+      "corp_cls": "Y",
+      "corp_code": "00134176",
+      "corp_name": "세우글로벌",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "다산회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "연결 주석33에 주의",
+      "core_adt_matter": "재고자산 저가법 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

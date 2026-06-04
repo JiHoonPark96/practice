@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- 국외LPG매출의 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- 국외LPG매출의 기간귀속의 적정성\n- 사업결합회계처리의 적정성\n- 부동산 PF(프로젝트 파이낸싱) 대출채권에 대한 대손충당금 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- 국외LPG매출의 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제40기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- 국외LPG매출의 기간귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- 종속기업투자주식(주식회사 LS네트웍스)에 대한 손상 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814000491",
+      "corp_cls": "Y",
+      "corp_code": "00165583",
+      "corp_name": "E1",
+      "bsns_year": "제39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "- 투자부동산에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

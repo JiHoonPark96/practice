@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001187",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "se": "소액주주",
+      "shrholdr_co": "12,254",
+      "shrholdr_tot_co": "12,258",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "9,321,084",
+      "stock_tot_co": "21,600,102",
+      "hold_stock_rate": "43.15%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

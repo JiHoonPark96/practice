@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814003559",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제71기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "제71기 재무제표에 대한 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150",
+      "adt_cntrct_dtls_time": "1,780",
+      "real_exc_dtls_mendng": "150",
+      "real_exc_dtls_time": "1,855",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003559",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제70기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "제70기 재무제표에 대한 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250",
+      "adt_cntrct_dtls_time": "1,920",
+      "real_exc_dtls_mendng": "250",
+      "real_exc_dtls_time": "1,943",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814003559",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "bsns_year": "제69기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "제49기 재무제표에 대한 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,409",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,396",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

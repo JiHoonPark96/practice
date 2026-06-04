@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314001191",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제68기\n(당기)",
+      "adtor": "대주회계법인",
+      "cn": "결산, 반기, 중간감사,\n내부회계관리제도 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "172 ",
+      "adt_cntrct_dtls_time": "1,438 ",
+      "real_exc_dtls_mendng": "172 ",
+      "real_exc_dtls_time": "1,548 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001191",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제67기\n(전기)",
+      "adtor": "대주회계법인",
+      "cn": "  결산, 반기, 중간감사,\n내부회계관리제도 검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "147 ",
+      "adt_cntrct_dtls_time": "1,343 ",
+      "real_exc_dtls_mendng": "147 ",
+      "real_exc_dtls_time": "1,343 ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314001191",
+      "corp_cls": "Y",
+      "corp_code": "00149354",
+      "corp_name": "종근당홀딩스",
+      "bsns_year": "제66기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "  결산, 반기, 중간감사, 재고실사 용역비, \n  내부회계관리제도 검토 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135 ",
+      "adt_cntrct_dtls_time": "1,250 ",
+      "real_exc_dtls_mendng": "135 ",
+      "real_exc_dtls_time": "1,250 ",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

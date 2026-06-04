@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001129",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제32기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도반기검토(2024.07.22~2024.07.26)\n연결반기검토(2024.07.29~2024.08.02)\n\n별도기말감사(2025.01.20~2025.01.31)\n연결기말감사(2025.02.03~2025.02.14)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "566",
+      "adt_cntrct_dtls_time": "4,600",
+      "real_exc_dtls_mendng": "566",
+      "real_exc_dtls_time": "4,410",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001129",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제31기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도반기검토(2023.07.24~2023.07.28)\n연결반기검토(2023.07.31~2023.08.04)\n별도기말감사(2024.01.30~2024.02.08)\n연결기말감사(2024.02.13~2024.02.16)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "566",
+      "adt_cntrct_dtls_time": "4,700",
+      "real_exc_dtls_mendng": "566",
+      "real_exc_dtls_time": "4,702",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001129",
+      "corp_cls": "Y",
+      "corp_code": "00269940",
+      "corp_name": "하나투어",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도반기검토(2022.07.25~2022.07.29)\n연결반기검토(2022.08.01~2022.08.05)\n별도기말감사(2023.01.30~2023.02.10)\n연결기말감사(2023.02.13~2023.02.17)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "566",
+      "adt_cntrct_dtls_time": "4,800",
+      "real_exc_dtls_mendng": "566",
+      "real_exc_dtls_time": "5,089",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

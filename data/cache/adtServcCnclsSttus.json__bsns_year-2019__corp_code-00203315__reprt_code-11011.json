@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002955",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제33기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토,중간,연말감사,연결감사",
+      "mendng": "155백만원",
+      "tot_reqre_time": "1,819시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002955",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제32기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토,중간,연말감사,연결감사",
+      "mendng": "135백만원",
+      "tot_reqre_time": "1,749시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002955",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토,중간,연말감사,연결감사",
+      "mendng": "115백만원",
+      "tot_reqre_time": "1,686시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

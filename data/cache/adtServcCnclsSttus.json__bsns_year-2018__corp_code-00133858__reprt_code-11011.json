@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001699",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제53기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,결산 재무제표 및\n연결재무제표 검토등 회계감사",
+      "mendng": "110,000,000",
+      "tot_reqre_time": "1,842",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001699",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제52기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기,반기,결산 재무제표 및\n연결재무제표 검토등 회계감사",
+      "mendng": "110,000,000",
+      "tot_reqre_time": "1,459",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001699",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기,반기,결산 재무제표 및\n연결재무제표 검토등 회계감사",
+      "mendng": "110,000,000",
+      "tot_reqre_time": "1,584",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

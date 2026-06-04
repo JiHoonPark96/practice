@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002575",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제57기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도재무제표 감사\n중간감사 및 내부회계 \n관리제도 검토",
+      "mendng": "164백만원",
+      "tot_reqre_time": "2,577시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002575",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제56기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2017사업년도에 \n한 회계감사",
+      "mendng": "106백만원",
+      "tot_reqre_time": "1,552시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002575",
+      "corp_cls": "Y",
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "2016사업년도에 \n대한  회계감사",
+      "mendng": "106백만원",
+      "tot_reqre_time": "1,126시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000734",
+      "corp_cls": "Y",
+      "corp_code": "00146232",
+      "corp_name": "일성건설",
+      "bsns_year": "제46기(당기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가 추정의 불확실성,미청구공사금액 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000734",
+      "corp_cls": "Y",
+      "corp_code": "00146232",
+      "corp_name": "일성건설",
+      "bsns_year": "제45기(전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가 추정의 불확실성,미청구공사금액 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000734",
+      "corp_cls": "Y",
+      "corp_code": "00146232",
+      "corp_name": "일성건설",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "총계약원가 추정의 불확실성,미청구공사금액 회수가능성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

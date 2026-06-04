@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813000469",
+      "corp_cls": "Y",
+      "corp_code": "00361008",
+      "corp_name": "한화엔진",
+      "se": "소액주주",
+      "shrholdr_co": "42,040",
+      "shrholdr_tot_co": "42,048",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "40,185,126",
+      "stock_tot_co": "83,425,535",
+      "hold_stock_rate": "48.17%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

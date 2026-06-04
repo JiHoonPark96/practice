@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001979",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "se": "소액주주",
+      "shrholdr_co": "31,985",
+      "shrholdr_tot_co": "31,997",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "24,681,042",
+      "stock_tot_co": "44,918,407",
+      "hold_stock_rate": "54.95%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

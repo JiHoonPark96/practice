@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001128",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제53기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19로 인한 불확실성",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 손상징후가 발생한 계약의 금융자산 및 계약자산 회수가능성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001128",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제52기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19로 인한 불확실성",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 손상징후가 발생한 계약의 금융자산 및 계약자산 회수가능성",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001128",
+      "corp_cls": "Y",
+      "corp_code": "00120030",
+      "corp_name": "GS건설",
+      "bsns_year": "제51기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가추정의 불확실성\n- 공사진행율 산정\n- 미청구공사금액 회수가능성\n- 공사변경에 대한 회계처리",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

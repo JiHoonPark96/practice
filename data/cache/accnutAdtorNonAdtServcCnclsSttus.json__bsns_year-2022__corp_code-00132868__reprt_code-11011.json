@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000752",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000752",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "bsns_year": "제47기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000752",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000752",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000752",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000752",
+      "corp_cls": "Y",
+      "corp_code": "00132868",
+      "corp_name": "우성머티리얼스",
+      "bsns_year": "제45기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

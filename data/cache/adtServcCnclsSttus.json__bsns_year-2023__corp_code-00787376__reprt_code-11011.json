@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240312000816",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "bsns_year": "제15기(당기)",
+      "adtor": "서현회계법인",
+      "cn": "분기, 반기, 결산감사 및 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1.8억원",
+      "adt_cntrct_dtls_time": "1,800시간",
+      "real_exc_dtls_mendng": "1.6억원",
+      "real_exc_dtls_time": "2,235시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000816",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "bsns_year": "제14기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분기, 반기, 결산감사 및 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2.8억원",
+      "adt_cntrct_dtls_time": "1,925시간",
+      "real_exc_dtls_mendng": "2.8억원",
+      "real_exc_dtls_time": "1,796시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240312000816",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "분기, 반기, 결산감사 및 재고실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "2.4억원",
+      "adt_cntrct_dtls_time": "1,777시간",
+      "real_exc_dtls_mendng": "2.3억원",
+      "real_exc_dtls_time": "1,796시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

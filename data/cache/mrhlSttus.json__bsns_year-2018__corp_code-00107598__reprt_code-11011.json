@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004914",
+      "corp_cls": "Y",
+      "corp_code": "00107598",
+      "corp_name": "남양유업",
+      "se": "소액주주",
+      "shrholdr_co": "2,475",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "97.71%",
+      "hold_stock_co": "235,637",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "26.57%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

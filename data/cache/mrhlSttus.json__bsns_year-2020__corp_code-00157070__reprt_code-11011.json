@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311001113",
+      "corp_cls": "Y",
+      "corp_code": "00157070",
+      "corp_name": "한국단자공업",
+      "se": "소액주주",
+      "shrholdr_co": "6,960",
+      "shrholdr_tot_co": "6,980",
+      "shrholdr_rate": "99.71%",
+      "hold_stock_co": "3,158,453",
+      "stock_tot_co": "10,415,000",
+      "hold_stock_rate": "30.33%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

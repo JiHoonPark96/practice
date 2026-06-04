@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000950",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "㈜코우홀딩스",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "1,980,198",
+      "bsis_posesn_stock_qota_rt": "6.47",
+      "trmend_posesn_stock_co": "2,567,248",
+      "trmend_posesn_stock_qota_rt": "19.54",
+      "rm": "2020.02.17 무상감자(90%)\n2020.10.30 제3자배정유상증자(2,369,229 주)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000950",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "더블유글로벌4호조합",
+      "relate": "특별관계자",
+      "bsis_posesn_stock_co": "914,076",
+      "bsis_posesn_stock_qota_rt": "2.99",
+      "trmend_posesn_stock_co": "91,407",
+      "trmend_posesn_stock_qota_rt": "0.70",
+      "rm": "2020.02.17 무상감자(90%)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000950",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "더블유글로벌3호조합",
+      "relate": "특별관계자",
+      "bsis_posesn_stock_co": "238,916",
+      "bsis_posesn_stock_qota_rt": "0.78",
+      "trmend_posesn_stock_co": "23,891",
+      "trmend_posesn_stock_qota_rt": "0.18",
+      "rm": "2020.02.17 무상감자(90%)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000950",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "3,133,190",
+      "bsis_posesn_stock_qota_rt": "10.24",
+      "trmend_posesn_stock_co": "2,682,546",
+      "trmend_posesn_stock_qota_rt": "20.42",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000950",
+      "corp_cls": "Y",
+      "corp_code": "00753643",
+      "corp_name": "주성코퍼레이션",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

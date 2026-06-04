@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401005208",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제61기(당기)",
+      "cntrct_cncls_de": "2018.10",
+      "servc_cn": "국제거래정보(BEPS) 통합보고서 작성 ",
+      "servc_exc_pd": "2018.10 ~\n 2018.12",
+      "servc_mendng": "36",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005208",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제60기(전기)",
+      "cntrct_cncls_de": "2017.04",
+      "servc_cn": "세액공제 경정청구 관련 세무자문",
+      "servc_exc_pd": "2017.04 ~ \n2018.12",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401005208",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제59기(전전기)",
+      "cntrct_cncls_de": "2016.06",
+      "servc_cn": "유럽투자관련 세무자문",
+      "servc_exc_pd": "2016.06 ~ \n업무종료시",
+      "servc_mendng": "260",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

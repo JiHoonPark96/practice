@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000750",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "bsns_year": "제40기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "중간감사,반기검토,연간감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "857",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000750",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "bsns_year": "제39기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "중간감사,반기검토,연간감사",
+      "mendng": "40,000",
+      "tot_reqre_time": "623",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401000750",
+      "corp_cls": "Y",
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "대명회계법인",
+      "cn": "중간감사,반기검토,연간감사",
+      "mendng": "30,000",
+      "tot_reqre_time": "659",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

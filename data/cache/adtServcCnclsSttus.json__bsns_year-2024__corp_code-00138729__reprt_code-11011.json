@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000916",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제69기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 중간 재무제표 검토\n\n- 별도 재무제표 감사\n\n- 연결 재무제표 감사\n\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "473",
+      "adt_cntrct_dtls_time": "3,896",
+      "real_exc_dtls_mendng": "473",
+      "real_exc_dtls_time": "3,766",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000916",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제68기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 중간 재무제표 검토\n\n- 별도 재무제표 감사\n\n- 연결 재무제표 감사\n\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "448",
+      "adt_cntrct_dtls_time": "3,896",
+      "real_exc_dtls_mendng": "448",
+      "real_exc_dtls_time": "3,653",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000916",
+      "corp_cls": "Y",
+      "corp_code": "00138729",
+      "corp_name": "아세아제지",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 중간 재무제표 검토\n\n- 별도 재무제표 감사\n\n- 연결 재무제표 감사\n\n- 내부회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "425",
+      "adt_cntrct_dtls_time": "3,864",
+      "real_exc_dtls_mendng": "425",
+      "real_exc_dtls_time": "3,853",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

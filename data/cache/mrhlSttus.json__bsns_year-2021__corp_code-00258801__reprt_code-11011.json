@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000386",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "se": "소액주주",
+      "shrholdr_co": "1,918,337",
+      "shrholdr_tot_co": "1,918,344",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "270,919,888",
+      "stock_tot_co": "445,905,990",
+      "hold_stock_rate": "60.76%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

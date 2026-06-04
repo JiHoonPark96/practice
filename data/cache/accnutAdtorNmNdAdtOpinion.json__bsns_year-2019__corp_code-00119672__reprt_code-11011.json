@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001152",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제37기(당기말)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정-",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 왜곡표시위험\n 2. 전문가 활용 검토\n 3. 기업수준 통제\n 4. 유의적 계정 미공시 식별\n 5. 감사계획의 수립과 수행에 있어서의 중요성 결정",
+      "core_adt_matter": "영업권의 손상검토",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001152",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제36기(전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 왜곡표시위험\n 2. 전문가 활용 검토\n 3. 기업수준 통제\n 4. 유의적 계정 미공시 식별\n 5. 감사계획의 수립과 수행에 있어서의 중요성 결정",
+      "core_adt_matter": "내부회계관리제도 검토\n IFRS16",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001152",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제35기(전전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "1. 왜곡표시위험\n 2. 전문가 활용 검토\n 3. 기업수준 통제\n 4. 유의적 계정 미공시 식별\n 5. 감사계획의 수립과 수행에 있어서의 중요성 결정",
+      "core_adt_matter": "연결범위변동\n 영업권평가\n IFRS15",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

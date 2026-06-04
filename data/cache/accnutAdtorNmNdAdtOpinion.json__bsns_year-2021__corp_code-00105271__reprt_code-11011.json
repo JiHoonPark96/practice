@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001213",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제64기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "- [연결, 별도] 재화의 판매 관련 수익인식의 기간귀속\n- [별도] 종속기업투자(MOM Holding Company)와 관계기업투자(㈜케이씨씨건설)의 회수가능액 측정\n- [연결] 영업권을 포함한 현금창출단위(MOM Holding Company)와 관계기업투자 (㈜케이씨씨건설)의 회수가능액 측정",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001213",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-[연결,별도] 인적분할에 따른 중단영업손익 구분\n-[별도] 물적분할에 따른 중단영업손익 구분 및\n  전기 포괄손익계산서 재작성\n-[연결,별도] COVID-19 영향으로 인한 불확실성",
+      "core_adt_matter": "-[연결, 별도] 재화의 판매 관련 수익인식의 기간귀속\n-[별도] 종속기업투자와 관계기업투자의 손상평가\n-[연결] 영업권을 포함한 현금창출단위(MOM Holding Company)와 관계기업투자 (㈜케이씨씨건설)의 손상평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001213",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-수행의무의 이행이 완료되지 않은 수익인식\n-투입법에 따른 수익인식 (시공공사)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

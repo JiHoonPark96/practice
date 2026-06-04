@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000939",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "se": "소액주주",
+      "shrholdr_co": "21,056",
+      "shrholdr_tot_co": "21,061",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "7,327,127",
+      "stock_tot_co": "23,008,952",
+      "hold_stock_rate": "31.84%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

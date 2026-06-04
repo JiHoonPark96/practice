@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230310000763",
+      "corp_cls": "Y",
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "se": "소액주주",
+      "shrholdr_co": "10,406",
+      "shrholdr_tot_co": "10,415",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "1,914,178",
+      "stock_tot_co": "4,717,650",
+      "hold_stock_rate": "40.57%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

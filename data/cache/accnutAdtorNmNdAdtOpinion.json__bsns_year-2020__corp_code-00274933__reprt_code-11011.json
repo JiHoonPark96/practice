@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001196",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제26기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "있음",
+      "core_adt_matter": "손상징후가 발생한 현금창출단위에 대한 손상검토",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001196",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제25기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "현금창출단위 손상검사를 위한\n사용가치 측정",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001196",
+      "corp_cls": "Y",
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "bsns_year": "제24기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당없음",
+      "core_adt_matter": "해당없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001518",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제68기(당기)",
+      "adtor": "성현회계법인",
+      "cn": "별도 및 연결 반기재무제표 검토\n별도 및 연결 연차재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "3,136",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "3,260",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001518",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제67기(당기)",
+      "adtor": "성현회계법인",
+      "cn": "별도 및 연결 반기재무제표 검토\n별도 및 연결 연차재무제표 감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "3,136",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "3,161",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001518",
+      "corp_cls": "Y",
+      "corp_code": "00101220",
+      "corp_name": "KG케미칼",
+      "bsns_year": "제66기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토 별도 및 연결 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250백만원",
+      "adt_cntrct_dtls_time": "3,136",
+      "real_exc_dtls_mendng": "250백만원",
+      "real_exc_dtls_time": "3,136",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

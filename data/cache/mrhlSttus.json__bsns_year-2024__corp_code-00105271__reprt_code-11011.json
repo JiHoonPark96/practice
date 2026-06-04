@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313001099",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "se": "소액주주",
+      "shrholdr_co": "20,695",
+      "shrholdr_tot_co": "20,713",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "3,364,573",
+      "stock_tot_co": "8,886,471",
+      "hold_stock_rate": "37.86%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

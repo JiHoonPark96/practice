@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000855",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제68기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기,중간,기말감사,\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "1,211시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000855",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제67기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기, 중간, 기말감사\n내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170,000",
+      "adt_cntrct_dtls_time": "1,200시간",
+      "real_exc_dtls_mendng": "170,000",
+      "real_exc_dtls_time": "1,244시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320000855",
+      "corp_cls": "Y",
+      "corp_code": "00137809",
+      "corp_name": "SHD",
+      "bsns_year": "제66기(전전기)\n제66기(반기)",
+      "adtor": "한영회계법인\n정인회계법인",
+      "cn": "중간, 기말감사, 내부회계관리제도 검토\n반기",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "156,000\n170,000",
+      "adt_cntrct_dtls_time": "1,100시간\n1,500시간",
+      "real_exc_dtls_mendng": "156,000\n51,000",
+      "real_exc_dtls_time": "1,188시간\n200시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

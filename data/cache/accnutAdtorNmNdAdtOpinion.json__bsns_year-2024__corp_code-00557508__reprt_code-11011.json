@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250328001704",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-현금의 실재성 및 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001704",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제20기\n(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-현금의 실재성 및 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001704",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-현금의 실재성 및 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001704",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제19기\n(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-현금의 실재성 및 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001704",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-코로나19로 인한 불확실성\n-영업장 이전에 따른 불확실성",
+      "core_adt_matter": "-이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250328001704",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "bsns_year": "제18기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-코로나19로 인한 불확실성\n-영업장 이전에 따른 불확실성",
+      "core_adt_matter": "-이연법인세자산의 실현가능성 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

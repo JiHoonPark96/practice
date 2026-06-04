@@ -1,0 +1,36 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000316",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000316",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000316",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "bsns_year": "-",
+      "adtor": "-",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

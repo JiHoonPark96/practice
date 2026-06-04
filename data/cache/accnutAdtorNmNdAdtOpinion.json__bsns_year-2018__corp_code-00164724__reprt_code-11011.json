@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004585",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제35기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "첨부한 연결감사보고서 중 \n수주산업핵심감사사항 등 참조",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004585",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제34기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "제34기 연결감사보고서 중\n강조사항 참조",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004585",
+      "corp_cls": "Y",
+      "corp_code": "00164724",
+      "corp_name": "현대엘리베이터",
+      "bsns_year": "제33기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "제33기 연결감사보고서 중\n강조사항 참조",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

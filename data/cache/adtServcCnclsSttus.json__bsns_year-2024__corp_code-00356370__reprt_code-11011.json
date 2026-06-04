@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제24기\n(당기)",
+      "adtor": "삼일\n회계법인",
+      "cn": "- 분/반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,630",
+      "adt_cntrct_dtls_time": "14,800",
+      "real_exc_dtls_mendng": "1,630",
+      "real_exc_dtls_time": "13,734",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제23기\n(전기)",
+      "adtor": "한영\n회계법인",
+      "cn": "- 분/반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,450",
+      "adt_cntrct_dtls_time": "14,500",
+      "real_exc_dtls_mendng": "1,450",
+      "real_exc_dtls_time": "13,600",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000790",
+      "corp_cls": "Y",
+      "corp_code": "00356370",
+      "corp_name": "LG생활건강",
+      "bsns_year": "제22기\n(전전기)",
+      "adtor": "한영\n회계법인",
+      "cn": "- 분/반기재무제표 검토\n- 별도 및 연결재무제표에 대한 감사\n- 내부회계관리제도에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,513",
+      "adt_cntrct_dtls_time": "15,140",
+      "real_exc_dtls_mendng": "1,513",
+      "real_exc_dtls_time": "14,713",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

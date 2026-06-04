@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000764",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제13기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "재무제표와 연결재무제표\n(중간, 연차)감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "445,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "445,000천원",
+      "real_exc_dtls_time": "4,902",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000764",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제12기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표와 연결재무제표\n(중간, 연차)감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "530,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "530,000천원",
+      "real_exc_dtls_time": "6,710",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000764",
+      "corp_cls": "Y",
+      "corp_code": "00855093",
+      "corp_name": "선진",
+      "bsns_year": "제11기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표와 연결재무제표\n(중간, 연차)감사 및 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "530,000천원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "530,000천원",
+      "real_exc_dtls_time": "6,294",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

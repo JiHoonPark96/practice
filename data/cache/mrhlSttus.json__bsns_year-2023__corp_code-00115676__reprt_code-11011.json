@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000890",
+      "corp_cls": "Y",
+      "corp_code": "00115676",
+      "corp_name": "KG스틸",
+      "se": "소액주주",
+      "shrholdr_co": "56,746",
+      "shrholdr_tot_co": "56,751",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "35,364,699",
+      "stock_tot_co": "100,008,897",
+      "hold_stock_rate": "35.37%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

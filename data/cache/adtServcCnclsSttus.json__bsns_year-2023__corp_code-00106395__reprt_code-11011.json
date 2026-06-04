@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001009",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제70기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 검토, 개별재무제표 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "1,414시간",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,414시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001009",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제69기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 검토, 개별재무제표 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200백만원",
+      "adt_cntrct_dtls_time": "1,442시간",
+      "real_exc_dtls_mendng": "200백만원",
+      "real_exc_dtls_time": "1,442시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001009",
+      "corp_cls": "Y",
+      "corp_code": "00106395",
+      "corp_name": "금호전기",
+      "bsns_year": "제68기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "재무제표 검토, 개별재무제표 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210백만원",
+      "adt_cntrct_dtls_time": "1,408시간",
+      "real_exc_dtls_mendng": "210백만원",
+      "real_exc_dtls_time": "1,408시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190814000367",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "우석민",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "5,694,198",
+      "bsis_posesn_stock_qota_rt": "23.68",
+      "trmend_posesn_stock_co": "5,813,330",
+      "trmend_posesn_stock_qota_rt": "23.68",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814000367",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "박춘식",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "90,741",
+      "bsis_posesn_stock_qota_rt": "0.38",
+      "trmend_posesn_stock_co": "92,639",
+      "trmend_posesn_stock_qota_rt": "0.38",
+      "rm": "대표이사",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814000367",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "배철한",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "168,907",
+      "bsis_posesn_stock_qota_rt": "0.70",
+      "trmend_posesn_stock_co": "172,436",
+      "trmend_posesn_stock_qota_rt": "0.70",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814000367",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,957,377",
+      "bsis_posesn_stock_qota_rt": "24.78",
+      "trmend_posesn_stock_co": "6,078,405",
+      "trmend_posesn_stock_qota_rt": "24.78",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190814000367",
+      "corp_cls": "Y",
+      "corp_code": "00121039",
+      "corp_name": "명문제약",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

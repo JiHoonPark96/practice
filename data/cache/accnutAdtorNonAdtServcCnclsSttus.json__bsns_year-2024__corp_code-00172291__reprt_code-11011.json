@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317001028",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "2024년 8월 12일",
+      "servc_cn": "소프트웨어 라이선스 ",
+      "servc_exc_pd": "2024년 8월 12일",
+      "servc_mendng": "20,000 ",
+      "rm": "부가세별도",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001028",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제48기(당기)",
+      "cntrct_cncls_de": "2024년 9월 20일",
+      "servc_cn": "H사 연결회계시스템 구축 관련 비즈니스 \n컨설팅",
+      "servc_exc_pd": "2024년 9월 20일~2025년 2월 5일",
+      "servc_mendng": "202,000 ",
+      "rm": "부가세별도",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001028",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001028",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제47기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001028",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317001028",
+      "corp_cls": "Y",
+      "corp_code": "00172291",
+      "corp_name": "더존비즈온",
+      "bsns_year": "제46기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

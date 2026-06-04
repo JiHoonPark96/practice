@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002174",
+      "corp_cls": "Y",
+      "corp_code": "00136402",
+      "corp_name": "신송홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "2,852",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.30%",
+      "hold_stock_co": "4,170,155",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "35.25%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

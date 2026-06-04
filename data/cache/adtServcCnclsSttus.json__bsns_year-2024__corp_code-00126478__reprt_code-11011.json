@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,520",
+      "adt_cntrct_dtls_time": "14,500",
+      "real_exc_dtls_mendng": "1,520",
+      "real_exc_dtls_time": "13,682",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,450",
+      "adt_cntrct_dtls_time": "14,500",
+      "real_exc_dtls_mendng": "1,450",
+      "real_exc_dtls_time": "13,317",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000397",
+      "corp_cls": "Y",
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,900",
+      "adt_cntrct_dtls_time": "15,864",
+      "real_exc_dtls_mendng": "1,930",
+      "real_exc_dtls_time": "15,509",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

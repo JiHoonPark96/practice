@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002680",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제68기(당기)",
+      "cntrct_cncls_de": "19년 3월",
+      "servc_cn": "법인세 세무조정 대리인",
+      "servc_exc_pd": "2019년 3월",
+      "servc_mendng": "23백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002680",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제68기(당기)",
+      "cntrct_cncls_de": "19년 7월",
+      "servc_cn": "브랜드 가치재평가 용역",
+      "servc_exc_pd": "2019년 7월 ~ 12월",
+      "servc_mendng": "120백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002680",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제67기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002680",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제66기(전전기)",
+      "cntrct_cncls_de": "17년 11월",
+      "servc_cn": "사우디 JV 관련 SAMI 제안서 자문",
+      "servc_exc_pd": "2017년 11월 ~ 12월",
+      "servc_mendng": "30백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002680",
+      "corp_cls": "Y",
+      "corp_code": "00160588",
+      "corp_name": "한화",
+      "bsns_year": "제66기(전전기)",
+      "cntrct_cncls_de": "17년 11월",
+      "servc_cn": "해외 M&A Target 후보기업 도출",
+      "servc_exc_pd": "2017년 11월 ~ 12월",
+      "servc_mendng": "25백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

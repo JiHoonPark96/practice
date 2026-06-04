@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001202",
+      "corp_cls": "Y",
+      "corp_code": "00133706",
+      "corp_name": "한국제지",
+      "se": "소액주주",
+      "shrholdr_co": "11,019",
+      "shrholdr_tot_co": "11,021",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "28,358,493",
+      "stock_tot_co": "190,150,720",
+      "hold_stock_rate": "14.91%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

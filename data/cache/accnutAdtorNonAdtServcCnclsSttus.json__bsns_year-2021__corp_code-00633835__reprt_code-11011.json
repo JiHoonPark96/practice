@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317000382",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제15기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000382",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제14기 \n(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317000382",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제13기\n(전전기)",
+      "cntrct_cncls_de": "2019.05.08\n2019.03.13",
+      "servc_cn": "이전가격 검토용역\n세무자문용역",
+      "servc_exc_pd": "2019.05~용역종료시\n2019.03 ~ 용역종료시",
+      "servc_mendng": "25,000\n210,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_code": "267850",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002321",
+      "flr_nm": "아시아나IDT",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_code": "267850",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002438",
+      "flr_nm": "아시아나IDT",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_code": "267850",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190516000059",
+      "flr_nm": "아시아나IDT",
+      "rcept_dt": "20190516",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_code": "267850",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002622",
+      "flr_nm": "아시아나IDT",
+      "rcept_dt": "20190515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_code": "267850",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190402000723",
+      "flr_nm": "아시아나IDT",
+      "rcept_dt": "20190402",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "stock_code": "267850",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401005182",
+      "flr_nm": "아시아나IDT",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

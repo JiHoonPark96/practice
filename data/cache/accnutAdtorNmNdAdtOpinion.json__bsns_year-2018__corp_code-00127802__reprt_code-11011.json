@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190626000068",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제54기(당   기)",
+      "adtor": "회계법인 하나로",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적 사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000068",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제53기(전   기)",
+      "adtor": "회계법인 하나로",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적 사항 없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000068",
+      "corp_cls": "Y",
+      "corp_code": "00127802",
+      "corp_name": "삼익THK",
+      "bsns_year": " 제52기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적 사항 없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

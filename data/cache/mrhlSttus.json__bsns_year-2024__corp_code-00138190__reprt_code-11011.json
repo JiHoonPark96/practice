@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001328",
+      "corp_cls": "Y",
+      "corp_code": "00138190",
+      "corp_name": "GS글로벌",
+      "se": "소액주주",
+      "shrholdr_co": "126,888",
+      "shrholdr_tot_co": "126,895",
+      "shrholdr_rate": "100.00%",
+      "hold_stock_co": "37,566,621",
+      "stock_tot_co": "82,533,764",
+      "hold_stock_rate": "45.53%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

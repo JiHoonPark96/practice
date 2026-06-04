@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000877",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제6기(당기)\n(2023.1~12월)",
+      "adtor": "한영회계법인",
+      "cn": "2023년 별도 연결 \n1분기/반기/3분기/기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "790백만(연간보수한도)",
+      "adt_cntrct_dtls_time": "7,700",
+      "real_exc_dtls_mendng": "790백만",
+      "real_exc_dtls_time": "8,307",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000877",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제5기(전기)\n(2022.1~12월)",
+      "adtor": "한영회계법인",
+      "cn": "2022년 별도 연결 \n1분기/반기/3분기/기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "690백만(연간보수한도)",
+      "adt_cntrct_dtls_time": "7,700",
+      "real_exc_dtls_mendng": "690백만",
+      "real_exc_dtls_time": "8,178",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000877",
+      "corp_cls": "Y",
+      "corp_code": "01316245",
+      "corp_name": "효성중공업",
+      "bsns_year": "제4기(전전기)\n(2021.1~12월)",
+      "adtor": "한영회계법인",
+      "cn": "2021년 별도 연결 \n1분기/반기/3분기/기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "690백만(연간보수한도)",
+      "adt_cntrct_dtls_time": "7,800",
+      "real_exc_dtls_mendng": "690백만",
+      "real_exc_dtls_time": "7,739",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

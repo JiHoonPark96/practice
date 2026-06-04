@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000777",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제52기(당기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "별도 : 적정\n연결 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 총계약원가 추정의 불확실성 및 공사변경에 대한 회계처리\n- 프로젝트별 공사원가의 집계 및 공사진행률 산정\n- 미청구 공사금액 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000777",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제51기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "별도 : 적정\n연결 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 총계약원가 추정의 불확실성 및 공사변경에 대한 회계처리\n- 프로젝트별 공사원가의 집계 및 공사진행률 산정\n- 미청구 공사금액 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000777",
+      "corp_cls": "Y",
+      "corp_code": "00106313",
+      "corp_name": "금호건설",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "별도 : 적정\n연결 : 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 출자전환 (지급보증채무)",
+      "core_adt_matter": "- 투입법에 따른 수익인식- 총계약원가 추정의 불확실성 및 공사변경에 대한 회계처리\n- 프로젝트별 공사원가의 집계 및 공사진행률 산정 \n- 미청구 공사금액 회수가능성",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제40기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토\n반기 별도, 연결 재무제표 등에 대한 검토\n3분기 별도, 연결 재무제표 등에 대한 검토\n40기 별도, 연결 재무제표 등에 대한 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "944",
+      "adt_cntrct_dtls_time": "900시간\n1,600시간\n1,200시간\n총 8,000시간(누계)",
+      "real_exc_dtls_mendng": "944",
+      "real_exc_dtls_time": "900시간\n1,550시간\n1,250시간\n총 8,027시간(누계",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토\n반기 별도, 연결 재무제표 등에 대한 검토\n3분기 별도, 연결 재무제표 등에 대한 검토\n39기 별도, 연결 재무제표 등에 대한 감사\n 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "943",
+      "adt_cntrct_dtls_time": "900시간\n1,600시간\n1,200시간\n총 8,000시간(누계)",
+      "real_exc_dtls_mendng": "943",
+      "real_exc_dtls_time": "850시간\n1,600시간\n1,450시간\n총 8,058시간(누계)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000964",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기 별도, 연결 재무제표 등에 대한 검토\n반기 별도, 연결 재무제표 등에 대한 검토\n3분기 별도, 연결 재무제표 등에 대한 검토\n38기 별도, 연결 재무제표 등에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "920",
+      "adt_cntrct_dtls_time": "900시간\n1,300시간\n1,100시간\n총 8,000시간(누계) ",
+      "real_exc_dtls_mendng": "920",
+      "real_exc_dtls_time": "920시간\n1,410시간\n1,180시간\n총 7,602시간(누계)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

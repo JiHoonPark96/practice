@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220324000531",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "bsns_year": "제67기(당기)",
+      "adtor": "안경회계법인",
+      "cn": "외부감사계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "1,968",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "2,272",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000531",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "bsns_year": "제66기(전기)",
+      "adtor": "안경회계법인",
+      "cn": "외부감사계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "1,968",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "2,146",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220324000531",
+      "corp_cls": "Y",
+      "corp_code": "00149804",
+      "corp_name": "디와이에이",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "서현회계법인",
+      "cn": "외부감사계약",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "225",
+      "adt_cntrct_dtls_time": "1,655",
+      "real_exc_dtls_mendng": "225",
+      "real_exc_dtls_time": "1,655",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

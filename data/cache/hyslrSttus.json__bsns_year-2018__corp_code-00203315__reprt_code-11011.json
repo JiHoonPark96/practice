@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "중앙홀딩스",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "36,377,000",
+      "bsis_posesn_stock_qota_rt": "31.89",
+      "trmend_posesn_stock_co": "46,480,000",
+      "trmend_posesn_stock_qota_rt": "32.26",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "홍정도",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,531,000",
+      "bsis_posesn_stock_qota_rt": "1.34",
+      "trmend_posesn_stock_co": "1,531,000",
+      "trmend_posesn_stock_qota_rt": "1.06",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "37,908,000",
+      "bsis_posesn_stock_qota_rt": "33.23",
+      "trmend_posesn_stock_co": "48,011,000",
+      "trmend_posesn_stock_qota_rt": "33.32",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190716000323",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "기타",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

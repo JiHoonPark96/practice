@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000602",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제45기",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제45기 연결감사보고서 참조",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000602",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제44기",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제44기 연결감사보고서 참조",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000602",
+      "corp_cls": "Y",
+      "corp_code": "00141477",
+      "corp_name": "영흥",
+      "bsns_year": "제43기",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "제43기 연결감사보고서 참조",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

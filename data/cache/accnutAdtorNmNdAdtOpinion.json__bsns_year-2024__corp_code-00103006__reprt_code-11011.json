@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제67기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자, 공동기업및관계기업투자에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제66기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "현금창출단위 손상평가 및 공동기업및관계기업투자에 대한 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자의 손상검사",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250515002790",
+      "corp_cls": "Y",
+      "corp_code": "00103006",
+      "corp_name": "고려제강",
+      "bsns_year": "제65기\n(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "관계기업에 대한 지분법 회계처리",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

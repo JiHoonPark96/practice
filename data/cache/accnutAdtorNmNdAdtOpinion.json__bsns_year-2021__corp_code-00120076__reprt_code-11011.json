@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316000964",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제69기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "①\n 국외 수출매출의 수익인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000964",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제68기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "①\n 국외 수출매출의 수익인식\n② PT. Ganda Alam Makmur (\"GAM\") 관련 자산 손상평가(유, 무형자산의 평가)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316000964",
+      "corp_cls": "Y",
+      "corp_code": "00120076",
+      "corp_name": "LX인터내셔널",
+      "bsns_year": "제67기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "①\n 국외 수출매출의 수익인식\n② PT. Ganda Alam Makmur (\"GAM\") 관련 자산 손상평가(유, 무형자산의 평가)",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

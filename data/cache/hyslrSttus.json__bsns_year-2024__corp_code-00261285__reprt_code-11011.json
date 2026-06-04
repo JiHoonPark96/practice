@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "stock_knd": "보통주",
+      "nm": "정부",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "24,144,353",
+      "bsis_posesn_stock_qota_rt": "26.15",
+      "trmend_posesn_stock_co": "24,144,353",
+      "trmend_posesn_stock_qota_rt": "26.15",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "stock_knd": "보통주",
+      "nm": "한국전력",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "18,900,000",
+      "bsis_posesn_stock_qota_rt": "20.47",
+      "trmend_posesn_stock_co": "18,900,000",
+      "trmend_posesn_stock_qota_rt": "20.47",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "stock_knd": "보통주",
+      "nm": "국민연금",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "7,066,507",
+      "bsis_posesn_stock_qota_rt": "7.65",
+      "trmend_posesn_stock_co": "6,788,057",
+      "trmend_posesn_stock_qota_rt": "7.35",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "50,110,860",
+      "bsis_posesn_stock_qota_rt": "54.27",
+      "trmend_posesn_stock_co": "49,832,410",
+      "trmend_posesn_stock_qota_rt": "53.97",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250325000742",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

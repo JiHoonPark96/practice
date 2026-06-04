@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001189",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜에이프로젠",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "357,954,706",
+      "bsis_posesn_stock_qota_rt": "53.77",
+      "trmend_posesn_stock_co": "112,830,917",
+      "trmend_posesn_stock_qota_rt": "56.87",
+      "rm": "- 자본감소 및 일부주식 장외매도에 따른 감소\n- 유상증자 참여에 따른 주식수 증가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001189",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "김정출",
+      "relate": "계열회사 임원",
+      "bsis_posesn_stock_co": "218,804",
+      "bsis_posesn_stock_qota_rt": "0.03",
+      "trmend_posesn_stock_co": "21,880",
+      "trmend_posesn_stock_qota_rt": "0.01",
+      "rm": "- 자본감소에 따른 주식수 감소",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001189",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "㈜지베이스",
+      "relate": "최대주주의 최대주주",
+      "bsis_posesn_stock_co": "500",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "50",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "- 자본감소에 따른 주식수 감소",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001189",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "358,174,010",
+      "bsis_posesn_stock_qota_rt": "53.80",
+      "trmend_posesn_stock_co": "112,852,847",
+      "trmend_posesn_stock_qota_rt": "56.88",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001189",
+      "corp_cls": "Y",
+      "corp_code": "00101044",
+      "corp_name": "에이프로젠바이오로직스",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

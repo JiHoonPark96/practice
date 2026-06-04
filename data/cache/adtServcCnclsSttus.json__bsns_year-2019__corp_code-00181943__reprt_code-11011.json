@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003230",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제45기(당기)",
+      "adtor": "도원회계법인",
+      "cn": "반기검토, 내부회계, 재고실사,\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "35백만원",
+      "tot_reqre_time": "535시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003230",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제44기(전기)",
+      "adtor": "도원회계법인",
+      "cn": "반기검토, 내부회계, 재고실사,\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "25백만원",
+      "tot_reqre_time": "535시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003230",
+      "corp_cls": "Y",
+      "corp_code": "00181943",
+      "corp_name": "에스제이엠홀딩스",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "도원회계법인",
+      "cn": "반기검토, 내부회계, 재고실사,\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "25백만원",
+      "tot_reqre_time": "521시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

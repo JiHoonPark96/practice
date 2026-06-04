@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250311000263",
+      "corp_cls": "Y",
+      "corp_code": "00134963",
+      "corp_name": "송원산업",
+      "se": "소액주주",
+      "shrholdr_co": "14,461",
+      "shrholdr_tot_co": "14,474",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "10,629,373",
+      "stock_tot_co": "24,000,000",
+      "hold_stock_rate": "44.29%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

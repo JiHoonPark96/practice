@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000901",
+      "corp_cls": "Y",
+      "corp_code": "00159209",
+      "corp_name": "한전기술",
+      "se": "소액주주",
+      "shrholdr_co": "20,196",
+      "shrholdr_tot_co": "20,200",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "11,148,948",
+      "stock_tot_co": "38,220,000",
+      "hold_stock_rate": "29.17%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "stock_code": "075180",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114001726",
+      "flr_nm": "새론오토모티브",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "stock_code": "075180",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814002668",
+      "flr_nm": "새론오토모티브",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "stock_code": "075180",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516000685",
+      "flr_nm": "새론오토모티브",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "stock_code": "075180",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240321000841",
+      "flr_nm": "새론오토모티브",
+      "rcept_dt": "20240321",
+      "rm": "연"
+    }
+  ]
+}

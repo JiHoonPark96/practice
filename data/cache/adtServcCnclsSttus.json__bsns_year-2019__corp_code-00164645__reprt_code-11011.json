@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제44기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "1분기,반기,3분기,44기 재무제표검토 \n별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "1,100백만원",
+      "tot_reqre_time": "12,204",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제43기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "1분기,반기,3분기,43기 재무제표검토 \n별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "800백만원",
+      "tot_reqre_time": "11,180",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004588",
+      "corp_cls": "Y",
+      "corp_code": "00164645",
+      "corp_name": "HMM",
+      "bsns_year": "제42기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "1분기,반기,3분기,42기 재무제표검토 \n별도, 연결 재무제표 등에 대한 감사 등",
+      "mendng": "720백만원",
+      "tot_reqre_time": "5,843",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

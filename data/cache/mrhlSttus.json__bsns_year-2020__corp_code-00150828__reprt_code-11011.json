@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001199",
+      "corp_cls": "Y",
+      "corp_code": "00150828",
+      "corp_name": "진흥기업",
+      "se": "소액주주",
+      "shrholdr_co": "17,509",
+      "shrholdr_tot_co": "17,523",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "11,282,356",
+      "stock_tot_co": "146,565,567",
+      "hold_stock_rate": "7.70%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

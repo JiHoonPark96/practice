@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제83기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "반기(연결)재무제표검토, 재무제표(연결)감사,내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "1,787",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "1,792",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제82기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기(연결)재무제표검토, 재무제표(연결)감사,내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80",
+      "adt_cntrct_dtls_time": "1,167",
+      "real_exc_dtls_mendng": "80",
+      "real_exc_dtls_time": "1,251",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322001027",
+      "corp_cls": "Y",
+      "corp_code": "00144818",
+      "corp_name": "유유제약",
+      "bsns_year": "제81기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기(연결)재무제표검토, 재무제표(연결)감사,내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "1,300",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "1,283",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

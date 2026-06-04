@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000590",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제74기\n(당기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 장기투자자산에 포함된 KIOXIA Holdings Corporation  \n      투자관련 금융자산의 공정가치 평가나. 기계장치의 감가상각개시시점에 대한 적정성 검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000590",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제73기\n(전기)",
+      "adtor": "삼일\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나)바이러스가 시장의 수요와 회사의 생산능력 등을 포함한 회사의 영업활동에 미칠 수 있는 영향과 관련한 불확실성",
+      "core_adt_matter": "가. 장기투자자산에 포함된 KIOXIA Holdings Corporation  \n      투자관련 금융자산의 공정가치 평가나. 기계장치의 감가상각개시시점에 대한 적정성 검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000590",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "bsns_year": "제72기\n(전전기)",
+      "adtor": "삼정\n회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "가. 금융상품 공정가치 평가\n나. 북미지역 내 가격 담합 집단소송 및 중국 반독점법 위반\n     조사 관련 우발상황의 평가 및 공시",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

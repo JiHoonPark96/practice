@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000892",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기오류수정에 대한 감사인의 강조사항 등",
+      "core_adt_matter": "현금창출단위의 사용가치 측정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000892",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제54기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "무형자산(개발비)의 인식기준 충족 여부",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000892",
+      "corp_cls": "Y",
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "무형자산(개발비)의 인식기준 충족 여부",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

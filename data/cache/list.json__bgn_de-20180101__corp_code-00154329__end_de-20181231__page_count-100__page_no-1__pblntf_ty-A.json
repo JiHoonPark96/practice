@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "stock_code": "007980",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181114002728",
+      "flr_nm": "TP",
+      "rcept_dt": "20181114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "stock_code": "007980",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2018.06)",
+      "rcept_no": "20180814002232",
+      "flr_nm": "TP",
+      "rcept_dt": "20180814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "stock_code": "007980",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.03)",
+      "rcept_no": "20180515002112",
+      "flr_nm": "TP",
+      "rcept_dt": "20180515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00154329",
+      "corp_name": "TP",
+      "stock_code": "007980",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2017.12)",
+      "rcept_no": "20180402005164",
+      "flr_nm": "TP",
+      "rcept_dt": "20180402",
+      "rm": "연"
+    }
+  ]
+}

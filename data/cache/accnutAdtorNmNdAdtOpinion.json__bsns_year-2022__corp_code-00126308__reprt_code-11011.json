@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230831001403",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제56기\n(당기)",
+      "adtor": "삼일회계법인\n대표공인회계사\n윤훈수",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 투입법에 따른 수익인식\n2. 미청구공사의 회수가능성",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831001403",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제55기\n(전기)",
+      "adtor": "삼일회계법인\n대표공인회계사\n윤훈수",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스 영향",
+      "core_adt_matter": "1. 투입법에 따른 수익인식",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230831001403",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "bsns_year": "제54기\n(전전기)",
+      "adtor": "삼일회계법인\n대표공인회계사\n윤훈수",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 바이러스 영향",
+      "core_adt_matter": "1. 투입법에 따른 수익인식",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

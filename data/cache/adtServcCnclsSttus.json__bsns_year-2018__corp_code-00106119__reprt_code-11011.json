@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190619000318",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제64기(당기)",
+      "adtor": "한울회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "1억원",
+      "tot_reqre_time": "829시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190619000318",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제63기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "1억원",
+      "tot_reqre_time": "810시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190619000318",
+      "corp_cls": "Y",
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "연결 및 별도 외부회계감사",
+      "mendng": "1억원",
+      "tot_reqre_time": "818시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

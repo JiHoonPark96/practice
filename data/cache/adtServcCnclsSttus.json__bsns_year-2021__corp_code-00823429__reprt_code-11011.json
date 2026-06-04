@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812001253",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "bsns_year": "제12기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연결 및 별도 외부회계감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65,000",
+      "adt_cntrct_dtls_time": "927",
+      "real_exc_dtls_mendng": "65,000",
+      "real_exc_dtls_time": "1,035",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812001253",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "bsns_year": "제11기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연결 및 별도 외부회계감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65,000",
+      "adt_cntrct_dtls_time": "850",
+      "real_exc_dtls_mendng": "65,000",
+      "real_exc_dtls_time": "911",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812001253",
+      "corp_cls": "Y",
+      "corp_code": "00823429",
+      "corp_name": "한국화장품",
+      "bsns_year": "제10기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "연결 및 별도 외부회계감사 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65,000",
+      "adt_cntrct_dtls_time": "786",
+      "real_exc_dtls_mendng": "65,000",
+      "real_exc_dtls_time": "796",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

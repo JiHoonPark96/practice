@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814001427",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 25 기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류되는 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001427",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 25 기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류되는 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001427",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 24 기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류되는 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001427",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 24 기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류되는 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001427",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 23기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류되는 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814001427",
+      "corp_cls": "Y",
+      "corp_code": "00361488",
+      "corp_name": "텔코웨어",
+      "bsns_year": "제 23기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수준 3으로 분류되는 금융자산의 공정가치 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

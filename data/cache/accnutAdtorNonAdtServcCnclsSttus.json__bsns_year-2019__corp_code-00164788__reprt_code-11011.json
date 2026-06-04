@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 43기(당기)",
+      "cntrct_cncls_de": "2019.01.01",
+      "servc_cn": "FTA 시스템\n유지보수",
+      "servc_exc_pd": "2019.01.01\n~ 2019.12.31",
+      "servc_mendng": "144",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 43기(당기)",
+      "cntrct_cncls_de": "2019.06.28",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2019.06.28 ~",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 42기(전기)",
+      "cntrct_cncls_de": "2018.01.01",
+      "servc_cn": "FTA 시스템\n유지보수",
+      "servc_exc_pd": "2018.01.01\n~ 2018.12.31",
+      "servc_mendng": "135",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 42기(전기)",
+      "cntrct_cncls_de": "2018.04.01",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2018.04.01\n~ 2018.04.20",
+      "servc_mendng": "150",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 42기(전기)",
+      "cntrct_cncls_de": "2018.10.17",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2018.10.17 ~",
+      "servc_mendng": "150",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 42기(전기)",
+      "cntrct_cncls_de": "2018.10.16",
+      "servc_cn": "원산지 관리\n시스템 고도화",
+      "servc_exc_pd": "2018.10.16\n~ 2018.12.17",
+      "servc_mendng": "45",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 41기(전전기)",
+      "cntrct_cncls_de": "2017.01.01",
+      "servc_cn": "FTA 시스템\n유지보수",
+      "servc_exc_pd": "2017.01.01\n~ 2017.12.31",
+      "servc_mendng": "131",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001532",
+      "corp_cls": "Y",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스",
+      "bsns_year": "제 41기(전전기)",
+      "cntrct_cncls_de": "2017.12.26",
+      "servc_cn": "세무 자문",
+      "servc_exc_pd": "2017.12.26\n~ 2019.03.29",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

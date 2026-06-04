@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제93기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "-메디쎄이 영업권 손상 평가\n-종속기업투자주식 손상 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제92기(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 메디쎄이 영업권 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000889",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제91기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "- 신규거래처에 대한 매출 인식\n- 수익인식 기간귀속의 적정성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

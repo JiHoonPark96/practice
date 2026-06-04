@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000841",
+      "corp_cls": "Y",
+      "corp_code": "00305668",
+      "corp_name": "새론오토모티브",
+      "se": "소액주주",
+      "shrholdr_co": "2,089",
+      "shrholdr_tot_co": "2,094",
+      "shrholdr_rate": "99.76%",
+      "hold_stock_co": "2,015,836",
+      "stock_tot_co": "19,200,000",
+      "hold_stock_rate": "10.50%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

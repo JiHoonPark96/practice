@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003105",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제 36 기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 외부 회계감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "958",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003105",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제 35 기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 외부 회계감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "799",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003105",
+      "corp_cls": "Y",
+      "corp_code": "00186559",
+      "corp_name": "아이티센씨티에스",
+      "bsns_year": "제 34 기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "연결 및 별도 외부 회계감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "768",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001974",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제13기(당기)\n2018년",
+      "adtor": "삼정회계법인",
+      "cn": "- 분기 검토보고서\n- 반기 검토보고서\n-별도 재무제표감사\n-연결 재무제표감사\n- 내부회계관리제도 검토",
+      "mendng": "240\n(연간총보수)",
+      "tot_reqre_time": "3,957",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001974",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제12기(당기)\n2017년",
+      "adtor": "안진회계법인",
+      "cn": "상동",
+      "mendng": "200\n(연간총보수)",
+      "tot_reqre_time": "3,426",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001974",
+      "corp_cls": "Y",
+      "corp_code": "00593032",
+      "corp_name": "LF",
+      "bsns_year": "제11기(전기)\n2016년",
+      "adtor": "안진회계법인",
+      "cn": "상동",
+      "mendng": "200\n(연간총보수)",
+      "tot_reqre_time": "2,807",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

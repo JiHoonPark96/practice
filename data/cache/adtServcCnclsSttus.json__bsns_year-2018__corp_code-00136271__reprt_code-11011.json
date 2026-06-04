@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003891",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제40기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사, 연말감사, 영문감사",
+      "mendng": " 300백만원 ",
+      "tot_reqre_time": " 2,930 ",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003891",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제39기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "반기검토, 중간감사, 연말감사, 영문감사",
+      "mendng": "320백만원",
+      "tot_reqre_time": "3,154",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003891",
+      "corp_cls": "Y",
+      "corp_code": "00136271",
+      "corp_name": "신성이엔지",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "안진회계법인",
+      "cn": "반기검토, 중간감사, 연말감사, 영문감사",
+      "mendng": "266백만원",
+      "tot_reqre_time": "2,356",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

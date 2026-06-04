@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230524000304",
+      "corp_cls": "Y",
+      "corp_code": "00127167",
+      "corp_name": "삼영무역",
+      "se": "소액주주",
+      "shrholdr_co": "4,822",
+      "shrholdr_tot_co": "4,843",
+      "shrholdr_rate": "99.57%",
+      "hold_stock_co": "4,980,239",
+      "stock_tot_co": "18,466,948",
+      "hold_stock_rate": "26.97%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

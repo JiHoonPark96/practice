@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250407004328",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "se": "소액주주",
+      "shrholdr_co": "55,331",
+      "shrholdr_tot_co": "55,333",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "70,987,827",
+      "stock_tot_co": "73,374,729",
+      "hold_stock_rate": "96.74%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001047",
+      "corp_cls": "Y",
+      "corp_code": "00113410",
+      "corp_name": "CJ대한통운",
+      "se": "소액주주",
+      "shrholdr_co": "31,171",
+      "shrholdr_tot_co": "31,177",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "7,590,771",
+      "stock_tot_co": "22,812,344",
+      "hold_stock_rate": "33.27%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

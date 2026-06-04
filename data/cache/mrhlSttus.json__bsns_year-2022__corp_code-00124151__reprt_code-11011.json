@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001492",
+      "corp_cls": "Y",
+      "corp_code": "00124151",
+      "corp_name": "부산주공",
+      "se": "소액주주",
+      "shrholdr_co": "14,341",
+      "shrholdr_tot_co": "14,354",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "43,739,309",
+      "stock_tot_co": "72,928,988",
+      "hold_stock_rate": "59.98%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

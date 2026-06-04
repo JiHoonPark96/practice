@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003589",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "se": "소액주주",
+      "shrholdr_co": "4,674",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.64%",
+      "hold_stock_co": "6,180,649",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "21.15%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

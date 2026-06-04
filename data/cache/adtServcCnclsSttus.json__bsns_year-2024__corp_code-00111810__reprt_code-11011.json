@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814004337",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제65기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "224,000",
+      "adt_cntrct_dtls_time": "2,240",
+      "real_exc_dtls_mendng": "224,000",
+      "real_exc_dtls_time": "2,300",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004337",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제64기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "164,000",
+      "adt_cntrct_dtls_time": "1,676",
+      "real_exc_dtls_mendng": "164,000",
+      "real_exc_dtls_time": "1,642",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814004337",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "164,000",
+      "adt_cntrct_dtls_time": "1,676",
+      "real_exc_dtls_mendng": "164,000",
+      "real_exc_dtls_time": "1,625",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

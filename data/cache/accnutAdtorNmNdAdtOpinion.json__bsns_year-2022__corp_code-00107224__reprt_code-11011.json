@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000952",
+      "corp_cls": "Y",
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "bsns_year": "제50기(당기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정(연결,별도)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업",
+      "core_adt_matter": "수주산업",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000952",
+      "corp_cls": "Y",
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "bsns_year": "제49기(전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정(연결,별도)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업",
+      "core_adt_matter": "수주산업",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000952",
+      "corp_cls": "Y",
+      "corp_code": "00107224",
+      "corp_name": "남선알미늄",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "안경회계법인",
+      "adt_opinion": "적정(연결,별도)",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업",
+      "core_adt_matter": "수주산업",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

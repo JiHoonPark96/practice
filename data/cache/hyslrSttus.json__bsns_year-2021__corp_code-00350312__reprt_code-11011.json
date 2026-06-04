@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220804000232",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "stock_knd": "보통주",
+      "nm": "에이치디씨㈜",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "4,764,600",
+      "bsis_posesn_stock_qota_rt": "28.95",
+      "trmend_posesn_stock_co": "10,136,051",
+      "trmend_posesn_stock_qota_rt": "39.05",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220804000232",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "stock_knd": "보통주",
+      "nm": "정몽규",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "4,755,400",
+      "bsis_posesn_stock_qota_rt": "28.89",
+      "trmend_posesn_stock_co": "4,755,400",
+      "trmend_posesn_stock_qota_rt": "18.32",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220804000232",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "9,520,000",
+      "bsis_posesn_stock_qota_rt": "57.84",
+      "trmend_posesn_stock_co": "14,891,451",
+      "trmend_posesn_stock_qota_rt": "57.37",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220804000232",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

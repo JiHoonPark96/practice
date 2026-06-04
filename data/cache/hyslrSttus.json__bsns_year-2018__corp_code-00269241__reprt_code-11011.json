@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "stock_knd": "보통주",
+      "nm": "(주)화평홀딩스",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "15,461,073",
+      "bsis_posesn_stock_qota_rt": "15.65",
+      "trmend_posesn_stock_co": "17,471,923",
+      "trmend_posesn_stock_qota_rt": "17.69",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "stock_knd": "보통주",
+      "nm": "김상범",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "4,721,641",
+      "bsis_posesn_stock_qota_rt": "4.78",
+      "trmend_posesn_stock_co": "4,721,641",
+      "trmend_posesn_stock_qota_rt": "4.78",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "stock_knd": "보통주",
+      "nm": "김희라",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "121,350",
+      "trmend_posesn_stock_qota_rt": "0.12",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "20,182,714",
+      "bsis_posesn_stock_qota_rt": "20.43",
+      "trmend_posesn_stock_co": "22,314,914",
+      "trmend_posesn_stock_qota_rt": "22.59",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004029",
+      "corp_cls": "Y",
+      "corp_code": "00269241",
+      "corp_name": "주연테크",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "0",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

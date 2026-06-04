@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001051",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제62기\n(당기)",
+      "adtor": "이촌회계법인",
+      "cn": "반기검토\n중간감사\n재고실사\n기말감사\n내부회계감사\n연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000,000",
+      "adt_cntrct_dtls_time": "1,866",
+      "real_exc_dtls_mendng": "240,000,000",
+      "real_exc_dtls_time": "1,936",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001051",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제61기\n(전기)",
+      "adtor": "태성회계법인",
+      "cn": "반기검토\n중간감사\n재고실사\n기말감사\n연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "98,000,000",
+      "adt_cntrct_dtls_time": "1,180",
+      "real_exc_dtls_mendng": "98,000,000",
+      "real_exc_dtls_time": "1,090",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001051",
+      "corp_cls": "Y",
+      "corp_code": "00118275",
+      "corp_name": "디아이",
+      "bsns_year": "제60기\n(전전기)",
+      "adtor": "태성회계법인",
+      "cn": "반기검토\n중간감사\n재고실사\n기말감사\n연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "98,000,000",
+      "adt_cntrct_dtls_time": "1,180",
+      "real_exc_dtls_mendng": "98,000,000",
+      "real_exc_dtls_time": "1,180",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

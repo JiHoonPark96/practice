@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "stock_code": "025000",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001426",
+      "flr_nm": "KPX케미칼",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "stock_code": "025000",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001126",
+      "flr_nm": "KPX케미칼",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "stock_code": "025000",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001718",
+      "flr_nm": "KPX케미칼",
+      "rcept_dt": "20200515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00191472",
+      "corp_name": "KPX케미칼",
+      "stock_code": "025000",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330003515",
+      "flr_nm": "KPX케미칼",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190626000374",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제9기(당기)",
+      "cntrct_cncls_de": "2018-06-20",
+      "servc_cn": "-국제거래정보통합보고서 관련 용역\n-지급보증수수료 용역",
+      "servc_exc_pd": "6개월",
+      "servc_mendng": " 40,000,000원 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000374",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제8기(전기)",
+      "cntrct_cncls_de": "2017-03-31",
+      "servc_cn": "-국제거래정보통합보고서 및 브랜드사용료 관련 용역\n-지급보증수수료 용역",
+      "servc_exc_pd": "3개월",
+      "servc_mendng": " 80,000,000원 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190626000374",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제7기(전전기)",
+      "cntrct_cncls_de": "2016-05-16",
+      "servc_cn": "주식가치 평가 용역",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": " 20,000,000원 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

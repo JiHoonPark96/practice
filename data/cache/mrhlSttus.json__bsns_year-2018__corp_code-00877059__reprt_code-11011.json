@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190723000170",
+      "corp_cls": "Y",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스",
+      "se": "소액주주",
+      "shrholdr_co": "95,689",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "14,049,892",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "21.23%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

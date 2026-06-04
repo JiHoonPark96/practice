@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000581",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2022년도 \n제20기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220,000",
+      "adt_cntrct_dtls_time": "2,617",
+      "real_exc_dtls_mendng": "220,000",
+      "real_exc_dtls_time": "2,693",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323000581",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2021년도 \n제19기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210,000",
+      "adt_cntrct_dtls_time": "2,510",
+      "real_exc_dtls_mendng": "210,000",
+      "real_exc_dtls_time": "2,505",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323000581",
+      "corp_cls": "Y",
+      "corp_code": "00671376",
+      "corp_name": "트리니티항공",
+      "bsns_year": "2020년도\n제18기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000",
+      "adt_cntrct_dtls_time": "2,418",
+      "real_exc_dtls_mendng": "195,000",
+      "real_exc_dtls_time": "2,442",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

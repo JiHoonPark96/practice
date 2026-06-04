@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323000457",
+      "corp_cls": "Y",
+      "corp_code": "00128227",
+      "corp_name": "삼정펄프",
+      "se": "소액주주",
+      "shrholdr_co": "2,566",
+      "shrholdr_tot_co": "2,579",
+      "shrholdr_rate": "99.50%",
+      "hold_stock_co": "646,821",
+      "stock_tot_co": "2,499,971",
+      "hold_stock_rate": "25.87%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

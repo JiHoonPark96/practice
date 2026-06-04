@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제35기",
+      "adtor": "안진회계법인",
+      "cn": "별도/연결 분/반기 재무제표 검토 및\n별도/연결 재무제표에 대한 감사",
+      "mendng": "1,143/년",
+      "tot_reqre_time": "16,118",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제34기",
+      "adtor": "안진회계법인",
+      "cn": "별도/연결 분/반기 재무제표 검토 및\n별도/연결 재무제표에 대한 감사",
+      "mendng": "710/년",
+      "tot_reqre_time": "9,995",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004186",
+      "corp_cls": "Y",
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스",
+      "bsns_year": "제33기",
+      "adtor": "안진회계법인",
+      "cn": "별도/연결 분/반기 재무제표 검토 및\n별도/연결 재무제표에 대한 감사",
+      "mendng": "675/년",
+      "tot_reqre_time": "8,147",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

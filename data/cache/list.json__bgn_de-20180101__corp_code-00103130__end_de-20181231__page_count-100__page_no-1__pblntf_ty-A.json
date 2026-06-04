@@ -1,0 +1,120 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 10,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181114001752",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20181114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2018.06)",
+      "rcept_no": "20180814001867",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.03)",
+      "rcept_no": "20180515001491",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20180417000394",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180417",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2017.12)",
+      "rcept_no": "20180402003540",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180402",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2016.12)",
+      "rcept_no": "20180322000744",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180322",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2017.09)",
+      "rcept_no": "20180322000572",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180322",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2017.06)",
+      "rcept_no": "20180322000567",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180322",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2017.03)",
+      "rcept_no": "20180322000560",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180322",
+      "rm": ""
+    },
+    {
+      "corp_code": "00103130",
+      "corp_name": "플레이그램",
+      "stock_code": "009810",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2016.12)",
+      "rcept_no": "20180322000557",
+      "flr_nm": "플레이그램",
+      "rcept_dt": "20180322",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제40기",
+      "cntrct_cncls_de": "2018.01",
+      "servc_cn": "세무조정 수수료",
+      "servc_exc_pd": "2018.01.01~\n2018.12.31.",
+      "servc_mendng": "13,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제39기",
+      "cntrct_cncls_de": "2017.01",
+      "servc_cn": "세무조정 수수료",
+      "servc_exc_pd": "2017.01.01~\n2017.12.31.",
+      "servc_mendng": "13,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제38기",
+      "cntrct_cncls_de": "2016.01",
+      "servc_cn": "세무조정 수수료",
+      "servc_exc_pd": "2016.01.01~\n2016.12.31.",
+      "servc_mendng": "13,500",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003679",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "bsns_year": "제38기",
+      "cntrct_cncls_de": "2016.08",
+      "servc_cn": "세무자문용역(BEPS)",
+      "servc_exc_pd": "2016.08.01~\n2017.02.28",
+      "servc_mendng": "125,000",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

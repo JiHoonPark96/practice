@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210406002956",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "반기,중간,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440,000천원",
+      "adt_cntrct_dtls_time": "2,600",
+      "real_exc_dtls_mendng": "440,000천원",
+      "real_exc_dtls_time": "3,780",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210406002956",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제54기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기,중간,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "97,000천원",
+      "adt_cntrct_dtls_time": "1,313",
+      "real_exc_dtls_mendng": "97,000천원",
+      "real_exc_dtls_time": "1,642",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210406002956",
+      "corp_cls": "Y",
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "반기,중간,기말,연결감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85,000천원",
+      "adt_cntrct_dtls_time": "1,040",
+      "real_exc_dtls_mendng": "85,000천원",
+      "real_exc_dtls_time": "1,040",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

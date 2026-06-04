@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제26기(당기)",
+      "cntrct_cncls_de": "2024.12",
+      "servc_cn": "폴란드사업 세무검토",
+      "servc_exc_pd": "2개월",
+      "servc_mendng": "94",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제26기(당기)",
+      "cntrct_cncls_de": "2024.09",
+      "servc_cn": "호주사업 세무자문",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "73",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제26기(당기)",
+      "cntrct_cncls_de": "2024.09",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제26기(당기)",
+      "cntrct_cncls_de": "2024.04",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제26기(당기)",
+      "cntrct_cncls_de": "2024.01",
+      "servc_cn": "미국투자 세무자문",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "100",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제25기(전기)",
+      "cntrct_cncls_de": "2023.09",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "1.5",
+      "rm": "삼정회계법인 수행",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제25기(전기)",
+      "cntrct_cncls_de": "2023.04",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "3",
+      "rm": "신한회계법인 수행",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제24기(전전기)",
+      "cntrct_cncls_de": "2022.09",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "3",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001612",
+      "corp_cls": "Y",
+      "corp_code": "00302926",
+      "corp_name": "현대로템",
+      "bsns_year": "제24기(전전기)",
+      "cntrct_cncls_de": "2022.04",
+      "servc_cn": "사채이행 AUP外",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "3",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

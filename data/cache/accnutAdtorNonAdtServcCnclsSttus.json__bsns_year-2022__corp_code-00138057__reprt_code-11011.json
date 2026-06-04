@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317001042",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제57기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317001042",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제57기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317001042",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317001042",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제56기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317001042",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "2020.08.",
+      "servc_cn": "제55기 세무조정계약업무 체결",
+      "servc_exc_pd": "2021.03",
+      "servc_mendng": "9,000(천원)",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317001042",
+      "corp_cls": "Y",
+      "corp_code": "00138057",
+      "corp_name": "써니전자",
+      "bsns_year": "제55기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

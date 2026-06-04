@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000774",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제18기\n(당기)",
+      "cntrct_cncls_de": "'19.06.05",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'21.04.01~'22.03.31",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000774",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제18기\n(당기)",
+      "cntrct_cncls_de": "'21.02.09",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "'21.02.18~'21.04.30",
+      "servc_mendng": "110백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000774",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제17기\n(전기)",
+      "cntrct_cncls_de": "'19.06.05",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'20.04.01~'21.03.31",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000774",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제17기\n(전기)",
+      "cntrct_cncls_de": "'20.10.12",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "'20.10.14~'20.11.30",
+      "servc_mendng": "55백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000774",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제16기\n(전전기)",
+      "cntrct_cncls_de": "'19.06.05",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'19.04.01~'20.03.31",
+      "servc_mendng": "16백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

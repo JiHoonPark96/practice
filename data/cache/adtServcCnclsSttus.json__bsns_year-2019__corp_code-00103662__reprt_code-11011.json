@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20241114000265",
+      "corp_cls": "Y",
+      "corp_code": "00103662",
+      "corp_name": "광명전기",
+      "bsns_year": "제39기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기 연결.별도재무제표 검토\n기말 연결.별도재무제표 감사",
+      "mendng": "62,500,000",
+      "tot_reqre_time": "921시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20241114000265",
+      "corp_cls": "Y",
+      "corp_code": "00103662",
+      "corp_name": "광명전기",
+      "bsns_year": "제38기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기 연결.별도재무제표 검토\n기말 연결.별도재무제표 감사",
+      "mendng": "57,500,000",
+      "tot_reqre_time": "708시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20241114000265",
+      "corp_cls": "Y",
+      "corp_code": "00103662",
+      "corp_name": "광명전기",
+      "bsns_year": "제37기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기 연결.별도재무제표 검토\n기말 연결.별도재무제표 감사",
+      "mendng": "57,500,000",
+      "tot_reqre_time": "703시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

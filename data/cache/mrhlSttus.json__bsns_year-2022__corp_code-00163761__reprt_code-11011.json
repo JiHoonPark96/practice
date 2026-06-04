@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001020",
+      "corp_cls": "Y",
+      "corp_code": "00163761",
+      "corp_name": "한창제지",
+      "se": "소액주주",
+      "shrholdr_co": "19,642",
+      "shrholdr_tot_co": "19,652",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "35,027,482",
+      "stock_tot_co": "59,667,486",
+      "hold_stock_rate": "58.70%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

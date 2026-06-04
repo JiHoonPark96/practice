@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000459",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "se": "소액주주",
+      "shrholdr_co": "38,013",
+      "shrholdr_tot_co": "38,019",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "14,743,529",
+      "stock_tot_co": "26,978,840",
+      "hold_stock_rate": "54.64%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

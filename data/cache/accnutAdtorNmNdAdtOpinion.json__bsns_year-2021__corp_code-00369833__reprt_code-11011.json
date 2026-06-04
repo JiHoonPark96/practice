@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001172",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 영향",
+      "core_adt_matter": "페라이트 및 세라믹 현금창출단위에 대한 손상평가 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001172",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제21기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 관련 영향",
+      "core_adt_matter": "페라이트 및 세라믹 현금창출단위에 대한 손상평가 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220316001172",
+      "corp_cls": "Y",
+      "corp_code": "00369833",
+      "corp_name": "유니온머티리얼",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수출 매출 인식 기간귀속의 적정성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

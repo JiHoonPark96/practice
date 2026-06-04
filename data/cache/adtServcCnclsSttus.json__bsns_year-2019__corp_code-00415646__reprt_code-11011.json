@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002847",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제22(당)기",
+      "adtor": "삼정회계법인",
+      "cn": "재무제표 (K-IFRS)별도 및 연결 \n반기검토, 별도 및 연결 감사",
+      "mendng": "20,000만원",
+      "tot_reqre_time": "2,623시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002847",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제21(전)기",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 (K-IFRS)별도 및 연결 검토",
+      "mendng": "16,500만원",
+      "tot_reqre_time": "1,879시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002847",
+      "corp_cls": "Y",
+      "corp_code": "00415646",
+      "corp_name": "드림텍",
+      "bsns_year": "제20(전전)기",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표 (K-IFRS)별도 및 연결 감사",
+      "mendng": "12,000만원",
+      "tot_reqre_time": "1,532시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

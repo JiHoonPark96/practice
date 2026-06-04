@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230309000832",
+      "corp_cls": "Y",
+      "corp_code": "00154462",
+      "corp_name": "아모레퍼시픽홀딩스",
+      "bsns_year": "제64기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- AMOREPACIFIC Trading Co.,Ltd. 현금창출단위 손상검사 - 회수가능액 추정\n- DB(Daily Beauty) 사업부문의 국내 e커머스 경로 매출액 - 발생사실 및 측정",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000832",
+      "corp_cls": "Y",
+      "corp_code": "00154462",
+      "corp_name": "아모레퍼시픽홀딩스",
+      "bsns_year": "제63기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19(코로나) 관련 불확실성",
+      "core_adt_matter": "- 상품 및 제품 재고자산의 평가\n- 현금창출단위에 대한 손상검사",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230309000832",
+      "corp_cls": "Y",
+      "corp_code": "00154462",
+      "corp_name": "아모레퍼시픽홀딩스",
+      "bsns_year": "제62기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 상품 및 제품 재고자산의 평가\n- 현금창출단위에 대한 손상검사",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

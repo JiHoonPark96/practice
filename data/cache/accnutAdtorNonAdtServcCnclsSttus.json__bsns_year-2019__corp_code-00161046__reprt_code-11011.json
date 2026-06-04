@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제62기(당기)",
+      "cntrct_cncls_de": "2019.11",
+      "servc_cn": "수입판매업 매출 확인서 확인 용역",
+      "servc_exc_pd": "2019.11.20~2019.11.22",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제62기(당기)",
+      "cntrct_cncls_de": "2019.09",
+      "servc_cn": "의약품 매출액 및 의약품 연구개발비 확인 용역",
+      "servc_exc_pd": "2019.09.16~2019.09.20",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제62기(당기)",
+      "cntrct_cncls_de": "2019.08",
+      "servc_cn": "사채수탁계약이행상황보고 관련 합의된 절차 수행결과 보고",
+      "servc_exc_pd": "2019.08.26~2019.08.30",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제61기(전기)",
+      "cntrct_cncls_de": "2018.09",
+      "servc_cn": "사채수탁계약이행상황보고 관련 합의된 절차 수행결과 보고",
+      "servc_exc_pd": "2018.09.06~2018.09.12",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제61기(전기)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "사채수탁계약이행상황보고 관련 합의된 절차 수행결과 보고",
+      "servc_exc_pd": "2018.04.09~2018.04.18",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제61기(전기)",
+      "cntrct_cncls_de": "2018.04",
+      "servc_cn": "의약품 매출액 및 의약품 연구개발비 확인 용역",
+      "servc_exc_pd": "2018.04~2018.04",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제60기(전전기)",
+      "cntrct_cncls_de": "2017.09",
+      "servc_cn": "사채수탁계약이행상황보고 관련 합의된 절차 수행결과 보고",
+      "servc_exc_pd": "2017.09.06~2017.09.12",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제60기(전전기)",
+      "cntrct_cncls_de": "2017.08",
+      "servc_cn": "의약품 매출액 및 의약품 연구개발비 확인 용역",
+      "servc_exc_pd": "2017.08~2017.08",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001420",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "bsns_year": "제60기(전전기)",
+      "cntrct_cncls_de": "2017.04",
+      "servc_cn": "사채수탁계약이행상황보고 관련 합의된 절차 수행결과 보고",
+      "servc_exc_pd": "2017.04.24~2017.04.26",
+      "servc_mendng": "1,000",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

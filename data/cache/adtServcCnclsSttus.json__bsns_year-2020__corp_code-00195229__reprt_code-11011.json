@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000773",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제 31기",
+      "adtor": "현대회계법인",
+      "cn": "연결 및 별도 재무제표 분반기 검토\n연결 및 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "850",
+      "adt_cntrct_dtls_time": "6,300",
+      "real_exc_dtls_mendng": "850",
+      "real_exc_dtls_time": "6,182",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000773",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제 30기",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도 재무제표 분반기 검토\n연결 및 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "560",
+      "adt_cntrct_dtls_time": "4,881",
+      "real_exc_dtls_mendng": "560",
+      "real_exc_dtls_time": "4,881",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000773",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제 29기",
+      "adtor": "삼일회계법인",
+      "cn": "연결 및 별도 재무제표 분반기 검토\n연결 및 별도 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "470",
+      "adt_cntrct_dtls_time": "4,800",
+      "real_exc_dtls_mendng": "470",
+      "real_exc_dtls_time": "4,800",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000787",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박 및 사용권자산) 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000787",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "bsns_year": "제64기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박 및 사용권자산) 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000787",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박 및 사용권자산) 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000787",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "bsns_year": "제63기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박 및 사용권자산) 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000787",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박 및 사용권자산) 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000787",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "bsns_year": "제62기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "유형자산(선박 및 사용권자산) 손상(환입) 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

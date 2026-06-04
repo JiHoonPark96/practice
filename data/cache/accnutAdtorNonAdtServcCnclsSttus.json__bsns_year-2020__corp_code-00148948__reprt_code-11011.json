@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제66(당)기",
+      "cntrct_cncls_de": "20.03.15",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "20.03.15\n~20.03.31",
+      "servc_mendng": "5,000,000원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제65(전)기",
+      "cntrct_cncls_de": "19.03.12",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "19.03.12\n~19.03.31",
+      "servc_mendng": "3,000,000원",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제64(전전)기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

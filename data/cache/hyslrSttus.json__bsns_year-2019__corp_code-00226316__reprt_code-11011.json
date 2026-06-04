@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001187",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "stock_knd": "보통주",
+      "nm": "박진호",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "2,137,486",
+      "bsis_posesn_stock_qota_rt": "24.73",
+      "trmend_posesn_stock_co": "2,364,096",
+      "trmend_posesn_stock_qota_rt": "27.36",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001187",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "stock_knd": "보통주",
+      "nm": "박용철",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,531,330",
+      "bsis_posesn_stock_qota_rt": "17.72",
+      "trmend_posesn_stock_co": "1,720,519",
+      "trmend_posesn_stock_qota_rt": "19.91",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001187",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "3,668,816",
+      "bsis_posesn_stock_qota_rt": "42.45",
+      "trmend_posesn_stock_co": "4,084,615",
+      "trmend_posesn_stock_qota_rt": "47.26",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001187",
+      "corp_cls": "Y",
+      "corp_code": "00226316",
+      "corp_name": "호전실업",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

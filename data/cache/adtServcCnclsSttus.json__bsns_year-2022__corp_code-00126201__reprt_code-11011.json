@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001375",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제53기\n(당기)",
+      "adtor": "대주\n회계\n법인",
+      "cn": " 1차 반기검토 : 2022.07.20~07.22,\n 2차 반기검토 : 2022.08.08~08.09.\n 중간감사 : 2022.11.07~11.11\n 재고실사 : 2023.01.02\n 1차 기말감사 : 2023.02.06~02.08\n 2차 기말감사 : 2023.02.20~02.21",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "201",
+      "adt_cntrct_dtls_time": "1,678",
+      "real_exc_dtls_mendng": "120",
+      "real_exc_dtls_time": "1,672",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001375",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제52기\n(전기)",
+      "adtor": "안경\n회계\n법인",
+      "cn": " 반기검토 : 2021.07.23, 28~29\n 1차 중간감사 : 2021.10.19\n 2차 중간감사 : 2021.12.06 ~ 12.09\n 재고실사 : 2022.01.03\n 1차 기말감사 : 2022.02.07~02.09\n 2차 기말감사 : 2022.03.02",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "55",
+      "adt_cntrct_dtls_time": "1,100",
+      "real_exc_dtls_mendng": "55",
+      "real_exc_dtls_time": "923",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001375",
+      "corp_cls": "Y",
+      "corp_code": "00126201",
+      "corp_name": "삼성공조",
+      "bsns_year": "제51기\n(전전기)",
+      "adtor": "안경\n회계\n법인",
+      "cn": " 반기검토 : 2020.07.25~07.28 \n 1차 중간감사 : 2020.10.13~10.15\n 2차 중간감사 : 2020.12.02~12.04\n 재고실사 : 2021.01.04\n 1차 기말감사 : 2021.02.01~02.03\n 2차 기말감사 : 2021.03.09",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "45",
+      "adt_cntrct_dtls_time": "890",
+      "real_exc_dtls_mendng": "45",
+      "real_exc_dtls_time": "953",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

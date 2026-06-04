@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001511",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제47기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의 관점에서 공정하게 표시하고 있음.",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 영업권 손상검사- 첨단소재 사업부문\n(2) 현금창출단위 손상검사- 올레핀사업부 및 아로마틱사업부\n(3) 사업결합 회계처리- 롯데정밀화학(주)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001511",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제46기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의 관점에서 공정하게 표시하고 있음.",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 코로나바이러스\n감염증-19(COVID-19)의 불확실성",
+      "core_adt_matter": "(1) 영업권 손상검사 - 첨단소재 사업부문",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001511",
+      "corp_cls": "Y",
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "한국채택국제회계기준에 따라 중요성의 관점에서 공정하게 표시하고 있음.",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "강조사항 : 코로나바이러스\n감염증-19(COVID-19)의 불확실성",
+      "core_adt_matter": "(1) 영업권 손상검사 - 첨단소재 사업부문",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

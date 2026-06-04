@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230328001033",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "stock_knd": "보통주",
+      "nm": "OCI주식회사",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "17,600",
+      "bsis_posesn_stock_qota_rt": "0.02",
+      "trmend_posesn_stock_co": "7,747,934",
+      "trmend_posesn_stock_qota_rt": "10.90",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230328001033",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "stock_knd": "보통주",
+      "nm": "유희원",
+      "relate": "임원",
+      "bsis_posesn_stock_co": "47,333",
+      "bsis_posesn_stock_qota_rt": "0.07",
+      "trmend_posesn_stock_co": "47,333",
+      "trmend_posesn_stock_qota_rt": "0.07",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230328001033",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "64,933",
+      "bsis_posesn_stock_qota_rt": "0.09",
+      "trmend_posesn_stock_co": "7,795,267",
+      "trmend_posesn_stock_qota_rt": "10.97",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230328001033",
+      "corp_cls": "Y",
+      "corp_code": "00123718",
+      "corp_name": "부광약품",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

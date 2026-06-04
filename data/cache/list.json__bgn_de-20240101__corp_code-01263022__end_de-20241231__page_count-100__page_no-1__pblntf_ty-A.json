@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002321",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20241114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814002592",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516001498",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240412003349",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240412",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20240412003317",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240412",
+      "rm": ""
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.06)",
+      "rcept_no": "20240412003272",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240412",
+      "rm": ""
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.03)",
+      "rcept_no": "20240412003218",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240412",
+      "rm": ""
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240313001437",
+      "flr_nm": "BGF리테일",
+      "rcept_dt": "20240313",
+      "rm": "정연"
+    }
+  ]
+}

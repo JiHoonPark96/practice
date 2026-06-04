@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001008",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "bsns_year": "제40기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330,000",
+      "adt_cntrct_dtls_time": "2,920",
+      "real_exc_dtls_mendng": "330,000",
+      "real_exc_dtls_time": "2,921",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001008",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "bsns_year": "제39기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사, 내부회계관리제도 \n감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "310,000",
+      "adt_cntrct_dtls_time": "2,850",
+      "real_exc_dtls_mendng": "310,000",
+      "real_exc_dtls_time": "2,960",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001008",
+      "corp_cls": "Y",
+      "corp_code": "00139454",
+      "corp_name": "애경산업",
+      "bsns_year": "제38기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사, 내부회계관리제도 \n감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250,000",
+      "adt_cntrct_dtls_time": "2,739",
+      "real_exc_dtls_mendng": "250,000",
+      "real_exc_dtls_time": "3,524",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

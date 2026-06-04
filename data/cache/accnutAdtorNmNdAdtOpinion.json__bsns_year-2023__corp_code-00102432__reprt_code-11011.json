@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000660",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제57기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 미청구공사금액 회수가능성에 대한 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000660",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제56기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 미청구공사금액 회수가능성에 대한 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000660",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 미청구공사금액 회수가능성에 대한 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

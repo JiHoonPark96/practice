@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230831001367",
+      "corp_cls": "Y",
+      "corp_code": "01568413",
+      "corp_name": "F&F",
+      "se": "소액주주",
+      "shrholdr_co": "20,850",
+      "shrholdr_tot_co": "20,864",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "12,595,899",
+      "stock_tot_co": "38,307,075",
+      "hold_stock_rate": "32.88%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

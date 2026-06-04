@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000503",
+      "corp_cls": "Y",
+      "corp_code": "00138279",
+      "corp_name": "S-Oil",
+      "se": "소액주주",
+      "shrholdr_co": "106,717",
+      "shrholdr_tot_co": "106,719",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "37,507,348",
+      "stock_tot_co": "112,582,792",
+      "hold_stock_rate": "33.32%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

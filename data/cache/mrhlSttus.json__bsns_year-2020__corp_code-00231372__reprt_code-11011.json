@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220701000479",
+      "corp_cls": "Y",
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "se": "소액주주",
+      "shrholdr_co": "16,160",
+      "shrholdr_tot_co": "16,180",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "21,712,699",
+      "stock_tot_co": "69,275,662",
+      "hold_stock_rate": "31.34%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

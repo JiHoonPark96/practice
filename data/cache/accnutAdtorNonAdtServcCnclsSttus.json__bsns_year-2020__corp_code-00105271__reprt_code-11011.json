@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제63기(당기)",
+      "cntrct_cncls_de": "2020.03.12",
+      "servc_cn": "세무조정 업무수임계약",
+      "servc_exc_pd": "2020.03.12  ~  2020.03.31",
+      "servc_mendng": "18,500",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제63기(당기)",
+      "cntrct_cncls_de": "2020.03.13",
+      "servc_cn": "기술도입계약 적정가격 산정 검토",
+      "servc_exc_pd": "2020.03.13  ~  2020.04.10",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제63기(당기)",
+      "cntrct_cncls_de": "2020.07.30",
+      "servc_cn": "15,16년 법인세 경정 청구",
+      "servc_exc_pd": "2020.07.30  ~  2020.10.31",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제63기(당기)",
+      "cntrct_cncls_de": "2020.11.27",
+      "servc_cn": "19년 귀속 BEPS 보고서 작성",
+      "servc_exc_pd": "2020.11.27  ~  2020.12.31",
+      "servc_mendng": "45,600",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제63기(당기)",
+      "cntrct_cncls_de": "2020.11.27",
+      "servc_cn": "이전가격보고서 자문",
+      "servc_exc_pd": "2020.11.27  ~  2021.03.26",
+      "servc_mendng": "30,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제62기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000812",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제61기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

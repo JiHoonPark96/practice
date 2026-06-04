@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제56기",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "변동대가 및 고객에게 지급할 대가,\n 영업권 등 손상검토",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제55기",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "변동대가 및 고객에게 지급할 대가,\n사업결합",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000681",
+      "corp_cls": "Y",
+      "corp_code": "00124726",
+      "corp_name": "빙그레",
+      "bsns_year": "제54기",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "변동대가 및 고객에게 지급할 대가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

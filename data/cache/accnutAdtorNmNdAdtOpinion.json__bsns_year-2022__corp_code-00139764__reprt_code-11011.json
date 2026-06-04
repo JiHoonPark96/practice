@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001362",
+      "corp_cls": "Y",
+      "corp_code": "00139764",
+      "corp_name": "에넥스",
+      "bsns_year": "제47기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 실재성 및 대손충당금",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001362",
+      "corp_cls": "Y",
+      "corp_code": "00139764",
+      "corp_name": "에넥스",
+      "bsns_year": "제46기(전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 실재성 및 대손충당금",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315001362",
+      "corp_cls": "Y",
+      "corp_code": "00139764",
+      "corp_name": "에넥스",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "매출채권 실재성 및 대손충당금",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

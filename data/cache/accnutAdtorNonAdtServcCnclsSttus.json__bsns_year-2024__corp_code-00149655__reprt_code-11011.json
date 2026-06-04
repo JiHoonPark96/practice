@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제61기\n(당기)",
+      "cntrct_cncls_de": "2019.05",
+      "servc_cn": "한국-일본 APA",
+      "servc_exc_pd": "2019.05 ~ 완료시",
+      "servc_mendng": "360",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제61기\n(당기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "한국-캐나다 MAP",
+      "servc_exc_pd": "2021.03 ~ 완료시",
+      "servc_mendng": "445",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제60기\n(전기)",
+      "cntrct_cncls_de": "2019.05",
+      "servc_cn": "한국-일본 APA",
+      "servc_exc_pd": "2019.05 ~ 완료시",
+      "servc_mendng": "360",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제60기\n(전기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "한국-캐나다 MAP",
+      "servc_exc_pd": "2021.03 ~ 완료시",
+      "servc_mendng": "445",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제59기\n(전전기)",
+      "cntrct_cncls_de": "2019.05",
+      "servc_cn": "한국-일본 APA",
+      "servc_exc_pd": "2019.05 ~ 완료시",
+      "servc_mendng": "360",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250814002350",
+      "corp_cls": "Y",
+      "corp_code": "00149655",
+      "corp_name": "삼성물산",
+      "bsns_year": "제59기\n(전전기)",
+      "cntrct_cncls_de": "2021.03",
+      "servc_cn": "한국-캐나다 MAP",
+      "servc_exc_pd": "2021.03 ~ 완료시",
+      "servc_mendng": "445",
+      "rm": "한영회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003964",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제45기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": "2018년도 별도 및 연결 재무제표 감사, 2018년도 분반기 별도 및 연결 재무제표에 대한 검토내부회계관리제도 감사",
+      "mendng": "820,000",
+      "tot_reqre_time": "9,839",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003964",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제44기 (전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2017년도 별도 및 연결 재무제표 감사, 2017년도 분반기 별도 및 연결 재무제표에 대한 검토\n내부회계관리제도 검토",
+      "mendng": "495,000",
+      "tot_reqre_time": "4,750",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003964",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제43기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "2016년도 별도 및 연결 재무제표 감사, 2016년도 분반기 별도 및 연결 재무제표에 대한 검토내부회계관리제도 검토",
+      "mendng": "495,000",
+      "tot_reqre_time": "4,900",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

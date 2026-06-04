@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230308000741",
+      "corp_cls": "Y",
+      "corp_code": "01316227",
+      "corp_name": "효성티앤씨",
+      "se": "소액주주",
+      "shrholdr_co": "65,715",
+      "shrholdr_tot_co": "65,732",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "1,957,804",
+      "stock_tot_co": "4,327,682",
+      "hold_stock_rate": "45.24%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "stock_knd": "보통주",
+      "nm": "(주)포스코",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "3,412,000",
+      "bsis_posesn_stock_qota_rt": "56.87",
+      "trmend_posesn_stock_co": "3,412,000",
+      "trmend_posesn_stock_qota_rt": "56.87",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "stock_knd": "보통주",
+      "nm": "윤양수",
+      "relate": "등기임원",
+      "bsis_posesn_stock_co": "21,000",
+      "bsis_posesn_stock_qota_rt": "0.35",
+      "trmend_posesn_stock_co": "22,590",
+      "trmend_posesn_stock_qota_rt": "0.38",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "3,433,000",
+      "bsis_posesn_stock_qota_rt": "57.22",
+      "trmend_posesn_stock_co": "3,434,590",
+      "trmend_posesn_stock_qota_rt": "57.25",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000541",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

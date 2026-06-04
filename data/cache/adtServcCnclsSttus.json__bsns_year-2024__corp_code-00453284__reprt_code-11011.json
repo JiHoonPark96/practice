@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250324000180",
+      "corp_cls": "Y",
+      "corp_code": "00453284",
+      "corp_name": "교촌에프앤비",
+      "bsns_year": "제26기\n(당기)",
+      "adtor": "대주회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180",
+      "adt_cntrct_dtls_time": "1,867",
+      "real_exc_dtls_mendng": "180",
+      "real_exc_dtls_time": "1,851",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000180",
+      "corp_cls": "Y",
+      "corp_code": "00453284",
+      "corp_name": "교촌에프앤비",
+      "bsns_year": "제25기\n(전기)",
+      "adtor": "대주회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,876",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,846",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250324000180",
+      "corp_cls": "Y",
+      "corp_code": "00453284",
+      "corp_name": "교촌에프앤비",
+      "bsns_year": "제24기\n(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "회계감사용역",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,854",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,859",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

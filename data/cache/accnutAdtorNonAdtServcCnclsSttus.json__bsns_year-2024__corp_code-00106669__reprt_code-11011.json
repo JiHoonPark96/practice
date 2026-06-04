@@ -1,0 +1,123 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2024.08.31",
+      "servc_cn": "- Robotic XBRL application 공급계약",
+      "servc_exc_pd": " 2024.08.31 ~ 2025.08.31",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2024.08.26",
+      "servc_cn": "- 법인세 세무조정 및 세무자문 ",
+      "servc_exc_pd": "2024.08.26 ~ 2025. 03.31",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2024.11.17",
+      "servc_cn": "- 세무자문 용역(BEPS)",
+      "servc_exc_pd": "2024.11.18 ~ 2024.12.31",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "2023.11.01",
+      "servc_cn": "- Digital Tool 활용 전표 분석",
+      "servc_exc_pd": "2023.11.01 ~ 2024.10.31",
+      "servc_mendng": "34",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "2023.10.31",
+      "servc_cn": "- 로보틱애플리케이션의 이용",
+      "servc_exc_pd": "2023.10.31 ~ 2026.10.31",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "2023.06.27",
+      "servc_cn": "- 법인세 세무조정 및 세무자문",
+      "servc_exc_pd": "2023.06.27 ~ 2024.04.01",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "2022.04.28",
+      "servc_cn": "- 합의된 절차 수행의무",
+      "servc_exc_pd": "2022.04.28 ~ 2022.05.04",
+      "servc_mendng": "120",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "2022.04.18",
+      "servc_cn": "- 분할재무제표 감사",
+      "servc_exc_pd": "2022.04.18 ~ 2022.05.04",
+      "servc_mendng": "5",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318000465",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "2022.04.01",
+      "servc_cn": "- 세무조정 용역",
+      "servc_exc_pd": "2022.04.01 ~ 2023.03.31",
+      "servc_mendng": "13",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

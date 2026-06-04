@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001226",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제42기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기재무제표검토, 별도재무제표, 연결재무제표등에 대한 감사, 내부회계관리제도검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "630,000",
+      "adt_cntrct_dtls_time": "6,300",
+      "real_exc_dtls_mendng": "655,000",
+      "real_exc_dtls_time": "6,507",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001226",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제41기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기재무제표검토, 별도재무제표, 연결재무제표등에 대한 감사, 내부회계관리제도검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "560,000",
+      "adt_cntrct_dtls_time": "5,695",
+      "real_exc_dtls_mendng": "560,000",
+      "real_exc_dtls_time": "6,144",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001226",
+      "corp_cls": "Y",
+      "corp_code": "00161116",
+      "corp_name": "HL D&I",
+      "bsns_year": "제40기",
+      "adtor": "삼정회계법인",
+      "cn": "분반기재무제표검토, 별도재무제표, 연결재무제표등에 대한 감사, 내부회계관리제도검토 등",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "410,000",
+      "adt_cntrct_dtls_time": "4,800",
+      "real_exc_dtls_mendng": "410,000",
+      "real_exc_dtls_time": "4,628",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

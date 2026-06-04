@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000448",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2020년 9월\n2020년 6월",
+      "servc_cn": "세무자문\n세무조정",
+      "servc_exc_pd": "2020.09~2021.02\n2020.07~2021.03",
+      "servc_mendng": "80백만원\n15백만원",
+      "rm": "안진회계법인(VAT별도)\n안진회계법인(VAT별도)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000448",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2019년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.07~2020.03",
+      "servc_mendng": "15백만원",
+      "rm": "안진회계법인(VAT별도)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000448",
+      "corp_cls": "Y",
+      "corp_code": "00163345",
+      "corp_name": "DB",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "2018년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2018.07~2019.03",
+      "servc_mendng": "13.5백만원",
+      "rm": "안진회계법인(VAT별도)",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

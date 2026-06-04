@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316000282",
+      "corp_cls": "Y",
+      "corp_code": "00115065",
+      "corp_name": "동남합성",
+      "se": "소액주주",
+      "shrholdr_co": "1,673",
+      "shrholdr_tot_co": "1,686",
+      "shrholdr_rate": "99.2%",
+      "hold_stock_co": "641,018",
+      "stock_tot_co": "3,610,000",
+      "hold_stock_rate": "17.8%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

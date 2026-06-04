@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004740",
+      "corp_cls": "Y",
+      "corp_code": "00139764",
+      "corp_name": "에넥스",
+      "se": "소액주주",
+      "shrholdr_co": "15,178",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "33,550,063",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "55.92%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

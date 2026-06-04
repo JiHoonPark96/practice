@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002111",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제49기(당기)",
+      "adtor": "정동회계법인",
+      "cn": "반기재무제표 검토\n개별제무제표\n내부회계검토",
+      "mendng": "60,000 ",
+      "tot_reqre_time": "568",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002111",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제48기(전기)",
+      "adtor": "정동회계법인",
+      "cn": "반기재무제표 검토\n개별제무제표\n내부회계검토",
+      "mendng": "60,000 ",
+      "tot_reqre_time": "602",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002111",
+      "corp_cls": "Y",
+      "corp_code": "00141404",
+      "corp_name": "블루산업개발",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "정동회계법인",
+      "cn": "반기재무제표 검토\n개별제무제표\n내부회계검토",
+      "mendng": "60,000 ",
+      "tot_reqre_time": "552",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

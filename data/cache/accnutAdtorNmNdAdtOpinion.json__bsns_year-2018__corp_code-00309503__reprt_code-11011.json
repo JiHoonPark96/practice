@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190802000402",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2018년\n(제20기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "강조사항(주*)",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190802000402",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2017년\n(제19기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "강조사항(주*)",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190802000402",
+      "corp_cls": "Y",
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주",
+      "bsns_year": "2016년\n(제18기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "강조사항(주*)",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

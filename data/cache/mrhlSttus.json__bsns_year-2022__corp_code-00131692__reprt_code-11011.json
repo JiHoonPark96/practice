@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001280",
+      "corp_cls": "Y",
+      "corp_code": "00131692",
+      "corp_name": "서흥",
+      "se": "소액주주",
+      "shrholdr_co": "21,246",
+      "shrholdr_tot_co": "21,270",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "4,440,882",
+      "stock_tot_co": "11,569,113",
+      "hold_stock_rate": "38.4%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230317000955",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제21기  연간\n제21기 3분기\n제21기  반기\n제21기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "가. 유형자산 및 무형자산 등 손상평가\n나. GM 리콜 충당부채",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000955",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제20기  연간\n제20기 3분기\n제20기  반기\n제20기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향",
+      "core_adt_matter": "가. 영업권 등 손상평가\n나. MC 사업본부 중단영업\n다. GM 리콜 충당부채",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230317000955",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제19기  연간\n제19기 3분기\n제19기  반기\n제19기 1분기",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정\n예외사항 없음\n예외사항 없음\n예외사항 없음",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "COVID-19 영향",
+      "core_adt_matter": "가. 영업권 등 손상평가\n나. 관계기업투자 손상평가\n다. 내부창출 개발비 자산화 및 손상평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

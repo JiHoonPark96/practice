@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001604",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 18기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기ㆍ반기재무제표 검토\n별도ㆍ연결재무제표 감사\n\n별도ㆍ연결내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,320",
+      "adt_cntrct_dtls_time": "12,000",
+      "real_exc_dtls_mendng": "1,320",
+      "real_exc_dtls_time": "12,189",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001604",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 17기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기ㆍ반기재무제표 검토\n별도ㆍ연결재무제표 감사\n\n별도ㆍ연결내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,265",
+      "adt_cntrct_dtls_time": "11,500",
+      "real_exc_dtls_mendng": "1,265",
+      "real_exc_dtls_time": "12,014",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001604",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 16기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분기ㆍ반기재무제표 검토\n별도ㆍ연결재무제표 감사\n별도내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,150",
+      "adt_cntrct_dtls_time": "10,455",
+      "real_exc_dtls_mendng": "1,150",
+      "real_exc_dtls_time": "12,527",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

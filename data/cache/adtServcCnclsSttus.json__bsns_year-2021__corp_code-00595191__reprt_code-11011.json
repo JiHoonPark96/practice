@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001474",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제16기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "제16기반기및결산",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "187,000",
+      "adt_cntrct_dtls_time": "1,700",
+      "real_exc_dtls_mendng": "56,100",
+      "real_exc_dtls_time": "1,583",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001474",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제15기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "제15기반기및결산",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "182,000",
+      "adt_cntrct_dtls_time": "1,651",
+      "real_exc_dtls_mendng": "182,000",
+      "real_exc_dtls_time": "1,696",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001474",
+      "corp_cls": "Y",
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "제14기반기및결산",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "173,000",
+      "adt_cntrct_dtls_time": "1,576",
+      "real_exc_dtls_mendng": "173,000",
+      "real_exc_dtls_time": "1,611",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

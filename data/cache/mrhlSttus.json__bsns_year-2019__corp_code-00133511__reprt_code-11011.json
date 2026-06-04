@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002963",
+      "corp_cls": "Y",
+      "corp_code": "00133511",
+      "corp_name": "SG세계물산",
+      "se": "소액주주",
+      "shrholdr_co": "12,238",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "91,732,157",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "45.31%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

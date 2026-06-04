@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000386",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "bsns_year": "제27기 (당기)",
+      "adtor": "삼정회계법인",
+      "cn": " 분ㆍ반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,870 ",
+      "adt_cntrct_dtls_time": "14,405 ",
+      "real_exc_dtls_mendng": "1,870 ",
+      "real_exc_dtls_time": "14,678 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20240320000386",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "bsns_year": "제26기 (전기)",
+      "adtor": "삼정회계법인",
+      "cn": " 분ㆍ반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,670 ",
+      "adt_cntrct_dtls_time": "13,699 ",
+      "real_exc_dtls_mendng": "1,670 ",
+      "real_exc_dtls_time": "14,200 ",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20240320000386",
+      "corp_cls": "Y",
+      "corp_code": "00258801",
+      "corp_name": "카카오",
+      "bsns_year": "제 25기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": " 분ㆍ반기 재무제표 검토\n 별도 및 연결 재무제표에 대한 감사 ",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "    1,180 ",
+      "adt_cntrct_dtls_time": "    12,737 ",
+      "real_exc_dtls_mendng": "  1,180 ",
+      "real_exc_dtls_time": "  12,737 ",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

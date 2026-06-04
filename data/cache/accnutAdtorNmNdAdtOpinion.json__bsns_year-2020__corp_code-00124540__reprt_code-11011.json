@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319001137",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "bsns_year": "제21기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "중요한 회계\n추정 및 가정",
+      "core_adt_matter": "-투입법에 따른 수익인식의 정확성\n-개발사업 관련 건설계약의 매출채권\n및 기타수취채권의 회수가능성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001137",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "bsns_year": "제20기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "-투입법에 따른 수익인식의 정확성\n-개발사업 관련 건설계약의 매출채권\n및 기타수취채권의 회수가능성 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319001137",
+      "corp_cls": "Y",
+      "corp_code": "00124540",
+      "corp_name": "대우건설",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식의 정확성\n- 개발사업 관련 건설계약의 매출채권\n및 기타수취채권의 회수가능성 평가\n- 기업회계기준서 제1115호 적용에\n따른 회계정책 변경 효과의 정확성",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

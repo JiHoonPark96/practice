@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001771",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제68기(당기)",
+      "cntrct_cncls_de": "2023.01.01\n\n2023.11.08.",
+      "servc_cn": "세무자문\n\n법인세 세무조정",
+      "servc_exc_pd": "2023.1.1~ 2024.12.31\n\n계약체결일~법인지방소득세 신고기한",
+      "servc_mendng": "1백만원/월\n\n23백만원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001771",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제67기(전기)",
+      "cntrct_cncls_de": "2022.02.01",
+      "servc_cn": "국세 및 지방세 환급청구 지원",
+      "servc_exc_pd": "2022.02.01~결정 확정일",
+      "servc_mendng": "환급 세액의 20%",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001771",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제66기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

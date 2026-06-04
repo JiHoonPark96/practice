@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제66(당)기",
+      "adtor": "정진세림\n회계법인",
+      "cn": "반기, 중간 재무제표 검토,\n기말 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000,000원",
+      "adt_cntrct_dtls_time": "876시간",
+      "real_exc_dtls_mendng": "70,000,000원",
+      "real_exc_dtls_time": "880시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제65(전)기",
+      "adtor": "정진세림\n회계법인",
+      "cn": "반기, 중간 재무제표 검토,\n기말 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "65,000,000원",
+      "adt_cntrct_dtls_time": "794시간",
+      "real_exc_dtls_mendng": "65,000,000원",
+      "real_exc_dtls_time": "794시간",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210322000475",
+      "corp_cls": "Y",
+      "corp_code": "00148948",
+      "corp_name": "조비",
+      "bsns_year": "제64(전전)기",
+      "adtor": "정진\n회계법인",
+      "cn": "반기, 중간 재무제표 검토,\n기말 재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "60,000,000원",
+      "adt_cntrct_dtls_time": "731시간",
+      "real_exc_dtls_mendng": "60,000,000원",
+      "real_exc_dtls_time": "731시간",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

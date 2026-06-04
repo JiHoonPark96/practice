@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001322",
+      "corp_cls": "Y",
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "se": "소액주주",
+      "shrholdr_co": "11,697",
+      "shrholdr_tot_co": "11,703",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "24,334,018",
+      "stock_tot_co": "32,372,276",
+      "hold_stock_rate": "75.17%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

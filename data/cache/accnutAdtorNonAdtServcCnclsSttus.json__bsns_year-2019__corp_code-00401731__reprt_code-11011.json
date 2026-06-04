@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004430",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 18 기\n(당기)",
+      "cntrct_cncls_de": "2019.06",
+      "servc_cn": "관세자율 점검 지원 컨설팅",
+      "servc_exc_pd": "2019년 6월~12월",
+      "servc_mendng": "150 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004430",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 17 기\n(전기)",
+      "cntrct_cncls_de": "2018.01",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2018년 1월",
+      "servc_mendng": "10 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004430",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 16 기\n(전전기)",
+      "cntrct_cncls_de": "2017.10",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2017년 10월~12월",
+      "servc_mendng": "168 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004430",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 16 기\n(전전기)",
+      "cntrct_cncls_de": "2017.09",
+      "servc_cn": "재무실사",
+      "servc_exc_pd": "2017년 9월~10월",
+      "servc_mendng": "40 ",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

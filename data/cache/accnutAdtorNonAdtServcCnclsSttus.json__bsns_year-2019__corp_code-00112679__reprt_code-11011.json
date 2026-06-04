@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001443",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2019.06.20",
+      "servc_cn": "내부통제제도 개선 방안 검토용역",
+      "servc_exc_pd": "2019.07.01~2019.09.30",
+      "servc_mendng": "50백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001443",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2019.04.10",
+      "servc_cn": "연결재무제표 작성을 위한 종속회사 중간재무제표 검토요역(2차)",
+      "servc_exc_pd": "2019.04.15~2019.09.30",
+      "servc_mendng": "25백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001443",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제38기(전기)",
+      "cntrct_cncls_de": "2018.08.24",
+      "servc_cn": "연결재무제표 작성을 위한 종속회사 중간 재무제표 검토 용역",
+      "servc_exc_pd": "2018.09.03~2018.10.12",
+      "servc_mendng": "50백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001443",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "2017.06.12",
+      "servc_cn": "내부회계관리제도 업데이트 자문",
+      "servc_exc_pd": "2017.06.01~2017.07.31",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002569",
+      "corp_cls": "Y",
+      "corp_code": "00911955",
+      "corp_name": "잇츠한불",
+      "se": "소액주주",
+      "shrholdr_co": "11,485",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "3,646,628",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "16.62%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

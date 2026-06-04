@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001571",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "bsns_year": "제 29 기\n(2023년)",
+      "adtor": "한영회계법인",
+      "cn": "별도/연결 반기 재무제표 검토\n별도/연결 중간감사\n별도/연결 기말감사\n재고 및 현금자산 실사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "338,000",
+      "adt_cntrct_dtls_time": "2,300",
+      "real_exc_dtls_mendng": "338,000",
+      "real_exc_dtls_time": "2,917",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001571",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "bsns_year": "제 28 기\n(2022년)",
+      "adtor": "한영회계법인",
+      "cn": "별도/연결 반기 재무제표 검토\n별도/연결 중간감사\n별도/연결 기말감사\n재고 및 현금자산 실사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "325,000",
+      "adt_cntrct_dtls_time": "2,200",
+      "real_exc_dtls_mendng": "325,000",
+      "real_exc_dtls_time": "3,730",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001571",
+      "corp_cls": "Y",
+      "corp_code": "00414601",
+      "corp_name": "유니퀘스트",
+      "bsns_year": "제 27 기\n(2021년)",
+      "adtor": "삼일회계법인",
+      "cn": "별도/연결 반기 재무제표 검토\n별도/연결 중간감사\n별도/연결 기말감사\n재고 및 현금자산 실사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "195,000",
+      "adt_cntrct_dtls_time": "1,950",
+      "real_exc_dtls_mendng": "195,000",
+      "real_exc_dtls_time": "1,918",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

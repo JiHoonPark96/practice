@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004238",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "bsns_year": "제46기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "<제46기 감사계약>\n반기검토, 중간감사,재고실사,연결감사",
+      "mendng": "45,000",
+      "tot_reqre_time": "630시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004238",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "bsns_year": "제45기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "<제45기 감사계약>\n반기검토, 중간감사,재고실사,연결감사",
+      "mendng": "45,000",
+      "tot_reqre_time": "609시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004238",
+      "corp_cls": "Y",
+      "corp_code": "00146542",
+      "corp_name": "일정실업",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "<제44기 감사계약>\n반기검토, 중간감사,재고실사,연결감사",
+      "mendng": "45,000",
+      "tot_reqre_time": "618시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002094",
+      "corp_cls": "Y",
+      "corp_code": "00135962",
+      "corp_name": "신라교역",
+      "se": "소액주주",
+      "shrholdr_co": "3,408",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.53%",
+      "hold_stock_co": "4,869,881",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "30.44%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

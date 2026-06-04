@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000212",
+      "corp_cls": "Y",
+      "corp_code": "00132628",
+      "corp_name": "성문전자",
+      "se": "소액주주",
+      "shrholdr_co": "10,652",
+      "shrholdr_tot_co": "10,664",
+      "shrholdr_rate": "99.8%",
+      "hold_stock_co": "13,624,932",
+      "stock_tot_co": "22,460,985",
+      "hold_stock_rate": "60.66%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

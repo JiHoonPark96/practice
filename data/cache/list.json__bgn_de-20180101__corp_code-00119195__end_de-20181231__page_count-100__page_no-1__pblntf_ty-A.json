@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "stock_code": "000020",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181114001098",
+      "flr_nm": "동화약품",
+      "rcept_dt": "20181114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "stock_code": "000020",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2018.06)",
+      "rcept_no": "20180814002019",
+      "flr_nm": "동화약품",
+      "rcept_dt": "20180814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "stock_code": "000020",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20180618000261",
+      "flr_nm": "동화약품",
+      "rcept_dt": "20180618",
+      "rm": ""
+    },
+    {
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "stock_code": "000020",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20180618000237",
+      "flr_nm": "동화약품",
+      "rcept_dt": "20180618",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "stock_code": "000020",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.03)",
+      "rcept_no": "20180514003937",
+      "flr_nm": "동화약품",
+      "rcept_dt": "20180514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "stock_code": "000020",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2017.12)",
+      "rcept_no": "20180402001410",
+      "flr_nm": "동화약품",
+      "rcept_dt": "20180402",
+      "rm": "정"
+    }
+  ]
+}

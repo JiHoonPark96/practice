@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210330000776",
+      "corp_cls": "Y",
+      "corp_code": "00164779",
+      "corp_name": "SK하이닉스",
+      "se": "소액주주",
+      "shrholdr_co": "431,633",
+      "shrholdr_tot_co": "431,640",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "453,737,437",
+      "stock_tot_co": "728,002,365",
+      "hold_stock_rate": "62.32%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

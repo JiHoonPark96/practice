@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제66기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-[연결, 별도] \n도료ㆍ건자재 판매 관련 수익인식의 기간귀속\n-[별도] \n종속기업투자(MOM Holding Company)와 관계기업투자(㈜케이씨씨건설)의 회수가능액 측정\n-[연결] \n영업권을 포함한 현금창출단위(MOM Holding Company)와 관계기업투자 (㈜케이씨씨건설)의 회수가능액 측정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-[연결, 별도] 재화의 판매 관련 수익인식의 기간귀속\n-[별도] 종속기업투자(MOM Holding Company)와 관계기업투자(㈜케이씨씨건설)의 회수가능액 측정\n-[연결] 영업권을 포함한 현금창출단위(MOM Holding Company)와 관계기업투자 (㈜케이씨씨건설)의 회수가능액 측정",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제64기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-해당사항 없음",
+      "core_adt_matter": "-[연결, 별도] 재화의 판매 관련 수익인식의 기간귀속\n-[별도] 종속기업투자(MOM Holding Company)와 관계    기업투자 (㈜케이씨씨건설)의 회수가능액 측정\n-[연결] 영업권을 포함한 현금창출단위(MOM Holding C  ompany)와 관계기업투자 (㈜케이씨씨건설)의 회수가    능액 측정",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

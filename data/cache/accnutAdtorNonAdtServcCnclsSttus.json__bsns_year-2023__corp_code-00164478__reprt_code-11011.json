@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제74기",
+      "cntrct_cncls_de": "2023.10.13",
+      "servc_cn": "복정역세권 복합개발사업 재무자문",
+      "servc_exc_pd": "2023.10.13~2023.11.07",
+      "servc_mendng": "130",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제74기",
+      "cntrct_cncls_de": "2023.08.01",
+      "servc_cn": "신사동 디에이치 전용 전시관 취득세 세무자문",
+      "servc_exc_pd": "2023.08.07~2023.10.24",
+      "servc_mendng": "80",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제73기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제72기",
+      "cntrct_cncls_de": "2021.02.23",
+      "servc_cn": "GTX-C 사업계획서 재무자문",
+      "servc_exc_pd": "2021.02.23~완료시",
+      "servc_mendng": "240",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제72기",
+      "cntrct_cncls_de": "2021.04.26",
+      "servc_cn": "현대차그룹 신사옥 프로젝트 재무자문",
+      "servc_exc_pd": "2021.05.18~2021.12.31",
+      "servc_mendng": "634",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제72기",
+      "cntrct_cncls_de": "2021.05.07",
+      "servc_cn": "투자자협의 재무자문",
+      "servc_exc_pd": "2021.04.26~완료시",
+      "servc_mendng": "60",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240329003141",
+      "corp_cls": "Y",
+      "corp_code": "00164478",
+      "corp_name": "현대건설",
+      "bsns_year": "제72기",
+      "cntrct_cncls_de": "2021.06.25",
+      "servc_cn": "브랜드 정책 세무자문",
+      "servc_exc_pd": "2021.06.25~완료시",
+      "servc_mendng": "28",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

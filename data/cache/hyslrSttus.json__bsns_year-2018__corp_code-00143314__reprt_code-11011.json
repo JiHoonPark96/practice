@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_knd": "보통주",
+      "nm": "전운관",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "9,074,560",
+      "bsis_posesn_stock_qota_rt": "18.64",
+      "trmend_posesn_stock_co": "13,284,379",
+      "trmend_posesn_stock_qota_rt": "16.05",
+      "rm": "유상 신주 취득, 장내 매수",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_knd": "보통주",
+      "nm": "전학수",
+      "relate": "친인척",
+      "bsis_posesn_stock_co": "258,746",
+      "bsis_posesn_stock_qota_rt": "0.53",
+      "trmend_posesn_stock_co": "258,746",
+      "trmend_posesn_stock_qota_rt": "0.31",
+      "rm": "발행주식증가에 따른 지분율 변동",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_knd": "보통주",
+      "nm": "(주)용산",
+      "relate": "기타",
+      "bsis_posesn_stock_co": "187,169",
+      "bsis_posesn_stock_qota_rt": "0.38",
+      "trmend_posesn_stock_co": "292,048",
+      "trmend_posesn_stock_qota_rt": "0.35",
+      "rm": "유상 신주 취득",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "9,520,475",
+      "bsis_posesn_stock_qota_rt": "19.55",
+      "trmend_posesn_stock_co": "13,835,173",
+      "trmend_posesn_stock_qota_rt": "16.71",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20210713000097",
+      "corp_cls": "Y",
+      "corp_code": "00143314",
+      "corp_name": "에이엔피",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

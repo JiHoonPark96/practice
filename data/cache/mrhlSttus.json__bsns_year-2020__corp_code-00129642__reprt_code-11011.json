@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000704",
+      "corp_cls": "Y",
+      "corp_code": "00129642",
+      "corp_name": "상신브레이크",
+      "se": "소액주주",
+      "shrholdr_co": "4,931",
+      "shrholdr_tot_co": "4,951",
+      "shrholdr_rate": "99.60%",
+      "hold_stock_co": "9,266,584",
+      "stock_tot_co": "21,471,450",
+      "hold_stock_rate": "43.16%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

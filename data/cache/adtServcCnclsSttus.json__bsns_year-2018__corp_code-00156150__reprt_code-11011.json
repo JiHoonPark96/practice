@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "bsns_year": "제33기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, 중간감사, 결산감사",
+      "mendng": "75",
+      "tot_reqre_time": "1,251",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "bsns_year": "제32기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, 중간감사, 결산감사",
+      "mendng": "70",
+      "tot_reqre_time": "952",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001595",
+      "corp_cls": "Y",
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "bsns_year": "제31기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "반기검토, 중간감사, 결산감사",
+      "mendng": "70",
+      "tot_reqre_time": "1,068",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001085",
+      "corp_cls": "Y",
+      "corp_code": "00896285",
+      "corp_name": "삼양사",
+      "se": "소액주주",
+      "shrholdr_co": "9,775",
+      "shrholdr_tot_co": "9,791",
+      "shrholdr_rate": "99.84%",
+      "hold_stock_co": "2,004,247",
+      "stock_tot_co": "10,313,449",
+      "hold_stock_rate": "19.43%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

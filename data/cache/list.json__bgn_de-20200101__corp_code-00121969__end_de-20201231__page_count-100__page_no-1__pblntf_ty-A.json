@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201113000713",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20201113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001741",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200514000701",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330002281",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20200228006031",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200228",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2019.06)",
+      "rcept_no": "20200228006009",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200228",
+      "rm": ""
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20200228005967",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200228",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00121969",
+      "corp_name": "에쓰씨엔지니어링",
+      "stock_code": "023960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20200228005117",
+      "flr_nm": "에쓰씨엔지니어링",
+      "rcept_dt": "20200228",
+      "rm": ""
+    }
+  ]
+}

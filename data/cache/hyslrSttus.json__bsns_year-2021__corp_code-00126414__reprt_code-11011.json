@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "stock_knd": "보통주",
+      "nm": "(주)젬백스앤카엘",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "7,025,915",
+      "bsis_posesn_stock_qota_rt": "10.51",
+      "trmend_posesn_stock_co": "7,025,915",
+      "trmend_posesn_stock_qota_rt": "10.46",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "stock_knd": "보통주",
+      "nm": "(주)젬백스지오",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "3,036,086",
+      "bsis_posesn_stock_qota_rt": "4.54",
+      "trmend_posesn_stock_co": "3,036,086",
+      "trmend_posesn_stock_qota_rt": "4.52",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "10,062,001",
+      "bsis_posesn_stock_qota_rt": "15.05",
+      "trmend_posesn_stock_co": "10,062,001",
+      "trmend_posesn_stock_qota_rt": "14.98",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000933",
+      "corp_cls": "Y",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약",
+      "stock_knd": "종류주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

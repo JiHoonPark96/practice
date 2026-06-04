@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001782",
+      "corp_cls": "Y",
+      "corp_code": "00129420",
+      "corp_name": "까뮤이앤씨",
+      "se": "소액주주",
+      "shrholdr_co": "14,593",
+      "shrholdr_tot_co": "14,600",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "24,813,619",
+      "stock_tot_co": "45,152,280",
+      "hold_stock_rate": "54.95%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

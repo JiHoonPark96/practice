@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20241114000271",
+      "corp_cls": "Y",
+      "corp_code": "00103662",
+      "corp_name": "광명전기",
+      "se": "소액주주",
+      "shrholdr_co": "10,692",
+      "shrholdr_tot_co": "10,701",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "26,039,190",
+      "stock_tot_co": "43,337,615",
+      "hold_stock_rate": "60.08%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

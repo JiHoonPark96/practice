@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318000979",
+      "corp_cls": "Y",
+      "corp_code": "00141529",
+      "corp_name": "오뚜기",
+      "se": "소액주주",
+      "shrholdr_co": "27,594",
+      "shrholdr_tot_co": "27,606",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "1,230,387",
+      "stock_tot_co": "4,007,830",
+      "hold_stock_rate": "30.70%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201111000031",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20201111",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200813000132",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20200813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200513000070",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20200513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00145163",
+      "corp_name": "파미셀",
+      "stock_code": "005690",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330004368",
+      "flr_nm": "파미셀",
+      "rcept_dt": "20200330",
+      "rm": ""
+    }
+  ]
+}

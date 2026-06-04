@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001017",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제62기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "분/반기 재무제표 검토 및\n연간재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "81백만원",
+      "adt_cntrct_dtls_time": "860시간",
+      "real_exc_dtls_mendng": "81백만원",
+      "real_exc_dtls_time": "906시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001017",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제61기(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "분/반기 재무제표 검토 및\n연간재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "79백만원",
+      "adt_cntrct_dtls_time": "950시간",
+      "real_exc_dtls_mendng": "79백만원",
+      "real_exc_dtls_time": "974시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230320001017",
+      "corp_cls": "Y",
+      "corp_code": "00137368",
+      "corp_name": "신풍",
+      "bsns_year": "제60기(전기)",
+      "adtor": "인덕회계법인",
+      "cn": "분/반기 재무제표 검토 및\n연간재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "85백만원",
+      "adt_cntrct_dtls_time": "1,000시간",
+      "real_exc_dtls_mendng": "85백만원",
+      "real_exc_dtls_time": "1,011시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

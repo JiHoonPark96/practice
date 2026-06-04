@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000964",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "제 1 (당) 기",
+      "adtor": "우리회계법인",
+      "cn": "- 반기 별도\nㆍ연결재무제표 검토\n- 별도 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "100 백만원",
+      "adt_cntrct_dtls_time": "1,200 시간",
+      "real_exc_dtls_mendng": "75 백만원",
+      "real_exc_dtls_time": "1,266 시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000964",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000964",
+      "corp_cls": "Y",
+      "corp_code": "01532603",
+      "corp_name": "화승알앤에이",
+      "bsns_year": "-",
+      "adtor": "-",
+      "cn": "-",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

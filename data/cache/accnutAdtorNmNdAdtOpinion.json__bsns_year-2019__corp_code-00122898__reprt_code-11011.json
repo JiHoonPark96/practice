@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003664",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "bsns_year": "제49기(당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "투입법에 따른 수익인식",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003664",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "bsns_year": "제48기(전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업 관련 유의적 왜곡표시 위험이 높지 않은 것으로 판단하여 핵심감사항목이 없는 것으로 결정",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003664",
+      "corp_cls": "Y",
+      "corp_code": "00122898",
+      "corp_name": "벽산",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "대영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "수주산업 관련 유의적 왜곡표시 위험이 높지 않은 것으로 판단하여 핵심감사항목이 없는 것으로 결정",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

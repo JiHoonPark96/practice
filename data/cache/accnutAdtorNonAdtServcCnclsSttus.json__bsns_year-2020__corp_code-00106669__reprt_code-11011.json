@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제66기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제65기",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "bsns_year": "제64기",
+      "cntrct_cncls_de": "2018.04.01",
+      "servc_cn": "제64기 세무조정용역",
+      "servc_exc_pd": "18.04.01 - 19.03.31",
+      "servc_mendng": "11,350,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

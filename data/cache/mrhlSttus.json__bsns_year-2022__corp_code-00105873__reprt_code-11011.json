@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230313000751",
+      "corp_cls": "Y",
+      "corp_code": "00105873",
+      "corp_name": "LG디스플레이",
+      "se": "소액주주",
+      "shrholdr_co": "452,717",
+      "shrholdr_tot_co": "452,720",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "202,715,211",
+      "stock_tot_co": "357,815,700",
+      "hold_stock_rate": "56.65%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

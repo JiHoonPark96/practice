@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320000077",
+      "corp_cls": "Y",
+      "corp_code": "00557508",
+      "corp_name": "GKL",
+      "se": "소액주주",
+      "shrholdr_co": "24,874",
+      "shrholdr_tot_co": "24,879",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "23,298,017",
+      "stock_tot_co": "61,855,670",
+      "hold_stock_rate": "37.7%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003736",
+      "corp_cls": "Y",
+      "corp_code": "00109161",
+      "corp_name": "태경케미컬",
+      "se": "소액주주",
+      "shrholdr_co": "4,379",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.79%",
+      "hold_stock_co": "3,727,867",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "32.14%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

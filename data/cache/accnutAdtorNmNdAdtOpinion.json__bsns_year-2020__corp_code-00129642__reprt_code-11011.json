@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000704",
+      "corp_cls": "Y",
+      "corp_code": "00129642",
+      "corp_name": "상신브레이크",
+      "bsns_year": "제46기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1.업무프로세스 이해 및 회사의 \n   내부통제 설계평가와 운용 테스트\n2. 별도및 연결 재무제표에 대한 입증감사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000704",
+      "corp_cls": "Y",
+      "corp_code": "00129642",
+      "corp_name": "상신브레이크",
+      "bsns_year": "제45기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 업무프로세스 이해 및 회사의 \n    내부통제 설계평가와 운용 테스트\n2. 별도및 연결 재무제표에 대한 입증감사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000704",
+      "corp_cls": "Y",
+      "corp_code": "00129642",
+      "corp_name": "상신브레이크",
+      "bsns_year": "제44기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "1. 업무프로세스 이해 및 회사의 \n    내부통제 설계평가와 운용 테스트\n2. 별도및 연결 재무제표에 대한 입증감사",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

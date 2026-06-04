@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "갑도물산",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "21,183,313",
+      "bsis_posesn_stock_qota_rt": "31.10",
+      "trmend_posesn_stock_co": "16,183,313",
+      "trmend_posesn_stock_qota_rt": "22.79",
+      "rm": "보통주에 대한 비율",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "서명환",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "134,444",
+      "bsis_posesn_stock_qota_rt": "0.20",
+      "trmend_posesn_stock_co": "1,242,278",
+      "trmend_posesn_stock_qota_rt": "1.75",
+      "rm": "보통주에 대한 비율",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "서정석",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "2,232,079",
+      "bsis_posesn_stock_qota_rt": "3.28",
+      "trmend_posesn_stock_co": "5,841,675",
+      "trmend_posesn_stock_qota_rt": "8.22",
+      "rm": "보통주에 대한 비율",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "23,549,836",
+      "bsis_posesn_stock_qota_rt": "34.58",
+      "trmend_posesn_stock_co": "23,267,266",
+      "trmend_posesn_stock_qota_rt": "32.76",
+      "rm": "보통주에 대한 비율",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000043",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

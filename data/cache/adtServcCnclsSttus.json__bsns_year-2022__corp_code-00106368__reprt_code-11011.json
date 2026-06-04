@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001213",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제46기",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표 검토\n별도재무제표 감사\n연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "670 ",
+      "adt_cntrct_dtls_time": "6,700 HR ",
+      "real_exc_dtls_mendng": "670 ",
+      "real_exc_dtls_time": "6,676 HR ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001213",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제45기",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표 검토\n별도재무제표 감사\n연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "570 ",
+      "adt_cntrct_dtls_time": "6,000 HR ",
+      "real_exc_dtls_mendng": "570 ",
+      "real_exc_dtls_time": "6,431 HR ",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001213",
+      "corp_cls": "Y",
+      "corp_code": "00106368",
+      "corp_name": "금호석유화학",
+      "bsns_year": "제44기",
+      "adtor": "삼덕회계법인",
+      "cn": "분,반기재무제표 검토\n별도재무제표 감사\n연결재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "540 ",
+      "adt_cntrct_dtls_time": "5,600 HR ",
+      "real_exc_dtls_mendng": "540 ",
+      "real_exc_dtls_time": "5,787 HR ",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

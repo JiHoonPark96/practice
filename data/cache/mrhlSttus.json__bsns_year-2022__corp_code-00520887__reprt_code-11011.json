@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001405",
+      "corp_cls": "Y",
+      "corp_code": "00520887",
+      "corp_name": "비상교육",
+      "se": "소액주주",
+      "shrholdr_co": "9,906",
+      "shrholdr_tot_co": "9,925",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "5,047,516",
+      "stock_tot_co": "12,996,741",
+      "hold_stock_rate": "38.84%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

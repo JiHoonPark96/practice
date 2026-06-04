@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004726",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제53기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 미청구공사금액 회수가능성에 대한 평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004726",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제52기(전기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 총계약원가 추정의 불확실성\n- 공사진행률의 산정- 미청구공사금액의 회수가능성\n- 공사변경에 대한 회계처리",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004726",
+      "corp_cls": "Y",
+      "corp_code": "00102432",
+      "corp_name": "계룡건설산업",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 투입법에 따른 수익인식, \n- 총계약원가 추정의 불확실성,\n- 공사진행률 산정,\n- 미청구공사의 회수가능성, \n- 공사변경에 대한 회계처리",
+      "core_adt_matter": "해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

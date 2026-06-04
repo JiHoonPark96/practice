@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001631",
+      "corp_cls": "Y",
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "bsns_year": "제54기(당기)",
+      "adtor": "한울회계법인",
+      "cn": " - 분, 반기 재무제표 검토\n    (연결, 별도)\n - 재무제표 감사 (연결, 별도)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "355 ",
+      "adt_cntrct_dtls_time": "3,398 ",
+      "real_exc_dtls_mendng": "300 ",
+      "real_exc_dtls_time": "4,495",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001631",
+      "corp_cls": "Y",
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "bsns_year": "제53기(전기)",
+      "adtor": "한울회계법인",
+      "cn": " - 분, 반기 재무제표 검토\n    (연결, 별도)\n - 재무제표 감사 (연결, 별도)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "340 ",
+      "adt_cntrct_dtls_time": "3,132 ",
+      "real_exc_dtls_mendng": "340 ",
+      "real_exc_dtls_time": "3,562 ",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001631",
+      "corp_cls": "Y",
+      "corp_code": "00231372",
+      "corp_name": "롯데관광개발",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": " - 분, 반기 재무제표 검토\n    (연결, 별도)\n - 재무제표 감사 (연결, 별도)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "370 ",
+      "adt_cntrct_dtls_time": "4,074 ",
+      "real_exc_dtls_mendng": "370 ",
+      "real_exc_dtls_time": "3,614 ",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

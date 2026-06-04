@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "bsns_year": "제36기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "수출매출의 발생사실 및\n기간귀속",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "bsns_year": "제35기(전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "국외로 수출되는 제품매출의 발생사실",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230315000573",
+      "corp_cls": "Y",
+      "corp_code": "00177199",
+      "corp_name": "디씨엠",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "선일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "\"해당사항 없음\"",
+      "core_adt_matter": "국외로 수출되는 제품매출의 발생사실",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

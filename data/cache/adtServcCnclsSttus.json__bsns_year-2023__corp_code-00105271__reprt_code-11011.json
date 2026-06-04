@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제66기\n(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,200,000",
+      "adt_cntrct_dtls_time": "12,500",
+      "real_exc_dtls_mendng": "1,190,400",
+      "real_exc_dtls_time": "12,400",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제65기\n(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,570,000",
+      "adt_cntrct_dtls_time": "13,820",
+      "real_exc_dtls_mendng": "1,600,000",
+      "real_exc_dtls_time": "14,745",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240327001177",
+      "corp_cls": "Y",
+      "corp_code": "00105271",
+      "corp_name": "케이씨씨",
+      "bsns_year": "제64기\n(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,570,000",
+      "adt_cntrct_dtls_time": "13,820",
+      "real_exc_dtls_mendng": "1,570,000",
+      "real_exc_dtls_time": "15,608",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

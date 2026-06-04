@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000870",
+      "corp_cls": "Y",
+      "corp_code": "00787376",
+      "corp_name": "대성에너지",
+      "se": "소액주주",
+      "shrholdr_co": "28,948",
+      "shrholdr_tot_co": "28,952",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "6,798,907",
+      "stock_tot_co": "27,500,000",
+      "hold_stock_rate": "24.72%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

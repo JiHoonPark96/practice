@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220311000529",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제34기\n(당기)",
+      "cntrct_cncls_de": "2021.8.11",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2021.8.11 ~\n2022.3.31",
+      "servc_mendng": "10,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220311000529",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제33기\n(전기)",
+      "cntrct_cncls_de": "2020.12.09.",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2020.12.09 ~\n2021.3.31",
+      "servc_mendng": "9,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220311000529",
+      "corp_cls": "Y",
+      "corp_code": "00155258",
+      "corp_name": "포스코스틸리온",
+      "bsns_year": "제32기\n(전전기)",
+      "cntrct_cncls_de": "2019.8.1",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "2019.8.1 ~\n2020.3.31",
+      "servc_mendng": "9,000 ",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

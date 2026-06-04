@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315000315",
+      "corp_cls": "Y",
+      "corp_code": "00166519",
+      "corp_name": "화천기공",
+      "se": "소액주주",
+      "shrholdr_co": "3,628",
+      "shrholdr_tot_co": "3,644",
+      "shrholdr_rate": "99.5%",
+      "hold_stock_co": "801,680",
+      "stock_tot_co": "2,200,000",
+      "hold_stock_rate": "36.4%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001120",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제60기\n(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분기재무제표에 대한 검토\n반기재무제표에 대한 검토\n별도재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,770.0",
+      "adt_cntrct_dtls_time": "16,129",
+      "real_exc_dtls_mendng": "1,770.0",
+      "real_exc_dtls_time": "16,152",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001120",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제59기\n(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분기재무제표에 대한 검토\n반기재무제표에 대한 검토\n별도재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,770.0",
+      "adt_cntrct_dtls_time": "14,435",
+      "real_exc_dtls_mendng": "1,770.0",
+      "real_exc_dtls_time": "16,128",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001120",
+      "corp_cls": "Y",
+      "corp_code": "00113526",
+      "corp_name": "대한항공",
+      "bsns_year": "제58기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분기재무제표에 대한 검토\n반기재무제표에 대한 검토\n별도재무제표에 대한 감사\n연결재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,650.0",
+      "adt_cntrct_dtls_time": "14,000",
+      "real_exc_dtls_mendng": "1,650.0",
+      "real_exc_dtls_time": "17,743",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

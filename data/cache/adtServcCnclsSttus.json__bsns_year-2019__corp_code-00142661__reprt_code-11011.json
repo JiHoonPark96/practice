@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003834",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제50기 연간",
+      "adtor": "안진회계법인",
+      "cn": "반기재무제표검토, 개별ㆍ연결\n재무제표등에 대한 감사",
+      "mendng": "105",
+      "tot_reqre_time": "1,477",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003834",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제49기 연간",
+      "adtor": "안진회계법인",
+      "cn": "반기재무제표검토, 개별ㆍ연결\n재무제표등에 대한 감사",
+      "mendng": "80",
+      "tot_reqre_time": "1,321",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003834",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제48기 연간",
+      "adtor": "안진회계법인",
+      "cn": "반기재무제표검토, 개별ㆍ연결\n재무제표등에 대한 감사",
+      "mendng": "70",
+      "tot_reqre_time": "955",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

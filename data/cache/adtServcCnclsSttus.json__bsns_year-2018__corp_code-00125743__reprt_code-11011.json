@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003440",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "bsns_year": "제53기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 1분기 검토 : 2018년 04월 16일 ~ 18일\n- 반기 검토 : 2018년 07월 16일 ~ 19일\n- 3분기 검토 : 2018년 10월 15일 ~ 18일\n- 재무제표에 관한 감사\n① 중간 감사 : 2018년 12월 10일 ~ 14일\n   ② 결산 감사 : 2019년   1월 14일 ~ 18일",
+      "mendng": "125/년",
+      "tot_reqre_time": "1,829시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003440",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "bsns_year": "제52기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 1분기 검토 : 2017년 04월 11일 ~ 13일\n- 반기 검토 : 2017년 07월 11일 ~ 14일\n- 3분기 검토 : 2017년 10월 16일 ~ 18일\n- 재무제표에 관한 감사\n   ① 중간 감사 : 2017년 12월 12일 ~ 15일\n   ② 결산 감사 : 2018년   1월 15일 ~ 19일",
+      "mendng": "120/년",
+      "tot_reqre_time": "1,791시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003440",
+      "corp_cls": "Y",
+      "corp_code": "00125743",
+      "corp_name": "현대비앤지스틸",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 1분기 검토 : 2016년 4월 12일 ~ 15일\n- 반기검토 : 2016년 7월 12일 ~ 15일\n- 3분기 검토 : 2016년 10월 11일 ~ 14일\n- 재무제표에 관한 감사\n   ① 중간 감사 : 2016년 12월 5일 ~ 8일\n   ② 결산 감사 : 2017년 1월 16일 ~ 20일",
+      "mendng": "120/년",
+      "tot_reqre_time": "1,731 시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제51기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 개별재무제표, 연결재무재표\n- 분ㆍ반기 재무제표 검토\n- 내부회계관리제도 감사\n- 연결내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,700",
+      "adt_cntrct_dtls_time": "14,500",
+      "real_exc_dtls_mendng": "1,700",
+      "real_exc_dtls_time": "14,878",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제50기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "- 개별재무제표, 연결재무재표\n- 분ㆍ반기 재무제표 검토\n- 내부회계관리제도 감사\n- 연결내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,680",
+      "adt_cntrct_dtls_time": "14,600",
+      "real_exc_dtls_mendng": "1,680",
+      "real_exc_dtls_time": "13,713",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "- 개별재무제표, 연결재무재표\n- 분ㆍ반기 재무제표 검토\n- 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,080",
+      "adt_cntrct_dtls_time": "11,200",
+      "real_exc_dtls_mendng": "1,080",
+      "real_exc_dtls_time": "11,631",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

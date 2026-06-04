@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제45기(당기)",
+      "cntrct_cncls_de": "2020년 3월\n2020년 12월",
+      "servc_cn": "국제거래정보통합보고서 작성 용역\n재산세 및 종합부동산세에 대한 제반 업무",
+      "servc_exc_pd": "9개월\n12개월",
+      "servc_mendng": "50\n10",
+      "rm": "-\n-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2019년 11월",
+      "servc_cn": "수출입은행차입관련 상임회계법인의 \n추정현금흐름분석보고서 용역 ",
+      "servc_exc_pd": "1개월",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제44기(전기)",
+      "cntrct_cncls_de": "2019년 6월",
+      "servc_cn": "국제거래정보통합보고서 작성 용역",
+      "servc_exc_pd": "7개월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2018년 11월",
+      "servc_cn": "서울시 지방세조사 컨설팅",
+      "servc_exc_pd": "2개월",
+      "servc_mendng": "18",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2018년 6월",
+      "servc_cn": "국제거래정보통합보고서 작성 용역",
+      "servc_exc_pd": "7개월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210310001053",
+      "corp_cls": "Y",
+      "corp_code": "00105961",
+      "corp_name": "LG이노텍",
+      "bsns_year": "제43기(전전기)",
+      "cntrct_cncls_de": "2018년 1월",
+      "servc_cn": "취득세 관련 컨설팅",
+      "servc_exc_pd": "2개월",
+      "servc_mendng": "22",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

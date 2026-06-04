@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "stock_knd": "의결권있는주식",
+      "nm": "㈜와이지\n엔터테인먼트",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "19,170,124",
+      "bsis_posesn_stock_qota_rt": "30.22",
+      "trmend_posesn_stock_co": "19,170,124",
+      "trmend_posesn_stock_qota_rt": "30.22",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "stock_knd": "의결권있는주식",
+      "nm": "양민석",
+      "relate": "발행회사 임원\n지배회사 임원",
+      "bsis_posesn_stock_co": "2,220,914",
+      "bsis_posesn_stock_qota_rt": "3.50",
+      "trmend_posesn_stock_co": "2,220,914",
+      "trmend_posesn_stock_qota_rt": "3.50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "stock_knd": "의결권있는주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "21,391,038",
+      "bsis_posesn_stock_qota_rt": "33.72",
+      "trmend_posesn_stock_co": "21,391,038",
+      "trmend_posesn_stock_qota_rt": "33.72",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321000750",
+      "corp_cls": "Y",
+      "corp_code": "00249247",
+      "corp_name": "YG PLUS",
+      "stock_knd": "의결권없는주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

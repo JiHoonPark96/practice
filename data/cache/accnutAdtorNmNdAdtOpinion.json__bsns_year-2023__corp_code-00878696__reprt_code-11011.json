@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000296",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "bsns_year": "제13기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "별도 및 연결재무제표상 제품매출 발생 사실\n미국에서 발생하는 매출 차감조정 항목에 대한 유의적인 판단 및 추정\nSK Life Science Labs, Inc. 사업결합 회계처리 검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000296",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "bsns_year": "제12기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "공동기업투자주식의 지분법 회계처리 및 손상평가,\n미국에서 인식한 매출 리베이트, 할인 및 반품 등 조정에 대한 \n유의적인 판단 및 추정 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000296",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "bsns_year": "제11기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항\n없음",
+      "core_adt_matter": "Ignis Therapeutics와의 라이선스 계약에 포함된 수행의무 식별, \n거래가격의 배분 및 수익인식",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

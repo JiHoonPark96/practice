@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241113000365",
+      "flr_nm": "한화시스템",
+      "rcept_dt": "20241113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240813001589",
+      "flr_nm": "한화시스템",
+      "rcept_dt": "20240813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240516000399",
+      "flr_nm": "한화시스템",
+      "rcept_dt": "20240516",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240513000847",
+      "flr_nm": "한화시스템",
+      "rcept_dt": "20240513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240328001714",
+      "flr_nm": "한화시스템",
+      "rcept_dt": "20240328",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00339391",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240315000947",
+      "flr_nm": "한화시스템",
+      "rcept_dt": "20240315",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330000518",
+      "corp_cls": "Y",
+      "corp_code": "00146454",
+      "corp_name": "일양약품",
+      "se": "소액주주",
+      "shrholdr_co": "19,669",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "11,454,695",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "60.02%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

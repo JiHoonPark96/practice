@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230320001020",
+      "corp_cls": "Y",
+      "corp_code": "00178754",
+      "corp_name": "동아지질",
+      "se": "소액주주",
+      "shrholdr_co": "11,203",
+      "shrholdr_tot_co": "11,214",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "5,889,705",
+      "stock_tot_co": "14,052,646",
+      "hold_stock_rate": "41.9%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

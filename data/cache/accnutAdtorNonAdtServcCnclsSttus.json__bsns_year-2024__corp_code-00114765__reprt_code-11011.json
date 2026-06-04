@@ -1,0 +1,97 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2024.05.03",
+      "servc_cn": "기업지배구조보고서\n작성자문",
+      "servc_exc_pd": "2024.05.07\n~2024.05.28",
+      "servc_mendng": "20,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2024.09.24",
+      "servc_cn": "세무자문 용역\n(BEPS)",
+      "servc_exc_pd": "2024.09.24\n~2024.12.31",
+      "servc_mendng": "22,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제70기(당기)",
+      "cntrct_cncls_de": "2025.03.10",
+      "servc_cn": "세무자문 용역\n(이전가격 정책 검토)",
+      "servc_exc_pd": "2025.03.10\n~2025.05.10",
+      "servc_mendng": "35,000,000",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제69기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250319000773",
+      "corp_cls": "Y",
+      "corp_code": "00114765",
+      "corp_name": "케이비아이동국실업",
+      "bsns_year": "제68기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

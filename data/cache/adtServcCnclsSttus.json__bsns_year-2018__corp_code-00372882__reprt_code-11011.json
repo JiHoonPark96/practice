@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190404001342",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제18기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 외부감사 및 검토용역",
+      "mendng": "165,000",
+      "tot_reqre_time": "1,965",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404001342",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제17기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 외부감사 및 검토용역",
+      "mendng": "140,000",
+      "tot_reqre_time": "1,652",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190404001342",
+      "corp_cls": "Y",
+      "corp_code": "00372882",
+      "corp_name": "KTcs",
+      "bsns_year": "제16기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표에 대한 외부감사 및 검토용역",
+      "mendng": "140,000",
+      "tot_reqre_time": "1,724",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

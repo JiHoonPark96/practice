@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240314001149",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제54기(당기)",
+      "adtor": "서우회계법인",
+      "cn": "반기재무제표검토, 개별ㆍ연결\n재무제표등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175백만원",
+      "adt_cntrct_dtls_time": "1,783",
+      "real_exc_dtls_mendng": "175백만원",
+      "real_exc_dtls_time": "1,794",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001149",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제53기(전기)",
+      "adtor": "서우회계법인",
+      "cn": "반기재무제표검토, 개별ㆍ연결\n재무제표등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170백만원",
+      "adt_cntrct_dtls_time": "1,967",
+      "real_exc_dtls_mendng": "170백만원",
+      "real_exc_dtls_time": "1,793",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240314001149",
+      "corp_cls": "Y",
+      "corp_code": "00142661",
+      "corp_name": "우성",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "서우회계법인",
+      "cn": "반기재무제표검토, 개별ㆍ연결\n재무제표등에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "150백만원",
+      "adt_cntrct_dtls_time": "1,519",
+      "real_exc_dtls_mendng": "150백만원",
+      "real_exc_dtls_time": "1,571",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

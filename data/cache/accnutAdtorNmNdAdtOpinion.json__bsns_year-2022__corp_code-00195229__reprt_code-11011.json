@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321000775",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제33기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표) Acushnet Holdings Corp. 영업권 손상평가\n(별도재무제표) 종속기업투자주식의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000775",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제32기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표) Acushnet Holdings Corp. 영업권 손상평가\n(별도재무제표) 종속기업투자주식의 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321000775",
+      "corp_cls": "Y",
+      "corp_code": "00195229",
+      "corp_name": "미스토홀딩스",
+      "bsns_year": "제31기",
+      "adtor": "현대회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n(1) 종속기업투자자산의 손상검토\n(2) 이연법인세자산의 자산성 평가\n(별도재무제표)\n(1) 종속기업투자자산의 손상검토\n(2) 이연법인세자산의 자산성 평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401000884",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "se": "소액주주",
+      "shrholdr_co": "3,310",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.6%",
+      "hold_stock_co": "10,138,142",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "30.65%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

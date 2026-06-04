@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329003421",
+      "corp_cls": "Y",
+      "corp_code": "00126308",
+      "corp_name": "삼성E&A",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "4",
+      "apnt": "1",
+      "rlsofc": "0",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제49기(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "수출매출인식시기 및 자산손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제48기(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "bsns_year": "제47기(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

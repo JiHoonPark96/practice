@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328001271",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제51기(당기)\n(안진회계법인과의 계약)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001271",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제50기(전기)\n(안진회계법인과의 계약)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001271",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제49기(전전기)\n(삼일회계법인과의 계약)",
+      "cntrct_cncls_de": "2021-01-21",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2021.04.01~2021.12.31",
+      "servc_mendng": "30",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001271",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제49기(전전기)\n(삼일회계법인과의 계약)",
+      "cntrct_cncls_de": "2021-01-26",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.01.07~2021.01.26",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001271",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제49기(전전기)\n(삼일회계법인과의 계약)",
+      "cntrct_cncls_de": "2021-06-18",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.03.04~2021.06.18",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328001271",
+      "corp_cls": "Y",
+      "corp_code": "00161693",
+      "corp_name": "한샘",
+      "bsns_year": "제49기(전전기)\n(삼일회계법인과의 계약)",
+      "cntrct_cncls_de": "2021-07-14",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2021.07.01~2021.12.31",
+      "servc_mendng": "120",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

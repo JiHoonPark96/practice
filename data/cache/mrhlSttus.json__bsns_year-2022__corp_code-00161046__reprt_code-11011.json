@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316000780",
+      "corp_cls": "Y",
+      "corp_code": "00161046",
+      "corp_name": "한독",
+      "se": "소액주주",
+      "shrholdr_co": "17,289",
+      "shrholdr_tot_co": "17,310",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "6,401,840",
+      "stock_tot_co": "13,763,533",
+      "hold_stock_rate": "46.51%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000335",
+      "corp_cls": "Y",
+      "corp_code": "00138242",
+      "corp_name": "KG모빌리티",
+      "se": "소액주주",
+      "shrholdr_co": "72,996",
+      "shrholdr_tot_co": "73,007",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "46,407,411",
+      "stock_tot_co": "186,956,024",
+      "hold_stock_rate": "24.83%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

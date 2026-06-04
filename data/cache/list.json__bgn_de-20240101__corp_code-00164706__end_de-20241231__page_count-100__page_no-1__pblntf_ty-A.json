@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "stock_code": "004310",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.08)",
+      "rcept_no": "20241015000181",
+      "flr_nm": "현대약품",
+      "rcept_dt": "20241015",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "stock_code": "004310",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.05)",
+      "rcept_no": "20240712000345",
+      "flr_nm": "현대약품",
+      "rcept_dt": "20240712",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "stock_code": "004310",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.02)",
+      "rcept_no": "20240415000683",
+      "flr_nm": "현대약품",
+      "rcept_dt": "20240415",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164706",
+      "corp_name": "현대약품",
+      "stock_code": "004310",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.11)",
+      "rcept_no": "20240221001706",
+      "flr_nm": "현대약품",
+      "rcept_dt": "20240221",
+      "rm": ""
+    }
+  ]
+}

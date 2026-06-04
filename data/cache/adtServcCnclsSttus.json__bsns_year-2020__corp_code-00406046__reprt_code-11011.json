@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331002863",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제20기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "2020년 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260백만원",
+      "adt_cntrct_dtls_time": "2,060",
+      "real_exc_dtls_mendng": "260백만원",
+      "real_exc_dtls_time": "2,091",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331002863",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제19기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "2019년 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170백만원",
+      "adt_cntrct_dtls_time": "2,800",
+      "real_exc_dtls_mendng": "170백만원",
+      "real_exc_dtls_time": "2,688",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331002863",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제18기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "2018년 외부감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180백만원",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "180백만원",
+      "real_exc_dtls_time": "2,303",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

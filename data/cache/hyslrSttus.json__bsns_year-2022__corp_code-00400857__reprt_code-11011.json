@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230323001542",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_knd": "보통주",
+      "nm": "주식회사 리프앤바인",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "16,002,699",
+      "bsis_posesn_stock_qota_rt": "59.20",
+      "trmend_posesn_stock_co": "16,002,699",
+      "trmend_posesn_stock_qota_rt": "59.20",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001542",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_knd": "보통주",
+      "nm": "박정모",
+      "relate": "계열회사 등기임원",
+      "bsis_posesn_stock_co": "562,784",
+      "bsis_posesn_stock_qota_rt": "2.08",
+      "trmend_posesn_stock_co": "494,666",
+      "trmend_posesn_stock_qota_rt": "1.83",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001542",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_knd": "보통주",
+      "nm": "이창혁",
+      "relate": "계열회사 등기임원",
+      "bsis_posesn_stock_co": "105,391",
+      "bsis_posesn_stock_qota_rt": "0.39",
+      "trmend_posesn_stock_co": "105,391",
+      "trmend_posesn_stock_qota_rt": "0.39",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001542",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "16,670,874",
+      "bsis_posesn_stock_qota_rt": "61.67",
+      "trmend_posesn_stock_co": "16,602,756",
+      "trmend_posesn_stock_qota_rt": "61.42",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230323001542",
+      "corp_cls": "Y",
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

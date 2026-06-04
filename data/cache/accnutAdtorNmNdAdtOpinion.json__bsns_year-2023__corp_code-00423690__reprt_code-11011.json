@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001078",
+      "corp_cls": "Y",
+      "corp_code": "00423690",
+      "corp_name": "삼성출판사",
+      "bsns_year": "제22기(당기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(개별)해당사항없음.",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001078",
+      "corp_cls": "Y",
+      "corp_code": "00423690",
+      "corp_name": "삼성출판사",
+      "bsns_year": "제21기(전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(개별)해당사항없음.",
+      "core_adt_matter": "(개별)ㆍ금융상품 평가방법론 및 평가를 위한 투입변수\n(할인율, 목표자본구조 등)를 잘못 적용하여 공정가치가 왜곡될 위험ㆍ평가를 위한 필요한 미래 현금흐름 추정 시, 가정이 \n합리적이지 않아 공정가치가 왜곡될 위험",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001078",
+      "corp_cls": "Y",
+      "corp_code": "00423690",
+      "corp_name": "삼성출판사",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "정인회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결, 별도)해당사항없음",
+      "core_adt_matter": "(연결, 별도)기타포괄손익-공정가치측정 금융자산의 공정가치 측정",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

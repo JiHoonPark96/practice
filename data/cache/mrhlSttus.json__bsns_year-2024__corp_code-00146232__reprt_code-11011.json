@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250808000499",
+      "corp_cls": "Y",
+      "corp_code": "00146232",
+      "corp_name": "일성건설",
+      "se": "소액주주",
+      "shrholdr_co": "25,446",
+      "shrholdr_tot_co": "25,447",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "19,512,280",
+      "stock_tot_co": "54,024,880",
+      "hold_stock_rate": "36.11%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

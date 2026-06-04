@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329001031",
+      "corp_cls": "Y",
+      "corp_code": "00113997",
+      "corp_name": "롯데에너지머티리얼즈",
+      "se": "소액주주",
+      "shrholdr_co": "31,842",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "97.42%",
+      "hold_stock_co": "11,479,558",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "24.90%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

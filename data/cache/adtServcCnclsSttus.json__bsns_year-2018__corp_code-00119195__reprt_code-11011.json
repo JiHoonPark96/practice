@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401001980",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제90기(당기)",
+      "adtor": "삼정\n회계법인",
+      "cn": "반기검토(2018.07.30~2018.08.03)\n중간감사(2018.11.13~2018.11.16)\n기말감사(2019.01.28~2019.02.01)",
+      "mendng": "117,500천원",
+      "tot_reqre_time": "413시간\n210시간\n1,020시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001980",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제89기(전기)",
+      "adtor": "삼정\n회계법인",
+      "cn": "반기검토(2017.07.24~2017.07.26)\n중간감사(2017.11.21~2017.11.24)\n기말감사(2018.01.29~2018.02.02)",
+      "mendng": "77,000천원",
+      "tot_reqre_time": "267시간\n167시간\n856시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401001980",
+      "corp_cls": "Y",
+      "corp_code": "00119195",
+      "corp_name": "동화약품",
+      "bsns_year": "제88기(전전기)",
+      "adtor": "한영\n회계법인",
+      "cn": "반기검토 (2016.07.25~2016.07.27)\n중간감사 (2016.11.28~2016.12.02)\n기말감사 (2017.01.31~2017.02.03)",
+      "mendng": "70,000천원",
+      "tot_reqre_time": "250시간\n165시간\n 671시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

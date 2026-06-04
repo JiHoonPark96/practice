@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001023",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "se": "소액주주",
+      "shrholdr_co": "14,739",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "15,896,576",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "35.43%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

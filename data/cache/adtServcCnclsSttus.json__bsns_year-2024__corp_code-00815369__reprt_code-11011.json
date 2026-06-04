@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제15기(당기)",
+      "adtor": "선진회계법인",
+      "cn": "반기검토, 내부회계, 재고실사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260",
+      "adt_cntrct_dtls_time": "2,580",
+      "real_exc_dtls_mendng": "260",
+      "real_exc_dtls_time": "2,610",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제14기(전기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토, 내부회계, 재고실사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "2,182",
+      "real_exc_dtls_mendng": "230",
+      "real_exc_dtls_time": "2,382",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320000753",
+      "corp_cls": "Y",
+      "corp_code": "00815369",
+      "corp_name": "에스제이엠",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "한울회계법인",
+      "cn": "반기검토, 내부회계, 재고실사, 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "230",
+      "adt_cntrct_dtls_time": "2,380",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,418",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

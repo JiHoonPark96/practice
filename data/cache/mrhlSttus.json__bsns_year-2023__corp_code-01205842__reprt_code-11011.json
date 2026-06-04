@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001838",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "se": "소액주주",
+      "shrholdr_co": "44,815",
+      "shrholdr_tot_co": "44,848",
+      "shrholdr_rate": "99.93%",
+      "hold_stock_co": "8,915,536",
+      "stock_tot_co": "18,203,299",
+      "hold_stock_rate": "48.98%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001877",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제54기 (당기)",
+      "adtor": "삼화회계법인",
+      "cn": "재무제표 검토, 개별재무제표 \n및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "380백만원\n(연간)",
+      "adt_cntrct_dtls_time": "3,000시간",
+      "real_exc_dtls_mendng": "380백만원\n(연간)",
+      "real_exc_dtls_time": "2,936시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001877",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제53기 (전기)",
+      "adtor": "삼화회계법인",
+      "cn": "재무제표 검토, 개별재무제표 \n및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330백만원\n(연간)",
+      "adt_cntrct_dtls_time": "2,900시간",
+      "real_exc_dtls_mendng": "330백만원\n(연간)",
+      "real_exc_dtls_time": "2,951시간",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001877",
+      "corp_cls": "Y",
+      "corp_code": "00109824",
+      "corp_name": "대림통상",
+      "bsns_year": "제52기 (전전기)",
+      "adtor": "삼화회계법인",
+      "cn": "반기재무제표 검토, 개별재무제표\n 및 연결재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "260백만원(연간)",
+      "adt_cntrct_dtls_time": "2,080시간",
+      "real_exc_dtls_mendng": "260백만원\n(연간)",
+      "real_exc_dtls_time": "2,270시간",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

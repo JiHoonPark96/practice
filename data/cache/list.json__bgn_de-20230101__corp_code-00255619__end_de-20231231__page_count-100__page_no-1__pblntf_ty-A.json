@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "stock_code": "035250",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002377",
+      "flr_nm": "강원랜드",
+      "rcept_dt": "20231114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "stock_code": "035250",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814000788",
+      "flr_nm": "강원랜드",
+      "rcept_dt": "20230814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "stock_code": "035250",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002375",
+      "flr_nm": "강원랜드",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00255619",
+      "corp_name": "강원랜드",
+      "stock_code": "035250",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230321000399",
+      "flr_nm": "강원랜드",
+      "rcept_dt": "20230321",
+      "rm": "연"
+    }
+  ]
+}

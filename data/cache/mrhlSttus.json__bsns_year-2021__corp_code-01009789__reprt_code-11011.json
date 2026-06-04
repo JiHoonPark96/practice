@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816001048",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "se": "소액주주",
+      "shrholdr_co": "44,007",
+      "shrholdr_tot_co": "44,021",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "6,159,210",
+      "stock_tot_co": "11,345,662",
+      "hold_stock_rate": "54.29%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

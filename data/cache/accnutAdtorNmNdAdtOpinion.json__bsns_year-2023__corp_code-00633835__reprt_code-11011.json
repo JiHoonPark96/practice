@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제17기(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 해당사항 없음",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 총계약원가에 대한 추정의 불확실성\n- 산정된 공사진행률\n- 계약자산금액의 회수가능성에 대한 평가\n- 공사변경에 따른 회계처리의 적절성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제16기(전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 해당사항 없음",
+      "core_adt_matter": "- 진행기준 수익인식\n- 이연법인세자산의 회수가능성 평가",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240523000216",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제15기(전전기)",
+      "adtor": "한울회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-  최대주주 변경 및 채권금융기관\n   공동관리(자율협약) 종결 등\n-  자산재평가",
+      "core_adt_matter": "- 진행기준 수익인식\n- 이연법인세자산의 회수가능성 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

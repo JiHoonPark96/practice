@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002397",
+      "corp_cls": "Y",
+      "corp_code": "00108746",
+      "corp_name": "DKME",
+      "se": "소액주주",
+      "shrholdr_co": "7,269",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "53,515,309",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "42.90%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

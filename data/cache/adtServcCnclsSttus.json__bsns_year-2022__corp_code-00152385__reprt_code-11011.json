@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230327000820",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제52기 \n(당기)",
+      "adtor": "인덕회계법인",
+      "cn": "재고실사,분반기검토\n중간감사,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "398백만원",
+      "adt_cntrct_dtls_time": "2,975H",
+      "real_exc_dtls_mendng": "398백만원",
+      "real_exc_dtls_time": "3,887H",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230327000820",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제51기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "재고실사,분반기검토\n중간감사,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "290백만원",
+      "adt_cntrct_dtls_time": "2,485H",
+      "real_exc_dtls_mendng": "290백만원",
+      "real_exc_dtls_time": "2,577H",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230327000820",
+      "corp_cls": "Y",
+      "corp_code": "00152385",
+      "corp_name": "에이프로젠",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "재고실사,반기검토\n중간감사,기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "160백만원",
+      "adt_cntrct_dtls_time": "1,212H",
+      "real_exc_dtls_mendng": "160백만원",
+      "real_exc_dtls_time": "1,227H",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

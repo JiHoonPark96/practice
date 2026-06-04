@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001672",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "stock_knd": "보통주",
+      "nm": "무림페이퍼(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "41,766,807",
+      "bsis_posesn_stock_qota_rt": "66.97",
+      "trmend_posesn_stock_co": "41,766,807",
+      "trmend_posesn_stock_qota_rt": "66.97",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001672",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "41,766,807",
+      "bsis_posesn_stock_qota_rt": "66.97",
+      "trmend_posesn_stock_co": "41,766,807",
+      "trmend_posesn_stock_qota_rt": "66.97",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001672",
+      "corp_cls": "Y",
+      "corp_code": "00119007",
+      "corp_name": "무림P&P",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_code": "055490",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.09)",
+      "rcept_no": "20211112000537",
+      "flr_nm": "테이팩스",
+      "rcept_dt": "20211112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_code": "055490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211109000035",
+      "flr_nm": "테이팩스",
+      "rcept_dt": "20211109",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_code": "055490",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20210810000323",
+      "flr_nm": "테이팩스",
+      "rcept_dt": "20210810",
+      "rm": ""
+    },
+    {
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_code": "055490",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210809000293",
+      "flr_nm": "테이팩스",
+      "rcept_dt": "20210809",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_code": "055490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210507000202",
+      "flr_nm": "테이팩스",
+      "rcept_dt": "20210507",
+      "rm": ""
+    },
+    {
+      "corp_code": "00256955",
+      "corp_name": "테이팩스",
+      "stock_code": "055490",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210305000809",
+      "flr_nm": "테이팩스",
+      "rcept_dt": "20210305",
+      "rm": "연"
+    }
+  ]
+}

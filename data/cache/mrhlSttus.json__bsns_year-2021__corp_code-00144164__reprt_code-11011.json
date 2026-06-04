@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001245",
+      "corp_cls": "Y",
+      "corp_code": "00144164",
+      "corp_name": "SK가스",
+      "se": "소액주주",
+      "shrholdr_co": "14,456",
+      "shrholdr_tot_co": "14,464",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "1,835,488",
+      "stock_tot_co": "8,975,046",
+      "hold_stock_rate": "20.45%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

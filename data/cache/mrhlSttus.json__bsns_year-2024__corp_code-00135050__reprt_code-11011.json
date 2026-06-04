@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000584",
+      "corp_cls": "Y",
+      "corp_code": "00135050",
+      "corp_name": "팜젠사이언스",
+      "se": "소액주주",
+      "shrholdr_co": "21,103",
+      "shrholdr_tot_co": "21,113",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "14,258,973",
+      "stock_tot_co": "18,159,394",
+      "hold_stock_rate": "78.52%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

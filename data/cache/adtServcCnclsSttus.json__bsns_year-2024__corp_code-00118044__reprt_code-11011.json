@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250404003738",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "bsns_year": "제55기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별 및 연결 반기검토,\n\n중간감사, 재고실사,\n\n기말감사, 내부회계관리제도 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,430",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,329",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250404003738",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "bsns_year": "제54기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "개별 및 연결 반기검토,\n\n중간감사, 재고실사,\n\n기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "2,000",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "1,959",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250404003738",
+      "corp_cls": "Y",
+      "corp_code": "00118044",
+      "corp_name": "동원수산",
+      "bsns_year": "제53기(전전기)",
+      "adtor": "다산회계법인",
+      "cn": "개별 및 연결 반기검토,\n\n중간감사, 재고실사,\n\n기말감사, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110",
+      "adt_cntrct_dtls_time": "1,400",
+      "real_exc_dtls_mendng": "110",
+      "real_exc_dtls_time": "1,281",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

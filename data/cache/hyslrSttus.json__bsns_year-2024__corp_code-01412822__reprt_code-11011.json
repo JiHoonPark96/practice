@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251121000498",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "스카이레이크\n롱텀스트래티직\n인베스트먼트 주식회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "18,663,920",
+      "bsis_posesn_stock_qota_rt": "41.06",
+      "trmend_posesn_stock_co": "37,327,840",
+      "trmend_posesn_stock_qota_rt": "41.06",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251121000498",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "진대제",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "39,400",
+      "bsis_posesn_stock_qota_rt": "0.09",
+      "trmend_posesn_stock_co": "78,800",
+      "trmend_posesn_stock_qota_rt": "0.09",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251121000498",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "곽근만",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "1,800",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "3,600",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251121000498",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "18,705,120",
+      "bsis_posesn_stock_qota_rt": "41.15",
+      "trmend_posesn_stock_co": "37,406,640",
+      "trmend_posesn_stock_qota_rt": "41.15",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20251121000498",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "종류주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

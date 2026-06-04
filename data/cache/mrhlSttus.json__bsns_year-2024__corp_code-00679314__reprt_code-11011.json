@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250515001393",
+      "corp_cls": "Y",
+      "corp_code": "00679314",
+      "corp_name": "동성케미컬",
+      "se": "소액주주",
+      "shrholdr_co": "10,449",
+      "shrholdr_tot_co": "10,458",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "26,075,887",
+      "stock_tot_co": "49,689,728",
+      "hold_stock_rate": "52.49%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

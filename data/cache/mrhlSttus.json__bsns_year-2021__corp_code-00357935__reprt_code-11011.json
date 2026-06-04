@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001149",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "se": "소액주주",
+      "shrholdr_co": "11,409",
+      "shrholdr_tot_co": "11,412",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "12,943,467",
+      "stock_tot_co": "31,900,000",
+      "hold_stock_rate": "40.58%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

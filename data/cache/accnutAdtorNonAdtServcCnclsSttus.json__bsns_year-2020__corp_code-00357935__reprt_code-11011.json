@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317001144",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제21기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001144",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제20기(전기)",
+      "cntrct_cncls_de": "2020.03",
+      "servc_cn": "세무조정 \n용역-",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "13,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317001144",
+      "corp_cls": "Y",
+      "corp_code": "00357935",
+      "corp_name": "HDC현대EP",
+      "bsns_year": "제19기(전전기)",
+      "cntrct_cncls_de": "2019.02",
+      "servc_cn": "세무조정 \n용역",
+      "servc_exc_pd": "1년",
+      "servc_mendng": "13,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

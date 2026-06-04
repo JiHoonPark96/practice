@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003844",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제53기",
+      "cntrct_cncls_de": "2019.03.31",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "18.4.1~19.3.31",
+      "servc_mendng": "5.5백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003844",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제52기",
+      "cntrct_cncls_de": "2018.03.31",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "17.4.1~18.3.31",
+      "servc_mendng": "5.5 백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003844",
+      "corp_cls": "Y",
+      "corp_code": "00172936",
+      "corp_name": "동일산업",
+      "bsns_year": "제51기",
+      "cntrct_cncls_de": "2017.03.31",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "16.4.1~17.3.31",
+      "servc_mendng": "5.5 백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

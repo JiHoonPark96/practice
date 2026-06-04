@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220316001352",
+      "corp_cls": "Y",
+      "corp_code": "01478712",
+      "corp_name": "대덕전자",
+      "se": "소액주주",
+      "shrholdr_co": "64,499",
+      "shrholdr_tot_co": "64,507",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "29,157,975",
+      "stock_tot_co": "49,416,925",
+      "hold_stock_rate": "59.00%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

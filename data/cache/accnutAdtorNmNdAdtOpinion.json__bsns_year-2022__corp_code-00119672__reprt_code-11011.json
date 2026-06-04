@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230713000062",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제40기\n (당기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결, 별도)\n해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 영업권이 배분된 현금창출단위의 손상평가\n(별도재무제표)\n1. 종속기업투자주식의 회수가능액 검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000062",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제39기\n (전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결, 별도)\n해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 종속부문의 영업권을 포함한 현금창출단위 손상평가\n(별도재무제표)\n1. 종속기업투자주식의 손상평가",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230713000062",
+      "corp_cls": "Y",
+      "corp_code": "00119672",
+      "corp_name": "두올",
+      "bsns_year": "제38기\n (전전기)",
+      "adtor": "EY한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "(연결, 별도)\n해당사항 없음",
+      "core_adt_matter": "(연결재무제표)\n1. 영업권의 손상검토\n(별도재무제표)\n1. 종속기업투자주식의 손상평가",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

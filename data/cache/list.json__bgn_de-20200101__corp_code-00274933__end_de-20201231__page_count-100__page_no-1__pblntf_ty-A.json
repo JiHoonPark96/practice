@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "stock_code": "031440",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.09)",
+      "rcept_no": "20201126000685",
+      "flr_nm": "신세계푸드",
+      "rcept_dt": "20201126",
+      "rm": ""
+    },
+    {
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "stock_code": "031440",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001716",
+      "flr_nm": "신세계푸드",
+      "rcept_dt": "20201116",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "stock_code": "031440",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814002812",
+      "flr_nm": "신세계푸드",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "stock_code": "031440",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200519000257",
+      "flr_nm": "신세계푸드",
+      "rcept_dt": "20200519",
+      "rm": ""
+    },
+    {
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "stock_code": "031440",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515002628",
+      "flr_nm": "신세계푸드",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00274933",
+      "corp_name": "신세계푸드",
+      "stock_code": "031440",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330004324",
+      "flr_nm": "신세계푸드",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    }
+  ]
+}

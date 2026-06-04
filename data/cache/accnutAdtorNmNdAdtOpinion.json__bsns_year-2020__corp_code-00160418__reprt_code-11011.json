@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318000594",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제47기(당기)",
+      "adtor": "성현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항없음",
+      "core_adt_matter": "제품 판매로 인한 수익 인식\n(*1)",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000594",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제46기(전기)",
+      "adtor": "성도이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항없음",
+      "core_adt_matter": "제품 판매로 인한 수익 인식",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318000594",
+      "corp_cls": "Y",
+      "corp_code": "00160418",
+      "corp_name": "한국무브넥스",
+      "bsns_year": "제45기(전전기)",
+      "adtor": "이현회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특이사항없음",
+      "core_adt_matter": "해당사항없음",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

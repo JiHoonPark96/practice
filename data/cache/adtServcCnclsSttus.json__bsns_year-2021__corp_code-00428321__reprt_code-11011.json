@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220817000003",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "bsns_year": "제21기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "330",
+      "adt_cntrct_dtls_time": "3,410",
+      "real_exc_dtls_mendng": "330",
+      "real_exc_dtls_time": "3,339",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220817000003",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "bsns_year": "제20기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300",
+      "adt_cntrct_dtls_time": "3,100",
+      "real_exc_dtls_mendng": "300",
+      "real_exc_dtls_time": "3,661",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220817000003",
+      "corp_cls": "Y",
+      "corp_code": "00428321",
+      "corp_name": "해태제과식품",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "상동",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "2,834",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,978",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

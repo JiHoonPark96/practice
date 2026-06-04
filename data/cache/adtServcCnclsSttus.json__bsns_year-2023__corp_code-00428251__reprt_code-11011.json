@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000213",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "1분기검토\n반기검토\n3분기검토\n중간감사\n재고실사\n금융실사\n기말감사\n연결감사\n내부회계 설계평가\n내부회계 운영평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "860",
+      "adt_cntrct_dtls_time": "8,600",
+      "real_exc_dtls_mendng": "860",
+      "real_exc_dtls_time": "8,598",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000213",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제21기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "1분기검토\n반기검토\n3분기검토\n중간감사\n재고실사\n금융실사\n기말감사\n연결감사\n내부회계 설계평가\n내부회계 운영평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "867",
+      "adt_cntrct_dtls_time": "7,880",
+      "real_exc_dtls_mendng": "867",
+      "real_exc_dtls_time": "7,883",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000213",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "bsns_year": "제20기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "1분기검토\n반기검토\n3분기검토\n중간감사\n재고실사\n금융실사\n기말감사\n연결감사\n내부회계 설계평가\n내부회계 운영평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "855",
+      "adt_cntrct_dtls_time": "7,880",
+      "real_exc_dtls_mendng": "855",
+      "real_exc_dtls_time": "7,881",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

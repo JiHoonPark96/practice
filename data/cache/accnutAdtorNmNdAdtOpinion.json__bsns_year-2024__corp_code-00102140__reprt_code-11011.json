@@ -1,0 +1,78 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000686",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제52기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000686",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제52기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "매출수익인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000686",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제51기(전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상품과 부품 판매로 인한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000686",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제51기(전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상품과 부품 판매로 인한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000686",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상품과 부품 판매로 인한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250312000686",
+      "corp_cls": "Y",
+      "corp_code": "00102140",
+      "corp_name": "경인전자",
+      "bsns_year": "제50기(전전기)",
+      "adtor": "대현회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "상품과 부품 판매로 인한 수익 인식",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000435",
+      "corp_cls": "Y",
+      "corp_code": "00167208",
+      "corp_name": "흥아해운",
+      "se": "소액주주",
+      "shrholdr_co": "34,246",
+      "shrholdr_tot_co": "34,248",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "33,405,099",
+      "stock_tot_co": "204,424,899",
+      "hold_stock_rate": "13.89%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000506",
+      "corp_cls": "Y",
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "se": "소액주주",
+      "shrholdr_co": "21,097",
+      "shrholdr_tot_co": "21,102",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "9,578,002",
+      "stock_tot_co": "22,907,016",
+      "hold_stock_rate": "41.82%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

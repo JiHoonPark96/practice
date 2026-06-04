@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000557",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": " 제65기(당기)",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산의 평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000557",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": " 제65기(당기)",
+      "adtor": "태성회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "\"",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000557",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": " 제64기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "해외매출의 기말 기간\n귀속의 적정성",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000557",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": " 제64기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "\"",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000557",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산평가충당부채",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250317000557",
+      "corp_cls": "Y",
+      "corp_code": "00174004",
+      "corp_name": "유성기업",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "\"",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제11기\n(당기)",
+      "cntrct_cncls_de": "2021.05.06",
+      "servc_cn": "PK마린시티점 매출액 확인\n용산점 매출액 확인",
+      "servc_exc_pd": "2021.05.06~2021.05.10\n2021.05.06~2021.05.14",
+      "servc_mendng": "1.5\n1.5",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제10기\n(전기)",
+      "cntrct_cncls_de": "2020.03.27",
+      "servc_cn": "PK마린시티점 매출액 확인\n용산점 매출액 확인",
+      "servc_exc_pd": "2020.03.27~2020.04.08\n2020.03.27~2020.04.08",
+      "servc_mendng": "1.5\n1.5",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전전기)",
+      "cntrct_cncls_de": "2019.04.02",
+      "servc_cn": "PK마린시티점 매출액 확인\n용산점 매출액 확인",
+      "servc_exc_pd": "2019.04.02~2019.04.12\n2019.04.02~2019.04.12",
+      "servc_mendng": "1.5\n1.5",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전전기)",
+      "cntrct_cncls_de": "2019.04.23",
+      "servc_cn": "부츠 매출액 확인",
+      "servc_exc_pd": "2019.04.23~2019.04.29",
+      "servc_mendng": "4",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000177",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전전기)",
+      "cntrct_cncls_de": "2019.10.22",
+      "servc_cn": "수입판매업 매출액 확인",
+      "servc_exc_pd": "2019.10.22~2019.10.30",
+      "servc_mendng": "2.5",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

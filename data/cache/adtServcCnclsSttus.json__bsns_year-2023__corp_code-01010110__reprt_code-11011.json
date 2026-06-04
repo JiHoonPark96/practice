@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001599",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제12기\n(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "K-IFRS 연결 및 별도 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "250",
+      "adt_cntrct_dtls_time": "2,340 Hr",
+      "real_exc_dtls_mendng": "250",
+      "real_exc_dtls_time": "2,397 Hr",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001599",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제11기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "K-IFRS 연결 및 별도 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "2,200 Hr",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "2,223 Hr",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001599",
+      "corp_cls": "Y",
+      "corp_code": "01010110",
+      "corp_name": "더블유게임즈",
+      "bsns_year": "제10기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "K-IFRS 연결 및 별도 감사 및 검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "205",
+      "adt_cntrct_dtls_time": "2,200 Hr",
+      "real_exc_dtls_mendng": "205",
+      "real_exc_dtls_time": "2,135 Hr",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

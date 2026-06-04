@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000632",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 49 기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000632",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 48 기(전기)",
+      "cntrct_cncls_de": "2020.01.21",
+      "servc_cn": "2019년 세무조정 업무",
+      "servc_exc_pd": "20.01.21 ~ 20.03.31",
+      "servc_mendng": "8.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210319000632",
+      "corp_cls": "Y",
+      "corp_code": "00145446",
+      "corp_name": "이건산업",
+      "bsns_year": "제 47 기(전전기)",
+      "cntrct_cncls_de": "2018.02.21",
+      "servc_cn": "2018년 세무조정 업무",
+      "servc_exc_pd": "18.02.21 ~ 19.03.31",
+      "servc_mendng": "8.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

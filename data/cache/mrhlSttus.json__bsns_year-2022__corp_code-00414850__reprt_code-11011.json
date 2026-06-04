@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001063",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "se": "소액주주",
+      "shrholdr_co": "11,156",
+      "shrholdr_tot_co": "11,161",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "2,665,937",
+      "stock_tot_co": "11,558,200",
+      "hold_stock_rate": "23.07%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

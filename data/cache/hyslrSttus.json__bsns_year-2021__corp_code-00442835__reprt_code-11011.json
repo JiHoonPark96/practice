@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000674",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "stock_knd": "보통주",
+      "nm": "이종우",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "11,294,817",
+      "bsis_posesn_stock_qota_rt": "17.73",
+      "trmend_posesn_stock_co": "11,294,817",
+      "trmend_posesn_stock_qota_rt": "15.28",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000674",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "stock_knd": "보통주",
+      "nm": "주식회사 리팅랩스",
+      "relate": "기타",
+      "bsis_posesn_stock_co": "0",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "7,017,543",
+      "trmend_posesn_stock_qota_rt": "9.49",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000674",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "11,294,817",
+      "bsis_posesn_stock_qota_rt": "17.73",
+      "trmend_posesn_stock_co": "18,312,360",
+      "trmend_posesn_stock_qota_rt": "24.77",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000674",
+      "corp_cls": "Y",
+      "corp_code": "00442835",
+      "corp_name": "메타랩스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

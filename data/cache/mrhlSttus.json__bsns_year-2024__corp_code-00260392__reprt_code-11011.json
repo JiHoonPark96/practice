@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250313000035",
+      "corp_cls": "Y",
+      "corp_code": "00260392",
+      "corp_name": "대원전선",
+      "se": "소액주주",
+      "shrholdr_co": "62,223",
+      "shrholdr_tot_co": "63,385",
+      "shrholdr_rate": "98.17%",
+      "hold_stock_co": "51,610,412",
+      "stock_tot_co": "77,600,375",
+      "hold_stock_rate": "66.51%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

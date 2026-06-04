@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "stock_code": "001080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002478",
+      "flr_nm": "만호제강",
+      "rcept_dt": "20241114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "stock_code": "001080",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.06)",
+      "rcept_no": "20240920000456",
+      "flr_nm": "만호제강",
+      "rcept_dt": "20240923",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "stock_code": "001080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516000239",
+      "flr_nm": "만호제강",
+      "rcept_dt": "20240516",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "stock_code": "001080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.12)",
+      "rcept_no": "20240214002437",
+      "flr_nm": "만호제강",
+      "rcept_dt": "20240214",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120872",
+      "corp_name": "만호제강",
+      "stock_code": "001080",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.12)",
+      "rcept_no": "20240214001766",
+      "flr_nm": "만호제강",
+      "rcept_dt": "20240214",
+      "rm": "정"
+    }
+  ]
+}

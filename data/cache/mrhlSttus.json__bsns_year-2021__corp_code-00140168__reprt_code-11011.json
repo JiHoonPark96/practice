@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001091",
+      "corp_cls": "Y",
+      "corp_code": "00140168",
+      "corp_name": "HS애드",
+      "se": "소액주주",
+      "shrholdr_co": "6,031",
+      "shrholdr_tot_co": "6,036",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "5,241,508",
+      "stock_tot_co": "16,567,409",
+      "hold_stock_rate": "31.64%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

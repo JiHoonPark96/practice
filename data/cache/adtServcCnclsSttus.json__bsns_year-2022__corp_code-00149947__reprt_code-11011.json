@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001149",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제67기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "2022년도 분,반기검토 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "445",
+      "adt_cntrct_dtls_time": "3,700",
+      "real_exc_dtls_mendng": "445",
+      "real_exc_dtls_time": "3,912",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001149",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제66기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "2021년도 분,반기검토 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "375",
+      "adt_cntrct_dtls_time": "3,500",
+      "real_exc_dtls_mendng": "375",
+      "real_exc_dtls_time": "3,589",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001149",
+      "corp_cls": "Y",
+      "corp_code": "00149947",
+      "corp_name": "JW중외제약",
+      "bsns_year": "제65기(전기)",
+      "adtor": "이촌회계법인",
+      "cn": "2020년도 분,반기검토 및 기말감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "415",
+      "adt_cntrct_dtls_time": "4,355",
+      "real_exc_dtls_mendng": "286",
+      "real_exc_dtls_time": "4,355",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

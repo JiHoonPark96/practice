@@ -1,0 +1,120 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 10,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20231122000379",
+      "flr_nm": "대교",
+      "rcept_dt": "20231122",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231114002890",
+      "flr_nm": "대교",
+      "rcept_dt": "20231114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2023.06)",
+      "rcept_no": "20230821000245",
+      "flr_nm": "대교",
+      "rcept_dt": "20230821",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230814003078",
+      "flr_nm": "대교",
+      "rcept_dt": "20230814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230713000378",
+      "flr_nm": "대교",
+      "rcept_dt": "20230713",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002806",
+      "flr_nm": "대교",
+      "rcept_dt": "20230515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.09)",
+      "rcept_no": "20230321000083",
+      "flr_nm": "대교",
+      "rcept_dt": "20230321",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20230321000077",
+      "flr_nm": "대교",
+      "rcept_dt": "20230321",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2022.03)",
+      "rcept_no": "20230321000071",
+      "flr_nm": "대교",
+      "rcept_dt": "20230321",
+      "rm": ""
+    },
+    {
+      "corp_code": "00108913",
+      "corp_name": "대교",
+      "stock_code": "019680",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230320001024",
+      "flr_nm": "대교",
+      "rcept_dt": "20230320",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230315001431",
+      "corp_cls": "Y",
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "se": "소액주주",
+      "shrholdr_co": "81,590",
+      "shrholdr_tot_co": "81,654",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "34,728,777",
+      "stock_tot_co": "73,231,476",
+      "hold_stock_rate": "47.42%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

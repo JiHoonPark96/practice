@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001045",
+      "corp_cls": "Y",
+      "corp_code": "00428251",
+      "corp_name": "현대백화점",
+      "drctr_co": "9",
+      "otcmp_drctr_co": "5",
+      "apnt": "3",
+      "rlsofc": "-",
+      "mdstrm_resig": "1",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

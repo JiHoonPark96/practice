@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250317000808",
+      "corp_cls": "Y",
+      "corp_code": "00129013",
+      "corp_name": "CJ씨푸드",
+      "se": "소액주주",
+      "shrholdr_co": "74,161",
+      "shrholdr_tot_co": "74,164",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "18,438,000",
+      "stock_tot_co": "36,131,000",
+      "hold_stock_rate": "51.03%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

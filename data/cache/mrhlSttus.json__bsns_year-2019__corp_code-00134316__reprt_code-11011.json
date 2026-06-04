@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230228006816",
+      "corp_cls": "Y",
+      "corp_code": "00134316",
+      "corp_name": "세원정공",
+      "se": "소액주주",
+      "shrholdr_co": "1,847",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "98.93%",
+      "hold_stock_co": "2,367,942",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "23.68%",
+      "stlm_dt": "2019-06-30"
+    }
+  ]
+}

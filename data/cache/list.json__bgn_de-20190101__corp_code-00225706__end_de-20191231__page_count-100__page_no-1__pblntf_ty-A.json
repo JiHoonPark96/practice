@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114002383",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20191114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814002751",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20190814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190730000355",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20190730",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.03)",
+      "rcept_no": "20190517000382",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20190517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515002581",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20190515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190401004712",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20190401",
+      "rm": "정연"
+    }
+  ]
+}

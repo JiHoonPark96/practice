@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321000875",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "bsns_year": "제14기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "반기검토, 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "200,000,000",
+      "adt_cntrct_dtls_time": "1,020",
+      "real_exc_dtls_mendng": "200,000,000",
+      "real_exc_dtls_time": "1,165",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000875",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "bsns_year": "제13기(전기)",
+      "adtor": "신한회계법인",
+      "cn": "반기검토, 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "145,000,000",
+      "adt_cntrct_dtls_time": "920",
+      "real_exc_dtls_mendng": "145,000,000",
+      "real_exc_dtls_time": "920",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321000875",
+      "corp_cls": "Y",
+      "corp_code": "00652423",
+      "corp_name": "인바이오젠",
+      "bsns_year": "제12기(전전기)",
+      "adtor": "이정지율회계법인",
+      "cn": "반기검토, 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120,000,000",
+      "adt_cntrct_dtls_time": "901",
+      "real_exc_dtls_mendng": "120,000,000",
+      "real_exc_dtls_time": "901",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

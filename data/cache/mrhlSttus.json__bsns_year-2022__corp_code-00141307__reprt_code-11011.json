@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230713000143",
+      "corp_cls": "Y",
+      "corp_code": "00141307",
+      "corp_name": "영풍",
+      "se": "소액주주",
+      "shrholdr_co": "5,821",
+      "shrholdr_tot_co": "5,842",
+      "shrholdr_rate": "99.64%",
+      "hold_stock_co": "296,213",
+      "stock_tot_co": "1,842,040",
+      "hold_stock_rate": "16.08%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

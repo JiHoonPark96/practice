@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250728000359",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제38기\n(당기)",
+      "adtor": "선진회계법인",
+      "cn": "예비감사,반기검토, 중간감사\n재고실사입회,금융기관조회,기말감사,\n보고서작성,내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "210",
+      "adt_cntrct_dtls_time": "1,900",
+      "real_exc_dtls_mendng": "210",
+      "real_exc_dtls_time": "1,721",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250728000359",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제37기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": "예비감사,반기검토, 중간감사\n재고실사입회,금융기관조회,기말감사,\n보고서작성,내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "178",
+      "adt_cntrct_dtls_time": "1,800",
+      "real_exc_dtls_mendng": "178",
+      "real_exc_dtls_time": "1,694",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250728000359",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제36기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "예비감사,반기검토, 중간감사\n재고실사입회,금융기관조회,기말감사,\n보고서작성,내부회계관리 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "170",
+      "adt_cntrct_dtls_time": "1,750",
+      "real_exc_dtls_mendng": "170",
+      "real_exc_dtls_time": "1,799",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

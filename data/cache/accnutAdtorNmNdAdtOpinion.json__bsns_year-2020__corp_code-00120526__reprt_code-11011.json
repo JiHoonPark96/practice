@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000915",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "bsns_year": "제 51 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금흐름창출단위손상,\n구조조정회계처리",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000915",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "bsns_year": "제 50 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금창출단위 손상,\n기업회계기준서 제 1116호 리스",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210315000915",
+      "corp_cls": "Y",
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "bsns_year": "제 49 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "현금흐름창출단위 손상,\n중단영업",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

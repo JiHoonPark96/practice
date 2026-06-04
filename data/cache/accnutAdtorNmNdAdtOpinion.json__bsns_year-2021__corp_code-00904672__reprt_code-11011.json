@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제11기\n(당기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도 : 종속기업투자에 대한 손상연결 : 영업권에 대한 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제10기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도: 종속기업투자에 대한 손상\n연결: 영업권에 대한 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220321001426",
+      "corp_cls": "Y",
+      "corp_code": "00904672",
+      "corp_name": "넷마블",
+      "bsns_year": "제9기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "별도: 종속기업투자에 대한 손상\n연결: 영업권에 대한 손상",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001765",
+      "corp_cls": "Y",
+      "corp_code": "00102618",
+      "corp_name": "계양전기",
+      "se": "소액주주",
+      "shrholdr_co": "11,469",
+      "shrholdr_tot_co": "11,481",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "14,192,706",
+      "stock_tot_co": "27,222,829",
+      "hold_stock_rate": "52.14%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001129",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제62기(당기)",
+      "adtor": "광교회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업투자 및 영업권 손상",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001129",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제61기(전기)",
+      "adtor": "광교회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "종속기업 및 관계기업투자 손상",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240320001129",
+      "corp_cls": "Y",
+      "corp_code": "00169048",
+      "corp_name": "HLB글로벌",
+      "bsns_year": "제60기(전전기)",
+      "adtor": "광교회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "전기재무제표 재작성\n(연결재무제표 주석37, 별도재무제표 주석36 참고)",
+      "core_adt_matter": "영업권, 종속기업 및 관계기업투자 손상",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

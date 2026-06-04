@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000591",
+      "corp_cls": "Y",
+      "corp_code": "00106669",
+      "corp_name": "세아베스틸지주",
+      "se": "소액주주",
+      "shrholdr_co": "23,447",
+      "shrholdr_tot_co": "23,451",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "11,844,422",
+      "stock_tot_co": "35,862,119",
+      "hold_stock_rate": "33.02%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

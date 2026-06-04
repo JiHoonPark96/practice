@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210322000283",
+      "corp_cls": "Y",
+      "corp_code": "00167192",
+      "corp_name": "넥센",
+      "se": "소액주주",
+      "shrholdr_co": "3,718",
+      "shrholdr_tot_co": "3,726",
+      "shrholdr_rate": "99.79%",
+      "hold_stock_co": "10,459,929",
+      "stock_tot_co": "52,579,183",
+      "hold_stock_rate": "19.89%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

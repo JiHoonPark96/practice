@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230331000007",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "se": "소액주주",
+      "shrholdr_co": "14,258",
+      "shrholdr_tot_co": "14,265",
+      "shrholdr_rate": "99.95%",
+      "hold_stock_co": "4,165,028",
+      "stock_tot_co": "12,523,850",
+      "hold_stock_rate": "33.26%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

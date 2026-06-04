@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321000939",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제21기\n(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "서현회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000939",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제20기\n(당기)",
+      "cntrct_cncls_de": "'22.08.01",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'22.04.01~'25.03.31",
+      "servc_mendng": "16백만원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321000939",
+      "corp_cls": "Y",
+      "corp_code": "00480455",
+      "corp_name": "STX엔진",
+      "bsns_year": "제19기\n(전기)",
+      "cntrct_cncls_de": "'22.08.01",
+      "servc_cn": "세무조정용역",
+      "servc_exc_pd": "'22.04.01~'25.03.31",
+      "servc_mendng": "16백만원",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

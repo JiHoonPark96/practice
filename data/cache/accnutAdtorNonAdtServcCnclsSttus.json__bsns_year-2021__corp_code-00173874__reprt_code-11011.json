@@ -1,0 +1,58 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000955",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제64기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "신한회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000955",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제63기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "신한회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000955",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제62기(전전기)",
+      "cntrct_cncls_de": "2019.10",
+      "servc_cn": "세액공제 경정청구 관련 세무자문",
+      "servc_exc_pd": "2019.10~2020.07",
+      "servc_mendng": "500",
+      "rm": "한영회계법인",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000955",
+      "corp_cls": "Y",
+      "corp_code": "00173874",
+      "corp_name": "넥센타이어",
+      "bsns_year": "제62기(전전기)",
+      "cntrct_cncls_de": "2019.05",
+      "servc_cn": "글로벌 이전가격 정책 수립 용역",
+      "servc_exc_pd": "2019.05~2019.12",
+      "servc_mendng": "180",
+      "rm": "한영회계법인",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003755",
+      "corp_cls": "Y",
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "se": "소액주주",
+      "shrholdr_co": "18,513",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.91%",
+      "hold_stock_co": "5,139,593",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "51.13%",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

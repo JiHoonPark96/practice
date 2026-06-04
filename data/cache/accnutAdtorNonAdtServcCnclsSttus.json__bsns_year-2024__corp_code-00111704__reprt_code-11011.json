@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2024-08-01",
+      "servc_cn": "2023사업연도 국가별보고서, 통합기업보고서,\n개별기업보고서 작성 및 신고",
+      "servc_exc_pd": "2024-08 ~ 2024-12",
+      "servc_mendng": "22백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2024-08-06",
+      "servc_cn": "XBRL공시를 위한 XBRL공시 효율화 프로그램",
+      "servc_exc_pd": "2024-08 ~ 2024-12",
+      "servc_mendng": "50백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2024-10-30",
+      "servc_cn": "구매경쟁력 강화 컨설팅",
+      "servc_exc_pd": "2024-10 ~ 2025-01",
+      "servc_mendng": "490백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제25기(당기)",
+      "cntrct_cncls_de": "2024-10-30",
+      "servc_cn": "ESG 전략과제 로드맵 수립 자문용역",
+      "servc_exc_pd": "2024-10 ~ 2024-11",
+      "servc_mendng": "35백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2023-06-09",
+      "servc_cn": "구, 대우조선해양 공정위 계열제외\n신고서 제출을 위한 계열사간 거래현황 확인 관련\n합의된 절차 보고서",
+      "servc_exc_pd": "2023-06 ~ 2023-07",
+      "servc_mendng": "30백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2023-08-01",
+      "servc_cn": "국세청 제출을 위한 국외특수관계인\n과의 거래내역보고서",
+      "servc_exc_pd": "2023-08 ~2023-12",
+      "servc_mendng": "20백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제24기(전기)",
+      "cntrct_cncls_de": "2023-11-08",
+      "servc_cn": "해양프로젝트의 발주처에 청구할 Cost\nClaim 문서관련 회사의 재무 및 시수정보에\n대한 합의된 절차 수행",
+      "servc_exc_pd": "2023-11",
+      "servc_mendng": "10백만원",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250314001630",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제23기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

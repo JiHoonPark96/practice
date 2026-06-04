@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240328000654",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "bsns_year": "제50기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "큐셀부문 수출매출 기간귀속(별도) 및\nQ Energy Mediterranee 영업권 손상 검토(연결)",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000654",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "bsns_year": "제49기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "Q Energy Mediterranee 영업권 손상 검토 및큐셀 부문 수출매출 수익인식 검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240328000654",
+      "corp_cls": "Y",
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "Hanwha Q CELLS Co.Ltd.의 종속기업투자주식 손상검토(별도) 및 영업권 손상 검토(연결) ",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

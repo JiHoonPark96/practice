@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200604000353",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제30기(당기)",
+      "adtor": "신한회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "○ 중단영업\n - 검침사업 부문은 2020년 1월 31일부로\n   한전엠씨에스주식회사로 이관\n○ 재무약정\n - 2020년 중에 (주)비즌비츠로1외 11개 태양광발전사업자에 대해 책임준공확약 및 책임운영확약에 따른 자금보충약정 등을 제공",
+      "core_adt_matter": "수익인식의\n적정성",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200604000353",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제29기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200604000353",
+      "corp_cls": "Y",
+      "corp_code": "00194947",
+      "corp_name": "한전산업",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "내부회계관리제도 한정의견",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

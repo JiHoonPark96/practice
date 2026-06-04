@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230412001808",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제54기(당기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "-계속기업 가정의 중요한 불확실성\n보고기간 손실 발생 및 장기차입금의 유동성 대체에 따른 유동부채 증가로 \n계속기업 가정의 중요한 불확실성이 존재함",
+      "core_adt_matter": "주요 영업부문 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230412001808",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제53기(전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 후속사건\n지배기업인 주식회사 대구백화점은 2022년 1월 20일자 이사회 결의에 따라대구백화점 본점 토지 및 지상 건축물 일체에 대한 자산양수도 계약을 체결",
+      "core_adt_matter": "주요 영업부문 손상",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230412001808",
+      "corp_cls": "Y",
+      "corp_code": "00108977",
+      "corp_name": "대구백화점",
+      "bsns_year": "제52기(전전기)",
+      "adtor": "삼덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "특기사항 없음",
+      "core_adt_matter": "주요 영업부문 손상",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

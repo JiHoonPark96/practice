@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000757",
+      "corp_cls": "Y",
+      "corp_code": "00145686",
+      "corp_name": "이화산업",
+      "drctr_co": "7",
+      "otcmp_drctr_co": "3",
+      "apnt": "0",
+      "rlsofc": "0",
+      "mdstrm_resig": "0",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

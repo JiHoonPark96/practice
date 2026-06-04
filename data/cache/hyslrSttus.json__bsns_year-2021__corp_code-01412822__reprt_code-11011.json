@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "스카이레이크 롱텀\n스트래티직 인베스트먼트\n주식회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "16,190,608",
+      "bsis_posesn_stock_qota_rt": "40.88",
+      "trmend_posesn_stock_co": "16,260,133",
+      "trmend_posesn_stock_qota_rt": "41.06",
+      "rm": "장내매수\n(주2)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "진대제",
+      "relate": "최대주주의\n특수관계인",
+      "bsis_posesn_stock_co": "1,200",
+      "bsis_posesn_stock_qota_rt": "0.00",
+      "trmend_posesn_stock_co": "1,200",
+      "trmend_posesn_stock_qota_rt": "0.00",
+      "rm": "장내매수\n(주3)",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "보통주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "16,191,808",
+      "bsis_posesn_stock_qota_rt": "40.88",
+      "trmend_posesn_stock_co": "16,261,333",
+      "trmend_posesn_stock_qota_rt": "41.06",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220812000796",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_knd": "종류주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

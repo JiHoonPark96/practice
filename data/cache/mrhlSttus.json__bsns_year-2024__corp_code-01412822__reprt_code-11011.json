@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20251121000498",
+      "corp_cls": "Y",
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "se": "소액주주",
+      "shrholdr_co": "81,911",
+      "shrholdr_tot_co": "81,971",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "42,483,467",
+      "stock_tot_co": "90,904,406",
+      "hold_stock_rate": "46.73%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

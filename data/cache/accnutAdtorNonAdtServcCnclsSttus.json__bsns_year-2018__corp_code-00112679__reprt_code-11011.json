@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002257",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제38기(당기)",
+      "cntrct_cncls_de": "2018.08.24",
+      "servc_cn": "연결종속회사 재무제표 검토 용역",
+      "servc_exc_pd": "2018.09.03~2018.10.12",
+      "servc_mendng": "50백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002257",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제37기(전기)",
+      "cntrct_cncls_de": "2017.06.12",
+      "servc_cn": "내부회계관리제도 업데이트 자문",
+      "servc_exc_pd": "2017.06.01~2017.07.31",
+      "servc_mendng": "5백만원",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002257",
+      "corp_cls": "Y",
+      "corp_code": "00112679",
+      "corp_name": "대창단조",
+      "bsns_year": "제36기 (전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

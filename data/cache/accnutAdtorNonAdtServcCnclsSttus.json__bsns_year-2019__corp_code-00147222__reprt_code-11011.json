@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제72기(당기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제71기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20210215001241",
+      "corp_cls": "Y",
+      "corp_code": "00147222",
+      "corp_name": "전방",
+      "bsns_year": "제70기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

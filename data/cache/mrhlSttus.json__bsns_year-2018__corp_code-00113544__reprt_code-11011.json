@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190417000580",
+      "corp_cls": "Y",
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "se": "소액주주",
+      "shrholdr_co": "818",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "97.73%",
+      "hold_stock_co": "245,019",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "18.45%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

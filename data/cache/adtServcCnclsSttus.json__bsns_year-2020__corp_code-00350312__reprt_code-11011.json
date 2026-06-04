@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000914",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "bsns_year": "제22기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175",
+      "adt_cntrct_dtls_time": "1,750",
+      "real_exc_dtls_mendng": "175",
+      "real_exc_dtls_time": "1,789",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000914",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "bsns_year": "제21기 (전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "148",
+      "adt_cntrct_dtls_time": "1,520",
+      "real_exc_dtls_mendng": "148",
+      "real_exc_dtls_time": "1,543",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000914",
+      "corp_cls": "Y",
+      "corp_code": "00350312",
+      "corp_name": "HDC랩스",
+      "bsns_year": "제20기 (전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "재무제표(K-IFRS) 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "78",
+      "adt_cntrct_dtls_time": "890",
+      "real_exc_dtls_mendng": "78",
+      "real_exc_dtls_time": "1,222",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

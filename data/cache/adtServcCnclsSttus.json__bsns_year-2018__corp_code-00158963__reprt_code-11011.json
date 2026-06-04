@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002631",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제32기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "예비감사,반기검토, 중간감사\n재고실사입회,금융기관조회,기말감사,\n보고서작성,내부회계관리 감사",
+      "mendng": "90,000,000",
+      "tot_reqre_time": "1,046",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002631",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제31기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "예비감사,반기검토, 중간감사\n재고실사입회,금융기관조회,기말감사,\n보고서작성,내부회계관리 감사",
+      "mendng": "78,000,000",
+      "tot_reqre_time": "1,158",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002631",
+      "corp_cls": "Y",
+      "corp_code": "00158963",
+      "corp_name": "유나이티드",
+      "bsns_year": "제30기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "예비감사,반기검토, 중간감사\n재고실사입회,금융기관조회,기말감사,\n보고서작성,내부회계관리 감사",
+      "mendng": "75,000,000",
+      "tot_reqre_time": "966",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

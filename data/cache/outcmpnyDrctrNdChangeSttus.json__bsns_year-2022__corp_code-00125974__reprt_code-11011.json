@@ -1,0 +1,18 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240821000566",
+      "corp_cls": "Y",
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "drctr_co": "8",
+      "otcmp_drctr_co": "2",
+      "apnt": "2",
+      "rlsofc": "-",
+      "mdstrm_resig": "2",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

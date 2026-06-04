@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_knd": "보통주",
+      "nm": "김상헌",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "4,940,252",
+      "bsis_posesn_stock_qota_rt": "49.43",
+      "trmend_posesn_stock_co": "4,940,252",
+      "trmend_posesn_stock_qota_rt": "49.43",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_knd": "보통주",
+      "nm": "김선미",
+      "relate": "친인척",
+      "bsis_posesn_stock_co": "81,827",
+      "bsis_posesn_stock_qota_rt": "0.82",
+      "trmend_posesn_stock_co": "81,827",
+      "trmend_posesn_stock_qota_rt": "0.82",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_knd": "보통주",
+      "nm": "양정석",
+      "relate": "친인척",
+      "bsis_posesn_stock_co": "2,131",
+      "bsis_posesn_stock_qota_rt": "0.02",
+      "trmend_posesn_stock_co": "2,131",
+      "trmend_posesn_stock_qota_rt": "0.02",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,024,210",
+      "bsis_posesn_stock_qota_rt": "50.27",
+      "trmend_posesn_stock_co": "5,024,210",
+      "trmend_posesn_stock_qota_rt": "50.27",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330002898",
+      "corp_cls": "Y",
+      "corp_code": "00116949",
+      "corp_name": "DN오토모티브",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

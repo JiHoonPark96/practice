@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220317001208",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제57기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분/반기재무제표검토,\n개별재무제표,\n연결재무제표에 대한 감사,\n내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "185,000",
+      "adt_cntrct_dtls_time": "1,820시간",
+      "real_exc_dtls_mendng": "185,000",
+      "real_exc_dtls_time": "2,066시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001208",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제56기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분/반기재무제표검토,\n개별재무제표,\n연결재무제표에 대한 감사,\n내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "185,000",
+      "adt_cntrct_dtls_time": "2,828시간",
+      "real_exc_dtls_mendng": "185,000",
+      "real_exc_dtls_time": "2,366시간",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220317001208",
+      "corp_cls": "Y",
+      "corp_code": "00115287",
+      "corp_name": "동방",
+      "bsns_year": "제55기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분/반기재무제표검토,\n개별재무제표,\n연결재무제표에 대한 감사,\n내부회계검토",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125,000",
+      "adt_cntrct_dtls_time": "1,606시간",
+      "real_exc_dtls_mendng": "125,000",
+      "real_exc_dtls_time": "1,606시간",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

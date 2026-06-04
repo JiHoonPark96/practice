@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "bsns_year": "제16기(당기)",
+      "adtor": "광교회계법인",
+      "cn": "반기, 기말재무제표 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "100,000,000",
+      "tot_reqre_time": "1,228",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "bsns_year": "제15기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "반기, 기말재무제표 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "238,000,000",
+      "tot_reqre_time": "2,528",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003749",
+      "corp_cls": "Y",
+      "corp_code": "00469799",
+      "corp_name": "이엔플러스",
+      "bsns_year": "제14기(전전기)",
+      "adtor": "회계법인 리안",
+      "cn": "반기, 기말재무제표 별도 및 연결 재무제표에 대한 감사",
+      "mendng": "80,000,000",
+      "tot_reqre_time": "913",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

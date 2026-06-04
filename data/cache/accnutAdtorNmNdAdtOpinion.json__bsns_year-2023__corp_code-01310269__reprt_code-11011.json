@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240401002733",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제6기\n(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 재무제표 작성시 사용된 중요한 미래에 대한 회계추정 및 가정은 \n사고로 인한 영업정지 및 신용등급 하락 가능성의 변동에 따라 \n조정될 수 있음.",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 신용손상의 징후 발생 현장에 대한 금융자산 등의 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401002733",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제5기\n(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- 재무제표 작성시 사용된 중요한 미래에 대한 회계추정 및 가정은 \n사고로 인한 영업정지 및 신용등급 하락 가능성의 변동에 따라 \n조정될 수 있음.",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 신용손상의 징후 발생 현장에 대한 금융자산 등의 회수가능성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240401002733",
+      "corp_cls": "Y",
+      "corp_code": "01310269",
+      "corp_name": "IPARK현대산업개발",
+      "bsns_year": "제4기\n(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "- COVID-19로 인한 불확실성\n- 재무제표 작성시 사용된 중요한 미래에 대한 회계추정 및 가정은\n 사고로 인한 영업정지 및 신용등급 하락 가능성의 변동에 따라 \n조정될 수 있음.",
+      "core_adt_matter": "- 투입법에 따른 수익인식\n- 신용손상의 징후 발생 현장에 대한 금융자산 등의 회수가능성\n- 광주화정아이파크사고 관련 충당부채의 평가",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

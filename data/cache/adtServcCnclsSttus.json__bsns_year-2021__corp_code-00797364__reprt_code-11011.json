@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318000863",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "bsns_year": "제12기 ",
+      "adtor": "예교지성\n회계법인",
+      "cn": "K-IFRS \n1. 재무제표\n2. 중간재무제표 (반기)\n3. 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135,000,000",
+      "adt_cntrct_dtls_time": "868",
+      "real_exc_dtls_mendng": "135,000,000",
+      "real_exc_dtls_time": "1,027",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000863",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "bsns_year": "제11기 ",
+      "adtor": "예교지성\n회계법인",
+      "cn": "K-IFRS \n1. 재무제표\n2. 중간재무제표 (반기)\n3. 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135,000,000",
+      "adt_cntrct_dtls_time": "868",
+      "real_exc_dtls_mendng": "135,000,000",
+      "real_exc_dtls_time": "1,036",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318000863",
+      "corp_cls": "Y",
+      "corp_code": "00797364",
+      "corp_name": "KC코트렐",
+      "bsns_year": "제10기",
+      "adtor": "참회계법인",
+      "cn": "K-IFRS \n1. 재무제표\n2. 중간재무제표 (반기)\n3. 연결재무제표",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "135,000,000",
+      "adt_cntrct_dtls_time": "868",
+      "real_exc_dtls_mendng": "135,000,000",
+      "real_exc_dtls_time": "868",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

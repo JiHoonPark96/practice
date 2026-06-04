@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210507000170",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제47기(당기)",
+      "adtor": "이정지율회계법인",
+      "cn": "반기검토 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000",
+      "adt_cntrct_dtls_time": "1,137",
+      "real_exc_dtls_mendng": "110,000",
+      "real_exc_dtls_time": "1,137",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210507000170",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제46기(당기)",
+      "adtor": "이정회계법인",
+      "cn": "반기검토 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90,000",
+      "adt_cntrct_dtls_time": "1,032",
+      "real_exc_dtls_mendng": "90,000",
+      "real_exc_dtls_time": "1,032",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210507000170",
+      "corp_cls": "Y",
+      "corp_code": "00112022",
+      "corp_name": "대원화성",
+      "bsns_year": "제45기(전기)",
+      "adtor": "이정회계법인",
+      "cn": "반기검토 및 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80,000",
+      "adt_cntrct_dtls_time": "1,156",
+      "real_exc_dtls_mendng": "80,000",
+      "real_exc_dtls_time": "1,156",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제10기\n(당기)",
+      "cntrct_cncls_de": "2020.03.27",
+      "servc_cn": "PK마린시티점 매출액 확인",
+      "servc_exc_pd": "2020.03.27~2020.04.08",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제10기\n(당기)",
+      "cntrct_cncls_de": "2020.03.27",
+      "servc_cn": "용산점 매출액 확인",
+      "servc_exc_pd": "2020.03.27~2020.04.08",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전기)",
+      "cntrct_cncls_de": "2019.04.02",
+      "servc_cn": "PK마린시티점 매출액 확인",
+      "servc_exc_pd": "2019.04.02~2019.04.12",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전기)",
+      "cntrct_cncls_de": "2019.04.02",
+      "servc_cn": "용산점 매출액 확인",
+      "servc_exc_pd": "2019.04.02~2019.04.12",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전기)",
+      "cntrct_cncls_de": "2019.04.23",
+      "servc_cn": "부츠 매출액 확인",
+      "servc_exc_pd": "2019.04.23~2019.04.29",
+      "servc_mendng": "4",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기\n(전기)",
+      "cntrct_cncls_de": "2019.10.22",
+      "servc_cn": "수입판매업 매출액 확인",
+      "servc_exc_pd": "2019.10.22~2019.10.30",
+      "servc_mendng": "2.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제8기\n(전전기)",
+      "cntrct_cncls_de": "2018.04.04",
+      "servc_cn": "PK마린시티점 매출액 확인",
+      "servc_exc_pd": "2018.04.04~2018.04.09",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210316001234",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제8기\n(전전기)",
+      "cntrct_cncls_de": "2018.05.24",
+      "servc_cn": "용산점 매출액 확인",
+      "servc_exc_pd": "2018.05.24~2018.05.30",
+      "servc_mendng": "1.5",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

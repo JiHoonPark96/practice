@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000296",
+      "corp_cls": "Y",
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜",
+      "se": "소액주주",
+      "shrholdr_co": "163,754",
+      "shrholdr_tot_co": "163,756",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "25,084,683",
+      "stock_tot_co": "78,313,250",
+      "hold_stock_rate": "32.0%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

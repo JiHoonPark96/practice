@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230321001012",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제59기(당기)",
+      "adtor": "신한회계법인",
+      "cn": "분기/ 반기/별도/연결 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "240,000,000",
+      "adt_cntrct_dtls_time": "2,187",
+      "real_exc_dtls_mendng": "240,000,000",
+      "real_exc_dtls_time": "2,456",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001012",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제58기(전기)",
+      "adtor": "광교회계법인",
+      "cn": "분기/ 반기/별도/연결 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "175,000,000",
+      "adt_cntrct_dtls_time": "1,462",
+      "real_exc_dtls_mendng": "175,000,000",
+      "real_exc_dtls_time": "1,678",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230321001012",
+      "corp_cls": "Y",
+      "corp_code": "00172185",
+      "corp_name": "남성",
+      "bsns_year": "제57기(전전기)",
+      "adtor": "태성회계법인",
+      "cn": "분기/ 반기/별도/연결 회계감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "110,000,000",
+      "adt_cntrct_dtls_time": "1,350",
+      "real_exc_dtls_mendng": "110,000,000",
+      "real_exc_dtls_time": "1,561",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

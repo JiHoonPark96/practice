@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01319899",
+      "corp_name": "SK바이오사이언스",
+      "stock_code": "302440",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181114001922",
+      "flr_nm": "SK바이오사이언스",
+      "rcept_dt": "20181114",
+      "rm": ""
+    }
+  ]
+}

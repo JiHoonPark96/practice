@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220816000025",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 5 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없 음",
+      "core_adt_matter": "·판매보증충당부채의 평가\n·해외매출의 수익인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000025",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 4 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없 음",
+      "core_adt_matter": "·개발비 손상평가\n·해외매출의 수익인식",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220816000025",
+      "corp_cls": "Y",
+      "corp_code": "01205842",
+      "corp_name": "HD건설기계",
+      "bsns_year": "제 3 기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없 음",
+      "core_adt_matter": "·개발비 손상평가\n·판매보증충당부채의 평가",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001312",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "bsns_year": "제68기(당기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "320백만원",
+      "adt_cntrct_dtls_time": "3,000",
+      "real_exc_dtls_mendng": "320백만원",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001312",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "bsns_year": "제67기(전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "3,030",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "3,161",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001312",
+      "corp_cls": "Y",
+      "corp_code": "00122579",
+      "corp_name": "BYC",
+      "bsns_year": "제66기(전전기)",
+      "adtor": "삼덕회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "300백만원",
+      "adt_cntrct_dtls_time": "2,950",
+      "real_exc_dtls_mendng": "300백만원",
+      "real_exc_dtls_time": "3,051",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

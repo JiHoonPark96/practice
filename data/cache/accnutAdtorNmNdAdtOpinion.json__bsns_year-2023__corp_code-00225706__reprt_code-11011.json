@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240318000767",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제30기(당기)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000767",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제29기(전기)",
+      "adtor": "회계법인세일원",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "관계기업투자의 회수가능액 검토",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240318000767",
+      "corp_cls": "Y",
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "bsns_year": "제28기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "공동기업투자주식 손상검토",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

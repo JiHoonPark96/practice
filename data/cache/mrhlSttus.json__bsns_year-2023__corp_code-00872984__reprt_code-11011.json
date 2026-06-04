@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001504",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "se": "소액주주",
+      "shrholdr_co": "133,752",
+      "shrholdr_tot_co": "133,763",
+      "shrholdr_rate": "99.99%",
+      "hold_stock_co": "15,166,687",
+      "stock_tot_co": "26,788,353",
+      "hold_stock_rate": "56.62%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

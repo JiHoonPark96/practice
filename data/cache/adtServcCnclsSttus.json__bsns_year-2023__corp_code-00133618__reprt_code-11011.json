@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000554",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "bsns_year": "제67기(당기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기 별도재무제표 검토\n기말 별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "125,000",
+      "adt_cntrct_dtls_time": "930",
+      "real_exc_dtls_mendng": "125,000",
+      "real_exc_dtls_time": "960",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000554",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "bsns_year": "제66기(전기)",
+      "adtor": "대성삼경회계법인",
+      "cn": "반기 별도재무제표 검토\n기말 별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "130,000",
+      "adt_cntrct_dtls_time": "922",
+      "real_exc_dtls_mendng": "130,000",
+      "real_exc_dtls_time": "924",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000554",
+      "corp_cls": "Y",
+      "corp_code": "00133618",
+      "corp_name": "세기상사",
+      "bsns_year": "제65기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "반기 별도재무제표 검토\n기말 별도재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "70,000",
+      "adt_cntrct_dtls_time": "650",
+      "real_exc_dtls_mendng": "70,000",
+      "real_exc_dtls_time": "679",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

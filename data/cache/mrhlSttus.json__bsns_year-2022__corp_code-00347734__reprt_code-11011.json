@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230303000708",
+      "corp_cls": "Y",
+      "corp_code": "00347734",
+      "corp_name": "진양화학",
+      "se": "소액주주",
+      "shrholdr_co": "4,098",
+      "shrholdr_tot_co": "4,101",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "5,681,623",
+      "stock_tot_co": "15,800,000",
+      "hold_stock_rate": "35.95%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

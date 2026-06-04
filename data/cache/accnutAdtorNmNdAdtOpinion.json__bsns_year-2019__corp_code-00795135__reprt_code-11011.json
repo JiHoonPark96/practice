@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003955",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제10기(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "- 연결: 적정\n- 별도: 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 연결: 현금창출단위의 손상평가\n- 별도: 종속기업투자주식 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003955",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제9기(전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "- 연결: 적정\n- 별도: 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 연결 및 별도: 패션사업부 재고자산 평가충당금, \n필름사업부 현금창출단위에 대한 손상평가",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003955",
+      "corp_cls": "Y",
+      "corp_code": "00795135",
+      "corp_name": "코오롱인더",
+      "bsns_year": "제8기(전전기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "- 연결: 적정\n- 별도: 적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 해당사항 없음",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

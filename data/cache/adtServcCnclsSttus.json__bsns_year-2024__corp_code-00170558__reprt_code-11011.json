@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제36기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "기말감사 및 분반기검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "891",
+      "adt_cntrct_dtls_time": "9,000",
+      "real_exc_dtls_mendng": "891",
+      "real_exc_dtls_time": "8,804",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제35기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분반기검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,210",
+      "adt_cntrct_dtls_time": " 9,918",
+      "real_exc_dtls_mendng": " 1,210",
+      "real_exc_dtls_time": " 9,507",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001734",
+      "corp_cls": "Y",
+      "corp_code": "00170558",
+      "corp_name": "코웨이",
+      "bsns_year": "제34기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "기말감사 및 분반기검토\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "1,050",
+      "adt_cntrct_dtls_time": "8,700",
+      "real_exc_dtls_mendng": "1,050",
+      "real_exc_dtls_time": "9,864",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

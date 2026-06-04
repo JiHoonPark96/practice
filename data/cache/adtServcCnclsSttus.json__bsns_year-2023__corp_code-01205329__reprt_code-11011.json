@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001695",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "bsns_year": "제7기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "-반기재무제표 검토\n-기말재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "188",
+      "adt_cntrct_dtls_time": "1,700",
+      "real_exc_dtls_mendng": "188",
+      "real_exc_dtls_time": "1,618",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001695",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "bsns_year": "제6기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "-반기재무제표 검토\n-기말재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "220",
+      "adt_cntrct_dtls_time": "1,700",
+      "real_exc_dtls_mendng": "220",
+      "real_exc_dtls_time": "2,171",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240321001695",
+      "corp_cls": "Y",
+      "corp_code": "01205329",
+      "corp_name": "크라운제과",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "삼정회계법인",
+      "cn": "-반기재무제표 검토\n-기말재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "138",
+      "adt_cntrct_dtls_time": "1,466",
+      "real_exc_dtls_mendng": "138",
+      "real_exc_dtls_time": "1,505",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

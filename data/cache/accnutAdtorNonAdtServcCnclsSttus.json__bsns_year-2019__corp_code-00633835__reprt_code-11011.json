@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003637",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제13기(당기)",
+      "cntrct_cncls_de": "2019.05.08\n2019.03.13",
+      "servc_cn": "이전가격 검토용역\n세무자문용역",
+      "servc_exc_pd": "2019.05~용역종료시\n2019.03 ~ 용역종료시",
+      "servc_mendng": "25,000\n210,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003637",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제12기(전기)",
+      "cntrct_cncls_de": "2018.02.12",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2018.02 ~ 2018.05",
+      "servc_mendng": "200,000",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003637",
+      "corp_cls": "Y",
+      "corp_code": "00633835",
+      "corp_name": "HJ중공업",
+      "bsns_year": "제11기(전전기)",
+      "cntrct_cncls_de": "2016.02.01",
+      "servc_cn": "경영정상화 진단 용역",
+      "servc_exc_pd": "2016.02 ~ 2016.03",
+      "servc_mendng": "580,000",
+      "rm": "안진회계법인",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190228005250",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_knd": "보통주",
+      "nm": "S&T모티브(주)",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "3,804,158",
+      "bsis_posesn_stock_qota_rt": "53.70",
+      "trmend_posesn_stock_co": "4,048,221",
+      "trmend_posesn_stock_qota_rt": "55.48",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005250",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_knd": "보통주",
+      "nm": "최평규",
+      "relate": "계열사임원",
+      "bsis_posesn_stock_co": "27,432",
+      "bsis_posesn_stock_qota_rt": "0.39",
+      "trmend_posesn_stock_co": "28,254",
+      "trmend_posesn_stock_qota_rt": "0.39",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005250",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "3,831,590",
+      "bsis_posesn_stock_qota_rt": "54.08",
+      "trmend_posesn_stock_co": "4,076,475",
+      "trmend_posesn_stock_qota_rt": "55.86",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190228005250",
+      "corp_cls": "Y",
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

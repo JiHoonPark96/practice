@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250813000488",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "bsns_year": "제43기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출할인 및 매입환입",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000488",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "bsns_year": "제43기\n(당기)",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출할인 및 매입환입",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000488",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "bsns_year": "제42기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출할인 및 매입환입",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000488",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "bsns_year": "제42기\n(전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출할인 및 매입환입",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000488",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "bsns_year": "제41기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출할인 및 매입환입",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250813000488",
+      "corp_cls": "Y",
+      "corp_code": "00166573",
+      "corp_name": "환인제약",
+      "bsns_year": "제41기\n(전전기)",
+      "adtor": "안진회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "매출할인 및 매입환입",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

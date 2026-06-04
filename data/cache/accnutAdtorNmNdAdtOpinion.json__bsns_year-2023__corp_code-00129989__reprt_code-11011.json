@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240315000492",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제57기(당기)\n(2023.1.1~2023.12.31)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "수익인식의 적정성",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000492",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제56기(전기)\n(2022.1.1~2022.12.31)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "재고자산 순실현가능가치",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240315000492",
+      "corp_cls": "Y",
+      "corp_code": "00129989",
+      "corp_name": "코스모신소재",
+      "bsns_year": "제55기(전전기)\n(2021.1.1~2021.12.31)",
+      "adtor": "진일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "제품 등의 판매로 인한 매출의 발생사실",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

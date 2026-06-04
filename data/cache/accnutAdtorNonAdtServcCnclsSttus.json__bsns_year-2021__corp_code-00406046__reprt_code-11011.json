@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220727000136",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제21기(당기)",
+      "cntrct_cncls_de": "해당없음",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "해당없음",
+      "servc_mendng": "해당없음",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000136",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제20기(전기)",
+      "cntrct_cncls_de": "해당없음",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "해당없음",
+      "servc_mendng": "해당없음",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220727000136",
+      "corp_cls": "Y",
+      "corp_code": "00406046",
+      "corp_name": "HD현대마린엔진",
+      "bsns_year": "제19기(전전기)",
+      "cntrct_cncls_de": "해당없음",
+      "servc_cn": "해당없음",
+      "servc_exc_pd": "해당없음",
+      "servc_mendng": "해당없음",
+      "rm": "해당없음",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

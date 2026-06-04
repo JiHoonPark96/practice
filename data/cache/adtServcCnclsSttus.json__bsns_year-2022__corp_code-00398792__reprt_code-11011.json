@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230220001611",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제21기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "제21기 연결 및 별도 회계감사 및 분반기검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,050",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "3,208",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230220001611",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제20기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "제20기 연결 및 별도 회계감사 및 분반기검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,050",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "3,360",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230220001611",
+      "corp_cls": "Y",
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "대주회계법인",
+      "cn": "제19기 연결 및 별도 회계감사 및 분반기검토, 내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "390",
+      "adt_cntrct_dtls_time": "3,050",
+      "real_exc_dtls_mendng": "390",
+      "real_exc_dtls_time": "3,516",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

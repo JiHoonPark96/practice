@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제39기(당기)",
+      "adtor": "삼정회계법인",
+      "cn": "분·반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "323,000",
+      "adt_cntrct_dtls_time": "3,140",
+      "real_exc_dtls_mendng": "323,000",
+      "real_exc_dtls_time": "3,197",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제38기(전기)",
+      "adtor": "삼정회계법인",
+      "cn": "분·반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "314,000",
+      "adt_cntrct_dtls_time": "3,140",
+      "real_exc_dtls_mendng": "314,000",
+      "real_exc_dtls_time": "3,296",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001202",
+      "corp_cls": "Y",
+      "corp_code": "00176914",
+      "corp_name": "다우기술",
+      "bsns_year": "제37기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분·반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "425,000",
+      "adt_cntrct_dtls_time": "3,696",
+      "real_exc_dtls_mendng": "425,000",
+      "real_exc_dtls_time": "3,649",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

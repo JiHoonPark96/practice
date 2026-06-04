@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230814001661",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 16 기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 별도 : 종속기업투자주식의 회수가능가액 검토\n- 연결 : 영업권의 회수가능가액 검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814001661",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 15 기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 별도 : 종속기업투자주식의 회수가능가액 검토\n- 연결 : 영업권의 회수가능가액 검토",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230814001661",
+      "corp_cls": "Y",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당",
+      "bsns_year": "제 14 기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "기타사항에 전기재무제표\n삼일회계법인의 감사사실 기재",
+      "core_adt_matter": "- 별도 : 종속기업투자주식의 회수가능가액 검토\n- 연결 : 영업권의 회수가능가액 검토",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

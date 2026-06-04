@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제51기(당기)",
+      "cntrct_cncls_de": "2024년 03월 04일",
+      "servc_cn": "해외주재원 세무자문",
+      "servc_exc_pd": "2024.03.04~2024.12.31",
+      "servc_mendng": "11",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제51기(당기)",
+      "cntrct_cncls_de": "2024년 05월 13일",
+      "servc_cn": "해외주재원 세무자문",
+      "servc_exc_pd": "2024.05.13~2024.12.31",
+      "servc_mendng": "3",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제50기(전기)",
+      "cntrct_cncls_de": "2023년 05월 08일",
+      "servc_cn": "해외주재원 세무자문",
+      "servc_exc_pd": "2023.05.08~2023.12.31",
+      "servc_mendng": "60",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제50기(전기)",
+      "cntrct_cncls_de": "2023년 11월 30일",
+      "servc_cn": "로버틱 애플리케이션",
+      "servc_exc_pd": "2023.11.30",
+      "servc_mendng": "18",
+      "rm": "삼일회계법인",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250331003521",
+      "corp_cls": "Y",
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "bsns_year": "제49기(전전기)",
+      "cntrct_cncls_de": "2022년 03월 10일",
+      "servc_cn": "LBMA RSG 검토",
+      "servc_exc_pd": " 2022.03.10~2022.03.31",
+      "servc_mendng": "43",
+      "rm": "삼정회계법인",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

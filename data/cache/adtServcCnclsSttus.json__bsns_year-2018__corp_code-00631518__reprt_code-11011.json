@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003274",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제12기 \n(2018년)",
+      "adtor": "안진회계법인",
+      "cn": "분,반기 \n별도, 연결재무제표 검토\n별도, 연결재무제표 감사",
+      "mendng": "610",
+      "tot_reqre_time": "8,597",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003274",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제11기 \n(2017년)",
+      "adtor": "안진회계법인",
+      "cn": "분,반기 \n별도, 연결재무제표 검토\n별도, 연결재무제표 감사",
+      "mendng": "530",
+      "tot_reqre_time": "6,645",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003274",
+      "corp_cls": "Y",
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션",
+      "bsns_year": "제10기 \n(2016년)",
+      "adtor": "안진회계법인",
+      "cn": "분,반기 \n별도, 연결재무제표 검토\n별도, 연결재무제표 감사",
+      "mendng": "510",
+      "tot_reqre_time": "6,227",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

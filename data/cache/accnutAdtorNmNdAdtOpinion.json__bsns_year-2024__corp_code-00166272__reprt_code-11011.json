@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001555",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 특수관계자거래 공시\n- 종속기업 및 관계기업의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001555",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제47기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 재고자산의 평가\n- 현금창출단위의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001555",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 특수관계자거래 공시\n- 종속기업 및 관계기업의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001555",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제46기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 재고자산의 평가\n- 현금창출단위의 손상",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001555",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 특수관계자거래 공시\n- 종속기업 및 관계기업의 손상평가",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001555",
+      "corp_cls": "Y",
+      "corp_code": "00166272",
+      "corp_name": "화승코퍼레이션",
+      "bsns_year": "제45기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 재고자산의 평가\n- 현금창출단위의 손상",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003589",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제39기(당기)",
+      "cntrct_cncls_de": "2019.07.31",
+      "servc_cn": "2019년 법인세 세무조정",
+      "servc_exc_pd": "2020.01.29-2020.01.31",
+      "servc_mendng": "8백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003589",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제38기 (전기)",
+      "cntrct_cncls_de": "2019.01.25",
+      "servc_cn": "2018년 법인세 세무조정",
+      "servc_exc_pd": "2019.01.30-2019.02.01",
+      "servc_mendng": "7백만원",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003589",
+      "corp_cls": "Y",
+      "corp_code": "00153339",
+      "corp_name": "태경산업",
+      "bsns_year": "제37기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

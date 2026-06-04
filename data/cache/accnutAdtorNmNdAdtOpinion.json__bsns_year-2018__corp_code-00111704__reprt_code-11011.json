@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제19기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "\"연결재무제표에 대한 감사보고서 중\n핵심감사사항 참조\"",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제18기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "\"연결재무제표에 대한 감사보고서 중\n강조사항 및 기타사항 참조\"",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329004102",
+      "corp_cls": "Y",
+      "corp_code": "00111704",
+      "corp_name": "한화오션",
+      "bsns_year": "제17기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "한정의견",
+      "adt_reprt_spcmnt_matter": "\"연결재무제표에 대한 감사보고서 중\n강조사항 및 기타사항 참조\"",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

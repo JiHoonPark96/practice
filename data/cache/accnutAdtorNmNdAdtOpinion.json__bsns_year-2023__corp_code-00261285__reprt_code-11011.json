@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240325000966",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제41기\n(당기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 원료비 연동제 및 공급비용 정산관련 손익 인식\n- KOGAS Prelude Pty Ltd. 자원개발사업관련 \n  유ㆍ무형자산의 손상차손",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000966",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제 40기\n(전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 원료비 연동제 및 공급비용 정산관련 손익 인식\n- KOGAS Prelude Pty Ltd. 자원개발사업관련 \n  유ㆍ무형자산의 손상차손환입",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240325000966",
+      "corp_cls": "Y",
+      "corp_code": "00261285",
+      "corp_name": "한국가스공사",
+      "bsns_year": "제 39기\n(전전기)",
+      "adtor": "한영회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "- 원료비 연동제 및 공급비용 정산관련 손익 인식\n- 자원개발사업관련 유ㆍ무형자산의 손상차손환입",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

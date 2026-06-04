@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004208",
+      "corp_cls": "Y",
+      "corp_code": "00956930",
+      "corp_name": "동아에스티",
+      "se": "소액주주",
+      "shrholdr_co": "10,243",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.81%",
+      "hold_stock_co": "4,075,207",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "48.26%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

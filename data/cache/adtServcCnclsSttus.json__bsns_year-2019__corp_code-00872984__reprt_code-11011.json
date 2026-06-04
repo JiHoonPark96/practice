@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003902",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제9기(당기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 연결ㆍ별도재무제표 검토\n연결ㆍ별도 재무제표 감사 및\n내부회계관리제도 감사",
+      "mendng": "998",
+      "tot_reqre_time": "11,041",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003902",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제8기(전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 연결ㆍ별도재무제표 검토\n연결ㆍ별도 재무제표 감사 및\n내부회계관리제도 검토",
+      "mendng": "550",
+      "tot_reqre_time": "6,446",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003902",
+      "corp_cls": "Y",
+      "corp_code": "00872984",
+      "corp_name": "이마트",
+      "bsns_year": "제7기(전전기)",
+      "adtor": "삼일회계법인",
+      "cn": "분/반기 연결ㆍ별도재무제표 검토\n연결ㆍ별도 재무제표 감사 및\n내부회계관리제도 검토",
+      "mendng": "495 ",
+      "tot_reqre_time": "5,398",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

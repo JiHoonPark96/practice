@@ -1,0 +1,79 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210317000814",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "중앙홀딩스 유한회사",
+      "relate": "최대주주",
+      "bsis_posesn_stock_co": "6,156,349",
+      "bsis_posesn_stock_qota_rt": "37.57",
+      "trmend_posesn_stock_co": "6,156,349",
+      "trmend_posesn_stock_qota_rt": "37.57",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000814",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "중앙일보 주식회사 ",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "469,816",
+      "bsis_posesn_stock_qota_rt": "2.87",
+      "trmend_posesn_stock_co": "469,816",
+      "trmend_posesn_stock_qota_rt": "2.87",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000814",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "홍정도",
+      "relate": "특수관계인",
+      "bsis_posesn_stock_co": "153,062",
+      "bsis_posesn_stock_qota_rt": "0.93",
+      "trmend_posesn_stock_co": "153,062",
+      "trmend_posesn_stock_qota_rt": "0.93",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000814",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "6,779,227",
+      "bsis_posesn_stock_qota_rt": "41.37",
+      "trmend_posesn_stock_co": "6,779,227",
+      "trmend_posesn_stock_qota_rt": "41.37",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210317000814",
+      "corp_cls": "Y",
+      "corp_code": "00203315",
+      "corp_name": "콘텐트리중앙",
+      "stock_knd": "-",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

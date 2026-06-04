@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220728000426",
+      "corp_cls": "Y",
+      "corp_code": "00121932",
+      "corp_name": "미원상사",
+      "se": "소액주주",
+      "shrholdr_co": "4,174",
+      "shrholdr_tot_co": "4,218",
+      "shrholdr_rate": "98.96%",
+      "hold_stock_co": "1,894,439",
+      "stock_tot_co": "4,970,000",
+      "hold_stock_rate": "38.12%",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

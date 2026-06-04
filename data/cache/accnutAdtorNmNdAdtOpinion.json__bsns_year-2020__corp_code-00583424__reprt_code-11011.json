@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제15기(당기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 있음",
+      "core_adt_matter": "(1) 상품 및 제품 재고자산의 평가\n(2) 현금창출단위에 대한 손상검사",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제14기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 기업회계기준서 제1116호 '리스' 최초 적용\n(2) 상품 및 제품 재고자산의 평가",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210311000870",
+      "corp_cls": "Y",
+      "corp_code": "00583424",
+      "corp_name": "아모레퍼시픽",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "(1) 기업회계기준서 제1115호 '고객과의 계약에서 생기는 수익' 최초 적용\n(2) 퇴직급여부채의 평가",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

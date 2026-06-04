@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250320001290",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제43기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "자회사인 대양제지공업㈜의 자진 상장폐지로 자회사지분 추가취득",
+      "core_adt_matter": "- 재고자산의 측정\n- 특수관계자 거래공시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001290",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제43기\n(당기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "자회사인 대양제지공업㈜의 자진 상장폐지로 자회사지분 추가취득",
+      "core_adt_matter": "- 재고자산의 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001290",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제42기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "자회사인 대양제지공업㈜의 자진\n상장폐지 목적으로 공개매수 진행",
+      "core_adt_matter": "- 재고자산 측정\n- 특수관계자 거래공시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001290",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제42기\n(전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "자회사인 대양제지공업㈜의 자진\n상장폐지 목적으로 공개매수 진행",
+      "core_adt_matter": "- 재고자산 측정",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001290",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제41기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 재고자산 저가법 평가\n- 특수관계자 거래공시",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250320001290",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제41기\n(전전기)",
+      "adtor": "우리회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항없음",
+      "core_adt_matter": "- 재고자산 저가법 평가",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

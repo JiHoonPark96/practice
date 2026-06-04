@@ -1,0 +1,71 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제44기(당기)",
+      "cntrct_cncls_de": "2019년 8월\n2019년 6월",
+      "servc_cn": "세무자문(BEPS 관련)\n법인세 경정청구",
+      "servc_exc_pd": "2019년 8월~12월\n2019년 6월",
+      "servc_mendng": "37\n200",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2018년 4월",
+      "servc_cn": "재무자문(예비검토)",
+      "servc_exc_pd": "2018년 4월",
+      "servc_mendng": "80",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2018년 7월",
+      "servc_cn": "세무자문(BEPS 관련)",
+      "servc_exc_pd": "2018년 7월~12월",
+      "servc_mendng": "35",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제43기(전기)",
+      "cntrct_cncls_de": "2018년 12월",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2018년 12월~",
+      "servc_mendng": "10",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330004653",
+      "corp_cls": "Y",
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "bsns_year": "제42기(전전기)",
+      "cntrct_cncls_de": "2017년 4월",
+      "servc_cn": "세무자문(BEPS 관련)",
+      "servc_exc_pd": "2017년 4월~10월",
+      "servc_mendng": "110",
+      "rm": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

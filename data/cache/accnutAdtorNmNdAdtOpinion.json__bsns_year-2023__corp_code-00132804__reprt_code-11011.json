@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001512",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제58기(당기)",
+      "adtor": "신우회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산의 손실충당금",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001512",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제57기(전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실 및 유형자산 손상 ",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001512",
+      "corp_cls": "Y",
+      "corp_code": "00132804",
+      "corp_name": "성신양회",
+      "bsns_year": "제56기(전전기)",
+      "adtor": "대성삼경회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "해당사항 없음",
+      "core_adt_matter": "상각후원가로 측정하는 금융자산에 대한 기대신용손실 및 유형자산 손상 ",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

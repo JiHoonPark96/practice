@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323001172",
+      "corp_cls": "Y",
+      "corp_code": "00138297",
+      "corp_name": "STX",
+      "se": "소액주주",
+      "shrholdr_co": "13,172",
+      "shrholdr_tot_co": "13,177",
+      "shrholdr_rate": "99.96%",
+      "hold_stock_co": "4,156,359",
+      "stock_tot_co": "19,726,902",
+      "hold_stock_rate": "21.07%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

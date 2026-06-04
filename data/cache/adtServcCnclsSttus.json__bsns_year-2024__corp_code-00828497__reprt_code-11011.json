@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제15기(당기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "610백만원",
+      "adt_cntrct_dtls_time": "4,940시간",
+      "real_exc_dtls_mendng": "610백만원",
+      "real_exc_dtls_time": "4,973시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제14기(전기)",
+      "adtor": "안진회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "590백만원",
+      "adt_cntrct_dtls_time": "4,930시간",
+      "real_exc_dtls_mendng": "590백만원",
+      "real_exc_dtls_time": "4,882시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001206",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제13기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분ㆍ반기 재무제표 검토\n별도 및 연결 재무제표에 대한 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "500백만원",
+      "adt_cntrct_dtls_time": "4,600시간",
+      "real_exc_dtls_mendng": "500백만원",
+      "real_exc_dtls_time": "5,085시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

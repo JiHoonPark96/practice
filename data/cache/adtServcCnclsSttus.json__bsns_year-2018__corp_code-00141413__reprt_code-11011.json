@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002165",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제42기(당기)",
+      "adtor": "신우회계법인",
+      "cn": "반기검토 1회, 중간감사 1회\n연말감사 1회, 내부회계 검토",
+      "mendng": "75,000,000",
+      "tot_reqre_time": "894시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002165",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제41기(전기)",
+      "adtor": "신우회계법인",
+      "cn": "반기검토 1회, 중간감사 1회\n연말감사 1회, 내부회계 검토",
+      "mendng": "75,000,000",
+      "tot_reqre_time": "885시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002165",
+      "corp_cls": "Y",
+      "corp_code": "00141413",
+      "corp_name": "영화금속",
+      "bsns_year": "제40기(전전기)",
+      "adtor": "신우회계법인",
+      "cn": "반기검토 1회, 중간감사 1회\n연말감사 1회, 내부회계 검토",
+      "mendng": "70,000,000",
+      "tot_reqre_time": "821시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

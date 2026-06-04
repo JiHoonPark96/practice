@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240319000649",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제14기(당기)",
+      "cntrct_cncls_de": "2023.03\n2023.08",
+      "servc_cn": "이전가격 분석\n세무조정",
+      "servc_exc_pd": "2023.03~종료시점\n2023.08~2024.03",
+      "servc_mendng": "45백만원\n30백만원",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000649",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제13기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240319000649",
+      "corp_cls": "Y",
+      "corp_code": "00828497",
+      "corp_name": "한미약품",
+      "bsns_year": "제12기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

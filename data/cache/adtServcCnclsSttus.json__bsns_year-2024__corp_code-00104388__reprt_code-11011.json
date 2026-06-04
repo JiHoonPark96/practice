@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001221",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제53기(당기)",
+      "adtor": "도원회계법인",
+      "cn": "분ㆍ반기재무제표검토,\n\n별도재무제표 및 연결재무제표 감사,\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "462\n(연간 총 보수)",
+      "adt_cntrct_dtls_time": "4,280시간",
+      "real_exc_dtls_mendng": "462\n(연견 총 보수)",
+      "real_exc_dtls_time": "4,142시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001221",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제52기(전기)",
+      "adtor": "도원회계법인",
+      "cn": "분ㆍ반기재무제표검토,\n\n별도재무제표 및 연결재무제표 감사,\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440\n(연간 총 보수)",
+      "adt_cntrct_dtls_time": "4,100시간",
+      "real_exc_dtls_mendng": "440\n(연간 총 보수)",
+      "real_exc_dtls_time": "4,111시간",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001221",
+      "corp_cls": "Y",
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "bsns_year": "제51기(전전기)",
+      "adtor": "도원회계법인",
+      "cn": "분ㆍ반기재무제표검토,\n\n별도재무제표 및 연결재무제표 감사,\n\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "440\n(연간 총 보수)",
+      "adt_cntrct_dtls_time": "4,250시간",
+      "real_exc_dtls_mendng": "440\n(연간 총 보수)",
+      "real_exc_dtls_time": "4,107시간",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

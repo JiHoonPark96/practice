@@ -1,0 +1,39 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330002989",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제65기(당기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200330002989",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제64기(전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항없음",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20200330002989",
+      "corp_cls": "Y",
+      "corp_code": "00122472",
+      "corp_name": "PKC",
+      "bsns_year": "제63기(전전기)",
+      "adtor": "인덕회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "지적사항없음",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329003092",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제50기(당기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기재무제표검토 , 개별재무제표 및 연결재무제표 등에 관한 감사",
+      "mendng": "220",
+      "tot_reqre_time": "1,680",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003092",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제49기(전기)",
+      "adtor": "대주회계법인",
+      "cn": "분ㆍ반기재무제표검토 , 개별재무제표 및 연결재무제표 등에 관한 감사",
+      "mendng": "212",
+      "tot_reqre_time": "1,499",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329003092",
+      "corp_cls": "Y",
+      "corp_code": "00260383",
+      "corp_name": "대한유화",
+      "bsns_year": "제48기(전전기)",
+      "adtor": "대명회계법인",
+      "cn": "분ㆍ반기재무제표검토 , 개별재무제표 및 연결재무제표 등에 관한 감사",
+      "mendng": "206",
+      "tot_reqre_time": "1,339",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

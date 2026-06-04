@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330003163",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제47기",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표 검토, 연말 개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "130,000",
+      "tot_reqre_time": "2,511",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003163",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제46기",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표 검토, 연말 개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "99,000",
+      "tot_reqre_time": "2,282",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330003163",
+      "corp_cls": "Y",
+      "corp_code": "00180795",
+      "corp_name": "인팩",
+      "bsns_year": "제45기",
+      "adtor": "삼정회계법인",
+      "cn": "반기 재무제표 검토, 연말 개별재무제표 감사\n연결재무제표 감사",
+      "mendng": "81,000",
+      "tot_reqre_time": "1,541",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

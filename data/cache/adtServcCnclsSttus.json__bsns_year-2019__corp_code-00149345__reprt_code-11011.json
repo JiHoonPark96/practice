@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20200330001073",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제61기(당기)",
+      "adtor": "성도이현회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "70,000",
+      "tot_reqre_time": "781시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001073",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제60기(전기)",
+      "adtor": "이현회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "606시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    },
+    {
+      "rcept_no": "20200330001073",
+      "corp_cls": "Y",
+      "corp_code": "00149345",
+      "corp_name": "조흥",
+      "bsns_year": "제59기(전전기)",
+      "adtor": "이현회계법인",
+      "cn": "재무제표에 대한 감사",
+      "mendng": "50,000",
+      "tot_reqre_time": "599시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2019-12-31"
+    }
+  ]
+}

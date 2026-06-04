@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250312000986",
+      "corp_cls": "Y",
+      "corp_code": "00133858",
+      "corp_name": "세방전지",
+      "se": "소액주주",
+      "shrholdr_co": "17,663",
+      "shrholdr_tot_co": "17,768",
+      "shrholdr_rate": "99.92%",
+      "hold_stock_co": "3,950,973",
+      "stock_tot_co": "14,000,000",
+      "hold_stock_rate": "28.22%",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

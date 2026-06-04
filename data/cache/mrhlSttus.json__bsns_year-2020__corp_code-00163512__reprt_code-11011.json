@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "se": "소액주주",
+      "shrholdr_co": "12,443",
+      "shrholdr_tot_co": "12,461",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "6,402,129",
+      "stock_tot_co": "14,947,628",
+      "hold_stock_rate": "42.84%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

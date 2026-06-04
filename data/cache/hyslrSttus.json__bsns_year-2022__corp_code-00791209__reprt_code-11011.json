@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "그린러스크\n투자조합",
+      "relate": "최대주주 본인",
+      "bsis_posesn_stock_co": "5,043,169",
+      "bsis_posesn_stock_qota_rt": "6.20",
+      "trmend_posesn_stock_co": "16,154,281",
+      "trmend_posesn_stock_qota_rt": "15.10",
+      "rm": "(*1)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "의결권 있는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,043,169",
+      "bsis_posesn_stock_qota_rt": "6.20",
+      "trmend_posesn_stock_co": "16,154,281",
+      "trmend_posesn_stock_qota_rt": "15.10",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230322000954",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "stock_knd": "의결권 없는 주식",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

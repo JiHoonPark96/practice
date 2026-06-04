@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190329002398",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제42기",
+      "adtor": "한울회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "85,000",
+      "tot_reqre_time": "844.0시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002398",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제41기",
+      "adtor": "한울회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "85,000",
+      "tot_reqre_time": "660.0시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190329002398",
+      "corp_cls": "Y",
+      "corp_code": "00102113",
+      "corp_name": "경인양행",
+      "bsns_year": "제40기",
+      "adtor": "한울회계법인",
+      "cn": "반기검토(연결,별도), 중간감사,\n연간 재무제표감사(연결,별도), 내부회계관리제도 검토",
+      "mendng": "80,000",
+      "tot_reqre_time": "738.0시간",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

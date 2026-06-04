@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001126",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제21기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "740",
+      "adt_cntrct_dtls_time": "8,220",
+      "real_exc_dtls_mendng": "740",
+      "real_exc_dtls_time": "8,192",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001126",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제20기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "690",
+      "adt_cntrct_dtls_time": "7,750",
+      "real_exc_dtls_mendng": "690",
+      "real_exc_dtls_time": "7,450",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001126",
+      "corp_cls": "Y",
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스",
+      "bsns_year": "제19기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "별도 및 연결 분ㆍ반기재무제표 검토\n별도 및 연결 재무제표 감사\n내부회계관리제도 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "690",
+      "adt_cntrct_dtls_time": "8,100",
+      "real_exc_dtls_mendng": "690",
+      "real_exc_dtls_time": "7,835",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

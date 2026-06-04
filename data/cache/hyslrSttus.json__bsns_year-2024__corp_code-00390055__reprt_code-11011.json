@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250318001004",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "stock_knd": "보통주",
+      "nm": "(주)종근당홀딩스",
+      "relate": "계열사",
+      "bsis_posesn_stock_co": "2,145,328",
+      "bsis_posesn_stock_qota_rt": "39.11",
+      "trmend_posesn_stock_co": "2,145,328",
+      "trmend_posesn_stock_qota_rt": "39.11",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001004",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "stock_knd": "보통주",
+      "nm": "이복환",
+      "relate": "친척",
+      "bsis_posesn_stock_co": "2,862",
+      "bsis_posesn_stock_qota_rt": "0.05",
+      "trmend_posesn_stock_co": "2,862",
+      "trmend_posesn_stock_qota_rt": "0.05",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001004",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "2,148,190",
+      "bsis_posesn_stock_qota_rt": "39.16",
+      "trmend_posesn_stock_co": "2,148,190",
+      "trmend_posesn_stock_qota_rt": "39.16",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250318001004",
+      "corp_cls": "Y",
+      "corp_code": "00390055",
+      "corp_name": "종근당바이오",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}

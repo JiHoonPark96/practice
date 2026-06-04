@@ -1,0 +1,42 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제7기(당기)",
+      "adtor": "대주회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "CG\nU 손상평가- 경영진이 CGU의 손상검사를 수행하기 위하여 회사가 설계, 적용하고 있는 내부통제절차에 대한 이해 및 평가\n- 각 CGU별 손상징후 검토- 회사가 고용한 외부전문가의 독립성 및 적격성 평가 등",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제6기(전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "CGU 손상평가\n- 각 CGU별 손상징후 검토\n- 경영진이 손상검사를 위해 활용한 \n   외부 전문가의 독립성 및 적격성 검토\n- 추정에 적용된 가정의 합리성 검토 등",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210331003172",
+      "corp_cls": "Y",
+      "corp_code": "01036446",
+      "corp_name": "서연이화",
+      "bsns_year": "제5기(전전기)",
+      "adtor": "삼일회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "종속기업 및 관계기업 투자에 대한 \n회계처리 방법을 원가법에서 기업회계\n기준서 제1028호에서 규정하는 지분법으로\n변경에 관한 사항",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

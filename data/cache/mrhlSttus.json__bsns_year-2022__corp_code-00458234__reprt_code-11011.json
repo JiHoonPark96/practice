@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230719000433",
+      "corp_cls": "Y",
+      "corp_code": "00458234",
+      "corp_name": "아시아나IDT",
+      "se": "소액주주",
+      "shrholdr_co": "12,730",
+      "shrholdr_tot_co": "12,732",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "2,464,568",
+      "stock_tot_co": "11,100,000",
+      "hold_stock_rate": "22.20%",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

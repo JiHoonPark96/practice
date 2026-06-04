@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220318001034",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제51기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "2021년 반기재무제표·내부회계관리제도\n 검토를 포함한 회계감사보수",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180백만원",
+      "adt_cntrct_dtls_time": "1,283",
+      "real_exc_dtls_mendng": "180백만원",
+      "real_exc_dtls_time": "1,283",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318001034",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제50기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "2020년 반기재무제표·내부회계관리제도\n 검토를 포함한 회계감사보수",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "180백만원",
+      "adt_cntrct_dtls_time": "1,275",
+      "real_exc_dtls_mendng": "180백만원",
+      "real_exc_dtls_time": "1,275",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220318001034",
+      "corp_cls": "Y",
+      "corp_code": "00124090",
+      "corp_name": "한국특강",
+      "bsns_year": "제49기(전전기)",
+      "adtor": "신우회계법인",
+      "cn": "2019년 반기재무제표·내부회계관리제도\n 검토를 포함한 회계감사보수",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "80백만원",
+      "adt_cntrct_dtls_time": "1,243",
+      "real_exc_dtls_mendng": "80백만원",
+      "real_exc_dtls_time": "1,243",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

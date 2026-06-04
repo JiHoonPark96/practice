@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230905000316",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제41기(당기)",
+      "adtor": "우리회계법인",
+      "cn": "분반기, 결산, 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "120백만원",
+      "adt_cntrct_dtls_time": "1,319시간",
+      "real_exc_dtls_mendng": "120백만원",
+      "real_exc_dtls_time": "1,797시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230905000316",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제40기(전기)",
+      "adtor": "우리회계법인",
+      "cn": "분반기, 결산, 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90백만원",
+      "adt_cntrct_dtls_time": "1,400시간",
+      "real_exc_dtls_mendng": "90백만원",
+      "real_exc_dtls_time": "1,404시간",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230905000316",
+      "corp_cls": "Y",
+      "corp_code": "00135777",
+      "corp_name": "신대양제지",
+      "bsns_year": "제39기(전전기)",
+      "adtor": "우리회계법인",
+      "cn": "분반기, 결산, 연결재무제표 감사",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "90백만원",
+      "adt_cntrct_dtls_time": "1,393시간",
+      "real_exc_dtls_mendng": "90백만원",
+      "real_exc_dtls_time": "1,313시간",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

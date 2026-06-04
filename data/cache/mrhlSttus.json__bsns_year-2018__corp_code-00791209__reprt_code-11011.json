@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003995",
+      "corp_cls": "Y",
+      "corp_code": "00791209",
+      "corp_name": "메타케어",
+      "se": "소액주주",
+      "shrholdr_co": "16,295",
+      "shrholdr_tot_co": "-",
+      "shrholdr_rate": "99.98%",
+      "hold_stock_co": "19,913,447",
+      "stock_tot_co": "-",
+      "hold_stock_rate": "81.96%",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

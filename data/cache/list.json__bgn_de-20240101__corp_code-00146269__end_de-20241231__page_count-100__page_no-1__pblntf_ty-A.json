@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "stock_code": "003200",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241113000626",
+      "flr_nm": "일신방직",
+      "rcept_dt": "20241113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "stock_code": "003200",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814003223",
+      "flr_nm": "일신방직",
+      "rcept_dt": "20240814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "stock_code": "003200",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.03)",
+      "rcept_no": "20240517000035",
+      "flr_nm": "일신방직",
+      "rcept_dt": "20240517",
+      "rm": ""
+    },
+    {
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "stock_code": "003200",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516001104",
+      "flr_nm": "일신방직",
+      "rcept_dt": "20240516",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "stock_code": "003200",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2023.12)",
+      "rcept_no": "20240402001083",
+      "flr_nm": "일신방직",
+      "rcept_dt": "20240402",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "stock_code": "003200",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240320001530",
+      "flr_nm": "일신방직",
+      "rcept_dt": "20240320",
+      "rm": "정연"
+    }
+  ]
+}

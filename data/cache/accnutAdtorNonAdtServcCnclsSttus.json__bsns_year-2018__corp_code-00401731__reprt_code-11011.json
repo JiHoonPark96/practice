@@ -1,0 +1,84 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 17 기\n(당기)",
+      "cntrct_cncls_de": "2018.01",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2018년 1월",
+      "servc_mendng": "10 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 16 기\n(전기)",
+      "cntrct_cncls_de": "2017.10",
+      "servc_cn": "세무자문용역",
+      "servc_exc_pd": "2017년 10월~12월",
+      "servc_mendng": "168 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 16 기\n(전기)",
+      "cntrct_cncls_de": "2017.09",
+      "servc_cn": "재무실사",
+      "servc_exc_pd": "2017년 9월~10월",
+      "servc_mendng": "40 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 15 기\n(전전기)",
+      "cntrct_cncls_de": "2016.07",
+      "servc_cn": "특정 거래처 채권관련 거래확인",
+      "servc_exc_pd": "2016년 7월~12월",
+      "servc_mendng": "50 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 15 기\n(전전기)",
+      "cntrct_cncls_de": "2016.06",
+      "servc_cn": "특정재무정보 검토",
+      "servc_exc_pd": "2016년 6월",
+      "servc_mendng": "20 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401004344",
+      "corp_cls": "Y",
+      "corp_code": "00401731",
+      "corp_name": "LG전자",
+      "bsns_year": "제 15 기\n(전전기)",
+      "cntrct_cncls_de": "2016.06",
+      "servc_cn": "재무실사",
+      "servc_exc_pd": "2016년 6월~7월",
+      "servc_mendng": "268 ",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210326000432",
+      "corp_cls": "Y",
+      "corp_code": "00159740",
+      "corp_name": "KISCO홀딩스",
+      "se": "소액주주",
+      "shrholdr_co": "2,944",
+      "shrholdr_tot_co": "2,959",
+      "shrholdr_rate": "99.5%",
+      "hold_stock_co": "2,821,081",
+      "stock_tot_co": "18,476,380",
+      "hold_stock_rate": "15.3%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

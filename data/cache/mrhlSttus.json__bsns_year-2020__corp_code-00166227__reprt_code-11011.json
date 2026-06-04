@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210319000897",
+      "corp_cls": "Y",
+      "corp_code": "00166227",
+      "corp_name": "화승인더스트리",
+      "se": "소액주주",
+      "shrholdr_co": "14,554",
+      "shrholdr_tot_co": "14,568",
+      "shrholdr_rate": "99.90%",
+      "hold_stock_co": "25,935,516",
+      "stock_tot_co": "55,320,000",
+      "hold_stock_rate": "46.88%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

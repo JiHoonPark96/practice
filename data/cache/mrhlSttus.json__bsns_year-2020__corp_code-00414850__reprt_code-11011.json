@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210315000907",
+      "corp_cls": "Y",
+      "corp_code": "00414850",
+      "corp_name": "효성 ITX",
+      "se": "소액주주",
+      "shrholdr_co": "7,249",
+      "shrholdr_tot_co": "7,253",
+      "shrholdr_rate": "99.94%",
+      "hold_stock_co": "2,823,109",
+      "stock_tot_co": "11,558,200",
+      "hold_stock_rate": "24.43%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

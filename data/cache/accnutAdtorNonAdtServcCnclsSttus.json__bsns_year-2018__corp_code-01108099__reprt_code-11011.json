@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제4기(당기)",
+      "cntrct_cncls_de": "2018.5.24.",
+      "servc_cn": "투자자문",
+      "servc_exc_pd": "2018.6월~7월",
+      "servc_mendng": "50",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제4기(당기)",
+      "cntrct_cncls_de": "2018.1.12.",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2018.1월~3월",
+      "servc_mendng": "8",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "2017.10.27",
+      "servc_cn": "투자자문",
+      "servc_exc_pd": "2017.10월~12월",
+      "servc_mendng": "40",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제3기(전기)",
+      "cntrct_cncls_de": "2017.1.13.",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2017.1월~3월",
+      "servc_mendng": "8",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "2016.9.21",
+      "servc_cn": "내부회계관리제도 구축 자문",
+      "servc_exc_pd": "2016.9월~10월",
+      "servc_mendng": "27",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "2016.3.1",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2016.3월",
+      "servc_mendng": "13",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "2016.2.25",
+      "servc_cn": "경영컨설팅",
+      "servc_exc_pd": "2016.2월~3월",
+      "servc_mendng": "15",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401002716",
+      "corp_cls": "Y",
+      "corp_code": "01108099",
+      "corp_name": "현대코퍼레이션홀딩스",
+      "bsns_year": "제2기(전전기)",
+      "cntrct_cncls_de": "2016.1.11",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2016.1월~3월",
+      "servc_mendng": "8",
+      "rm": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

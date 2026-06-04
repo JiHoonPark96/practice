@@ -1,0 +1,110 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2022.05.17",
+      "servc_cn": "세무자문",
+      "servc_exc_pd": "2022.05.01~2023.04.30",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2022.04.25",
+      "servc_cn": "부가세 예규질의 및 경정청구",
+      "servc_exc_pd": "2022.04.25~부가세환급일",
+      "servc_mendng": "성공보수",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2022.04.01",
+      "servc_cn": "법인세 세무조정",
+      "servc_exc_pd": "2022.04.01~2023.03.31",
+      "servc_mendng": "12",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제16기(당기)",
+      "cntrct_cncls_de": "2021.11.01",
+      "servc_cn": "법인세 경정청구",
+      "servc_exc_pd": "2022.11.01~법인세 환급일",
+      "servc_mendng": "성공보수",
+      "rm": "(*1)",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제15기(전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "2020.07.31",
+      "servc_cn": "법인세 경정청구 세무자문",
+      "servc_exc_pd": "2020.07.31 ~ 2021.8.31",
+      "servc_mendng": "800",
+      "rm": "종료",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230316001571",
+      "corp_cls": "Y",
+      "corp_code": "00628189",
+      "corp_name": "웅진씽크빅",
+      "bsns_year": "제14기(전전기)",
+      "cntrct_cncls_de": "-",
+      "servc_cn": "-",
+      "servc_exc_pd": "-",
+      "servc_mendng": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

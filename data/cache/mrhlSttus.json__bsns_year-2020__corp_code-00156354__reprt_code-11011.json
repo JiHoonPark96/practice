@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210323000635",
+      "corp_cls": "Y",
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "se": "소액주주",
+      "shrholdr_co": "15,543",
+      "shrholdr_tot_co": "15,547",
+      "shrholdr_rate": "99.9%",
+      "hold_stock_co": "7,803,982",
+      "stock_tot_co": "19,072,280",
+      "hold_stock_rate": "40.9%",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

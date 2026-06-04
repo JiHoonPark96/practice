@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20190401003606",
+      "corp_cls": "Y",
+      "corp_code": "00131780",
+      "corp_name": "SK네트웍스",
+      "bsns_year": "제66기(당기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기별도,연결재무제표검토 등",
+      "mendng": "730",
+      "tot_reqre_time": "9,796",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003606",
+      "corp_cls": "Y",
+      "corp_code": "00131780",
+      "corp_name": "SK네트웍스",
+      "bsns_year": "제65기(전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기별도,연결재무제표검토 및\n별도,연결 결산감사 등",
+      "mendng": "730",
+      "tot_reqre_time": "8,964",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    },
+    {
+      "rcept_no": "20190401003606",
+      "corp_cls": "Y",
+      "corp_code": "00131780",
+      "corp_name": "SK네트웍스",
+      "bsns_year": "제64기(전전기)",
+      "adtor": "한영회계법인",
+      "cn": "분/반기별도,연결재무제표검토 및\n별도,연결 결산감사 등",
+      "mendng": "730",
+      "tot_reqre_time": "8,868",
+      "adt_cntrct_dtls_mendng": "-",
+      "adt_cntrct_dtls_time": "-",
+      "real_exc_dtls_mendng": "-",
+      "real_exc_dtls_time": "-",
+      "stlm_dt": "2018-12-31"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_knd": "보통주",
+      "nm": "한솔홀딩스",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "5,871,242",
+      "bsis_posesn_stock_qota_rt": "21.37",
+      "trmend_posesn_stock_co": "5,871,242",
+      "trmend_posesn_stock_qota_rt": "21.37",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_knd": "보통주",
+      "nm": "최경준",
+      "relate": "자회사임원",
+      "bsis_posesn_stock_co": "40,000",
+      "bsis_posesn_stock_qota_rt": "0.15",
+      "trmend_posesn_stock_co": "40,000",
+      "trmend_posesn_stock_qota_rt": "0.15",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "5,911,242",
+      "bsis_posesn_stock_qota_rt": "21.52",
+      "trmend_posesn_stock_co": "5,911,242",
+      "trmend_posesn_stock_qota_rt": "21.52",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    },
+    {
+      "rcept_no": "20230314000521",
+      "corp_cls": "Y",
+      "corp_code": "00140946",
+      "corp_name": "한솔로지스틱스",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2022-12-31"
+    }
+  ]
+}

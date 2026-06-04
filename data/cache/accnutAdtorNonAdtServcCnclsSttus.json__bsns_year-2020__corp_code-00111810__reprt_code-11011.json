@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210318001277",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제61기",
+      "cntrct_cncls_de": "2020년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "20.07~21.3.31",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001277",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제60기",
+      "cntrct_cncls_de": "2019년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "19.7.16 ~ 20.3.31",
+      "servc_mendng": "15,000",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210318001277",
+      "corp_cls": "Y",
+      "corp_code": "00111810",
+      "corp_name": "대웅",
+      "bsns_year": "제59기",
+      "cntrct_cncls_de": "2018년 7월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "18.7.30 ~ 19.4.1",
+      "servc_mendng": "12,600",
+      "rm": "-",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

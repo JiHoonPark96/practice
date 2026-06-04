@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240329003575",
+      "corp_cls": "Y",
+      "corp_code": "00153393",
+      "corp_name": "태광산업",
+      "se": "소액주주",
+      "shrholdr_co": "3,588",
+      "shrholdr_tot_co": "3,599",
+      "shrholdr_rate": "99.72%",
+      "hold_stock_co": "156,445",
+      "stock_tot_co": "1,113,400",
+      "hold_stock_rate": "14.06%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

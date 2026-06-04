@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 8,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116001237",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20201116",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001694",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2020.03)",
+      "rcept_no": "20200814001613",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200814001581",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20200814001537",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2019.06)",
+      "rcept_no": "20200814001485",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001762",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330004532",
+      "flr_nm": "롯데쇼핑",
+      "rcept_dt": "20200330",
+      "rm": "정연"
+    }
+  ]
+}

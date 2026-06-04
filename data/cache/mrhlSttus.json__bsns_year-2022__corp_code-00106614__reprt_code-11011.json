@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220609000497",
+      "corp_cls": "Y",
+      "corp_code": "00106614",
+      "corp_name": "기신정기",
+      "se": "소액주주",
+      "shrholdr_co": "6,684",
+      "shrholdr_tot_co": "6,692",
+      "shrholdr_rate": "99.88%",
+      "hold_stock_co": "7,958,230",
+      "stock_tot_co": "29,200,000",
+      "hold_stock_rate": "27.25%",
+      "stlm_dt": "2022-03-31"
+    }
+  ]
+}

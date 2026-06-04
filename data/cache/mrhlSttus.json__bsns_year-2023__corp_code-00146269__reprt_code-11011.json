@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240320001530",
+      "corp_cls": "Y",
+      "corp_code": "00146269",
+      "corp_name": "일신방직",
+      "se": "소액주주",
+      "shrholdr_co": "2,746",
+      "shrholdr_tot_co": "2,774",
+      "shrholdr_rate": "98.99%",
+      "hold_stock_co": "10,572,980",
+      "stock_tot_co": "23,280,000",
+      "hold_stock_rate": "45.41%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

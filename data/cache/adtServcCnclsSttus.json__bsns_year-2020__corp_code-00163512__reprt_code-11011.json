@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제65기\n(당기)",
+      "adtor": "삼정회계법인",
+      "cn": " 별도재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n 표본점검(문서검증, 재계산 등)\n\n 연결재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n 표본점검(문서검증, 재계산 등)\n\n 내부회계관리제도감사\n(내부통제 이해 및 평가)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "871 ",
+      "adt_cntrct_dtls_time": "7,272",
+      "real_exc_dtls_mendng": "871 ",
+      "real_exc_dtls_time": "8,533 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제64기\n(전기)",
+      "adtor": "한영회계법인",
+      "cn": " 별도재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n 표본점검(문서검증, 재계산 등)\n\n 연결재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n 표본점검(문서검증, 재계산 등)\n\n 내부회계관리제도감사\n(내부통제 이해 및 평가)",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "454 ",
+      "adt_cntrct_dtls_time": "5,221",
+      "real_exc_dtls_mendng": "454 ",
+      "real_exc_dtls_time": "6,719 ",
+      "stlm_dt": "2020-12-31"
+    },
+    {
+      "rcept_no": "20210325000974",
+      "corp_cls": "Y",
+      "corp_code": "00163512",
+      "corp_name": "한진",
+      "bsns_year": "제63기\n(전전기)",
+      "adtor": "한영회계법인",
+      "cn": " 별도재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n 표본점검(문서검증, 재계산 등)\n\n 연결재무제표 감사, 중요 계정잔액 및 \n 공시내용에 대해 질문, 분석적절차, \n 표본점검(문서검증, 재계산 등)\n\n 내부통제 이해 및 평가",
+      "mendng": "-",
+      "tot_reqre_time": "-",
+      "adt_cntrct_dtls_mendng": "208 ",
+      "adt_cntrct_dtls_time": "2,677",
+      "real_exc_dtls_mendng": "208 ",
+      "real_exc_dtls_time": "3,042 ",
+      "stlm_dt": "2020-12-31"
+    }
+  ]
+}

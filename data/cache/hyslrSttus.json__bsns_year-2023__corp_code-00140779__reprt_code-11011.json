@@ -1,0 +1,49 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240313001248",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "stock_knd": "보통주",
+      "nm": "적수화학공업(주)",
+      "relate": "본인",
+      "bsis_posesn_stock_co": "10,200,000",
+      "bsis_posesn_stock_qota_rt": "51.00",
+      "trmend_posesn_stock_co": "10,200,000",
+      "trmend_posesn_stock_qota_rt": "51.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001248",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "stock_knd": "보통주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "10,200,000",
+      "bsis_posesn_stock_qota_rt": "51.00",
+      "trmend_posesn_stock_co": "10,200,000",
+      "trmend_posesn_stock_qota_rt": "51.00",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    },
+    {
+      "rcept_no": "20240313001248",
+      "corp_cls": "Y",
+      "corp_code": "00140779",
+      "corp_name": "영보화학",
+      "stock_knd": "우선주",
+      "nm": "계",
+      "bsis_posesn_stock_co": "-",
+      "bsis_posesn_stock_qota_rt": "-",
+      "trmend_posesn_stock_co": "-",
+      "trmend_posesn_stock_qota_rt": "-",
+      "rm": "-",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

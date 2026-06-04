@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220322000017",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제59기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "없음",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 수익인식(2) 미청구공사에 대한 회수가능성(3) 영업권 손상",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000017",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제58기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "재무구조개선\n계획에 대한\n감사인의 강조사항",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 등 수익인식(2) 미청구공사에 대한 회수가능성(3) 영업권 손상(4) 판매보증충당부채 평가",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220322000017",
+      "corp_cls": "Y",
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티",
+      "bsns_year": "제57기",
+      "adtor": "삼정회계법인",
+      "adt_opinion": "적정",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "계속기업 관련\n중요한 불확실성",
+      "core_adt_matter": "(1) 투입법에 따른 진행기준 등 수익인식(2) 미청구공사에 대한 회수가능성(3) 영업권 손상(4) 판매보증충당부채 평가(5) 이연법인세자산 실현가능성",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

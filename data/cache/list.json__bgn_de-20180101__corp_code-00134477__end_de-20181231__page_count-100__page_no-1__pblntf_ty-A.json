@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181113000092",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20181113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2018.06)",
+      "rcept_no": "20180810000168",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20180810",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2018.03)",
+      "rcept_no": "20180511000114",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20180511",
+      "rm": ""
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2017.12)",
+      "rcept_no": "20180314000025",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20180314",
+      "rm": "연"
+    }
+  ]
+}

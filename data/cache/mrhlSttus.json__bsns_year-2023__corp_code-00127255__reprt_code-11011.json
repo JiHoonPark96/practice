@@ -1,0 +1,20 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20240321001477",
+      "corp_cls": "Y",
+      "corp_code": "00127255",
+      "corp_name": "삼영",
+      "se": "소액주주",
+      "shrholdr_co": "11,149",
+      "shrholdr_tot_co": "11,156",
+      "shrholdr_rate": "99.97%",
+      "hold_stock_co": "23,049,046",
+      "stock_tot_co": "34,000,000",
+      "hold_stock_rate": "67.79%",
+      "stlm_dt": "2023-12-31"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20220315001210",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제30기(당기)",
+      "cntrct_cncls_de": "2021년 05월\n2021년 09월",
+      "servc_cn": "세무조정\n세무자문",
+      "servc_exc_pd": "2021.01.01~2021.12.31\n2021.09.23~2021.12.31",
+      "servc_mendng": "10백만원\n7백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001210",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제29기(전기)",
+      "cntrct_cncls_de": "2020년 05월\n2020년 10월",
+      "servc_cn": "세무조정\n세무조정 및 시가산정 등",
+      "servc_exc_pd": "2020.01.01~2020.12.31\n2020.11.09~2020.12.31",
+      "servc_mendng": "10백만원\n53백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    },
+    {
+      "rcept_no": "20220315001210",
+      "corp_cls": "Y",
+      "corp_code": "00403632",
+      "corp_name": "현대퓨처넷",
+      "bsns_year": "제28기(전전기)",
+      "cntrct_cncls_de": "2019년 07월",
+      "servc_cn": "세무조정",
+      "servc_exc_pd": "2019.01.01~2019.12.31",
+      "servc_mendng": "17백만원",
+      "rm": "-",
+      "stlm_dt": "2021-12-31"
+    }
+  ]
+}

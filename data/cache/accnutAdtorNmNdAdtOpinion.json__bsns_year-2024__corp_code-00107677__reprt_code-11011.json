@@ -1,0 +1,82 @@
+{
+  "status": "000",
+  "message": "정상",
+  "list": [
+    {
+      "rcept_no": "20250321001351",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주9)",
+      "core_adt_matter": "주10)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001351",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제69기\n(당기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주7)",
+      "core_adt_matter": "주8)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001351",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주4)",
+      "core_adt_matter": "주5)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001351",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제68기\n(전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "emphs_matter": "주1)",
+      "core_adt_matter": "주2)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001351",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주6)",
+      "stlm_dt": "2024-12-31"
+    },
+    {
+      "rcept_no": "20250321001351",
+      "corp_cls": "Y",
+      "corp_code": "00107677",
+      "corp_name": "비비안",
+      "bsns_year": "제67기\n(전전기)",
+      "adtor": "삼도회계법인",
+      "adt_opinion": "적정의견",
+      "adt_reprt_spcmnt_matter": "-",
+      "core_adt_matter": "주3)",
+      "stlm_dt": "2024-12-31"
+    }
+  ]
+}
