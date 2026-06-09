@@ -1,0 +1,21 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 1,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00949161",
+      "corp_name": "티엠씨",
+      "stock_code": "217590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251218000217",
+      "flr_nm": "티엠씨",
+      "rcept_dt": "20251218",
+      "rm": ""
+    }
+  ]
+}

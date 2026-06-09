@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "stock_code": "003830",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001940",
+      "flr_nm": "대한화섬",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "stock_code": "003830",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002526",
+      "flr_nm": "대한화섬",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "stock_code": "003830",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814002004",
+      "flr_nm": "대한화섬",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "stock_code": "003830",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814001570",
+      "flr_nm": "대한화섬",
+      "rcept_dt": "20250814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "stock_code": "003830",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002129",
+      "flr_nm": "대한화섬",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00113544",
+      "corp_name": "대한화섬",
+      "stock_code": "003830",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320001114",
+      "flr_nm": "대한화섬",
+      "rcept_dt": "20250320",
+      "rm": "정"
+    }
+  ]
+}

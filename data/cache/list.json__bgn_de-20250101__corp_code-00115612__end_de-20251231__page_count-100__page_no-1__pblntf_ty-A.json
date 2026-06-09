@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002354",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813001355",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250812000691",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20250812",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515000484",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250321000777",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20250321",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00115612",
+      "corp_name": "동부건설",
+      "stock_code": "005960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250317000989",
+      "flr_nm": "동부건설",
+      "rcept_dt": "20250317",
+      "rm": "정연"
+    }
+  ]
+}

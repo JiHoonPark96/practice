@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "stock_code": "001070",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002259",
+      "flr_nm": "대한방직",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "stock_code": "001070",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002671",
+      "flr_nm": "대한방직",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "stock_code": "001070",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814002484",
+      "flr_nm": "대한방직",
+      "rcept_dt": "20250814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "stock_code": "001070",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001887",
+      "flr_nm": "대한방직",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "stock_code": "001070",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2024.12)",
+      "rcept_no": "20250314001747",
+      "flr_nm": "대한방직",
+      "rcept_dt": "20250314",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00112970",
+      "corp_name": "대한방직",
+      "stock_code": "001070",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250313001407",
+      "flr_nm": "대한방직",
+      "rcept_dt": "20250313",
+      "rm": "정연"
+    }
+  ]
+}

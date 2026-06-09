@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "stock_code": "007660",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002130",
+      "flr_nm": "이수페타시스",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "stock_code": "007660",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003472",
+      "flr_nm": "이수페타시스",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "stock_code": "007660",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514001051",
+      "flr_nm": "이수페타시스",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "stock_code": "007660",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250321001007",
+      "flr_nm": "이수페타시스",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00107613",
+      "corp_name": "이수페타시스",
+      "stock_code": "007660",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320001435",
+      "flr_nm": "이수페타시스",
+      "rcept_dt": "20250320",
+      "rm": "정연"
+    }
+  ]
+}

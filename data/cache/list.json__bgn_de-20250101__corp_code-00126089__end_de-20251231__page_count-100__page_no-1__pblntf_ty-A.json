@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000951",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814004039",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250604000001",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20250604",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514000870",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20250331004364",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20250331",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00126089",
+      "corp_name": "DH오토넥스",
+      "stock_code": "000300",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250401000004",
+      "flr_nm": "DH오토넥스",
+      "rcept_dt": "20250331",
+      "rm": "정연"
+    }
+  ]
+}

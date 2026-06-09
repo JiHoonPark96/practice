@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 2,
+  "page_count": 100,
+  "total_count": 103,
+  "total_page": 2,
+  "list": [
+    {
+      "corp_code": "00117744",
+      "corp_name": "메리츠화재해상보험",
+      "stock_code": "000060",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]분기보고서 (2023.03)",
+      "rcept_no": "20240206000348",
+      "flr_nm": "메리츠화재해상보험",
+      "rcept_dt": "20240206",
+      "rm": ""
+    },
+    {
+      "corp_code": "00983916",
+      "corp_name": "HLB제넥스",
+      "stock_code": "187420",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]분기보고서 (2023.09)",
+      "rcept_no": "20240205000385",
+      "flr_nm": "HLB제넥스",
+      "rcept_dt": "20240205",
+      "rm": ""
+    },
+    {
+      "corp_code": "01099667",
+      "corp_name": "에스디생명공학",
+      "stock_code": "217480",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20240201000632",
+      "flr_nm": "에스디생명공학",
+      "rcept_dt": "20240201",
+      "rm": "연"
+    }
+  ]
+}

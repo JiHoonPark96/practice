@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002547",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003723",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001500",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2024.06)",
+      "rcept_no": "20250402003012",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20250402",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.09)",
+      "rcept_no": "20250402002696",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20250402",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250402002504",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20250402",
+      "rm": ""
+    },
+    {
+      "corp_code": "01311408",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250314001171",
+      "flr_nm": "에코프로머티",
+      "rcept_dt": "20250314",
+      "rm": "정"
+    }
+  ]
+}

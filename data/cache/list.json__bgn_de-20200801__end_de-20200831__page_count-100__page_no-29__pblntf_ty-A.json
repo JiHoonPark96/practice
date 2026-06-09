@@ -1,0 +1,109 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 29,
+  "page_count": 100,
+  "total_count": 2809,
+  "total_page": 29,
+  "list": [
+    {
+      "corp_code": "01336391",
+      "corp_name": "엔에이치기업인수목적13호",
+      "stock_code": "310840",
+      "corp_cls": "E",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200805000068",
+      "flr_nm": "엔에이치기업인수목적13호",
+      "rcept_dt": "20200805",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2012.12)",
+      "rcept_no": "20200803000124",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2013.12)",
+      "rcept_no": "20200803000122",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2014.12)",
+      "rcept_no": "20200803000082",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2015.12)",
+      "rcept_no": "20200803000081",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2016.12)",
+      "rcept_no": "20200803000080",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20200803000079",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20200803000078",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    },
+    {
+      "corp_code": "00414540",
+      "corp_name": "대주이엔티",
+      "stock_code": "114920",
+      "corp_cls": "N",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20200803000077",
+      "flr_nm": "대주이엔티",
+      "rcept_dt": "20200803",
+      "rm": ""
+    }
+  ]
+}

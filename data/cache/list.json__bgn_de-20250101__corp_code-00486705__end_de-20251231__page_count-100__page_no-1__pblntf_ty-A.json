@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001788",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003305",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002844",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250328001653",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20250328",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001877",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20250321",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00486705",
+      "corp_name": "아주스틸",
+      "stock_code": "139990",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20250321001731",
+      "flr_nm": "아주스틸",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    }
+  ]
+}

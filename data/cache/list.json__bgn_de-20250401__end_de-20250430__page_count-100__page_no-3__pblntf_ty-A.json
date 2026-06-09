@@ -1,0 +1,98 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 3,
+  "page_count": 100,
+  "total_count": 208,
+  "total_page": 3,
+  "list": [
+    {
+      "corp_code": "00945208",
+      "corp_name": "더미동",
+      "stock_code": "161570",
+      "corp_cls": "E",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250401001727",
+      "flr_nm": "더미동",
+      "rcept_dt": "20250401",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00173740",
+      "corp_name": "신한",
+      "stock_code": "005450",
+      "corp_cls": "E",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250401001230",
+      "flr_nm": "신한",
+      "rcept_dt": "20250401",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00407975",
+      "corp_name": "엔터미디어",
+      "stock_code": "068420",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250401000767",
+      "flr_nm": "엔터미디어",
+      "rcept_dt": "20250401",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00407975",
+      "corp_name": "엔터미디어",
+      "stock_code": "068420",
+      "corp_cls": "E",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250401000118",
+      "flr_nm": "엔터미디어",
+      "rcept_dt": "20250401",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00323549",
+      "corp_name": "리딩투자증권",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2024.03)",
+      "rcept_no": "20250401000050",
+      "flr_nm": "리딩투자증권",
+      "rcept_dt": "20250401",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00339197",
+      "corp_name": "아이디에스앤트러스트",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "소액공모법인결산서류 (2024.12)",
+      "rcept_no": "20250401000045",
+      "flr_nm": "아이디에스앤트러스트",
+      "rcept_dt": "20250401",
+      "rm": ""
+    },
+    {
+      "corp_code": "00149266",
+      "corp_name": "씨앤에이치",
+      "stock_code": "023460",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250401000023",
+      "flr_nm": "씨앤에이치",
+      "rcept_dt": "20250401",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01536955",
+      "corp_name": "그래핀스퀘어",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250401000006",
+      "flr_nm": "그래핀스퀘어",
+      "rcept_dt": "20250401",
+      "rm": "연"
+    }
+  ]
+}

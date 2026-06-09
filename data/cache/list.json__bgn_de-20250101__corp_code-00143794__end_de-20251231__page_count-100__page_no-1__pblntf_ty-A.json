@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00143794",
+      "corp_name": "원림",
+      "stock_code": "005820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000878",
+      "flr_nm": "원림",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143794",
+      "corp_name": "원림",
+      "stock_code": "005820",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001845",
+      "flr_nm": "원림",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143794",
+      "corp_name": "원림",
+      "stock_code": "005820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515000821",
+      "flr_nm": "원림",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00143794",
+      "corp_name": "원림",
+      "stock_code": "005820",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321000993",
+      "flr_nm": "원림",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    }
+  ]
+}

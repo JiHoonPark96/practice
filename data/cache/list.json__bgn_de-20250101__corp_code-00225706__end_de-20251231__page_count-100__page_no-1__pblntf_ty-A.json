@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001574",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2025.06)",
+      "rcept_no": "20250826000447",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20250826",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20250826000444",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20250826",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001772",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20250814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002173",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20250515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00225706",
+      "corp_name": "JW생명과학",
+      "stock_code": "234080",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250318001174",
+      "flr_nm": "JW생명과학",
+      "rcept_dt": "20250318",
+      "rm": "연"
+    }
+  ]
+}

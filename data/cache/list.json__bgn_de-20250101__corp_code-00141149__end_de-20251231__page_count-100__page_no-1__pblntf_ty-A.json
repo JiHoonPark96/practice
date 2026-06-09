@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001392",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814004190",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20250814000617",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814000584",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001252",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20250515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00141149",
+      "corp_name": "영진약품",
+      "stock_code": "003520",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320001017",
+      "flr_nm": "영진약품",
+      "rcept_dt": "20250320",
+      "rm": "정"
+    }
+  ]
+}

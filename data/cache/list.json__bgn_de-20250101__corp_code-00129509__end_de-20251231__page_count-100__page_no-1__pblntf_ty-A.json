@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002024",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2025.06)",
+      "rcept_no": "20250829001916",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20250829",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003164",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20250814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002442",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00129509",
+      "corp_name": "한익스프레스",
+      "stock_code": "014130",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250319000814",
+      "flr_nm": "한익스프레스",
+      "rcept_dt": "20250319",
+      "rm": "연"
+    }
+  ]
+}

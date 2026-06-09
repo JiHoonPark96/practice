@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "stock_code": "093370",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002538",
+      "flr_nm": "후성",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "stock_code": "093370",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003972",
+      "flr_nm": "후성",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "stock_code": "093370",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002619",
+      "flr_nm": "후성",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00595191",
+      "corp_name": "후성",
+      "stock_code": "093370",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250317000896",
+      "flr_nm": "후성",
+      "rcept_dt": "20250317",
+      "rm": "연"
+    }
+  ]
+}

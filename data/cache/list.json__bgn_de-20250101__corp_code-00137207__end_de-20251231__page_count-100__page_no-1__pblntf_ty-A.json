@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_code": "011330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000065",
+      "flr_nm": "유니켐",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_code": "011330",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813000848",
+      "flr_nm": "유니켐",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_code": "011330",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250807000215",
+      "flr_nm": "유니켐",
+      "rcept_dt": "20250807",
+      "rm": ""
+    },
+    {
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_code": "011330",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250512000304",
+      "flr_nm": "유니켐",
+      "rcept_dt": "20250512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00137207",
+      "corp_name": "유니켐",
+      "stock_code": "011330",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001572",
+      "flr_nm": "유니켐",
+      "rcept_dt": "20250321",
+      "rm": "정"
+    }
+  ]
+}

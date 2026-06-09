@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "stock_code": "070960",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.09)",
+      "rcept_no": "20251114000517",
+      "flr_nm": "모나용평",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "stock_code": "070960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000339",
+      "flr_nm": "모나용평",
+      "rcept_dt": "20251114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "stock_code": "070960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814000806",
+      "flr_nm": "모나용평",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "stock_code": "070960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514000587",
+      "flr_nm": "모나용평",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00365989",
+      "corp_name": "모나용평",
+      "stock_code": "070960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321000702",
+      "flr_nm": "모나용평",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    }
+  ]
+}

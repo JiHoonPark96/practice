@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "stock_code": "248170",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000783",
+      "flr_nm": "샘표식품",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "stock_code": "248170",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001265",
+      "flr_nm": "샘표식품",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "stock_code": "248170",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515000681",
+      "flr_nm": "샘표식품",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "01167056",
+      "corp_name": "샘표식품",
+      "stock_code": "248170",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250314000817",
+      "flr_nm": "샘표식품",
+      "rcept_dt": "20250314",
+      "rm": "연"
+    }
+  ]
+}

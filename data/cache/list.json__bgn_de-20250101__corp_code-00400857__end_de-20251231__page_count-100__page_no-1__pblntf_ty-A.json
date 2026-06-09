@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_code": "078520",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251112000501",
+      "flr_nm": "에이블씨엔씨",
+      "rcept_dt": "20251112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_code": "078520",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813001550",
+      "flr_nm": "에이블씨엔씨",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_code": "078520",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001646",
+      "flr_nm": "에이블씨엔씨",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00400857",
+      "corp_name": "에이블씨엔씨",
+      "stock_code": "078520",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001828",
+      "flr_nm": "에이블씨엔씨",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    }
+  ]
+}

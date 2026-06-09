@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001339",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814004456",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814004375",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20250814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002222",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250401003870",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20250401",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250324000813",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20250324",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00427483",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250318001229",
+      "flr_nm": "대웅제약",
+      "rcept_dt": "20250318",
+      "rm": "정연"
+    }
+  ]
+}

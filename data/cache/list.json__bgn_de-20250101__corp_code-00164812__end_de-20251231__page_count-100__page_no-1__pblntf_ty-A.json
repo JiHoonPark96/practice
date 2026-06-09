@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "stock_code": "011760",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002128",
+      "flr_nm": "현대코퍼레이션",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "stock_code": "011760",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813001448",
+      "flr_nm": "현대코퍼레이션",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "stock_code": "011760",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514001145",
+      "flr_nm": "현대코퍼레이션",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "stock_code": "011760",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250324000696",
+      "flr_nm": "현대코퍼레이션",
+      "rcept_dt": "20250324",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00164812",
+      "corp_name": "현대코퍼레이션",
+      "stock_code": "011760",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250317001001",
+      "flr_nm": "현대코퍼레이션",
+      "rcept_dt": "20250317",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "stock_code": "002700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000491",
+      "flr_nm": "신일전자",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "stock_code": "002700",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001132",
+      "flr_nm": "신일전자",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "stock_code": "002700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002332",
+      "flr_nm": "신일전자",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00173698",
+      "corp_name": "신일전자",
+      "stock_code": "002700",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320000612",
+      "flr_nm": "신일전자",
+      "rcept_dt": "20250320",
+      "rm": ""
+    }
+  ]
+}

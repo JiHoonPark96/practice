@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "stock_code": "001570",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.09)",
+      "rcept_no": "20251114002257",
+      "flr_nm": "금양",
+      "rcept_dt": "20251114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "stock_code": "001570",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001335",
+      "flr_nm": "금양",
+      "rcept_dt": "20251114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "stock_code": "001570",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003132",
+      "flr_nm": "금양",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "stock_code": "001570",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002633",
+      "flr_nm": "금양",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00106119",
+      "corp_name": "금양",
+      "stock_code": "001570",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001823",
+      "flr_nm": "금양",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    }
+  ]
+}

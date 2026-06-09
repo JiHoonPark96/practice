@@ -1,0 +1,241 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 2,
+  "page_count": 100,
+  "total_count": 121,
+  "total_page": 2,
+  "list": [
+    {
+      "corp_code": "00231105",
+      "corp_name": "동성화인텍",
+      "stock_code": "033500",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]분기보고서 (2014.03)",
+      "rcept_no": "20220211000430",
+      "flr_nm": "동성화인텍",
+      "rcept_dt": "20220211",
+      "rm": ""
+    },
+    {
+      "corp_code": "00231105",
+      "corp_name": "동성화인텍",
+      "stock_code": "033500",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2013.12)",
+      "rcept_no": "20220211000428",
+      "flr_nm": "동성화인텍",
+      "rcept_dt": "20220211",
+      "rm": ""
+    },
+    {
+      "corp_code": "00231105",
+      "corp_name": "동성화인텍",
+      "stock_code": "033500",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]분기보고서 (2013.09)",
+      "rcept_no": "20220211000426",
+      "flr_nm": "동성화인텍",
+      "rcept_dt": "20220211",
+      "rm": ""
+    },
+    {
+      "corp_code": "01276594",
+      "corp_name": "신한알파리츠",
+      "stock_code": "293940",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.12)",
+      "rcept_no": "20220211000322",
+      "flr_nm": "신한알파리츠",
+      "rcept_dt": "20220211",
+      "rm": ""
+    },
+    {
+      "corp_code": "00249098",
+      "corp_name": "티에이케이정보시스템",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "분기보고서 (2021.12)",
+      "rcept_no": "20220211000218",
+      "flr_nm": "티에이케이정보시스템",
+      "rcept_dt": "20220211",
+      "rm": ""
+    },
+    {
+      "corp_code": "00877174",
+      "corp_name": "엠브레인",
+      "stock_code": "169330",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2021.12)",
+      "rcept_no": "20220210000726",
+      "flr_nm": "엠브레인",
+      "rcept_dt": "20220210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00450010",
+      "corp_name": "씨티알모빌리티",
+      "stock_code": "308170",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2021.09)",
+      "rcept_no": "20220210000491",
+      "flr_nm": "씨티알모빌리티",
+      "rcept_dt": "20220210",
+      "rm": ""
+    },
+    {
+      "corp_code": "01391033",
+      "corp_name": "NH프라임리츠",
+      "stock_code": "338100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.11)",
+      "rcept_no": "20220210000432",
+      "flr_nm": "NH프라임리츠",
+      "rcept_dt": "20220210",
+      "rm": ""
+    },
+    {
+      "corp_code": "01493429",
+      "corp_name": "신한로지스제1호위탁관리부동산투자회사",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "반기보고서 (2021.12)",
+      "rcept_no": "20220210000231",
+      "flr_nm": "신한로지스제1호위탁관리부동산투자회사",
+      "rcept_dt": "20220210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00378363",
+      "corp_name": "3S",
+      "stock_code": "060310",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2021.12)",
+      "rcept_no": "20220210000166",
+      "flr_nm": "3S",
+      "rcept_dt": "20220210",
+      "rm": ""
+    },
+    {
+      "corp_code": "00267854",
+      "corp_name": "메디앙스",
+      "stock_code": "014100",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20220208000554",
+      "flr_nm": "메디앙스",
+      "rcept_dt": "20220208",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01055326",
+      "corp_name": "엠비아이",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20220208000392",
+      "flr_nm": "엠비아이",
+      "rcept_dt": "20220208",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00540429",
+      "corp_name": "휴림로봇",
+      "stock_code": "090710",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20220207000361",
+      "flr_nm": "휴림로봇",
+      "rcept_dt": "20220207",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01430475",
+      "corp_name": "코람코라이프인프라리츠",
+      "stock_code": "357120",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.11)",
+      "rcept_no": "20220207000279",
+      "flr_nm": "코람코라이프인프라리츠",
+      "rcept_dt": "20220207",
+      "rm": ""
+    },
+    {
+      "corp_code": "00110750",
+      "corp_name": "플루토스",
+      "stock_code": "019570",
+      "corp_cls": "K",
+      "report_nm": "분기보고서제출기한연장신고서 (2021.12)",
+      "rcept_no": "20220204000625",
+      "flr_nm": "플루토스",
+      "rcept_dt": "20220204",
+      "rm": ""
+    },
+    {
+      "corp_code": "00258014",
+      "corp_name": "에스케이텔레시스",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20220204000449",
+      "flr_nm": "에스케이텔레시스",
+      "rcept_dt": "20220204",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00258014",
+      "corp_name": "에스케이텔레시스",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2019.12)",
+      "rcept_no": "20220204000433",
+      "flr_nm": "에스케이텔레시스",
+      "rcept_dt": "20220204",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00258014",
+      "corp_name": "에스케이텔레시스",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20220204000422",
+      "flr_nm": "에스케이텔레시스",
+      "rcept_dt": "20220204",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01265914",
+      "corp_name": "미로",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]분기보고서 (2021.09)",
+      "rcept_no": "20220204000037",
+      "flr_nm": "미로",
+      "rcept_dt": "20220204",
+      "rm": ""
+    },
+    {
+      "corp_code": "01265914",
+      "corp_name": "미로",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20220204000036",
+      "flr_nm": "미로",
+      "rcept_dt": "20220204",
+      "rm": ""
+    },
+    {
+      "corp_code": "01265914",
+      "corp_name": "미로",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]분기보고서 (2021.03)",
+      "rcept_no": "20220204000035",
+      "flr_nm": "미로",
+      "rcept_dt": "20220204",
+      "rm": ""
+    }
+  ]
+}

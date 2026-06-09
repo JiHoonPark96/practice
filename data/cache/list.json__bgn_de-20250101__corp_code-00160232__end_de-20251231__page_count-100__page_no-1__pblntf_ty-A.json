@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "stock_code": "044450",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001692",
+      "flr_nm": "KSS해운",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "stock_code": "044450",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001462",
+      "flr_nm": "KSS해운",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "stock_code": "044450",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814001308",
+      "flr_nm": "KSS해운",
+      "rcept_dt": "20250814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "stock_code": "044450",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20250515002942",
+      "flr_nm": "KSS해운",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "stock_code": "044450",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515000962",
+      "flr_nm": "KSS해운",
+      "rcept_dt": "20250515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00160232",
+      "corp_name": "KSS해운",
+      "stock_code": "044450",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250318001193",
+      "flr_nm": "KSS해운",
+      "rcept_dt": "20250318",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "stock_code": "002900",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000254",
+      "flr_nm": "TYM",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "stock_code": "002900",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813000985",
+      "flr_nm": "TYM",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "stock_code": "002900",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250513000378",
+      "flr_nm": "TYM",
+      "rcept_dt": "20250513",
+      "rm": ""
+    },
+    {
+      "corp_code": "00117230",
+      "corp_name": "TYM",
+      "stock_code": "002900",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250319000651",
+      "flr_nm": "TYM",
+      "rcept_dt": "20250319",
+      "rm": "연"
+    }
+  ]
+}

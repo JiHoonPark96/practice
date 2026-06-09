@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 28,
+  "page_count": 100,
+  "total_count": 2706,
+  "total_page": 28,
+  "list": [
+    {
+      "corp_code": "00296290",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2018.12)",
+      "rcept_no": "20190502000581",
+      "flr_nm": "키움증권",
+      "rcept_dt": "20190502",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00200956",
+      "corp_name": "현대정보기술",
+      "stock_code": "026180",
+      "corp_cls": "E",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190502000546",
+      "flr_nm": "현대정보기술",
+      "rcept_dt": "20190502",
+      "rm": ""
+    },
+    {
+      "corp_code": "01262032",
+      "corp_name": "롯데이노베이트",
+      "stock_code": "286940",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190502000539",
+      "flr_nm": "롯데이노베이트",
+      "rcept_dt": "20190502",
+      "rm": ""
+    },
+    {
+      "corp_code": "00359395",
+      "corp_name": "헬릭스미스",
+      "stock_code": "084990",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20190502000373",
+      "flr_nm": "헬릭스미스",
+      "rcept_dt": "20190502",
+      "rm": ""
+    },
+    {
+      "corp_code": "00914040",
+      "corp_name": "씨엠에스에듀",
+      "stock_code": "225330",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2017.12)",
+      "rcept_no": "20190430001430",
+      "flr_nm": "씨엠에스에듀",
+      "rcept_dt": "20190502",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00914040",
+      "corp_name": "씨엠에스에듀",
+      "stock_code": "225330",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]사업보고서 (2016.12)",
+      "rcept_no": "20190430001428",
+      "flr_nm": "씨엠에스에듀",
+      "rcept_dt": "20190502",
+      "rm": "연"
+    }
+  ]
+}

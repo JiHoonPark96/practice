@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114003036",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814004387",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20250814002064",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814002051",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20250814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002849",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20250515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250407003073",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20250407",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00125974",
+      "corp_name": "삼부토건",
+      "stock_code": "001470",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서제출기한연장신고서 (2024.12)",
+      "rcept_no": "20250321001845",
+      "flr_nm": "삼부토건",
+      "rcept_dt": "20250321",
+      "rm": ""
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "stock_code": "372910",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251112000050",
+      "flr_nm": "한컴라이프케어",
+      "rcept_dt": "20251112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "stock_code": "372910",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814000457",
+      "flr_nm": "한컴라이프케어",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "stock_code": "372910",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250814000446",
+      "flr_nm": "한컴라이프케어",
+      "rcept_dt": "20250814",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "stock_code": "372910",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250512000052",
+      "flr_nm": "한컴라이프케어",
+      "rcept_dt": "20250512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00534598",
+      "corp_name": "한컴라이프케어",
+      "stock_code": "372910",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250318000353",
+      "flr_nm": "한컴라이프케어",
+      "rcept_dt": "20250318",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 2,
+  "page_count": 100,
+  "total_count": 104,
+  "total_page": 2,
+  "list": [
+    {
+      "corp_code": "00962393",
+      "corp_name": "포인트모바일",
+      "stock_code": "318020",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20220902000193",
+      "flr_nm": "포인트모바일",
+      "rcept_dt": "20220902",
+      "rm": ""
+    },
+    {
+      "corp_code": "00244747",
+      "corp_name": "파크시스템스",
+      "stock_code": "140860",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20220901000347",
+      "flr_nm": "파크시스템스",
+      "rcept_dt": "20220901",
+      "rm": ""
+    },
+    {
+      "corp_code": "00995993",
+      "corp_name": "DXVX",
+      "stock_code": "180400",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20220901000229",
+      "flr_nm": "DXVX",
+      "rcept_dt": "20220901",
+      "rm": ""
+    },
+    {
+      "corp_code": "00351427",
+      "corp_name": "와이즈넛",
+      "stock_code": "096250",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]반기보고서 (2022.06)",
+      "rcept_no": "20220901000107",
+      "flr_nm": "와이즈넛",
+      "rcept_dt": "20220901",
+      "rm": ""
+    }
+  ]
+}

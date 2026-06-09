@@ -1,0 +1,17 @@
+﻿variable,LAG1_correction_lagged_governance,LAG2_material_lagged_governance,M10_log_count_auditor_basic,M1_controls,M2_governance,M3_governance_auditor_basic,M5_material_controls,M6_material_governance,M7_material_auditor_basic,M8_log_count_controls,M9_log_count_governance
+Big4Auditor,,,0.0013,,,0.0051,,,0.0085,,
+CleanOpinion,,,-0.0029,,,0.0026,,,0.0209,,
+LargestShareholderOwnership_w,,,-0.0021***,,-0.0023***,-0.0024***,,-0.0018***,-0.0019***,,-0.0021***
+LargestShareholderOwnership_w_lag1,-0.0022***,-0.0026***,,,,,,,,,
+Leverage_w,,,0.0079,0.0388,0.0031,0.0026,-0.0485,-0.0676*,-0.0696*,0.0193,0.0078
+Leverage_w_lag1,-0.0368,-0.0752,,,,,,,,,
+LogAssets_w,,,0.0300***,0.0253***,0.0327***,0.0321***,0.0210***,0.0329***,0.0321***,0.0221***,0.0303***
+LogAssets_w_lag1,0.0449***,0.0445***,,,,,,,,,
+LogMinorityShareholderCount_w,,,-0.0123,,-0.0169,-0.0172*,,-0.0199**,-0.0207**,,-0.0123
+LogMinorityShareholderCount_w_lag1,-0.0216*,-0.0267***,,,,,,,,,
+Loss,,,0.0377,0.0394*,0.0459*,0.0455,0.0076,0.0143,0.0140,0.0333*,0.0380
+Loss_lag1,0.0458,0.0070,,,,,,,,,
+OutsideDirectorRatio_w,,,0.0458,,0.1052,0.1049,,0.0906*,0.0906*,,0.0459
+OutsideDirectorRatio_w_lag1,0.0793,0.1019,,,,,,,,,
+ROA_w,,,-0.3418**,-0.2126,-0.2755*,-0.2792*,-0.2479**,-0.2712**,-0.2810**,-0.2848**,-0.3411**
+ROA_w_lag1,-0.2508,-0.3941**,,,,,,,,,

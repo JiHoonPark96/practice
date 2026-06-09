@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "stock_code": "064960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251112000032",
+      "flr_nm": "SNT모티브",
+      "rcept_dt": "20251112",
+      "rm": ""
+    },
+    {
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "stock_code": "064960",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814000759",
+      "flr_nm": "SNT모티브",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "stock_code": "064960",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250512000037",
+      "flr_nm": "SNT모티브",
+      "rcept_dt": "20250512",
+      "rm": ""
+    },
+    {
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "stock_code": "064960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250220001279",
+      "flr_nm": "SNT모티브",
+      "rcept_dt": "20250220",
+      "rm": "연"
+    }
+  ]
+}

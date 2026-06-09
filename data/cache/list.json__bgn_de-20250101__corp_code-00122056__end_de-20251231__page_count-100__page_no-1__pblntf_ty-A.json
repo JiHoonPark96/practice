@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "stock_code": "003650",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000220",
+      "flr_nm": "미창석유공업",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "stock_code": "003650",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813001037",
+      "flr_nm": "미창석유공업",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "stock_code": "003650",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514000287",
+      "flr_nm": "미창석유공업",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "00122056",
+      "corp_name": "미창석유공업",
+      "stock_code": "003650",
+      "corp_cls": "Y",
+      "report_nm": "[첨부추가]사업보고서 (2024.12)",
+      "rcept_no": "20250321001415",
+      "flr_nm": "미창석유공업",
+      "rcept_dt": "20250321",
+      "rm": ""
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿step,n
+KRX current KOSPI firms,835
+KOSPI firms with standard 6-digit stock code,835
+KOSPI non-financial firms before DART matching,692
+KOSPI non-financial firms with DART corp_code,692
+Final analysis firms (current_sample),692
+Final analysis firm-years (current_sample),4844

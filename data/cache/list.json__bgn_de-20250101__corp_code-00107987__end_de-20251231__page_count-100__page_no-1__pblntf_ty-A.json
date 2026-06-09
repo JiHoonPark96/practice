@@ -1,0 +1,87 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 7,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.09)",
+      "rcept_no": "20251201000766",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20251201",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.09)",
+      "rcept_no": "20251201000740",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20251201",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001256",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20251114",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001478",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515000493",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "[첨부정정]사업보고서 (2024.12)",
+      "rcept_no": "20250320001558",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20250320",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00107987",
+      "corp_name": "남해화학",
+      "stock_code": "025860",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320001346",
+      "flr_nm": "남해화학",
+      "rcept_dt": "20250320",
+      "rm": "정연"
+    }
+  ]
+}

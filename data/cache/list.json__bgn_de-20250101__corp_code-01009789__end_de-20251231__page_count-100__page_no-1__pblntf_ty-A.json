@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000556",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814000437",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514001171",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250416000526",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20250416",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250416000355",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20250416",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "01009789",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250319000077",
+      "flr_nm": "코스맥스",
+      "rcept_dt": "20250319",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "stock_code": "381970",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001253",
+      "flr_nm": "케이카",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "stock_code": "381970",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2025.06)",
+      "rcept_no": "20250822000377",
+      "flr_nm": "케이카",
+      "rcept_dt": "20250822",
+      "rm": ""
+    },
+    {
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "stock_code": "381970",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002677",
+      "flr_nm": "케이카",
+      "rcept_dt": "20250814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "stock_code": "381970",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514000487",
+      "flr_nm": "케이카",
+      "rcept_dt": "20250514",
+      "rm": ""
+    },
+    {
+      "corp_code": "01323032",
+      "corp_name": "케이카",
+      "stock_code": "381970",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250318000964",
+      "flr_nm": "케이카",
+      "rcept_dt": "20250318",
+      "rm": ""
+    }
+  ]
+}

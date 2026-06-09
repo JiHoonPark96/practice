@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "stock_code": "007690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114001955",
+      "flr_nm": "국도화학",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "stock_code": "007690",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002743",
+      "flr_nm": "국도화학",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "stock_code": "007690",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515000977",
+      "flr_nm": "국도화학",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "stock_code": "007690",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250321001221",
+      "flr_nm": "국도화학",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00104388",
+      "corp_name": "국도화학",
+      "stock_code": "007690",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250306000769",
+      "flr_nm": "국도화학",
+      "rcept_dt": "20250306",
+      "rm": "정연"
+    }
+  ]
+}

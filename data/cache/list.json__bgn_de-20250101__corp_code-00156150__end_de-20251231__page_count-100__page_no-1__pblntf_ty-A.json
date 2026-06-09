@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_code": "019490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000189",
+      "flr_nm": "엑시큐어하이트론",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_code": "019490",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001898",
+      "flr_nm": "엑시큐어하이트론",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_code": "019490",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001577",
+      "flr_nm": "엑시큐어하이트론",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00156150",
+      "corp_name": "엑시큐어하이트론",
+      "stock_code": "019490",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001008",
+      "flr_nm": "엑시큐어하이트론",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    }
+  ]
+}

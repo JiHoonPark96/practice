@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20251121000499",
+      "flr_nm": "솔루스첨단소재",
+      "rcept_dt": "20251121",
+      "rm": ""
+    },
+    {
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20251121000498",
+      "flr_nm": "솔루스첨단소재",
+      "rcept_dt": "20251121",
+      "rm": "연"
+    },
+    {
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000798",
+      "flr_nm": "솔루스첨단소재",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814003348",
+      "flr_nm": "솔루스첨단소재",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514001037",
+      "flr_nm": "솔루스첨단소재",
+      "rcept_dt": "20250514",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01412822",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250319000924",
+      "flr_nm": "솔루스첨단소재",
+      "rcept_dt": "20250319",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "stock_code": "013870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000679",
+      "flr_nm": "지엠비코리아",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "stock_code": "013870",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002824",
+      "flr_nm": "지엠비코리아",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "stock_code": "013870",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001529",
+      "flr_nm": "지엠비코리아",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "stock_code": "013870",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250321001687",
+      "flr_nm": "지엠비코리아",
+      "rcept_dt": "20250321",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00156354",
+      "corp_name": "지엠비코리아",
+      "stock_code": "013870",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001170",
+      "flr_nm": "지엠비코리아",
+      "rcept_dt": "20250321",
+      "rm": "정연"
+    }
+  ]
+}

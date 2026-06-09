@@ -1,0 +1,131 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 31,
+  "page_count": 100,
+  "total_count": 3011,
+  "total_page": 31,
+  "list": [
+    {
+      "corp_code": "00136721",
+      "corp_name": "신영증권",
+      "stock_code": "001720",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2021.06)",
+      "rcept_no": "20210809000152",
+      "flr_nm": "신영증권",
+      "rcept_dt": "20210809",
+      "rm": ""
+    },
+    {
+      "corp_code": "01080252",
+      "corp_name": "넥스틴",
+      "stock_code": "348210",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210809000076",
+      "flr_nm": "넥스틴",
+      "rcept_dt": "20210809",
+      "rm": ""
+    },
+    {
+      "corp_code": "00402989",
+      "corp_name": "유한코스메틱",
+      "stock_code": "069110",
+      "corp_cls": "E",
+      "report_nm": "반기보고서제출기한연장신고서 (2021.06)",
+      "rcept_no": "20210806000408",
+      "flr_nm": "유한코스메틱",
+      "rcept_dt": "20210806",
+      "rm": ""
+    },
+    {
+      "corp_code": "01117413",
+      "corp_name": "바이오다인",
+      "stock_code": "314930",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210806000361",
+      "flr_nm": "바이오다인",
+      "rcept_dt": "20210806",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2021.06)",
+      "rcept_no": "20210806000145",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20210806",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01267967",
+      "corp_name": "마이크로디지탈",
+      "stock_code": "305090",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210806000076",
+      "flr_nm": "마이크로디지탈",
+      "rcept_dt": "20210806",
+      "rm": ""
+    },
+    {
+      "corp_code": "00409964",
+      "corp_name": "하이텍팜",
+      "stock_code": "106190",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210805000263",
+      "flr_nm": "하이텍팜",
+      "rcept_dt": "20210805",
+      "rm": ""
+    },
+    {
+      "corp_code": "01359736",
+      "corp_name": "프로이천",
+      "stock_code": "321260",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210805000250",
+      "flr_nm": "프로이천",
+      "rcept_dt": "20210805",
+      "rm": ""
+    },
+    {
+      "corp_code": "00936787",
+      "corp_name": "애경케미칼",
+      "stock_code": "161000",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210805000219",
+      "flr_nm": "애경케미칼",
+      "rcept_dt": "20210805",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00153621",
+      "corp_name": "참엔지니어링",
+      "stock_code": "009310",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2020.12)",
+      "rcept_no": "20210805000106",
+      "flr_nm": "참엔지니어링",
+      "rcept_dt": "20210805",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00673976",
+      "corp_name": "지스마트글로벌",
+      "stock_code": "114570",
+      "corp_cls": "E",
+      "report_nm": "반기보고서제출기한연장신고서 (2021.06)",
+      "rcept_no": "20210805000092",
+      "flr_nm": "지스마트글로벌",
+      "rcept_dt": "20210805",
+      "rm": ""
+    }
+  ]
+}

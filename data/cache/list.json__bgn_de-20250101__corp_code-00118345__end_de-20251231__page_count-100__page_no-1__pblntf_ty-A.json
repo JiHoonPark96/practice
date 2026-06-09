@@ -1,0 +1,76 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 6,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "stock_code": "001530",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114003081",
+      "flr_nm": "디아이동일",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "stock_code": "001530",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814004261",
+      "flr_nm": "디아이동일",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "stock_code": "001530",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002931",
+      "flr_nm": "디아이동일",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "stock_code": "001530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250331004012",
+      "flr_nm": "디아이동일",
+      "rcept_dt": "20250331",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "stock_code": "001530",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250328002272",
+      "flr_nm": "디아이동일",
+      "rcept_dt": "20250328",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00118345",
+      "corp_name": "디아이동일",
+      "stock_code": "001530",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320001320",
+      "flr_nm": "디아이동일",
+      "rcept_dt": "20250320",
+      "rm": "정연"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "stock_code": "030190",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000809",
+      "flr_nm": "NICE평가정보",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "stock_code": "030190",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813001565",
+      "flr_nm": "NICE평가정보",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "stock_code": "030190",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250514001258",
+      "flr_nm": "NICE평가정보",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00158325",
+      "corp_name": "NICE평가정보",
+      "stock_code": "030190",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250314001653",
+      "flr_nm": "NICE평가정보",
+      "rcept_dt": "20250314",
+      "rm": "연"
+    }
+  ]
+}

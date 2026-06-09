@@ -1,0 +1,13 @@
+﻿model,n_obs,n_firms,dep_mean
+M1_controls,4575,684,0.2275409836065574
+M2_governance,3193,677,0.249608518634513
+M3_governance_auditor_basic,3192,677,0.24968671679197996
+M4_audit_fee_aux,1,1,0.0
+M5_material_controls,4575,684,0.12021857923497267
+M6_material_governance,3193,677,0.16630128405887878
+M7_material_auditor_basic,3192,677,0.16635338345864661
+M8_log_count_controls,4575,684,0.18697132443928277
+M9_log_count_governance,3193,677,0.20463953846437158
+M10_log_count_auditor_basic,3192,677,0.20470364859546944
+LAG1_correction_lagged_governance,2536,667,0.2527602523659306
+LAG2_material_lagged_governance,2536,667,0.20741324921135645

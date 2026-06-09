@@ -1,0 +1,153 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 13,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002050",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2025.06)",
+      "rcept_no": "20251107000550",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20251107",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20251107000548",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20251107",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20251107000545",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20251107",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20251024000397",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20251024",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20251024000392",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20251024",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814004342",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250814",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.09)",
+      "rcept_no": "20250814001065",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]반기보고서 (2024.06)",
+      "rcept_no": "20250814001061",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]분기보고서 (2024.03)",
+      "rcept_no": "20250814001060",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001429",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250515",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250321001961",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250321",
+      "rm": "정연"
+    },
+    {
+      "corp_code": "00162072",
+      "corp_name": "한신기계공업",
+      "stock_code": "011700",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20250314001724",
+      "flr_nm": "한신기계공업",
+      "rcept_dt": "20250314",
+      "rm": "정연"
+    }
+  ]
+}

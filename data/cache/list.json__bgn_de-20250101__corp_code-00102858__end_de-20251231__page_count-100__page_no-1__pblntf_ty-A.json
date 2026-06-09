@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000491",
+      "flr_nm": "고려아연",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002321",
+      "flr_nm": "고려아연",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001780",
+      "flr_nm": "고려아연",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250331003521",
+      "flr_nm": "고려아연",
+      "rcept_dt": "20250331",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00102858",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250320001542",
+      "flr_nm": "고려아연",
+      "rcept_dt": "20250320",
+      "rm": "정연"
+    }
+  ]
+}

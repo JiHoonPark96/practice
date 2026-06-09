@@ -1,0 +1,65 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 5,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "stock_code": "017390",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251113000970",
+      "flr_nm": "서울도시가스",
+      "rcept_dt": "20251113",
+      "rm": ""
+    },
+    {
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "stock_code": "017390",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250813001387",
+      "flr_nm": "서울도시가스",
+      "rcept_dt": "20250813",
+      "rm": ""
+    },
+    {
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "stock_code": "017390",
+      "corp_cls": "Y",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250703000161",
+      "flr_nm": "서울도시가스",
+      "rcept_dt": "20250703",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "stock_code": "017390",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002493",
+      "flr_nm": "서울도시가스",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00130684",
+      "corp_name": "서울도시가스",
+      "stock_code": "017390",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250312001027",
+      "flr_nm": "서울도시가스",
+      "rcept_dt": "20250312",
+      "rm": "정연"
+    }
+  ]
+}

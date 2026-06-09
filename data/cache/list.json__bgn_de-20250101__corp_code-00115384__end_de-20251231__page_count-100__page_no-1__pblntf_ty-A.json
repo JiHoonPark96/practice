@@ -1,0 +1,54 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 4,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "stock_code": "007590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114000402",
+      "flr_nm": "동방아그로",
+      "rcept_dt": "20251114",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "stock_code": "007590",
+      "corp_cls": "Y",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814001588",
+      "flr_nm": "동방아그로",
+      "rcept_dt": "20250814",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "stock_code": "007590",
+      "corp_cls": "Y",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515002393",
+      "flr_nm": "동방아그로",
+      "rcept_dt": "20250515",
+      "rm": ""
+    },
+    {
+      "corp_code": "00115384",
+      "corp_name": "동방아그로",
+      "stock_code": "007590",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250313000657",
+      "flr_nm": "동방아그로",
+      "rcept_dt": "20250313",
+      "rm": "연"
+    }
+  ]
+}

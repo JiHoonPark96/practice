@@ -1,0 +1,153 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 30,
+  "page_count": 100,
+  "total_count": 2913,
+  "total_page": 30,
+  "list": [
+    {
+      "corp_code": "01082834",
+      "corp_name": "노무라인터내셔널펀딩피티이",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]분기보고서 (2019.12)",
+      "rcept_no": "20200310000279",
+      "flr_nm": "노무라인터내셔널펀딩피티이",
+      "rcept_dt": "20200310",
+      "rm": ""
+    },
+    {
+      "corp_code": "01099667",
+      "corp_name": "에스디생명공학",
+      "stock_code": "217480",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20200306000423",
+      "flr_nm": "에스디생명공학",
+      "rcept_dt": "20200306",
+      "rm": "정"
+    },
+    {
+      "corp_code": "01099667",
+      "corp_name": "에스디생명공학",
+      "stock_code": "217480",
+      "corp_cls": "K",
+      "report_nm": "[첨부정정]반기보고서 (2019.06)",
+      "rcept_no": "20200306000415",
+      "flr_nm": "에스디생명공학",
+      "rcept_dt": "20200306",
+      "rm": "정"
+    },
+    {
+      "corp_code": "00133238",
+      "corp_name": "성지건설",
+      "stock_code": "005980",
+      "corp_cls": "E",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200306000290",
+      "flr_nm": "성지건설",
+      "rcept_dt": "20200306",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00416593",
+      "corp_name": "대신에프앤아이",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "[기재정정]분기보고서 (2019.09)",
+      "rcept_no": "20200306000115",
+      "flr_nm": "대신에프앤아이",
+      "rcept_dt": "20200306",
+      "rm": ""
+    },
+    {
+      "corp_code": "01047381",
+      "corp_name": "스마트캅",
+      "stock_code": "",
+      "corp_cls": "E",
+      "report_nm": "소액공모법인결산서류 (2019.12)",
+      "rcept_no": "20200304000553",
+      "flr_nm": "스마트캅",
+      "rcept_dt": "20200304",
+      "rm": ""
+    },
+    {
+      "corp_code": "01170962",
+      "corp_name": "GRT",
+      "stock_code": "900290",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2019.12)",
+      "rcept_no": "20200302000545",
+      "flr_nm": "GRT",
+      "rcept_dt": "20200302",
+      "rm": ""
+    },
+    {
+      "corp_code": "00599151",
+      "corp_name": "SV인베스트먼트",
+      "stock_code": "289080",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2019.12)",
+      "rcept_no": "20200302000402",
+      "flr_nm": "SV인베스트먼트",
+      "rcept_dt": "20200302",
+      "rm": ""
+    },
+    {
+      "corp_code": "00800084",
+      "corp_name": "씨엑스아이",
+      "stock_code": "900120",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2019.12)",
+      "rcept_no": "20200302000375",
+      "flr_nm": "씨엑스아이",
+      "rcept_dt": "20200302",
+      "rm": ""
+    },
+    {
+      "corp_code": "00225159",
+      "corp_name": "SNT홀딩스",
+      "stock_code": "036530",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200302000175",
+      "flr_nm": "SNT홀딩스",
+      "rcept_dt": "20200302",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00398792",
+      "corp_name": "SNT모티브",
+      "stock_code": "064960",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200302000174",
+      "flr_nm": "SNT모티브",
+      "rcept_dt": "20200302",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00134477",
+      "corp_name": "SNT다이내믹스",
+      "stock_code": "003570",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200302000172",
+      "flr_nm": "SNT다이내믹스",
+      "rcept_dt": "20200302",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00648721",
+      "corp_name": "SNT에너지",
+      "stock_code": "100840",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200302000169",
+      "flr_nm": "SNT에너지",
+      "rcept_dt": "20200302",
+      "rm": "연"
+    }
+  ]
+}
